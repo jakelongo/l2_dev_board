@@ -1,0 +1,1 @@
+Configuration of the Libraries (.lib) and Module libraries (.mod) is done on a project-by-project basis - to make this stick overwrite kicad/template/kicad.pro

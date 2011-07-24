@@ -1,0 +1,1028 @@
+EESchema-LIBRARY Version 2.3  Date: Wed 02 Sep 2009 13:43:22 BST
+#
+# 1K
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 1k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0001" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1001" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10K
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 10k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0002" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1002" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100R
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "100R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 100R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0003" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1000" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1M
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1M" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 1M 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0005" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1004" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 49R9
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "49R9" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 49.9R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0006" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX49R9" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 12K4
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "12K4" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 12.4k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0007" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1242" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33R
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "33R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 33R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0008" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX33R0" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10R
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 10R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0009" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX10R0" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330R
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "330R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 330R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0010" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX3300" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K5
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1K5" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 1.5k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0011" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1501" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0R
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "0R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 0R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0012" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPJ000" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 ""N/A"" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# DNP
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "DNP" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "NA" 1050 0 60 V I C CNN
+F4 "RES 0603 No Fit" 150 0 60 V I C CNN "Description"
+F5 "E-01-0013" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "NA" 250 0 60 V I C CNN "Manufacturer"
+F7 "NA" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 ""N/A"" 550 0 60 V I C CNN "Tolerance"
+F9 ""NA"" 450 0 60 V I C CNN "Max Voltage"
+F10 ""NA"" 650 0 60 V I C CNN "Max Power"
+F11 ""NA"" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150K
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "150K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 150k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0014" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1503" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 120K
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "120K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 120k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0015" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1203" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470K
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "470K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 470k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0016" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX4703" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5K6
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "5K6" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 5.6k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0017" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX5601" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2K7
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "2K7" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 2.7k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0018" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX2701" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4R7
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "4R7" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 4.7R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0019" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPJ4R7" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4K7
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "4K7" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 4.7k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0021" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX4701" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470R
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "470R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 470R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0022" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX4700" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 107R
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "107R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 107R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0023" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1070" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 232R
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "232R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 232R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0024" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX2320" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 75R
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "75R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 75R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0025" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX75R0" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 20K
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "20K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 20k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0026" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX2002" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2K2
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "2K2" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 2.2k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0027" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX2201" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6K34
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "6K34" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 6.34k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0028" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX6341" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330K
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "330K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 330k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0029" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX3303" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1R
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 1R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0030" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPJ1R0" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 200K
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "200K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 200k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0031" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX2003" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100K
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "100K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 100k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0032" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1003" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8K06
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "8K06" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 8.06k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0033" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX8061" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 68K
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "68K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 68k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0034" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX6802" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2M2
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "2M2" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 2.2M 0603 5%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0035" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPJ225" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2K49
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "2K49" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 2.49k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0036" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX2491" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6K8
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "6K8" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 6.8k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0037" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX6801" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3K3
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "3K3" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 3.3k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0038" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX3301" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47K
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "47K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 47k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0039" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX4702" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 27R
+#
+DEF 1K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "27R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 27R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0040" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX27R0" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 549K
+#
+DEF 549K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "549K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 549k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0041" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX5493" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 191K
+#
+DEF 191K R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "191K" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 191k 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0042" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1913" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 110R
+#
+DEF 110R R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "110R" 0 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://www.rohm.com/products/databook/r/pdf/mcr03.pdf" 1050 0 60 V I C CNN
+F4 "RES 110R 0603 1%" 150 0 60 V I C CNN "Description"
+F5 "E-01-0043" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "ROHM" 250 0 60 V I C CNN "Manufacturer"
+F7 "MCR03EZPFX1100" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "1" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "0.1" 650 0 60 V I C CNN "Max Power"
+F11 "0.00322" 850 0 60 V I C CNN "Approx Volume Cost"
+$FPLIST
+ X-0603
+$ENDFPLIST
+DRAW
+S -40 150 40 -150 0 1 8 N
+X ~ 1 0 250 100 D 60 60 1 1 P
+X ~ 2 0 -250 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

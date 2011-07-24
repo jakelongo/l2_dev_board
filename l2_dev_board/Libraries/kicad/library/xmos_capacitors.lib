@@ -1,0 +1,722 @@
+EESchema-LIBRARY Version 2.3  Date: Thu 03 Sep 2009 15:35:50 BST
+#
+# 100N-16V-X7R-0402
+#
+DEF 100N-16V-X7R-0402 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "100N-16V-X7R-0402" -150 0 50 V V C CNN
+F2 "0402" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM155R71C104KA88.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 100nF 0402 X7R 16V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0002" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM155R71C104KA88" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "16" 450 0 60 V I C CNN "Max Voltage"
+F10 "X7R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.004" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 30  100 30 N
+P 2 0 1 10  -100 -30  100 -30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100N-16V-X7R-0603
+#
+DEF 100N-16V-X7R-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "100N-16V-X7R-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM188R71C104KA01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 100nF 0603 X7R 16V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0017" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM188R71C104KA01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "16" 450 0 60 V I C CNN "Max Voltage"
+F10 "X7R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100P-50V-COG-0603
+#
+DEF 100P-50V-COG-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "100P-50V-COG-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM1885C1H101JA01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 100pF 0603 COG 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0028" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM1885C1H101JA01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "COG" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100U-16V-ELEC-AL_ELEC_SMD_D
+#
+DEF 100U-16V-ELEC-AL_ELEC_SMD_D C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "100U-16V-ELEC-AL_ELEC_SMD_D" -150 0 50 V V C CNN
+F2 "AL_ELEC_SMD_D" 750 0 60 V I C CNN
+F3 "http://industrial.panasonic.com/www-data/pdf/ABA0000/ABA0000CE120.pdf" 1050 0 60 V I C CNN
+F4 "Al Elec 100uF 16V CaseD SMD" 150 0 60 V I C CNN "Description"
+F5 "E-02-0015" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Panasonic" 250 0 60 V I C CNN "Manufacturer"
+F7 "EEEFK1C101P" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "20" 550 0 60 V I C CNN "Tolerance"
+F9 "16" 450 0 60 V I C CNN "Max Voltage"
+F10 "ELEC" 650 0 60 V I C CNN "Dielectric"
+F11 "0.11" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 4 0 1 15  -100 50  100 50  50 50  50 50 N
+A 0 -200 180 563 1236 0 1 15 N 100 -50 -100 -50
+T 0 -50 100 80 0 0 0 +  Normal 0
+X ~ 1 0 200 150 D 40 40 1 1 P
+X ~ 2 0 -200 180 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100U-16V-ELEC-AL_ELEC_THT_63MM
+#
+DEF 100U-16V-ELEC-AL_ELEC_THT_63MM C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "100U-16V-ELEC-AL_ELEC_THT_63MM" -150 0 50 V V C CNN
+F2 "AL_ELEC_THT_63MM" 750 0 60 V I C CNN
+F3 "http://www.panasonic.com/industrial/components/pdf/ABA0000CE22.pdf" 1050 0 60 V I C CNN
+F4 "Al Elec 100uF 16V 6.3x11.2mm THT" 150 0 60 V I C CNN "Description"
+F5 "E-02-0029" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Panasonic" 250 0 60 V I C CNN "Manufacturer"
+F7 "EEUFC1C101" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "20" 550 0 60 V I C CNN "Tolerance"
+F9 "16" 450 0 60 V I C CNN "Max Voltage"
+F10 "ELEC" 650 0 60 V I C CNN "Dielectric"
+F11 "0.06" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 4 0 1 15  -100 50  100 50  50 50  50 50 N
+A 0 -200 180 563 1236 0 1 15 N 100 -50 -100 -50
+T 0 -50 100 80 0 0 0 +  Normal 0
+X ~ 1 0 200 150 D 40 40 1 1 P
+X ~ 2 0 -200 180 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10N-50V-X7R-0402
+#
+DEF 10N-50V-X7R-0402 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "10N-50V-X7R-0402" -150 0 50 V V C CNN
+F2 "0402" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM155R71H103KA88.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 10nF 0402 X7R 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0003" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM155R71H103KA88" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "X7R" 650 0 60 V I C CNN "Dielectric"
+F11 "0" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 30  100 30 N
+P 2 0 1 10  -100 -30  100 -30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10N-50V-X7R-0603
+#
+DEF 10N-50V-X7R-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "10N-50V-X7R-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM188R71H103KA01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 10nF 0603 X7R 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0022" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM188R71H103KA01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "X7R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10U-10V-X5R-0805
+#
+DEF 10U-10V-X5R-0805 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "10U-10V-X5R-0805" -150 0 50 V V C CNN
+F2 "0805" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM21BR61A106KE19.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 10uF 0805 X5R 10V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0007" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM21BR61A106KE19" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "10" 450 0 60 V I C CNN "Max Voltage"
+F10 "X5R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.06" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 30  100 30 N
+P 2 0 1 10  -100 -30  100 -30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10U-25V-ELEC-AL_ELEC_SMD_B
+#
+DEF 10U-25V-ELEC-AL_ELEC_SMD_B C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "10U-25V-ELEC-AL_ELEC_SMD_B" -150 0 50 V V C CNN
+F2 "AL_ELEC_SMD_B" 750 0 60 V I C CNN
+F3 "http://industrial.panasonic.com/www-data/pdf/ABA0000/ABA0000CE120.pdf" 1050 0 60 V I C CNN
+F4 "Al Elec 10uF 25V CaseB SMD" 150 0 60 V I C CNN "Description"
+F5 "E-02-0026" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Panasonic" 250 0 60 V I C CNN "Manufacturer"
+F7 "EEEFK1E100R" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "20" 550 0 60 V I C CNN "Tolerance"
+F9 "25" 450 0 60 V I C CNN "Max Voltage"
+F10 "ELEC" 650 0 60 V I C CNN "Dielectric"
+F11 "0.08" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 4 0 1 15  -100 50  100 50  50 50  50 50 N
+A 0 -200 180 563 1236 0 1 15 N 100 -50 -100 -50
+T 0 -50 100 80 0 0 0 +  Normal 0
+X ~ 1 0 200 150 D 40 40 1 1 P
+X ~ 2 0 -200 180 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10U-25V-ELEC-AL_ELEC_THT_4MM
+#
+DEF 10U-25V-ELEC-AL_ELEC_THT_4MM C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "10U-25V-ELEC-AL_ELEC_THT_4MM" -150 0 50 V V C CNN
+F2 "AL_ELEC_THT_4MM" 750 0 60 V I C CNN
+F3 "http://www.panasonic.com/industrial/components/pdf/ABA0000CE22.pdf" 1050 0 60 V I C CNN
+F4 "Al Elec 10uF 25V 4x7mm THT" 150 0 60 V I C CNN "Description"
+F5 "E-02-0030" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Panasonic" 250 0 60 V I C CNN "Manufacturer"
+F7 "EEAFC1E100" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "20" 550 0 60 V I C CNN "Tolerance"
+F9 "25" 450 0 60 V I C CNN "Max Voltage"
+F10 "ELEC" 650 0 60 V I C CNN "Dielectric"
+F11 "0.04" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 4 0 1 15  -100 50  100 50  50 50  50 50 N
+A 0 -200 180 563 1236 0 1 15 N 100 -50 -100 -50
+T 0 -50 100 80 0 0 0 +  Normal 0
+X ~ 1 0 200 150 D 40 40 1 1 P
+X ~ 2 0 -200 180 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10U-6.3V-X5R-0603
+#
+DEF 10U-6.3V-X5R-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "10U-6.3V-X5R-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM188R60J106ME47.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 10uF 0603 X5R 6.3V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0006" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM188R60J106ME47" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "20" 550 0 60 V I C CNN "Tolerance"
+F9 "6.3" 450 0 60 V I C CNN "Max Voltage"
+F10 "X5R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.1" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1N-50V-X7R-0603
+#
+DEF 1N-50V-X7R-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "1N-50V-X7R-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM188R71H102KA01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 1nF 0603 X7R 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0025" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM188R71H102KA01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "X7R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1U-10V-X5R-0603
+#
+DEF 1U-10V-X5R-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "1U-10V-X5R-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM188R61A105KA61.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 1uF 0603 X5R 10V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0020" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM188R61A105KA61" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "10" 450 0 60 V I C CNN "Max Voltage"
+F10 "X5R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1U-6.3V-X5R-0402
+#
+DEF 1U-6.3V-X5R-0402 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "1U-6.3V-X5R-0402" -150 0 50 V V C CNN
+F2 "0402" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM155R60J105KE19.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 1uF 0402 X5R 6.3V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0001" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM155R60J105KE19" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "6.3" 450 0 60 V I C CNN "Max Voltage"
+F10 "X5R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 30  100 30 N
+P 2 0 1 10  -100 -30  100 -30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220P-50V-COG-0402
+#
+DEF 220P-50V-COG-0402 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "220P-50V-COG-0402" -150 0 50 V V C CNN
+F2 "0402" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM1555C1H221JA01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 220pF 0402 COG 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0016" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM1555C1H221JA01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "COG" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220P-50V-COG-0603
+#
+DEF 220P-50V-COG-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "220P-50V-COG-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM1885C1H221JA01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 220pF 0603 COG 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0027" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM1885C1H221JA01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "COG" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22N-50V-X7R-0402
+#
+DEF 22N-50V-X7R-0402 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "22N-50V-X7R-0402" -150 0 50 V V C CNN
+F2 "0402" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GCM155R71H223KA55.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 22nF 0402 X7R 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0009" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GCM155R71H223KA55" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "X7R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22P-50V-COG-0402
+#
+DEF 22P-50V-COG-0402 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "22P-50V-COG-0402" -150 0 50 V V C CNN
+F2 "0402" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM1555C1H220JZ01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 22pF 0402 COG 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0010" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM1555C1H220JZ01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "COG" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22U-6.3V-X5R-0805
+#
+DEF 22U-6.3V-X5R-0805 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "22U-6.3V-X5R-0805" -150 0 50 V V C CNN
+F2 "0805" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM21BR60J226ME39.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 22uF 0805 X5R 6.3V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0004" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM21BR60J226ME39" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "20" 550 0 60 V I C CNN "Tolerance"
+F9 "6.3" 450 0 60 V I C CNN "Max Voltage"
+F10 "X5R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.11" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2N2-50V-COG-0603
+#
+DEF 2N2-50V-COG-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "2N2-50V-COG-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM1885C1H222JA01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 2.2nF 0603 COG 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0013" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM1885C1H222JA01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "COG" 650 0 60 V I C CNN "Dielectric"
+F11 "0.02" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2N2-50V-X7R-0402
+#
+DEF 2N2-50V-X7R-0402 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "2N2-50V-X7R-0402" -150 0 50 V V C CNN
+F2 "0402" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM155R71H222KA01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 2.2nF 0402 X7R 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0011" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM155R71H222KA01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "X7R" 650 0 60 V I C CNN "Dielectric"
+F11 "0" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2U2-10V-X5R-0603
+#
+DEF 2U2-10V-X5R-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "2U2-10V-X5R-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM188R61A225ME34.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 2.2uF 0603 X5R 10V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0019" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM188R61A225ME34" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "20" 550 0 60 V I C CNN "Tolerance"
+F9 "10" 450 0 60 V I C CNN "Max Voltage"
+F10 "X5R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.03" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 30  100 30 N
+P 2 0 1 10  -100 -30  100 -30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330P-50V-COG-0603
+#
+DEF 330P-50V-COG-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "330P-50V-COG-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM1885C1H331JA01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 330pF 0603 COG 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0023" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM1885C1H331JA01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "COG" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33P-50V-COG-0402
+#
+DEF 33P-50V-COG-0402 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "33P-50V-COG-0402" -150 0 50 V V C CNN
+F2 "0402" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM1555C1H330JZ01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 33pF 0402 COG 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0008" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM1555C1H330JZ01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "COG" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 30  100 30 N
+P 2 0 1 10  -100 -30  100 -30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33P-50V-COG-0603
+#
+DEF 33P-50V-COG-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "33P-50V-COG-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM1885C1H330JA01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 33pF 0603 COG 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0018" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM1885C1H330JA01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "COG" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470P-50V-COG-0603
+#
+DEF 470P-50V-COG-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "470P-50V-COG-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM1885C1H471JA01.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 470pF 0603 COG 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0024" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM1885C1H471JA01" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "5" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "COG" 650 0 60 V I C CNN "Dielectric"
+F11 "0.01" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47U-16V-ELEC-AL_ELEC_SMD_C
+#
+DEF 47U-16V-ELEC-AL_ELEC_SMD_C C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "47U-16V-ELEC-AL_ELEC_SMD_C" -150 0 50 V V C CNN
+F2 "AL_ELEC_SMD_C" 750 0 60 V I C CNN
+F3 "http://industrial.panasonic.com/www-data/pdf/ABA0000/ABA0000CE120.pdf" 1050 0 60 V I C CNN
+F4 "Al Elec 47uF 16V CaseC SMD" 150 0 60 V I C CNN "Description"
+F5 "E-02-0031" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Panasonic" 250 0 60 V I C CNN "Manufacturer"
+F7 "EEEFK1C470UR" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "20" 550 0 60 V I C CNN "Tolerance"
+F9 "16" 450 0 60 V I C CNN "Max Voltage"
+F10 "ELEC" 650 0 60 V I C CNN "Dielectric"
+F11 "0.09" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 4 0 1 15  -100 50  100 50  50 50  50 50 N
+A 0 -200 180 563 1236 0 1 15 N 100 -50 -100 -50
+T 0 -50 100 80 0 0 0 +  Normal 0
+X ~ 1 0 200 150 D 40 40 1 1 P
+X ~ 2 0 -200 180 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4U7-10V-X5R-0805
+#
+DEF 4U7-10V-X5R-0805 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "4U7-10V-X5R-0805" -150 0 50 V V C CNN
+F2 "0805" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM219R61A475KE34.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 4.7uF 0805 X5R 10V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0021" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM219R61A475KE34" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "10" 450 0 60 V I C CNN "Max Voltage"
+F10 "X5R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.05" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 30  100 30 N
+P 2 0 1 10  -100 -30  100 -30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4U7-35V-ELEC-AL_ELEC_SMD_B
+#
+DEF 4U7-35V-ELEC-AL_ELEC_SMD_B C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "4U7-35V-ELEC-AL_ELEC_SMD_B" -150 0 50 V V C CNN
+F2 "AL_ELEC_SMD_B" 750 0 60 V I C CNN
+F3 "http://industrial.panasonic.com/www-data/pdf/ABA0000/ABA0000CE120.pdf" 1050 0 60 V I C CNN
+F4 "Al Elec 4.7uF 35V CaseB SMD" 150 0 60 V I C CNN "Description"
+F5 "E-02-0014" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Panasonic" 250 0 60 V I C CNN "Manufacturer"
+F7 "EEEFK1V4R7R" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "20" 550 0 60 V I C CNN "Tolerance"
+F9 "35" 450 0 60 V I C CNN "Max Voltage"
+F10 "ELEC" 650 0 60 V I C CNN "Dielectric"
+F11 "0.08" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 4 0 1 15  -100 50  100 50  50 50  50 50 N
+A 0 -200 180 563 1236 0 1 15 N 100 -50 -100 -50
+T 0 -50 100 80 0 0 0 +  Normal 0
+X ~ 1 0 200 150 D 40 40 1 1 P
+X ~ 2 0 -200 180 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4U7-6.3V-X5R-0603
+#
+DEF 4U7-6.3V-X5R-0603 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "4U7-6.3V-X5R-0603" -150 0 50 V V C CNN
+F2 "0603" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM188R60J475KE19.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 4.7uF 0603 X5R 6.3V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0005" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM188R60J475KE19" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "6.3" 450 0 60 V I C CNN "Max Voltage"
+F10 "X5R" 650 0 60 V I C CNN "Dielectric"
+F11 "0.04" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6N8-50V-X7R-0402
+#
+DEF 6N8-50V-X7R-0402 C 0 0 N Y 1 F N
+F0 "C" -50 -250 50 V V C CNN
+F1 "6N8-50V-X7R-0402" -150 0 50 V V C CNN
+F2 "0402" 750 0 60 V I C CNN
+F3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM155R71H682KA88.pdf" 1050 0 60 V I C CNN
+F4 "MLCC 6.8nF 0402 X7R 50V" 150 0 60 V I C CNN "Description"
+F5 "E-02-0012" 950 -50 60 V I C CNN "XMOS Part Number"
+F6 "Murata" 250 0 60 V I C CNN "Manufacturer"
+F7 "GRM155R71H682KA88" 350 0 60 V I C CNN "Manufacturer Part Number"
+F8 "10" 550 0 60 V I C CNN "Tolerance"
+F9 "50" 450 0 60 V I C CNN "Max Voltage"
+F10 "X7R" 650 0 60 V I C CNN "Dielectric"
+F11 "0" 850 0 60 V I C CNN "Approx Volume Cost"
+DRAW
+P 2 0 1 10  -100 -30  100 -30 N
+P 2 0 1 10  -100 30  100 30 N
+X ~ 1 0 200 170 D 40 40 1 1 P
+X ~ 2 0 -200 170 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
