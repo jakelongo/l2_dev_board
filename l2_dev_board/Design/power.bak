@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 21/07/2011 19:27:45
+EESchema Schematic File Version 2  date 25/07/2011 13:43:31
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,28 +29,40 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:LT3480
-LIBS:ncp1529
-LIBS:ncp303
-LIBS:nc7wz17
 LIBS:apx803
 LIBS:ase_20mhz
+LIBS:brooktre
+LIBS:cmos_ieee
 LIBS:Dmitri_Belimovl
 LIBS:EECV
+LIBS:elec-unifil
 LIBS:ft232r
+LIBS:gennum
+LIBS:graphic
+LIBS:LT3480
+LIBS:microchip1
+LIBS:nc7wz17
+LIBS:ncp303
+LIBS:ncp1529
+LIBS:pspice
 LIBS:SymbolsSimilarEN60617+oldDIN617
+LIBS:transf
+LIBS:ttl_ieee
+LIBS:video
 LIBS:xmos_capacitors
 LIBS:xmos_resistors
 LIBS:xmos_support
 LIBS:xs1
+LIBS:XS1_L2
 LIBS:XS1_L2_V2
+LIBS:L2DevBoard-cache
 EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
 Sheet 10 10
 Title ""
-Date "21 jul 2011"
+Date "25 jul 2011"
 Rev ""
 Comp ""
 Comment1 ""
@@ -58,6 +70,15 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L +12V #PWR038
+U 1 1 4E29763C
+P 650 650
+F 0 "#PWR038" H 650 600 20  0001 C CNN
+F 1 "+12V" H 650 750 30  0000 C CNN
+	1    650  650 
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	1750 700  650  700 
 Wire Wire Line
@@ -69,19 +90,19 @@ Wire Notes Line
 Wire Wire Line
 	6150 6400 6000 6400
 Wire Wire Line
-	1200 6550 1200 5950
+	1200 5950 1200 6550
 Wire Wire Line
-	3550 6450 3550 6550
+	3550 6550 3550 6450
 Connection ~ 3850 5950
 Wire Wire Line
 	4050 5950 3300 5950
 Wire Wire Line
 	3300 5950 3300 6000
 Wire Wire Line
-	1200 5950 900  5950
+	900  5950 1200 5950
 Connection ~ 1050 5950
 Wire Wire Line
-	3550 6550 2700 6550
+	2700 6550 3550 6550
 Connection ~ 3300 6550
 Wire Wire Line
 	3550 6050 3550 5950
@@ -109,9 +130,9 @@ Wire Notes Line
 Wire Wire Line
 	3100 1250 3100 1400
 Wire Wire Line
-	3100 1400 2700 1400
+	2700 1400 3100 1400
 Wire Wire Line
-	2700 1400 2700 1750
+	2700 1750 2700 1400
 Wire Wire Line
 	1250 1550 800  1550
 Wire Wire Line
@@ -122,7 +143,7 @@ Connection ~ 2800 2000
 Wire Wire Line
 	2900 2000 2700 2000
 Wire Wire Line
-	7550 4950 7550 5050
+	7550 5050 7550 4950
 Connection ~ 7850 4450
 Wire Wire Line
 	8000 4450 7300 4450
@@ -134,7 +155,7 @@ Wire Wire Line
 	4900 4450 5200 4450
 Connection ~ 5050 4450
 Wire Wire Line
-	7550 5050 6700 5050
+	6700 5050 7550 5050
 Connection ~ 7300 5050
 Wire Wire Line
 	7550 4550 7550 4450
@@ -175,14 +196,14 @@ Wire Wire Line
 Wire Wire Line
 	5200 3550 5050 3550
 Wire Wire Line
-	7300 3000 7300 2950
+	7300 2950 7300 3000
 Wire Wire Line
-	7300 2950 7950 2950
+	7950 2950 7300 2950
 Connection ~ 7850 2950
 Wire Wire Line
 	7550 3550 7550 3450
 Wire Wire Line
-	3550 4950 3550 5050
+	3550 5050 3550 4950
 Connection ~ 3850 4450
 Wire Wire Line
 	4000 4450 3300 4450
@@ -194,7 +215,7 @@ Wire Wire Line
 	900  4450 1200 4450
 Connection ~ 1050 4450
 Wire Wire Line
-	3550 5050 2700 5050
+	2700 5050 3550 5050
 Connection ~ 3300 5050
 Wire Wire Line
 	3550 4550 3550 4450
@@ -258,9 +279,9 @@ Wire Wire Line
 Wire Wire Line
 	1200 3550 1100 3550
 Wire Wire Line
-	3300 3000 3300 2950
+	3300 2950 3300 3000
 Wire Wire Line
-	3300 2950 4000 2950
+	4000 2950 3300 2950
 Connection ~ 3850 2950
 Wire Wire Line
 	3550 3550 3550 3450
@@ -280,15 +301,6 @@ Wire Wire Line
 	6000 6400 6000 6100
 Wire Notes Line
 	4650 7000 7800 7000
-$Comp
-L +12V #+038
-U 1 1 4E1B0D6B
-P 650 650
-F 0 "#+038" H 650 600 20  0001 C CNN
-F 1 "+12V" H 650 750 30  0000 C CNN
-	1    650  650 
-	1    0    0    -1  
-$EndComp
 Text HLabel 8000 4450 2    60   Input ~ 0
 +1V0P3
 Text HLabel 4000 4450 2    60   Input ~ 0
