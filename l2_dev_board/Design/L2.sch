@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 25/07/2011 13:55:09
+EESchema Schematic File Version 2  date 27/07/2011 16:09:28
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -33,7 +33,6 @@ LIBS:apx803
 LIBS:ase_20mhz
 LIBS:brooktre
 LIBS:cmos_ieee
-LIBS:Dmitri_Belimovl
 LIBS:EECV
 LIBS:elec-unifil
 LIBS:ft232r
@@ -45,22 +44,23 @@ LIBS:nc7wz17
 LIBS:ncp303
 LIBS:ncp1529
 LIBS:pspice
-LIBS:SymbolsSimilarEN60617+oldDIN617
 LIBS:transf
 LIBS:ttl_ieee
 LIBS:video
 LIBS:xmos_capacitors
 LIBS:xmos_resistors
 LIBS:xmos_support
-LIBS:xs1
 LIBS:XS1_L2_V2
+LIBS:xs1
+LIBS:XS1-L1-128
+LIBS:L2DevBoard-cache
 EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
-Sheet 9 10
+Sheet 11 13
 Title ""
-Date "25 jul 2011"
+Date "27 jul 2011"
 Rev ""
 Comp ""
 Comment1 ""
@@ -68,32 +68,16 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L XS1_L2 U201
-U 1 1 4E282660
-P 4700 3350
-AR Path="/4E1B01C1/4E282660" Ref="U201"  Part="1" 
-AR Path="/4E1B01C0/4E282660" Ref="U301"  Part="1" 
-AR Path="/4E1B01BF/4E282660" Ref="U401"  Part="1" 
-AR Path="/4E1B01BE/4E282660" Ref="U501"  Part="1" 
-AR Path="/4E1ACC75/4E282660" Ref="U601"  Part="1" 
-AR Path="/4E1ACC74/4E282660" Ref="U701"  Part="1" 
-AR Path="/4E1ACC57/4E282660" Ref="U801"  Part="1" 
-AR Path="/4E146472/4E282660" Ref="U901"  Part="1" 
-F 0 "U901" H 3200 3800 50  0000 C CNN
-F 1 "XS1_L2" H 3200 3900 50  0000 C CNN
-F 2 "124" H 3200 3700 60  0000 C CNN
-	1    4700 3350
-	1    0    0    -1  
-$EndComp
+Text HLabel 2100 2300 0    39   Input ~ 0
+TCK_BUF
+Text HLabel 2100 2200 0    39   Input ~ 0
+TMS_BUF
 Wire Notes Line
-	4000 5550 750  5550
+	750  5500 750  6600
 Wire Notes Line
-	4000 5550 4000 6600
+	750  5500 4000 5500
 Wire Notes Line
-	4000 6600 750  6600
-Wire Notes Line
-	750  6600 750  5550
+	750  6600 4000 6600
 Connection ~ 2900 6350
 Wire Wire Line
 	3650 6350 2650 6350
@@ -194,7 +178,7 @@ Wire Wire Line
 	7450 2750 8150 2750
 Connection ~ 3000 4650
 Wire Wire Line
-	3000 5050 3000 4450
+	3000 4450 3000 5050
 Connection ~ 3000 4850
 Wire Wire Line
 	3000 4350 3400 4350
@@ -202,7 +186,7 @@ Wire Wire Line
 	3400 4350 3400 4250
 Connection ~ 3000 3400
 Wire Wire Line
-	3000 3650 3000 3150
+	3000 3150 3000 3650
 Wire Wire Line
 	1300 4950 1300 4250
 Connection ~ 1300 4850
@@ -215,7 +199,7 @@ Connection ~ 1300 4000
 Connection ~ 1300 3800
 Connection ~ 1300 3600
 Wire Wire Line
-	1300 3150 1300 4100
+	1300 4100 1300 3150
 Connection ~ 1300 3400
 Connection ~ 1300 4350
 Connection ~ 1300 4550
@@ -258,40 +242,60 @@ Wire Wire Line
 	2650 6350 2650 6450
 Wire Wire Line
 	950  6350 950  6450
+Wire Notes Line
+	4000 6600 4000 5500
+$Comp
+L XS1_L2 U201
+U 1 1 4E282660
+P 4700 3350
+AR Path="/4E1B01C1/4E282660" Ref="U201"  Part="1" 
+AR Path="/4E1B01C0/4E282660" Ref="U301"  Part="1" 
+AR Path="/4E1B01BF/4E282660" Ref="U401"  Part="1" 
+AR Path="/4E1B01BE/4E282660" Ref="U501"  Part="1" 
+AR Path="/4E1ACC75/4E282660" Ref="U601"  Part="1" 
+AR Path="/4E1ACC74/4E282660" Ref="U701"  Part="1" 
+AR Path="/4E1ACC57/4E282660" Ref="U801"  Part="1" 
+AR Path="/4E146472/4E282660" Ref="U901"  Part="1" 
+F 0 "U901" H 3200 3800 50  0000 C CNN
+F 1 "XS1_L2" H 3200 3900 50  0000 C CNN
+F 2 "124" H 3200 3700 60  0000 C CNN
+	1    4700 3350
+	1    0    0    -1  
+$EndComp
 Text Notes 1300 5700 0    39   ~ 0
 Decoupling Caps
 $Comp
-L GND #PWR06
+L GND #PWR302
 U 1 1 4E17143C
 P 2650 6450
-AR Path="/4E1B01C1/4E17143C" Ref="#PWR06"  Part="1" 
-AR Path="/4E1B01C0/4E17143C" Ref="#PWR010"  Part="1" 
-AR Path="/4E1B01BF/4E17143C" Ref="#PWR014"  Part="1" 
-AR Path="/4E1B01BE/4E17143C" Ref="#PWR018"  Part="1" 
-AR Path="/4E1ACC75/4E17143C" Ref="#PWR022"  Part="1" 
-AR Path="/4E1ACC74/4E17143C" Ref="#PWR026"  Part="1" 
-AR Path="/4E1ACC57/4E17143C" Ref="#PWR030"  Part="1" 
-AR Path="/4E146472/4E17143C" Ref="#PWR034"  Part="1" 
-F 0 "#PWR034" H 2650 6450 30  0001 C CNN
+AR Path="/4E1B01C1/4E17143C" Ref="#PWR302"  Part="1" 
+AR Path="/4E1B01C0/4E17143C" Ref="#PWR402"  Part="1" 
+AR Path="/4E1B01BF/4E17143C" Ref="#PWR502"  Part="1" 
+AR Path="/4E1B01BE/4E17143C" Ref="#PWR602"  Part="1" 
+AR Path="/4E1ACC75/4E17143C" Ref="#PWR702"  Part="1" 
+AR Path="/4E1ACC74/4E17143C" Ref="#PWR802"  Part="1" 
+AR Path="/4E1ACC57/4E17143C" Ref="#PWR902"  Part="1" 
+AR Path="/4E146472/4E17143C" Ref="#PWR1002"  Part="1" 
+F 0 "#PWR1002" H 2650 6450 30  0001 C CNN
 F 1 "GND" H 2650 6380 30  0001 C CNN
 	1    2650 6450
 	1    0    0    -1  
 $EndComp
 Text GLabel 2650 5850 1    39   Input ~ 0
-+3V3
++3V3_L2
 $Comp
-L GND #PWR07
+L GND #PWR301
 U 1 1 4E171407
 P 950 6450
-AR Path="/4E1B01C1/4E171407" Ref="#PWR07"  Part="1" 
-AR Path="/4E1B01C0/4E171407" Ref="#PWR011"  Part="1" 
-AR Path="/4E1B01BF/4E171407" Ref="#PWR015"  Part="1" 
-AR Path="/4E1B01BE/4E171407" Ref="#PWR019"  Part="1" 
-AR Path="/4E1ACC75/4E171407" Ref="#PWR023"  Part="1" 
-AR Path="/4E1ACC74/4E171407" Ref="#PWR027"  Part="1" 
-AR Path="/4E1ACC57/4E171407" Ref="#PWR031"  Part="1" 
-AR Path="/4E146472/4E171407" Ref="#PWR035"  Part="1" 
-F 0 "#PWR035" H 950 6450 30  0001 C CNN
+AR Path="/4E1B01C1/4E171407" Ref="#PWR301"  Part="1" 
+AR Path="/4E1B01C0/4E171407" Ref="#PWR401"  Part="1" 
+AR Path="/4E1B01BF/4E171407" Ref="#PWR501"  Part="1" 
+AR Path="/4E1B01BE/4E171407" Ref="#PWR601"  Part="1" 
+AR Path="/4E1ACC75/4E171407" Ref="#PWR701"  Part="1" 
+AR Path="/4E1ACC74/4E171407" Ref="#PWR801"  Part="1" 
+AR Path="/4E1ACC57/4E171407" Ref="#PWR901"  Part="1" 
+AR Path="/4E146472/4E171407" Ref="#PWR1001"  Part="1" 
+F 0 "#PWR1001" H 950 6450 30  0001 C CNN
 F 1 "GND" H 950 6380 30  0001 C CNN
 	1    950  6450
 	1    0    0    -1  
@@ -480,10 +484,6 @@ Text GLabel 2100 1750 0    39   Input ~ 0
 RST_N_BUF
 Text GLabel 2100 2400 0    39   Input ~ 0
 RST_N_BUF
-Text GLabel 2100 2300 0    39   Input ~ 0
-TCK_BUF
-Text GLabel 2100 2200 0    39   Input ~ 0
-TMS_BUF
 Text HLabel 2100 2000 0    39   Input ~ 0
 TDO
 Text HLabel 2100 2100 0    39   Input ~ 0
@@ -491,7 +491,7 @@ TDI
 Text HLabel 3400 3150 1    39   Input ~ 0
 +1V0
 Text GLabel 1300 3150 1    39   Input ~ 0
-+3V3
++3V3_L2
 Text HLabel 1050 3150 1    39   Input ~ 0
 +1V0
 Text HLabel 8150 3050 2    39   Input ~ 0
@@ -575,7 +575,7 @@ X0_XLA_3o
 Text HLabel 5450 1200 2    39   Input ~ 0
 X0_XLA_4o
 Text GLabel 3000 3150 1    39   Input ~ 0
-+3V3
++3V3_L2
 $Comp
 L R R201
 U 1 1 4E15B90D
@@ -612,35 +612,35 @@ F 2 "X-0402" H 3400 4550 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR08
+L GND #PWR304
 U 1 1 4E15B90B
 P 3400 5050
-AR Path="/4E1B01C1/4E15B90B" Ref="#PWR08"  Part="1" 
-AR Path="/4E1B01C0/4E15B90B" Ref="#PWR012"  Part="1" 
-AR Path="/4E1B01BF/4E15B90B" Ref="#PWR016"  Part="1" 
-AR Path="/4E1B01BE/4E15B90B" Ref="#PWR020"  Part="1" 
-AR Path="/4E1ACC75/4E15B90B" Ref="#PWR024"  Part="1" 
-AR Path="/4E1ACC74/4E15B90B" Ref="#PWR028"  Part="1" 
-AR Path="/4E1ACC57/4E15B90B" Ref="#PWR032"  Part="1" 
-AR Path="/4E146472/4E15B90B" Ref="#PWR036"  Part="1" 
-F 0 "#PWR036" H 3400 5050 30  0001 C CNN
+AR Path="/4E1B01C1/4E15B90B" Ref="#PWR304"  Part="1" 
+AR Path="/4E1B01C0/4E15B90B" Ref="#PWR404"  Part="1" 
+AR Path="/4E1B01BF/4E15B90B" Ref="#PWR504"  Part="1" 
+AR Path="/4E1B01BE/4E15B90B" Ref="#PWR604"  Part="1" 
+AR Path="/4E1ACC75/4E15B90B" Ref="#PWR704"  Part="1" 
+AR Path="/4E1ACC74/4E15B90B" Ref="#PWR804"  Part="1" 
+AR Path="/4E1ACC57/4E15B90B" Ref="#PWR904"  Part="1" 
+AR Path="/4E146472/4E15B90B" Ref="#PWR1004"  Part="1" 
+F 0 "#PWR1004" H 3400 5050 30  0001 C CNN
 F 1 "GND" H 3400 4980 30  0001 C CNN
 	1    3400 5050
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR09
+L GND #PWR303
 U 1 1 4E15B90A
 P 3000 5050
-AR Path="/4E1B01C1/4E15B90A" Ref="#PWR09"  Part="1" 
-AR Path="/4E1B01C0/4E15B90A" Ref="#PWR013"  Part="1" 
-AR Path="/4E1B01BF/4E15B90A" Ref="#PWR017"  Part="1" 
-AR Path="/4E1B01BE/4E15B90A" Ref="#PWR021"  Part="1" 
-AR Path="/4E1ACC75/4E15B90A" Ref="#PWR025"  Part="1" 
-AR Path="/4E1ACC74/4E15B90A" Ref="#PWR029"  Part="1" 
-AR Path="/4E1ACC57/4E15B90A" Ref="#PWR033"  Part="1" 
-AR Path="/4E146472/4E15B90A" Ref="#PWR037"  Part="1" 
-F 0 "#PWR037" H 3000 5050 30  0001 C CNN
+AR Path="/4E1B01C1/4E15B90A" Ref="#PWR303"  Part="1" 
+AR Path="/4E1B01C0/4E15B90A" Ref="#PWR403"  Part="1" 
+AR Path="/4E1B01BF/4E15B90A" Ref="#PWR503"  Part="1" 
+AR Path="/4E1B01BE/4E15B90A" Ref="#PWR603"  Part="1" 
+AR Path="/4E1ACC75/4E15B90A" Ref="#PWR703"  Part="1" 
+AR Path="/4E1ACC74/4E15B90A" Ref="#PWR803"  Part="1" 
+AR Path="/4E1ACC57/4E15B90A" Ref="#PWR903"  Part="1" 
+AR Path="/4E146472/4E15B90A" Ref="#PWR1003"  Part="1" 
+F 0 "#PWR1003" H 3000 5050 30  0001 C CNN
 F 1 "GND" H 3000 4980 30  0001 C CNN
 	1    3000 5050
 	1    0    0    -1  
