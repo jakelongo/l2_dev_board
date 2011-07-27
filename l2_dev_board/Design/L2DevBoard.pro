@@ -1,4 +1,4 @@
-update=25/07/2011 13:54:45
+update=27/07/2011 13:39:25
 last_client=eeschema
 [pcbnew]
 version=1
@@ -136,3 +136,4 @@ LibName52=xmos_resistors
 LibName53=xmos_support
 LibName54=xs1
 LibName55=XS1_L2_V2
+LibName56=C:/Users/Jake/l2_dev_board/l2_dev_board/Libraries/kicad/library/xmossupport_supp
