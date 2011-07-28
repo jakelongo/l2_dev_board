@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 28/07/2011 17:12:08
+EESchema Schematic File Version 2  date 28/07/2011 17:28:18
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -175,63 +175,6 @@ Wire Wire Line
 Wire Wire Line
 	5400 1040 5400 1140
 Wire Wire Line
-	10400 5540 10290 5540
-Connection ~ 8580 5540
-Wire Wire Line
-	8580 4280 8580 5540
-Connection ~ 8800 4540
-Wire Wire Line
-	8800 4280 8800 4540
-Connection ~ 8920 3680
-Wire Wire Line
-	8920 3780 8920 3680
-Connection ~ 8690 3680
-Wire Wire Line
-	8690 3680 8690 3780
-Wire Wire Line
-	8420 5540 8990 5540
-Wire Wire Line
-	8460 4340 8990 4340
-Wire Wire Line
-	10290 4340 10290 4340
-Wire Wire Line
-	8430 4540 8990 4540
-Wire Wire Line
-	10290 5740 10290 5790
-Wire Wire Line
-	10290 4040 10290 4140
-Wire Wire Line
-	10290 5040 10290 5140
-Wire Wire Line
-	10290 4790 10290 4740
-Wire Wire Line
-	8410 5340 8990 5340
-Wire Wire Line
-	9140 3680 8580 3680
-Wire Wire Line
-	8580 3680 8580 3780
-Wire Wire Line
-	8800 3680 8800 3780
-Connection ~ 8800 3680
-Wire Wire Line
-	8920 4280 8920 4340
-Connection ~ 8920 4340
-Wire Wire Line
-	8690 4280 8690 5340
-Connection ~ 8690 5340
-Wire Wire Line
-	10400 5340 10290 5340
-Wire Notes Line
-	8170 5930 8170 3550
-Wire Notes Line
-	8170 5930 10800 5930
-Wire Notes Line
-	10800 5930 10800 3550
-Wire Notes Line
-	10800 3550 8170 3550
-Wire Notes Line
-	10790 3490 8080 3490
-Wire Wire Line
 	2780 2540 2670 2540
 Connection ~ 1300 680 
 Wire Wire Line
@@ -252,61 +195,6 @@ Connection ~ 1180 680
 Connection ~ 1300 1340
 Wire Wire Line
 	2780 2340 2670 2340
-Wire Notes Line
-	10790 3490 10790 1110
-Wire Notes Line
-	8080 3490 8080 1110
-Wire Wire Line
-	10310 2900 10200 2900
-Connection ~ 8600 2900
-Wire Wire Line
-	8600 1840 8600 2900
-Connection ~ 8830 1900
-Wire Wire Line
-	8830 1840 8830 1900
-Connection ~ 8710 1240
-Wire Wire Line
-	8710 1240 8710 1340
-Wire Wire Line
-	8490 1340 8490 1240
-Wire Wire Line
-	8490 1240 9050 1240
-Wire Wire Line
-	8320 2900 8900 2900
-Wire Wire Line
-	10200 2100 10300 2100
-Wire Wire Line
-	10200 2350 10200 2300
-Wire Wire Line
-	10200 2600 10200 2700
-Wire Wire Line
-	10200 1600 10200 1700
-Wire Wire Line
-	10200 3300 10200 3350
-Wire Wire Line
-	8340 2100 8900 2100
-Wire Wire Line
-	10200 1900 10300 1900
-Wire Wire Line
-	8370 1900 8900 1900
-Wire Wire Line
-	8330 3100 8900 3100
-Wire Wire Line
-	8600 1240 8600 1340
-Connection ~ 8600 1240
-Wire Wire Line
-	8830 1340 8830 1240
-Connection ~ 8830 1240
-Wire Wire Line
-	8710 1840 8710 2100
-Connection ~ 8710 2100
-Wire Wire Line
-	8490 1840 8490 3100
-Connection ~ 8490 3100
-Wire Wire Line
-	10310 3100 10200 3100
-Wire Notes Line
-	8080 1110 10790 1110
 Wire Wire Line
 	1180 680  1530 680 
 Wire Wire Line
@@ -607,18 +495,6 @@ Text GLabel 3570 1340 0    39   Input ~ 0
 RST_N
 Text GLabel 3600 1540 0    39   Input ~ 0
 MSEL_N
-Text GLabel 10300 1900 2    39   Input ~ 0
-RST_N_BUF_L1
-Text GLabel 10300 2100 2    39   Input ~ 0
-MSEL_BUF_L1
-Text HLabel 10400 5540 2    39   Input ~ 0
-TMS_BUF_3
-Text HLabel 10400 5340 2    39   Input ~ 0
-TCK_BUF_3
-Text HLabel 10290 4540 2    39   Input ~ 0
-MSEL_BUF_3
-Text HLabel 10290 4340 2    39   Input ~ 0
-RST_N_BUF_3
 Text HLabel 6110 1540 2    39   Input ~ 0
 MSEL_N_BUF_0
 Text HLabel 6110 1340 2    39   Input ~ 0
@@ -628,102 +504,14 @@ L2\nJTAG RST_N MSEL_N  L2 Buffering
 Text GLabel 5400 1040 2    39   Input ~ 0
 +3V3
 $Comp
-L GND #PWR024
+L GND #PWR023
 U 1 1 4E302B4C
 P 5400 1790
-F 0 "#PWR024" H 5400 1790 30  0001 C CNN
+F 0 "#PWR023" H 5400 1790 30  0001 C CNN
 F 1 "GND" H 5400 1720 30  0001 C CNN
 	1    5400 1790
 	1    0    0    -1  
 $EndComp
-$Comp
-L NC7WZ17 U310
-U 1 1 4E302B49
-P 9640 4440
-F 0 "U310" H 9340 4840 60  0000 C CNN
-F 1 "NC7WZ17" H 9490 4040 60  0000 C CNN
-	1    9640 4440
-	1    0    0    -1  
-$EndComp
-$Comp
-L NC7WZ17 U311
-U 1 1 4E302B48
-P 9640 5440
-F 0 "U311" H 9340 5840 60  0000 C CNN
-F 1 "NC7WZ17" H 9490 5040 60  0000 C CNN
-	1    9640 5440
-	1    0    0    -1  
-$EndComp
-Text GLabel 10290 5040 2    39   Input ~ 0
-+3V3
-$Comp
-L GND #PWR025
-U 1 1 4E302B47
-P 10290 4790
-F 0 "#PWR025" H 10290 4790 30  0001 C CNN
-F 1 "GND" H 10290 4720 30  0001 C CNN
-	1    10290 4790
-	1    0    0    -1  
-$EndComp
-$Comp
-L GND #PWR026
-U 1 1 4E302B46
-P 10290 5790
-F 0 "#PWR026" H 10290 5790 30  0001 C CNN
-F 1 "GND" H 10290 5720 30  0001 C CNN
-	1    10290 5790
-	1    0    0    -1  
-$EndComp
-Text GLabel 10290 4040 2    39   Input ~ 0
-+3V3
-Text GLabel 8430 4540 0    39   Input ~ 0
-MSEL
-Text GLabel 8410 5340 0    39   Input ~ 0
-TCK
-Text GLabel 8420 5540 0    39   Input ~ 0
-TMS
-Text GLabel 8460 4340 0    39   Input ~ 0
-RST_N
-Text GLabel 9150 3680 2    39   Input ~ 0
-+3V3
-$Comp
-L R R321
-U 1 1 4E302B45
-P 8920 4030
-F 0 "R321" V 8970 3830 50  0000 C CNN
-F 1 "10K" V 8920 4030 50  0000 C CNN
-	1    8920 4030
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R320
-U 1 1 4E302B44
-P 8800 4030
-F 0 "R320" V 8850 3830 50  0000 C CNN
-F 1 "10K" V 8800 4030 50  0000 C CNN
-	1    8800 4030
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R319
-U 1 1 4E302B43
-P 8690 4030
-F 0 "R319" V 8740 3830 50  0000 C CNN
-F 1 "10K" V 8690 4030 50  0000 C CNN
-	1    8690 4030
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R318
-U 1 1 4E302B42
-P 8580 4030
-F 0 "R318" V 8630 3830 50  0000 C CNN
-F 1 "10K" V 8580 4030 50  0000 C CNN
-	1    8580 4030
-	1    0    0    -1  
-$EndComp
-Text Notes 9760 3730 0    39   ~ 0
-JTAG L2 Buffering
 $Comp
 L NC7WZ17 U307
 U 1 1 4E302B33
@@ -763,19 +551,19 @@ $EndComp
 Text GLabel 2670 2040 2    39   Input ~ 0
 +3V3
 $Comp
-L GND #PWR027
+L GND #PWR024
 U 1 1 4E302A23
 P 2670 1790
-F 0 "#PWR027" H 2670 1790 30  0001 C CNN
+F 0 "#PWR024" H 2670 1790 30  0001 C CNN
 F 1 "GND" H 2670 1720 30  0001 C CNN
 	1    2670 1790
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR028
+L GND #PWR025
 U 1 1 4E302A22
 P 2670 2790
-F 0 "#PWR028" H 2670 2790 30  0001 C CNN
+F 0 "#PWR025" H 2670 2790 30  0001 C CNN
 F 1 "GND" H 2670 2720 30  0001 C CNN
 	1    2670 2790
 	1    0    0    -1  
@@ -808,96 +596,4 @@ F 1 "10K" V 1180 1030 50  0000 C CNN
 $EndComp
 Text Notes 2140 730  0    39   ~ 0
 L2 \nJTAG TCK TMS Buffering
-Text Notes 9670 1290 0    39   ~ 0
-JTAG L1 Buffering
-Text GLabel 10310 3100 2    39   Input ~ 0
-TMS_BUF_L1
-Text GLabel 10310 2900 2    39   Input ~ 0
-TCK_BUF_L1
-$Comp
-L R R303
-U 1 1 4E302A1D
-P 8490 1590
-F 0 "R303" V 8540 1390 50  0000 C CNN
-F 1 "10K" V 8490 1590 50  0000 C CNN
-	1    8490 1590
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R305
-U 1 1 4E302A1C
-P 8600 1590
-F 0 "R305" V 8650 1390 50  0000 C CNN
-F 1 "10K" V 8600 1590 50  0000 C CNN
-	1    8600 1590
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R307
-U 1 1 4E302A1B
-P 8710 1590
-F 0 "R307" V 8760 1390 50  0000 C CNN
-F 1 "10K" V 8710 1590 50  0000 C CNN
-	1    8710 1590
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R309
-U 1 1 4E302A1A
-P 8830 1590
-F 0 "R309" V 8880 1390 50  0000 C CNN
-F 1 "10K" V 8830 1590 50  0000 C CNN
-	1    8830 1590
-	1    0    0    -1  
-$EndComp
-Text GLabel 9060 1240 2    39   Input ~ 0
-+3V3
-Text GLabel 8370 1900 0    39   Input ~ 0
-RST_N
-Text GLabel 8330 3100 0    39   Input ~ 0
-TMS
-Text GLabel 8320 2900 0    39   Input ~ 0
-TCK
-Text GLabel 8340 2100 0    39   Input ~ 0
-MSEL
-Text GLabel 10200 1600 2    39   Input ~ 0
-+3V3
-$Comp
-L GND #PWR029
-U 1 1 4E302A19
-P 10200 3350
-F 0 "#PWR029" H 10200 3350 30  0001 C CNN
-F 1 "GND" H 10200 3280 30  0001 C CNN
-	1    10200 3350
-	1    0    0    -1  
-$EndComp
-$Comp
-L GND #PWR030
-U 1 1 4E302A18
-P 10200 2350
-F 0 "#PWR030" H 10200 2350 30  0001 C CNN
-F 1 "GND" H 10200 2280 30  0001 C CNN
-	1    10200 2350
-	1    0    0    -1  
-$EndComp
-Text GLabel 10200 2600 2    39   Input ~ 0
-+3V3
-$Comp
-L NC7WZ17 U305
-U 1 1 4E302A17
-P 9550 3000
-F 0 "U305" H 9250 3400 60  0000 C CNN
-F 1 "NC7WZ17" H 9400 2600 60  0000 C CNN
-	1    9550 3000
-	1    0    0    -1  
-$EndComp
-$Comp
-L NC7WZ17 U304
-U 1 1 4E302A16
-P 9550 2000
-F 0 "U304" H 9250 2400 60  0000 C CNN
-F 1 "NC7WZ17" H 9400 1600 60  0000 C CNN
-	1    9550 2000
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
