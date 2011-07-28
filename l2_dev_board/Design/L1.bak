@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 28/07/2011 13:33:42
+EESchema Schematic File Version 2  date 28/07/2011 14:22:10
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -68,6 +68,46 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text HLabel 780  3510 0    39   Input ~ 0
+TMS
+Text HLabel 770  3310 0    39   Input ~ 0
+TCK
+$Comp
+L NC7WZ17 U?
+U 1 1 4E31626B
+P 2000 3410
+F 0 "U?" H 1700 3810 60  0000 C CNN
+F 1 "NC7WZ17" H 1850 3010 60  0000 C CNN
+	1    2000 3410
+	1    0    0    -1  
+$EndComp
+Text GLabel 2650 3010 2    39   Input ~ 0
++3V3
+$Comp
+L GND #PWR?
+U 1 1 4E31626A
+P 2650 3760
+F 0 "#PWR?" H 2650 3760 30  0001 C CNN
+F 1 "GND" H 2650 3690 30  0001 C CNN
+	1    2650 3760
+	1    0    0    -1  
+$EndComp
+Text HLabel 2760 3310 2    39   Input ~ 0
+TCK_BUF_2
+Text HLabel 2760 3510 2    39   Input ~ 0
+TMS_BUF_2
+Wire Wire Line
+	2760 3510 2650 3510
+Wire Wire Line
+	2650 3710 2650 3760
+Wire Wire Line
+	2650 3010 2650 3110
+Wire Wire Line
+	2760 3310 2650 3310
+Wire Wire Line
+	780  3510 1350 3510
+Wire Wire Line
+	770  3310 1350 3310
 NoConn ~ 7100 5700
 NoConn ~ 7100 5600
 NoConn ~ 7100 5500

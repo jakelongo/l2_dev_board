@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 28/07/2011 13:33:42
+EESchema Schematic File Version 2  date 28/07/2011 14:22:10
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -350,7 +350,7 @@ F 1 "10K" V 7300 6150 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 7350 6400 2    60   Input ~ 0
-RST_N_L2_BUF
+RST_N
 $Comp
 L GND #PWR063
 U 1 1 4E16CD78
