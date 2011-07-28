@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 27/07/2011 16:54:55
+EESchema Schematic File Version 2  date 28/07/2011 13:33:42
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -58,9 +58,9 @@ EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
-Sheet 12 13
+Sheet 13 13
 Title ""
-Date "27 jul 2011"
+Date "28 jul 2011"
 Rev ""
 Comp ""
 Comment1 ""
@@ -310,7 +310,7 @@ L APX803 U1008
 U 1 1 4E16CF31
 P 6800 6500
 F 0 "U1008" H 6550 6750 39  0000 C CNN
-F 1 "APX803" H 6600 6250 39  0000 C CNN
+F 1 "APX803-SR" H 6600 6250 39  0000 C CNN
 F 2 "SOT23R" H 6600 6400 20  0001 C CNN
 F 3 "www.diodes.com/datasheets/APX803.pdf" H 6550 6750 60  0001 C CNN
 	1    6800 6500
@@ -321,7 +321,7 @@ L APX803 U1005
 U 1 1 4E16CF2F
 P 5650 6500
 F 0 "U1005" H 5400 6750 39  0000 C CNN
-F 1 "APX803" H 5450 6250 39  0000 C CNN
+F 1 "APX803-SR" H 5450 6250 39  0000 C CNN
 F 2 "SOT23R" H 5450 6400 20  0001 C CNN
 F 3 "www.diodes.com/datasheets/APX803.pdf" H 5400 6750 60  0001 C CNN
 	1    5650 6500
