@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 28/07/2011 14:22:10
+EESchema Schematic File Version 2  date 28/07/2011 16:46:51
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -58,7 +58,7 @@ EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
-Sheet 13 13
+Sheet 13 12
 Title ""
 Date "28 jul 2011"
 Rev ""
@@ -269,8 +269,6 @@ Wire Notes Line
 Wire Notes Line
 	4650 7000 4650 5800
 Wire Wire Line
-	7200 5900 7300 5900
-Wire Wire Line
 	6150 5900 6300 5900
 Wire Wire Line
 	6150 6400 6150 6100
@@ -336,17 +334,6 @@ P 6300 6150
 F 0 "R1011" V 6380 6150 50  0000 C CNN
 F 1 "1K" V 6300 6150 50  0000 C CNN
 	1    6300 6150
-	1    0    0    -1  
-$EndComp
-Text GLabel 7200 5900 0    60   Input ~ 0
-+3V3_L2
-$Comp
-L R R1012
-U 1 1 4E16CD79
-P 7300 6150
-F 0 "R1012" V 7380 6150 50  0000 C CNN
-F 1 "10K" V 7300 6150 50  0000 C CNN
-	1    7300 6150
 	1    0    0    -1  
 $EndComp
 Text GLabel 7350 6400 2    60   Input ~ 0
