@@ -1,0 +1,370 @@
+EESchema Schematic File Version 2  date 01/08/2011 00:22:28
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:xmos_custom_library
+LIBS:l2_dev_board-cache
+EELAYER 25  0
+EELAYER END
+$Descr A4 11700 8267
+encoding utf-8
+Sheet 1 4
+Title ""
+Date "31 jul 2011"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L LT3480 U?
+U 1 1 4E354503
+P 8190 4530
+F 0 "U?" H 8240 4480 60  0000 C CNN
+F 1 "LT3480" H 8240 4580 60  0000 C CNN
+	1    8190 4530
+	1    0    0    -1  
+$EndComp
+$Comp
+L +12V #PWR?
+U 1 1 4E354502
+P 6800 3450
+F 0 "#PWR?" H 6800 3400 20  0001 C CNN
+F 1 "+12V" H 6800 3550 30  0000 C CNN
+	1    6800 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR?
+U 1 1 4E354501
+P 9630 3450
+F 0 "#PWR?" H 9630 3540 20  0001 C CNN
+F 1 "+5V" H 9630 3540 30  0000 C CNN
+	1    9630 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 4E354500
+P 8190 5530
+F 0 "#PWR?" H 8190 5530 30  0001 C CNN
+F 1 "GND" H 8190 5460 30  0001 C CNN
+	1    8190 5530
+	1    0    0    -1  
+$EndComp
+NoConn ~ 7490 4880
+NoConn ~ 7490 5030
+$Comp
+L R R?
+U 1 1 4E3544FF
+P 7340 5040
+F 0 "R?" V 7420 5040 50  0000 C CNN
+F 1 "40.2k" V 7340 5040 50  0000 C CNN
+	1    7340 5040
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 4E3544FE
+P 6990 4730
+F 0 "R?" V 7070 4730 50  0000 C CNN
+F 1 "16.2k" V 6990 4730 50  0000 C CNN
+	1    6990 4730
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C?
+U 1 1 4E3544FD
+P 6990 5240
+F 0 "C?" H 7040 5340 50  0000 L CNN
+F 1 "470pF" H 7040 5140 50  0000 L CNN
+	1    6990 5240
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C?
+U 1 1 4E3544FC
+P 6800 4260
+F 0 "C?" H 6850 4360 50  0000 L CNN
+F 1 "4.7uF" H 6850 4160 50  0000 L CNN
+	1    6800 4260
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C?
+U 1 1 4E3544FB
+P 9630 5220
+F 0 "C?" H 9680 5320 50  0000 L CNN
+F 1 "22uF" H 9680 5120 50  0000 L CNN
+	1    9630 5220
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 4E3544FA
+P 9030 5180
+F 0 "R?" V 9110 5180 50  0000 C CNN
+F 1 "100k" V 9030 5180 50  0000 C CNN
+	1    9030 5180
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 4E3544F9
+P 9330 4930
+F 0 "R?" V 9410 4930 50  0000 C CNN
+F 1 "536k" V 9330 4930 50  0000 C CNN
+	1    9330 4930
+	0    1    1    0   
+$EndComp
+$Comp
+L INDUCTOR L?
+U 1 1 4E3544F8
+P 9300 4530
+F 0 "L?" V 9250 4530 40  0000 C CNN
+F 1 "6.8uH" V 9400 4530 40  0000 C CNN
+	1    9300 4530
+	0    -1   -1   0   
+$EndComp
+$Comp
+L DIODE_SCH D?
+U 1 1 4E3544F7
+P 8970 4660
+F 0 "D?" H 8970 4760 40  0000 C CNN
+F 1 "DIODE_SCH" H 8970 4560 30  0000 C CNN
+	1    8970 4660
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 4E3544F6
+P 8970 4820
+F 0 "#PWR?" H 8970 4820 30  0001 C CNN
+F 1 "GND" H 8970 4750 30  0001 C CNN
+	1    8970 4820
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C?
+U 1 1 4E3544F5
+P 9190 4180
+F 0 "C?" H 9240 4280 50  0000 L CNN
+F 1 "0.47uF" H 9240 4080 50  0000 L CNN
+	1    9190 4180
+	0    -1   -1   0   
+$EndComp
+Text Notes 7720 3290 0    60   ~ 0
+12V to 5V 2A Regulator
+Wire Notes Line
+	6650 3110 9910 3110
+Wire Notes Line
+	6650 5670 6650 3110
+Wire Notes Line
+	9910 5670 6650 5670
+Wire Notes Line
+	9910 5670 9910 3110
+Wire Wire Line
+	8970 4350 8970 4550
+Wire Wire Line
+	9390 4350 8970 4350
+Wire Wire Line
+	9390 4180 9390 4350
+Wire Wire Line
+	8970 4770 8970 4820
+Connection ~ 9630 4530
+Wire Wire Line
+	9630 4530 9600 4530
+Connection ~ 9630 4930
+Wire Wire Line
+	9580 4930 9630 4930
+Wire Wire Line
+	9630 3450 9630 5020
+Connection ~ 7200 3450
+Wire Wire Line
+	7200 4130 7200 3450
+Wire Wire Line
+	7490 4130 7200 4130
+Wire Wire Line
+	6990 4480 7490 4480
+Connection ~ 7340 5470
+Wire Wire Line
+	6990 5440 6990 5470
+Wire Wire Line
+	7340 4730 7340 4790
+Wire Wire Line
+	7490 4730 7340 4730
+Wire Wire Line
+	8440 3450 8440 3630
+Wire Wire Line
+	8440 3450 9630 3450
+Wire Wire Line
+	7990 3450 7990 3630
+Wire Wire Line
+	6800 3450 7990 3450
+Wire Wire Line
+	8190 5430 8190 5530
+Wire Wire Line
+	7340 5470 7340 5290
+Connection ~ 8190 5470
+Wire Wire Line
+	6990 5040 6990 4980
+Wire Wire Line
+	6800 5470 6800 4460
+Connection ~ 6990 5470
+Wire Wire Line
+	6800 4060 6800 3450
+Wire Wire Line
+	9630 5470 9630 5420
+Wire Wire Line
+	9630 5470 6800 5470
+Wire Wire Line
+	9030 5470 9030 5430
+Connection ~ 9030 5470
+Wire Wire Line
+	8940 4930 9080 4930
+Connection ~ 9030 4930
+Wire Wire Line
+	9000 4530 8940 4530
+Connection ~ 8970 4530
+Wire Wire Line
+	8990 4180 8940 4180
+$Comp
+L MCP1603 U?
+U 1 1 4E35449F
+P 7940 1950
+F 0 "U?" H 7540 2440 60  0000 C CNN
+F 1 "MCP1603" H 7940 2000 60  0000 C CNN
+	1    7940 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR?
+U 1 1 4E35449E
+P 6900 1440
+F 0 "#PWR?" H 6900 1530 20  0001 C CNN
+F 1 "+5V" H 6900 1530 30  0000 C CNN
+	1    6900 1440
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 4E35449D
+P 7940 2680
+F 0 "#PWR?" H 7940 2680 30  0001 C CNN
+F 1 "GND" H 7940 2610 30  0001 C CNN
+	1    7940 2680
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C?
+U 1 1 4E35449C
+P 6900 2210
+F 0 "C?" H 6950 2310 50  0000 L CNN
+F 1 "4.7uF" H 6950 2110 50  0000 L CNN
+	1    6900 2210
+	1    0    0    -1  
+$EndComp
+$Comp
+L INDUCTOR L?
+U 1 1 4E35449B
+P 9120 1600
+F 0 "L?" V 9070 1600 40  0000 C CNN
+F 1 "4.7uH" V 9220 1600 40  0000 C CNN
+	1    9120 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L +3.3V #PWR?
+U 1 1 4E35449A
+P 9630 1460
+F 0 "#PWR?" H 9630 1420 30  0001 C CNN
+F 1 "+3.3V" H 9630 1570 30  0000 C CNN
+	1    9630 1460
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C?
+U 1 1 4E354499
+P 9630 2010
+F 0 "C?" H 9680 2110 50  0000 L CNN
+F 1 "4.7uF" H 9680 1910 50  0000 L CNN
+	1    9630 2010
+	1    0    0    -1  
+$EndComp
+Connection ~ 9490 1600
+Wire Wire Line
+	9490 2200 8690 2200
+Wire Wire Line
+	9490 1600 9490 2200
+Connection ~ 9630 1600
+Wire Wire Line
+	8820 1600 8690 1600
+Connection ~ 6900 1600
+Connection ~ 7090 1600
+Wire Wire Line
+	7090 2200 7190 2200
+Wire Wire Line
+	7090 1600 7090 2200
+Wire Wire Line
+	6900 1440 6900 2010
+Wire Wire Line
+	6900 1600 7190 1600
+Wire Wire Line
+	7940 2600 7940 2680
+Wire Wire Line
+	6900 2640 6900 2410
+Connection ~ 7940 2640
+Wire Wire Line
+	9630 1600 9420 1600
+Wire Wire Line
+	9630 1460 9630 1810
+Wire Wire Line
+	9630 2640 9630 2210
+Wire Wire Line
+	9630 2640 6900 2640
+Wire Notes Line
+	6730 2770 6730 1180
+Wire Notes Line
+	9900 2770 6730 2770
+Wire Notes Line
+	9900 1180 9900 2770
+Wire Notes Line
+	9900 1180 6730 1180
+Text Notes 7430 1310 0    60   ~ 0
+5V to 3V3 @ 0.5A
+$Sheet
+S 3360 820  1530 1720
+U 4E32CDCE
+F0 "L2_PAIR" 60
+F1 "l2_pair.sch" 60
+$EndSheet
+$EndSCHEMATC
