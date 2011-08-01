@@ -1,4 +1,4 @@
-update=31/07/2011 23:34:55
+update=01/08/2011 00:43:22
 version=1
 last_client=eeschema
 [cvpcb]
@@ -142,3 +142,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=kicad/xmos_custom_library
+LibName32=kicad/XS1-L1-128
