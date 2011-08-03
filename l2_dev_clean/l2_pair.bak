@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 03/08/2011 13:04:04
+EESchema Schematic File Version 2  date 03/08/2011 15:12:52
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -36,7 +36,7 @@ EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
-Sheet 11 14
+Sheet 2 14
 Title ""
 Date "3 aug 2011"
 Rev ""
@@ -46,8 +46,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 5330 710  0    60   ~ 0
-L2 PAIR - PLACED ONE ABOVE THE OTHER
 Wire Notes Line
 	4480 550  4480 4610
 Wire Notes Line
@@ -324,6 +322,8 @@ Wire Wire Line
 	10350 3760 10140 3760
 Wire Wire Line
 	10350 1230 10140 1230
+Text Notes 5330 710  0    60   ~ 0
+L2 PAIR - PLACED ONE ABOVE THE OTHER
 Text HLabel 10350 1230 2    60   Input ~ 0
 +3V3
 Text HLabel 10350 3760 2    39   Input ~ 0
@@ -481,40 +481,40 @@ Text Label 8110 1230 2    60   ~ 0
 Text Label 5470 1230 2    60   ~ 0
 +1V0
 $Comp
-L +3.3V #PWR?
+L +3.3V #PWR0163
 U 1 1 4E35DB88
 P 2890 3300
-AR Path="/4E32CDCE/4E35DB88" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B740/4E35DB88" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B777/4E35DB88" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B760/4E35DB88" Ref="#PWR?"  Part="1" 
-F 0 "#PWR?" H 2890 3260 30  0001 C CNN
+AR Path="/4E36B777/4E35DB88" Ref="#PWR0163"  Part="1" 
+AR Path="/4E36B760/4E35DB88" Ref="#PWR0180"  Part="1" 
+AR Path="/4E36B740/4E35DB88" Ref="#PWR0197"  Part="1" 
+AR Path="/4E32CDCE/4E35DB88" Ref="#PWR0214"  Part="1" 
+F 0 "#PWR0214" H 2890 3260 30  0001 C CNN
 F 1 "+3.3V" H 2890 3410 30  0000 C CNN
 	1    2890 3300
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R?
+L R R202
 U 1 1 4E35DB40
 P 2710 3550
-AR Path="/4E32CDCE/4E35DB40" Ref="R?"  Part="1" 
-AR Path="/4E36B740/4E35DB40" Ref="R?"  Part="1" 
-AR Path="/4E36B777/4E35DB40" Ref="R?"  Part="1" 
-AR Path="/4E36B760/4E35DB40" Ref="R?"  Part="1" 
-F 0 "R?" V 2790 3550 50  0000 C CNN
+AR Path="/4E36B777/4E35DB40" Ref="R202"  Part="1" 
+AR Path="/4E36B760/4E35DB40" Ref="R502"  Part="1" 
+AR Path="/4E36B740/4E35DB40" Ref="R802"  Part="1" 
+AR Path="/4E32CDCE/4E35DB40" Ref="R1102"  Part="1" 
+F 0 "R202" V 2790 3550 50  0000 C CNN
 F 1 "10k" V 2710 3550 50  0000 C CNN
 	1    2710 3550
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R?
+L R R201
 U 1 1 4E35DB38
 P 2530 3550
-AR Path="/4E32CDCE/4E35DB38" Ref="R?"  Part="1" 
-AR Path="/4E36B740/4E35DB38" Ref="R?"  Part="1" 
-AR Path="/4E36B777/4E35DB38" Ref="R?"  Part="1" 
-AR Path="/4E36B760/4E35DB38" Ref="R?"  Part="1" 
-F 0 "R?" V 2610 3550 50  0000 C CNN
+AR Path="/4E36B777/4E35DB38" Ref="R201"  Part="1" 
+AR Path="/4E36B760/4E35DB38" Ref="R501"  Part="1" 
+AR Path="/4E36B740/4E35DB38" Ref="R801"  Part="1" 
+AR Path="/4E32CDCE/4E35DB38" Ref="R1101"  Part="1" 
+F 0 "R201" V 2610 3550 50  0000 C CNN
 F 1 "10k" V 2530 3550 50  0000 C CNN
 	1    2530 3550
 	1    0    0    -1  
@@ -538,53 +538,53 @@ TMS
 Text HLabel 1000 2630 0    39   Input ~ 0
 TCK
 $Comp
-L GND #PWR?
+L GND #PWR0164
 U 1 1 4E35D9C0
 P 2340 4500
-AR Path="/4E32CDCE/4E35D9C0" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B740/4E35D9C0" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B777/4E35D9C0" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B760/4E35D9C0" Ref="#PWR?"  Part="1" 
-F 0 "#PWR?" H 2340 4500 30  0001 C CNN
+AR Path="/4E36B777/4E35D9C0" Ref="#PWR0164"  Part="1" 
+AR Path="/4E36B760/4E35D9C0" Ref="#PWR0181"  Part="1" 
+AR Path="/4E36B740/4E35D9C0" Ref="#PWR0198"  Part="1" 
+AR Path="/4E32CDCE/4E35D9C0" Ref="#PWR0215"  Part="1" 
+F 0 "#PWR0215" H 2340 4500 30  0001 C CNN
 F 1 "GND" H 2340 4430 30  0001 C CNN
 	1    2340 4500
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR?
+L GND #PWR0165
 U 1 1 4E35D9AA
 P 2340 3180
-AR Path="/4E32CDCE/4E35D9AA" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B740/4E35D9AA" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B777/4E35D9AA" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B760/4E35D9AA" Ref="#PWR?"  Part="1" 
-F 0 "#PWR?" H 2340 3180 30  0001 C CNN
+AR Path="/4E36B777/4E35D9AA" Ref="#PWR0165"  Part="1" 
+AR Path="/4E36B760/4E35D9AA" Ref="#PWR0182"  Part="1" 
+AR Path="/4E36B740/4E35D9AA" Ref="#PWR0199"  Part="1" 
+AR Path="/4E32CDCE/4E35D9AA" Ref="#PWR0216"  Part="1" 
+F 0 "#PWR0216" H 2340 3180 30  0001 C CNN
 F 1 "GND" H 2340 3110 30  0001 C CNN
 	1    2340 3180
 	1    0    0    -1  
 $EndComp
 $Comp
-L +3.3V #PWR?
+L +3.3V #PWR0166
 U 1 1 4E35D9A0
 P 2340 3570
-AR Path="/4E32CDCE/4E35D9A0" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B740/4E35D9A0" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B777/4E35D9A0" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B760/4E35D9A0" Ref="#PWR?"  Part="1" 
-F 0 "#PWR?" H 2340 3530 30  0001 C CNN
+AR Path="/4E36B777/4E35D9A0" Ref="#PWR0166"  Part="1" 
+AR Path="/4E36B760/4E35D9A0" Ref="#PWR0183"  Part="1" 
+AR Path="/4E36B740/4E35D9A0" Ref="#PWR0200"  Part="1" 
+AR Path="/4E32CDCE/4E35D9A0" Ref="#PWR0217"  Part="1" 
+F 0 "#PWR0217" H 2340 3530 30  0001 C CNN
 F 1 "+3.3V" H 2340 3680 30  0000 C CNN
 	1    2340 3570
 	1    0    0    -1  
 $EndComp
 $Comp
-L +3.3V #PWR?
+L +3.3V #PWR0167
 U 1 1 4E35D98B
 P 2340 2250
-AR Path="/4E32CDCE/4E35D98B" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B740/4E35D98B" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B777/4E35D98B" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B760/4E35D98B" Ref="#PWR?"  Part="1" 
-F 0 "#PWR?" H 2340 2210 30  0001 C CNN
+AR Path="/4E36B777/4E35D98B" Ref="#PWR0167"  Part="1" 
+AR Path="/4E36B760/4E35D98B" Ref="#PWR0184"  Part="1" 
+AR Path="/4E36B740/4E35D98B" Ref="#PWR0201"  Part="1" 
+AR Path="/4E32CDCE/4E35D98B" Ref="#PWR0218"  Part="1" 
+F 0 "#PWR0218" H 2340 2210 30  0001 C CNN
 F 1 "+3.3V" H 2340 2360 30  0000 C CNN
 	1    2340 2250
 	1    0    0    -1  
@@ -592,27 +592,27 @@ $EndComp
 Text HLabel 990  1460 1    39   Input ~ 0
 +3V3_PG
 $Comp
-L NC7WZ17 U?
+L NC7WZ17 U201
 U 1 1 4E35D8BD
 P 1690 2730
-AR Path="/4E32CDCE/4E35D8BD" Ref="U?"  Part="1" 
-AR Path="/4E36B740/4E35D8BD" Ref="U?"  Part="1" 
-AR Path="/4E36B777/4E35D8BD" Ref="U?"  Part="1" 
-AR Path="/4E36B760/4E35D8BD" Ref="U?"  Part="1" 
-F 0 "U?" H 1390 3130 60  0000 C CNN
+AR Path="/4E36B777/4E35D8BD" Ref="U201"  Part="1" 
+AR Path="/4E36B760/4E35D8BD" Ref="U501"  Part="1" 
+AR Path="/4E36B740/4E35D8BD" Ref="U801"  Part="1" 
+AR Path="/4E32CDCE/4E35D8BD" Ref="U1101"  Part="1" 
+F 0 "U201" H 1390 3130 60  0000 C CNN
 F 1 "NC7WZ17" H 1540 2330 60  0000 C CNN
 	1    1690 2730
 	1    0    0    -1  
 $EndComp
 $Comp
-L NC7WZ07 U?
+L NC7WZ07 U202
 U 1 1 4E35D8B1
 P 1690 4050
-AR Path="/4E32CDCE/4E35D8B1" Ref="U?"  Part="1" 
-AR Path="/4E36B740/4E35D8B1" Ref="U?"  Part="1" 
-AR Path="/4E36B777/4E35D8B1" Ref="U?"  Part="1" 
-AR Path="/4E36B760/4E35D8B1" Ref="U?"  Part="1" 
-F 0 "U?" H 1390 4450 60  0000 C CNN
+AR Path="/4E36B777/4E35D8B1" Ref="U202"  Part="1" 
+AR Path="/4E36B760/4E35D8B1" Ref="U502"  Part="1" 
+AR Path="/4E36B740/4E35D8B1" Ref="U802"  Part="1" 
+AR Path="/4E32CDCE/4E35D8B1" Ref="U1102"  Part="1" 
+F 0 "U202" H 1390 4450 60  0000 C CNN
 F 1 "NC7WZ07" H 1540 3650 60  0000 C CNN
 	1    1690 4050
 	1    0    0    -1  
@@ -622,118 +622,118 @@ Text Notes 1320 720  0    60   ~ 0
 Text Label 3880 830  1    60   ~ 0
 +1V0
 $Comp
-L C C?
+L C C203
 U 1 1 4E35D6A2
 P 3800 1190
-AR Path="/4E32CDCE/4E35D6A2" Ref="C?"  Part="1" 
-AR Path="/4E36B740/4E35D6A2" Ref="C?"  Part="1" 
-AR Path="/4E36B777/4E35D6A2" Ref="C?"  Part="1" 
-AR Path="/4E36B760/4E35D6A2" Ref="C?"  Part="1" 
-F 0 "C?" H 3850 1290 50  0000 L CNN
+AR Path="/4E36B777/4E35D6A2" Ref="C203"  Part="1" 
+AR Path="/4E36B760/4E35D6A2" Ref="C503"  Part="1" 
+AR Path="/4E36B740/4E35D6A2" Ref="C803"  Part="1" 
+AR Path="/4E32CDCE/4E35D6A2" Ref="C1103"  Part="1" 
+F 0 "C203" H 3850 1290 50  0000 L CNN
 F 1 "10uF" H 3850 1090 50  0000 L CNN
 	1    3800 1190
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C?
+L C C202
 U 1 1 4E35D649
 P 3500 1190
-AR Path="/4E32CDCE/4E35D649" Ref="C?"  Part="1" 
-AR Path="/4E36B740/4E35D649" Ref="C?"  Part="1" 
-AR Path="/4E36B777/4E35D649" Ref="C?"  Part="1" 
-AR Path="/4E36B760/4E35D649" Ref="C?"  Part="1" 
-F 0 "C?" H 3510 1290 50  0000 L CNN
+AR Path="/4E36B777/4E35D649" Ref="C202"  Part="1" 
+AR Path="/4E36B760/4E35D649" Ref="C502"  Part="1" 
+AR Path="/4E36B740/4E35D649" Ref="C802"  Part="1" 
+AR Path="/4E32CDCE/4E35D649" Ref="C1102"  Part="1" 
+F 0 "C202" H 3510 1290 50  0000 L CNN
 F 1 "33pF" H 3510 1100 50  0000 L CNN
 	1    3500 1190
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R?
+L R R204
 U 1 1 4E35D5DA
 P 3230 1700
-AR Path="/4E32CDCE/4E35D5DA" Ref="R?"  Part="1" 
-AR Path="/4E36B740/4E35D5DA" Ref="R?"  Part="1" 
-AR Path="/4E36B777/4E35D5DA" Ref="R?"  Part="1" 
-AR Path="/4E36B760/4E35D5DA" Ref="R?"  Part="1" 
-F 0 "R?" V 3310 1700 50  0000 C CNN
+AR Path="/4E36B777/4E35D5DA" Ref="R204"  Part="1" 
+AR Path="/4E36B760/4E35D5DA" Ref="R504"  Part="1" 
+AR Path="/4E36B740/4E35D5DA" Ref="R804"  Part="1" 
+AR Path="/4E32CDCE/4E35D5DA" Ref="R1104"  Part="1" 
+F 0 "R204" V 3310 1700 50  0000 C CNN
 F 1 "100k" V 3230 1700 50  0000 C CNN
 	1    3230 1700
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R?
+L R R203
 U 1 1 4E35D5C1
 P 3230 1170
-AR Path="/4E32CDCE/4E35D5C1" Ref="R?"  Part="1" 
-AR Path="/4E36B740/4E35D5C1" Ref="R?"  Part="1" 
-AR Path="/4E36B777/4E35D5C1" Ref="R?"  Part="1" 
-AR Path="/4E36B760/4E35D5C1" Ref="R?"  Part="1" 
-F 0 "R?" V 3310 1170 50  0000 C CNN
+AR Path="/4E36B777/4E35D5C1" Ref="R203"  Part="1" 
+AR Path="/4E36B760/4E35D5C1" Ref="R503"  Part="1" 
+AR Path="/4E36B740/4E35D5C1" Ref="R803"  Part="1" 
+AR Path="/4E32CDCE/4E35D5C1" Ref="R1103"  Part="1" 
+F 0 "R203" V 3310 1170 50  0000 C CNN
 F 1 "68k" V 3230 1170 50  0000 C CNN
 	1    3230 1170
 	1    0    0    -1  
 $EndComp
 $Comp
-L INDUCTOR L?
+L INDUCTOR L201
 U 1 1 4E35D5AC
 P 2840 920
-AR Path="/4E32CDCE/4E35D5AC" Ref="L?"  Part="1" 
-AR Path="/4E36B740/4E35D5AC" Ref="L?"  Part="1" 
-AR Path="/4E36B777/4E35D5AC" Ref="L?"  Part="1" 
-AR Path="/4E36B760/4E35D5AC" Ref="L?"  Part="1" 
-F 0 "L?" V 2790 920 40  0000 C CNN
+AR Path="/4E36B777/4E35D5AC" Ref="L201"  Part="1" 
+AR Path="/4E36B760/4E35D5AC" Ref="L501"  Part="1" 
+AR Path="/4E36B740/4E35D5AC" Ref="L801"  Part="1" 
+AR Path="/4E32CDCE/4E35D5AC" Ref="L1101"  Part="1" 
+F 0 "L201" V 2790 920 40  0000 C CNN
 F 1 "INDUCTOR" V 2940 920 40  0000 C CNN
 	1    2840 920 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L GND #PWR?
+L GND #PWR0168
 U 1 1 4E3545A6
 P 1740 1980
-AR Path="/4E32CDCE/4E3545A6" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B740/4E3545A6" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B777/4E3545A6" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B760/4E3545A6" Ref="#PWR?"  Part="1" 
-F 0 "#PWR?" H 1740 1980 30  0001 C CNN
+AR Path="/4E36B777/4E3545A6" Ref="#PWR0168"  Part="1" 
+AR Path="/4E36B760/4E3545A6" Ref="#PWR0185"  Part="1" 
+AR Path="/4E36B740/4E3545A6" Ref="#PWR0202"  Part="1" 
+AR Path="/4E32CDCE/4E3545A6" Ref="#PWR0219"  Part="1" 
+F 0 "#PWR0219" H 1740 1980 30  0001 C CNN
 F 1 "GND" H 1740 1910 30  0001 C CNN
 	1    1740 1980
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C?
+L C C201
 U 1 1 4E354587
 P 690 1150
-AR Path="/4E32CDCE/4E354587" Ref="C?"  Part="1" 
-AR Path="/4E36B740/4E354587" Ref="C?"  Part="1" 
-AR Path="/4E36B777/4E354587" Ref="C?"  Part="1" 
-AR Path="/4E36B760/4E354587" Ref="C?"  Part="1" 
-F 0 "C?" H 740 1250 50  0000 L CNN
+AR Path="/4E36B777/4E354587" Ref="C201"  Part="1" 
+AR Path="/4E36B760/4E354587" Ref="C501"  Part="1" 
+AR Path="/4E36B740/4E354587" Ref="C801"  Part="1" 
+AR Path="/4E32CDCE/4E354587" Ref="C1101"  Part="1" 
+F 0 "C201" H 740 1250 50  0000 L CNN
 F 1 "10uF" H 740 1050 50  0000 L CNN
 	1    690  1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L +5V #PWR?
+L +5V #PWR0169
 U 1 1 4E35455A
 P 690 750
-AR Path="/4E32CDCE/4E35455A" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B740/4E35455A" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B777/4E35455A" Ref="#PWR?"  Part="1" 
-AR Path="/4E36B760/4E35455A" Ref="#PWR?"  Part="1" 
-F 0 "#PWR?" H 690 840 20  0001 C CNN
+AR Path="/4E36B777/4E35455A" Ref="#PWR0169"  Part="1" 
+AR Path="/4E36B760/4E35455A" Ref="#PWR0186"  Part="1" 
+AR Path="/4E36B740/4E35455A" Ref="#PWR0203"  Part="1" 
+AR Path="/4E32CDCE/4E35455A" Ref="#PWR0220"  Part="1" 
+F 0 "#PWR0220" H 690 840 20  0001 C CNN
 F 1 "+5V" H 690 840 30  0000 C CNN
 	1    690  750 
 	1    0    0    -1  
 $EndComp
 $Comp
-L NCP1529 U?
+L NCP1529 U203
 U 1 1 4E354532
 P 1740 1270
-AR Path="/4E32CDCE/4E354532" Ref="U?"  Part="1" 
-AR Path="/4E36B740/4E354532" Ref="U?"  Part="1" 
-AR Path="/4E36B777/4E354532" Ref="U?"  Part="1" 
-AR Path="/4E36B760/4E354532" Ref="U?"  Part="1" 
-F 0 "U?" H 1740 1220 60  0000 C CNN
+AR Path="/4E36B777/4E354532" Ref="U203"  Part="1" 
+AR Path="/4E36B760/4E354532" Ref="U503"  Part="1" 
+AR Path="/4E36B740/4E354532" Ref="U803"  Part="1" 
+AR Path="/4E32CDCE/4E354532" Ref="U1103"  Part="1" 
+F 0 "U203" H 1740 1220 60  0000 C CNN
 F 1 "NCP1529" H 1740 1320 60  0000 C CNN
 	1    1740 1270
 	1    0    0    -1  
@@ -741,7 +741,7 @@ $EndComp
 $Sheet
 S 8900 1150 1240 2720
 U 4E3470E5
-F0 "L2" 60
+F0 "L2_1" 60
 F1 "l2.sch" 60
 F2 "X1_XLA_4o" I R 10140 1390 60 
 F3 "X1_XLA_3o" I R 10140 1480 60 
@@ -797,7 +797,7 @@ $EndSheet
 $Sheet
 S 5600 1150 1240 2720
 U 4E32CE0C
-F0 "L2" 60
+F0 "L2_0" 60
 F1 "l2.sch" 60
 F2 "X1_XLA_4o" I R 6840 1390 60 
 F3 "X1_XLA_3o" I R 6840 1480 60 
