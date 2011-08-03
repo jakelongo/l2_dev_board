@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 02/08/2011 17:17:29
+EESchema-DOCLIB  Version 2.0  Date: 02/08/2011 17:18:55
 #
 $CMP +1V0
 D +1V0
@@ -53,9 +53,9 @@ F C:/Users/Jake/Downloads/xmos/mcp1603.pdf
 $ENDCMP
 #
 $CMP NC7SZ157
-D 1:2 NON INVERTING DEMULTIPLEXER
-K SN74LVC1G18
-F C:/Users/Jake/Downloads/xmos/sn74lvc1g18.pdf
+D 2:1 NON INVERTING MULTIPLEXER
+K NC7SZ157
+F C:/Users/Jake/Downloads/xmos/NC7SZ157.pdf
 $ENDCMP
 #
 $CMP NC7WZ07

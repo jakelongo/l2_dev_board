@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 03/08/2011 10:09:58
+EESchema Schematic File Version 2  date 03/08/2011 13:04:04
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -46,6 +46,68 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Notes 5020 2360 0    61   ~ 0
+L1 MODULE
+Wire Notes Line
+	4870 2500 4870 2220
+Wire Notes Line
+	4870 2220 7230 2220
+Wire Notes Line
+	7230 2220 7230 4170
+Wire Notes Line
+	7230 4170 4870 4170
+Wire Notes Line
+	4870 4170 4870 2480
+Wire Wire Line
+	7130 6070 7130 6030
+Wire Wire Line
+	7130 6960 7130 6920
+Wire Wire Line
+	7130 7860 7130 7820
+Wire Wire Line
+	7130 8750 7130 8710
+Wire Wire Line
+	7130 5170 7130 5130
+Wire Wire Line
+	7130 8510 7240 8510
+Wire Wire Line
+	7130 8310 7240 8310
+Wire Wire Line
+	7130 4730 7240 4730
+Wire Wire Line
+	7130 4930 7240 4930
+Wire Wire Line
+	7130 5830 7240 5830
+Wire Wire Line
+	7130 5630 7240 5630
+Wire Wire Line
+	7130 7420 7240 7420
+Wire Wire Line
+	7130 7620 7240 7620
+Wire Wire Line
+	7130 6720 7240 6720
+Wire Wire Line
+	7130 6520 7240 6520
+Wire Wire Line
+	5830 5630 5720 5630
+Wire Wire Line
+	5830 8510 5720 8510
+Wire Wire Line
+	5830 8310 5720 8310
+Wire Wire Line
+	5830 4730 5720 4730
+Wire Wire Line
+	5830 5830 5720 5830
+Wire Wire Line
+	5830 4930 5720 4930
+Wire Wire Line
+	5830 7420 5720 7420
+Wire Wire Line
+	5830 7620 5720 7620
+Wire Wire Line
+	5830 6720 5720 6720
+Wire Wire Line
+	5830 6520 5720 6520
 Wire Notes Line
 	2770 12280 5090 12280
 Wire Wire Line
@@ -73,21 +135,21 @@ Wire Wire Line
 Wire Wire Line
 	3380 8670 3380 8780
 Wire Wire Line
-	4540 8370 4480 8370
+	4540 8390 4480 8390
 Wire Wire Line
-	4540 8550 4480 8550
+	4540 8530 4480 8530
 Wire Wire Line
-	4540 9570 4480 9570
+	4540 9550 4480 9550
 Wire Wire Line
-	4540 9390 4480 9390
+	4540 9410 4480 9410
 Wire Wire Line
-	4540 11610 4480 11610
+	4540 11630 4480 11630
 Wire Wire Line
-	4540 11790 4480 11790
+	4540 11770 4480 11770
 Wire Wire Line
-	4540 10770 4480 10770
+	4540 10750 4480 10750
 Wire Wire Line
-	4540 10590 4480 10590
+	4540 10610 4480 10610
 Wire Wire Line
 	3380 10890 3380 11000
 Wire Wire Line
@@ -101,35 +163,15 @@ Wire Wire Line
 Wire Wire Line
 	3380 11910 3380 12020
 Wire Wire Line
-	6740 10080 6850 10080
+	6560 2660 6670 2660
 Wire Wire Line
-	6740 10560 6850 10560
+	6560 3140 6670 3140
 Wire Wire Line
-	6740 10480 6850 10480
+	6560 3060 6670 3060
 Wire Wire Line
-	6740 10240 6850 10240
+	6560 2820 6670 2820
 Wire Wire Line
-	6740 10400 6850 10400
-Wire Notes Line
-	3080 14020 530  14020
-Wire Notes Line
-	3080 14020 3080 15420
-Wire Notes Line
-	3080 15420 530  15420
-Wire Notes Line
-	530  15420 530  14020
-Wire Wire Line
-	2270 15260 2270 15110
-Wire Wire Line
-	2270 14330 2270 14510
-Wire Wire Line
-	930  14710 970  14710
-Wire Wire Line
-	930  14910 970  14910
-Wire Wire Line
-	2270 14710 2330 14710
-Wire Wire Line
-	2270 14910 2330 14910
+	6560 2980 6670 2980
 Wire Wire Line
 	17950 14640 17950 14730
 Wire Wire Line
@@ -342,21 +384,21 @@ Wire Wire Line
 Wire Wire Line
 	1000 10890 1000 11000
 Wire Wire Line
-	2160 10590 2100 10590
+	2160 10610 2100 10610
 Wire Wire Line
-	2160 10770 2100 10770
+	2160 10750 2100 10750
 Wire Wire Line
-	2160 11790 2100 11790
+	2160 11770 2100 11770
 Wire Wire Line
-	2160 11610 2100 11610
+	2160 11630 2100 11630
 Wire Wire Line
-	2160 9390 2100 9390
+	2160 9410 2100 9410
 Wire Wire Line
-	2160 9570 2100 9570
+	2160 9550 2100 9550
 Wire Wire Line
-	2160 8550 2100 8550
+	2160 8530 2100 8530
 Wire Wire Line
-	2160 8370 2100 8370
+	2160 8390 2100 8390
 Wire Wire Line
 	1000 8670 1000 8780
 Wire Wire Line
@@ -868,17 +910,17 @@ Wire Wire Line
 Wire Wire Line
 	2600 3220 2650 3220
 Wire Wire Line
-	2130 3550 1920 3550
+	1920 3550 2130 3550
 Wire Wire Line
 	840  3550 920  3550
 Wire Wire Line
 	2870 1580 2820 1580
 Connection ~ 2850 1930
 Wire Wire Line
-	2880 1930 2820 1930
+	2820 1930 2880 1930
 Connection ~ 2910 2330
 Wire Wire Line
-	2820 2330 2960 2330
+	2960 2330 2820 2330
 Connection ~ 2910 2870
 Wire Wire Line
 	2910 2870 2910 2830
@@ -897,7 +939,7 @@ Connection ~ 2070 2870
 Wire Wire Line
 	1220 2870 1220 2690
 Wire Wire Line
-	2070 2830 2070 2930
+	2070 2930 2070 2830
 Wire Wire Line
 	680  850  1870 850 
 Wire Wire Line
@@ -963,15 +1005,15 @@ Wire Wire Line
 	3940 1300 3940 1900
 Connection ~ 3940 870 
 Wire Wire Line
-	3940 700  3940 900 
+	3940 900  3940 700 
 Wire Wire Line
 	4240 870  3940 870 
 Wire Wire Line
-	4990 1870 4990 1930
+	4990 1930 4990 1870
 Wire Wire Line
 	5790 870  5740 870 
 Wire Wire Line
-	6480 1400 6480 1370
+	6480 1370 6480 1400
 Connection ~ 6480 870 
 Connection ~ 6480 1380
 Wire Wire Line
@@ -996,7 +1038,7 @@ Wire Wire Line
 Wire Wire Line
 	2630 4050 2630 4080
 Wire Wire Line
-	2100 3220 2100 3550
+	2100 3550 2100 3220
 Connection ~ 2100 3550
 Wire Wire Line
 	1960 3550 1960 3220
@@ -1925,13 +1967,13 @@ Wire Wire Line
 Wire Wire Line
 	1550 11110 1550 11150
 Wire Wire Line
-	2100 12650 2790 12650
+	2790 12650 2100 12650
 Wire Wire Line
-	2100 12850 2790 12850
+	2790 12850 2100 12850
 Wire Wire Line
-	2100 13250 2790 13250
+	2790 13250 2100 13250
 Wire Wire Line
-	2100 13050 2790 13050
+	2790 13050 2100 13050
 Wire Wire Line
 	2340 13310 2340 12850
 Connection ~ 2340 12850
@@ -1940,7 +1982,7 @@ Wire Wire Line
 Connection ~ 2660 13250
 Connection ~ 2500 13810
 Wire Wire Line
-	2660 13810 2180 13810
+	2180 13810 2660 13810
 Connection ~ 2420 13810
 Connection ~ 2340 13810
 Wire Wire Line
@@ -1953,6 +1995,273 @@ Wire Wire Line
 	12140 8490 11870 8490
 Wire Notes Line
 	5090 7490 2770 7490
+Wire Wire Line
+	7130 8070 7130 8110
+Wire Wire Line
+	7130 4490 7130 4530
+Wire Wire Line
+	7130 5390 7130 5430
+Wire Wire Line
+	7130 6280 7130 6320
+Wire Wire Line
+	7130 7180 7130 7220
+Wire Notes Line
+	7760 4220 5310 4220
+Wire Notes Line
+	7760 4220 7760 8850
+Wire Notes Line
+	7760 8850 5310 8850
+Wire Notes Line
+	5310 8850 5310 4220
+Wire Wire Line
+	6560 2740 6670 2740
+Wire Wire Line
+	6560 2900 6670 2900
+Wire Wire Line
+	6560 3530 6670 3530
+Wire Wire Line
+	6560 3370 6670 3370
+Wire Wire Line
+	6560 3450 6670 3450
+Wire Wire Line
+	6560 3290 6670 3290
+Wire Wire Line
+	6560 3690 6670 3690
+Wire Wire Line
+	6560 3850 6670 3850
+Wire Wire Line
+	6560 3770 6670 3770
+Wire Wire Line
+	6560 3930 6670 3930
+Wire Wire Line
+	5550 3930 5440 3930
+Wire Wire Line
+	5550 3770 5440 3770
+Wire Wire Line
+	5550 3850 5440 3850
+Wire Wire Line
+	5550 3690 5440 3690
+Wire Wire Line
+	5550 3290 5440 3290
+Wire Wire Line
+	5550 3450 5440 3450
+Wire Wire Line
+	5550 3370 5440 3370
+Wire Wire Line
+	5550 3530 5440 3530
+Text Label 5440 3530 2    39   ~ 0
+L1_XLINK_1i_B
+Text Label 5440 3450 2    39   ~ 0
+L1_XLINK_0i_B
+Text Label 5440 3290 2    39   ~ 0
+L1_XLINK_1o_B
+Text Label 5440 3370 2    39   ~ 0
+L1_XLINK_0o_B
+Text Label 5440 3770 2    39   ~ 0
+L1_XLINK_0o_L
+Text Label 5440 3690 2    39   ~ 0
+L1_XLINK_1o_L
+Text Label 5440 3850 2    39   ~ 0
+L1_XLINK_0i_L
+Text Label 5440 3930 2    39   ~ 0
+L1_XLINK_1i_L
+Text Label 6670 3850 0    39   ~ 0
+L1_XLINK_0o_T
+Text Label 6670 3930 0    39   ~ 0
+L1_XLINK_1o_T
+Text Label 6670 3770 0    39   ~ 0
+L1_XLINK_0i_T
+Text Label 6670 3690 0    39   ~ 0
+L1_XLINK_1i_T
+Text Label 6670 3290 0    39   ~ 0
+L1_XLINK_1i_R
+Text Label 6670 3370 0    39   ~ 0
+L1_XLINK_0i_R
+Text Label 6670 3530 0    39   ~ 0
+L1_XLINK_1o_R
+Text Label 6670 3450 0    39   ~ 0
+L1_XLINK_0o_R
+Text Label 6670 2900 0    39   ~ 0
+L1_TDO_Q1
+Text Label 6670 2740 0    39   ~ 0
+L1_TDI_L
+Text Notes 5380 4370 0    60   ~ 0
+JTAG SIGNAL BUFFERS
+$Comp
+L GND #PWR?
+U 1 1 4E3927A7
+P 7130 6070
+F 0 "#PWR?" H 7130 6070 30  0001 C CNN
+F 1 "GND" H 7130 6000 30  0001 C CNN
+	1    7130 6070
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 4E39279F
+P 7130 6960
+F 0 "#PWR?" H 7130 6960 30  0001 C CNN
+F 1 "GND" H 7130 6890 30  0001 C CNN
+	1    7130 6960
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 4E392799
+P 7130 7860
+F 0 "#PWR?" H 7130 7860 30  0001 C CNN
+F 1 "GND" H 7130 7790 30  0001 C CNN
+	1    7130 7860
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 4E392793
+P 7130 8750
+F 0 "#PWR?" H 7130 8750 30  0001 C CNN
+F 1 "GND" H 7130 8680 30  0001 C CNN
+	1    7130 8750
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 4E39278A
+P 7130 5170
+F 0 "#PWR?" H 7130 5170 30  0001 C CNN
+F 1 "GND" H 7130 5100 30  0001 C CNN
+	1    7130 5170
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR?
+U 1 1 4E392779
+P 7130 7180
+F 0 "#PWR?" H 7130 7140 30  0001 C CNN
+F 1 "+3.3V" H 7130 7290 30  0000 C CNN
+	1    7130 7180
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR?
+U 1 1 4E392773
+P 7130 6280
+F 0 "#PWR?" H 7130 6240 30  0001 C CNN
+F 1 "+3.3V" H 7130 6390 30  0000 C CNN
+	1    7130 6280
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR?
+U 1 1 4E39276D
+P 7130 5390
+F 0 "#PWR?" H 7130 5350 30  0001 C CNN
+F 1 "+3.3V" H 7130 5500 30  0000 C CNN
+	1    7130 5390
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR?
+U 1 1 4E392767
+P 7130 4490
+F 0 "#PWR?" H 7130 4450 30  0001 C CNN
+F 1 "+3.3V" H 7130 4600 30  0000 C CNN
+	1    7130 4490
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR?
+U 1 1 4E39273B
+P 7130 8070
+F 0 "#PWR?" H 7130 8030 30  0001 C CNN
+F 1 "+3.3V" H 7130 8180 30  0000 C CNN
+	1    7130 8070
+	1    0    0    -1  
+$EndComp
+Text Label 7240 4930 0    39   ~ 0
+TRST_N_BUF
+Text Label 7240 5630 0    39   ~ 0
+RST_N_BUF
+Text Label 7240 5830 0    39   ~ 0
+TCK_BUF
+Text Label 7240 6520 0    39   ~ 0
+TMS_BUF
+Text Label 7240 4730 0    39   ~ 0
+DEBUG_N_BUF
+Text Label 7240 8310 0    39   ~ 0
+L1_TCK_BUF
+Text Label 7240 8510 0    39   ~ 0
+L1_TMS_BUF
+Text Label 7240 6720 0    39   ~ 0
+L1_DEBUG_N_BUF
+Text Label 7240 7420 0    39   ~ 0
+L1_TRST_N_BUF
+Text Label 7240 7620 0    39   ~ 0
+L1_RST_N_BUF
+Text Label 5720 4930 2    39   ~ 0
+TRST_N
+Text Label 5720 5630 2    39   ~ 0
+RST_N
+Text Label 5720 5830 2    39   ~ 0
+TCK
+Text Label 5720 6520 2    39   ~ 0
+TMS
+Text Label 5720 4730 2    39   ~ 0
+DEBUG_N
+Text Label 5720 8310 2    39   ~ 0
+L1_TCK
+Text Label 5720 8510 2    39   ~ 0
+L1_TMS
+Text Label 5720 6720 2    39   ~ 0
+L1_DEBUG_N
+Text Label 5720 7420 2    39   ~ 0
+L1_TRST_N
+Text Label 5720 7620 2    39   ~ 0
+L1_RST_N
+$Comp
+L NC7WZ17 U?
+U 1 1 4E3925EF
+P 6480 4830
+F 0 "U?" H 6180 5230 60  0000 C CNN
+F 1 "NC7WZ17" H 6330 4430 60  0000 C CNN
+	1    6480 4830
+	1    0    0    -1  
+$EndComp
+$Comp
+L NC7WZ17 U?
+U 1 1 4E3925D1
+P 6480 7520
+F 0 "U?" H 6180 7920 60  0000 C CNN
+F 1 "NC7WZ17" H 6330 7120 60  0000 C CNN
+	1    6480 7520
+	1    0    0    -1  
+$EndComp
+$Comp
+L NC7WZ17 U?
+U 1 1 4E3925D0
+P 6480 8410
+F 0 "U?" H 6180 8810 60  0000 C CNN
+F 1 "NC7WZ17" H 6330 8010 60  0000 C CNN
+	1    6480 8410
+	1    0    0    -1  
+$EndComp
+$Comp
+L NC7WZ17 U?
+U 1 1 4E3925BA
+P 6480 6620
+F 0 "U?" H 6180 7020 60  0000 C CNN
+F 1 "NC7WZ17" H 6330 6220 60  0000 C CNN
+	1    6480 6620
+	1    0    0    -1  
+$EndComp
+$Comp
+L NC7WZ17 U?
+U 1 1 4E391861
+P 6480 5730
+F 0 "U?" H 6180 6130 60  0000 C CNN
+F 1 "NC7WZ17" H 6330 5330 60  0000 C CNN
+	1    6480 5730
+	1    0    0    -1  
+$EndComp
 $Comp
 L GND #PWR?
 U 1 1 4E390EA0
@@ -1993,21 +2302,21 @@ F 1 "GND" H 3380 9730 30  0001 C CNN
 	1    3380 9800
 	1    0    0    -1  
 $EndComp
-Text Label 4540 8370 0    60   ~ 0
+Text Label 4540 8390 0    60   ~ 0
 L1_TDO_T
-Text Label 4540 8550 0    60   ~ 0
+Text Label 4540 8530 0    60   ~ 0
 L1_TDI_T
-Text Label 4540 9570 0    60   ~ 0
+Text Label 4540 9550 0    60   ~ 0
 L1_TDI_R
-Text Label 4540 9390 0    60   ~ 0
+Text Label 4540 9410 0    60   ~ 0
 L1_TDO_R
-Text Label 4540 11610 0    60   ~ 0
+Text Label 4540 11630 0    60   ~ 0
 L1_TDO_L
-Text Label 4540 11790 0    60   ~ 0
+Text Label 4540 11770 0    60   ~ 0
 L1_TDI_L
-Text Label 4540 10770 0    60   ~ 0
+Text Label 4540 10750 0    60   ~ 0
 L1_TDI_B
-Text Label 4540 10590 0    60   ~ 0
+Text Label 4540 10610 0    60   ~ 0
 L1_TDO_B
 $Comp
 L GND #PWR?
@@ -2028,9 +2337,9 @@ F 1 "SN74LVC1G18" H 3950 11400 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 3280 11700 2    60   ~ 0
-L1_TDO_Q4
+L1_TDI_B
 Text Label 3280 10680 2    60   ~ 0
-L1_TDO_Q3
+L1_TDI_R
 $Comp
 L SN74LVC1G18 U?
 U 1 1 4E390E9A
@@ -2095,49 +2404,16 @@ Text Label 3930 10090 2    39   ~ 0
 SWT_3
 Text Label 3930 11110 2    39   ~ 0
 SWT_4
-Text Label 6850 10560 0    39   ~ 0
+Text Label 6670 3140 0    39   ~ 0
 L1_RST_N
-Text Label 6850 10480 0    39   ~ 0
+Text Label 6670 3060 0    39   ~ 0
 L1_TRST_N
-Text Label 6850 10080 0    39   ~ 0
+Text Label 6670 2660 0    39   ~ 0
 L1_DEBUG_N
-Text Label 6850 10400 0    39   ~ 0
+Text Label 6670 2980 0    39   ~ 0
 L1_TMS
-Text Label 6850 10240 0    39   ~ 0
+Text Label 6670 2820 0    39   ~ 0
 L1_TCK
-Text Notes 760  14170 0    61   ~ 0
-L1 REVERSE JTAG BUFFER
-Text Label 2330 14710 0    39   ~ 0
-L1_TDO_B
-Text Label 930  14710 2    39   ~ 0
-L1_TDI_R
-$Comp
-L NC7WZ17 U?
-U 1 1 4E383C9E
-P 1620 14810
-F 0 "U?" H 1320 15210 60  0000 C CNN
-F 1 "NC7WZ17" H 1470 14410 60  0000 C CNN
-	1    1620 14810
-	1    0    0    -1  
-$EndComp
-$Comp
-L +3.3V #PWR?
-U 1 1 4E383C9D
-P 2270 14330
-F 0 "#PWR?" H 2270 14290 30  0001 C CNN
-F 1 "+3.3V" H 2270 14440 30  0000 C CNN
-	1    2270 14330
-	1    0    0    -1  
-$EndComp
-$Comp
-L GND #PWR?
-U 1 1 4E383C9C
-P 2270 15260
-F 0 "#PWR?" H 2270 15260 30  0001 C CNN
-F 1 "GND" H 2270 15190 30  0001 C CNN
-	1    2270 15260
-	1    0    0    -1  
-$EndComp
 $Comp
 L GND #PWR?
 U 1 1 4E382B87
@@ -2424,9 +2700,9 @@ MSEL_N
 Text Label 14070 8970 0    60   ~ 0
 TDO_Q4
 Text Label 14070 8810 0    60   ~ 0
-TDI_Q4
+TDI_B
 Text Label 17770 8810 0    60   ~ 0
-TDI_Q3
+TDI_R
 Text Label 17770 8970 0    60   ~ 0
 TDO_Q3
 Text Label 17770 8650 0    60   ~ 0
@@ -2448,7 +2724,7 @@ MSEL_N
 Text Label 17770 3760 0    60   ~ 0
 TDO_Q2
 Text Label 17770 3600 0    60   ~ 0
-TDI_Q2
+TDI_T
 $Comp
 L +5V #PWR?
 U 1 1 4E380F2F
@@ -2527,21 +2803,21 @@ F 1 "GND" H 1000 11950 30  0001 C CNN
 	1    1000 12020
 	1    0    0    -1  
 $EndComp
-Text Label 2160 10590 0    60   ~ 0
+Text Label 2160 10610 0    60   ~ 0
 TDO_B
-Text Label 2160 10770 0    60   ~ 0
+Text Label 2160 10750 0    60   ~ 0
 TDI_B
-Text Label 2160 11790 0    60   ~ 0
+Text Label 2160 11770 0    60   ~ 0
 TDI_L
-Text Label 2160 11610 0    60   ~ 0
+Text Label 2160 11630 0    60   ~ 0
 TDO_L
-Text Label 2160 9390 0    60   ~ 0
+Text Label 2160 9410 0    60   ~ 0
 TDO_R
-Text Label 2160 9570 0    60   ~ 0
+Text Label 2160 9550 0    60   ~ 0
 TDI_R
-Text Label 2160 8550 0    60   ~ 0
+Text Label 2160 8530 0    60   ~ 0
 TDI_T
-Text Label 2160 8370 0    60   ~ 0
+Text Label 2160 8390 0    60   ~ 0
 TDO_T
 $Comp
 L GND #PWR?
@@ -2584,7 +2860,7 @@ F 1 "GND" H 1000 8710 30  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 14070 3600 0    60   ~ 0
-TDI_Q1
+TDI_L
 Text Label 14070 3760 0    60   ~ 0
 TDO_Q1
 Text Label 14070 3440 0    60   ~ 0
@@ -4165,33 +4441,33 @@ F69 "TCK" I R 13930 3280 60
 F70 "+3V3_PG" I L 12140 3350 60 
 $EndSheet
 $Sheet
-S 5730 9940 1010 1540
+S 5550 2520 1010 1540
 U 4E366D48
 F0 "L1" 60
 F1 "l1.sch" 60
-F2 "TDI" I R 6740 10160 60 
-F3 "XLD_1o" I R 6740 11350 60 
-F4 "XLD_0o" I R 6740 11270 60 
-F5 "XLD_0i" I R 6740 11190 60 
-F6 "XLD_1i" I R 6740 11110 60 
-F7 "XLC_1i" I L 5730 11350 60 
-F8 "XLC_0i" I L 5730 11270 60 
-F9 "XLC_0o" I L 5730 11190 60 
-F10 "XLC_1o" I L 5730 11110 60 
-F11 "XLB_1o" I R 6740 10950 60 
-F12 "XLB_0o" I R 6740 10870 60 
-F13 "XLB_0i" I R 6740 10790 60 
-F14 "XLB_1i" I R 6740 10710 60 
-F15 "XLA_1i" I L 5730 10950 60 
-F16 "XLA_0i" I L 5730 10870 60 
-F17 "XLA_0o" I L 5730 10790 60 
-F18 "XLA_1o" I L 5730 10710 60 
-F19 "TDO" I R 6740 10320 60 
-F20 "TCK" I R 6740 10240 60 
-F21 "TMS" I R 6740 10400 60 
-F22 "MSEL_N" I R 6740 10480 60 
-F23 "RST_N" I R 6740 10560 60 
-F24 "DEBUG_N" I R 6740 10080 60 
+F2 "TDI" I R 6560 2740 60 
+F3 "XLD_1o" I R 6560 3930 60 
+F4 "XLD_0o" I R 6560 3850 60 
+F5 "XLD_0i" I R 6560 3770 60 
+F6 "XLD_1i" I R 6560 3690 60 
+F7 "XLC_1i" I L 5550 3930 60 
+F8 "XLC_0i" I L 5550 3850 60 
+F9 "XLC_0o" I L 5550 3770 60 
+F10 "XLC_1o" I L 5550 3690 60 
+F11 "XLB_1o" I R 6560 3530 60 
+F12 "XLB_0o" I R 6560 3450 60 
+F13 "XLB_0i" I R 6560 3370 60 
+F14 "XLB_1i" I R 6560 3290 60 
+F15 "XLA_1i" I L 5550 3530 60 
+F16 "XLA_0i" I L 5550 3450 60 
+F17 "XLA_0o" I L 5550 3370 60 
+F18 "XLA_1o" I L 5550 3290 60 
+F19 "TDO" I R 6560 2900 60 
+F20 "TCK" I R 6560 2820 60 
+F21 "TMS" I R 6560 2980 60 
+F22 "MSEL_N" I R 6560 3060 60 
+F23 "RST_N" I R 6560 3140 60 
+F24 "DEBUG_N" I R 6560 2660 60 
 $EndSheet
 Text Label 3190 3550 0    39   ~ 0
 RST_N
