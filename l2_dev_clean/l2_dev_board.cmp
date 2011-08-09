@@ -1,4 +1,4 @@
-Cmp-Mod V01 Genere par PcbNew le 09/08/2011 11:12:48
+Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 09/08/2011 13:23:21
 
 BeginCmp
 TimeStamp = /4E3544FC;
@@ -60,56 +60,56 @@ BeginCmp
 TimeStamp = /4E36B777/4E354587;
 Reference = C201;
 ValeurCmp = 10uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E35D649;
 Reference = C202;
 ValeurCmp = 33pF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E35D6A2;
 Reference = C203;
 ValeurCmp = 10uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E3470E5/4E32D1CA;
 Reference = C301;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E3470E5/4E32D7F4;
 Reference = C302;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E3470E5/4E32D7FC;
 Reference = C303;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E3470E5/4E32D822;
 Reference = C304;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E3470E5/4E32D828;
 Reference = C305;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -123,28 +123,28 @@ BeginCmp
 TimeStamp = /4E36B777/4E3470E5/4E32D8E0;
 Reference = C307;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E3470E5/4E32D8DF;
 Reference = C308;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E3470E5/4E32D8DE;
 Reference = C309;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E3470E5/4E32D8DD;
 Reference = C310;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -158,35 +158,35 @@ BeginCmp
 TimeStamp = /4E36B777/4E32CE0C/4E32D1CA;
 Reference = C401;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E32CE0C/4E32D7F4;
 Reference = C402;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E32CE0C/4E32D7FC;
 Reference = C403;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E32CE0C/4E32D822;
 Reference = C404;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E32CE0C/4E32D828;
 Reference = C405;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -200,28 +200,28 @@ BeginCmp
 TimeStamp = /4E36B777/4E32CE0C/4E32D8E0;
 Reference = C407;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E32CE0C/4E32D8DF;
 Reference = C408;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E32CE0C/4E32D8DE;
 Reference = C409;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E32CE0C/4E32D8DD;
 Reference = C410;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -235,56 +235,56 @@ BeginCmp
 TimeStamp = /4E36B760/4E354587;
 Reference = C501;
 ValeurCmp = 10uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E35D649;
 Reference = C502;
 ValeurCmp = 33pF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E35D6A2;
 Reference = C503;
 ValeurCmp = 10uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E3470E5/4E32D1CA;
 Reference = C601;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E3470E5/4E32D7F4;
 Reference = C602;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E3470E5/4E32D7FC;
 Reference = C603;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E3470E5/4E32D822;
 Reference = C604;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E3470E5/4E32D828;
 Reference = C605;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -298,28 +298,28 @@ BeginCmp
 TimeStamp = /4E36B760/4E3470E5/4E32D8E0;
 Reference = C607;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E3470E5/4E32D8DF;
 Reference = C608;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E3470E5/4E32D8DE;
 Reference = C609;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E3470E5/4E32D8DD;
 Reference = C610;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -333,35 +333,35 @@ BeginCmp
 TimeStamp = /4E36B760/4E32CE0C/4E32D1CA;
 Reference = C701;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E32CE0C/4E32D7F4;
 Reference = C702;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E32CE0C/4E32D7FC;
 Reference = C703;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E32CE0C/4E32D822;
 Reference = C704;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E32CE0C/4E32D828;
 Reference = C705;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -375,28 +375,28 @@ BeginCmp
 TimeStamp = /4E36B760/4E32CE0C/4E32D8E0;
 Reference = C707;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E32CE0C/4E32D8DF;
 Reference = C708;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E32CE0C/4E32D8DE;
 Reference = C709;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E32CE0C/4E32D8DD;
 Reference = C710;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -410,56 +410,56 @@ BeginCmp
 TimeStamp = /4E36B740/4E354587;
 Reference = C801;
 ValeurCmp = 10uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E35D649;
 Reference = C802;
 ValeurCmp = 33pF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E35D6A2;
 Reference = C803;
 ValeurCmp = 10uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E3470E5/4E32D1CA;
 Reference = C901;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E3470E5/4E32D7F4;
 Reference = C902;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E3470E5/4E32D7FC;
 Reference = C903;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E3470E5/4E32D822;
 Reference = C904;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E3470E5/4E32D828;
 Reference = C905;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -473,28 +473,28 @@ BeginCmp
 TimeStamp = /4E36B740/4E3470E5/4E32D8E0;
 Reference = C907;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E3470E5/4E32D8DF;
 Reference = C908;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E3470E5/4E32D8DE;
 Reference = C909;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E3470E5/4E32D8DD;
 Reference = C910;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -508,35 +508,35 @@ BeginCmp
 TimeStamp = /4E36B740/4E32CE0C/4E32D1CA;
 Reference = C1001;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E32CE0C/4E32D7F4;
 Reference = C1002;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E32CE0C/4E32D7FC;
 Reference = C1003;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E32CE0C/4E32D822;
 Reference = C1004;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E32CE0C/4E32D828;
 Reference = C1005;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -550,28 +550,28 @@ BeginCmp
 TimeStamp = /4E36B740/4E32CE0C/4E32D8E0;
 Reference = C1007;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E32CE0C/4E32D8DF;
 Reference = C1008;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E32CE0C/4E32D8DE;
 Reference = C1009;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E32CE0C/4E32D8DD;
 Reference = C1010;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -606,35 +606,35 @@ BeginCmp
 TimeStamp = /4E32CDCE/4E3470E5/4E32D1CA;
 Reference = C1201;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E3470E5/4E32D7F4;
 Reference = C1202;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E3470E5/4E32D7FC;
 Reference = C1203;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E3470E5/4E32D822;
 Reference = C1204;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E3470E5/4E32D828;
 Reference = C1205;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -648,28 +648,28 @@ BeginCmp
 TimeStamp = /4E32CDCE/4E3470E5/4E32D8E0;
 Reference = C1207;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E3470E5/4E32D8DF;
 Reference = C1208;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E3470E5/4E32D8DE;
 Reference = C1209;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E3470E5/4E32D8DD;
 Reference = C1210;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
