@@ -1,4 +1,4 @@
-Cmp-Mod V01 Genere par PcbNew le 09/08/2011 09:29:13
+Cmp-Mod V01 Genere par PcbNew le 09/08/2011 11:12:48
 
 BeginCmp
 TimeStamp = /4E3544FC;
@@ -683,35 +683,35 @@ BeginCmp
 TimeStamp = /4E32CDCE/4E32CE0C/4E32D1CA;
 Reference = C1301;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E32CE0C/4E32D7F4;
 Reference = C1302;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E32CE0C/4E32D7FC;
 Reference = C1303;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E32CE0C/4E32D822;
 Reference = C1304;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E32CE0C/4E32D828;
 Reference = C1305;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -725,28 +725,28 @@ BeginCmp
 TimeStamp = /4E32CDCE/4E32CE0C/4E32D8E0;
 Reference = C1307;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E32CE0C/4E32D8DF;
 Reference = C1308;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E32CE0C/4E32D8DE;
 Reference = C1309;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E32CDCE/4E32CE0C/4E32D8DD;
 Reference = C1310;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
