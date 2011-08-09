@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 09/08/2011 15:30:21
+EESchema Schematic File Version 2  date 09/08/2011 17:18:53
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -1728,45 +1728,45 @@ Wire Wire Line
 Wire Wire Line
 	4120 7300 4120 7350
 Wire Wire Line
-	4700 6740 4810 6740
-Wire Wire Line
-	4700 6650 4810 6650
-Wire Wire Line
-	3430 6650 3540 6650
-Wire Wire Line
-	3430 6740 3540 6740
-Wire Wire Line
-	4700 5930 4810 5930
-Wire Wire Line
-	4700 6020 4810 6020
+	4700 6290 4810 6290
 Wire Wire Line
 	4700 6200 4810 6200
 Wire Wire Line
-	4700 6110 4810 6110
-Wire Wire Line
-	4700 6470 4810 6470
-Wire Wire Line
-	4700 6560 4810 6560
-Wire Wire Line
-	4700 6380 4810 6380
-Wire Wire Line
-	4700 6290 4810 6290
+	3430 6200 3540 6200
 Wire Wire Line
 	3430 6290 3540 6290
 Wire Wire Line
-	3430 6380 3540 6380
+	4700 6380 4810 6380
 Wire Wire Line
-	3430 6560 3540 6560
+	4700 6470 4810 6470
 Wire Wire Line
-	3430 6470 3540 6470
+	4700 6650 4810 6650
+Wire Wire Line
+	4700 6560 4810 6560
+Wire Wire Line
+	4700 6020 4810 6020
+Wire Wire Line
+	4700 6110 4810 6110
+Wire Wire Line
+	4700 5930 4810 5930
+Wire Wire Line
+	4700 6740 4810 6740
+Wire Wire Line
+	3430 6740 3540 6740
+Wire Wire Line
+	3430 5930 3540 5930
 Wire Wire Line
 	3430 6110 3540 6110
 Wire Wire Line
-	3430 6200 3540 6200
-Wire Wire Line
 	3430 6020 3540 6020
 Wire Wire Line
-	3430 5930 3540 5930
+	3430 6560 3540 6560
+Wire Wire Line
+	3430 6650 3540 6650
+Wire Wire Line
+	3430 6470 3540 6470
+Wire Wire Line
+	3430 6380 3540 6380
 Wire Wire Line
 	4120 5360 4120 5320
 Wire Wire Line
@@ -3238,25 +3238,25 @@ F 1 "SN74CBTD3861" H 4110 5610 60  0000 C CNN
 	1    4120 6330
 	1    0    0    -1  
 $EndComp
-Text Label 3430 6020 2    39   ~ 0
-TRST_N_T
-Text Label 3430 6110 2    39   ~ 0
-RST_N_T
-Text Label 3430 6200 2    39   ~ 0
-TCK_T
-Text Label 3430 6290 2    39   ~ 0
-TMS_T
-Text Label 3430 5930 2    39   ~ 0
-DEBUG_N_T
-Text Label 3430 6650 2    39   ~ 0
-L1_TCK_T
-Text Label 3430 6740 2    39   ~ 0
-L1_TMS_T
-Text Label 3430 6380 2    39   ~ 0
-L1_DEBUG_N_T
 Text Label 3430 6470 2    39   ~ 0
-L1_TRST_N_T
+TRST_N_T
 Text Label 3430 6560 2    39   ~ 0
+RST_N_T
+Text Label 3430 6650 2    39   ~ 0
+TCK_T
+Text Label 3430 6740 2    39   ~ 0
+TMS_T
+Text Label 3430 6380 2    39   ~ 0
+DEBUG_N_T
+Text Label 3430 6200 2    39   ~ 0
+L1_TCK_T
+Text Label 3430 6290 2    39   ~ 0
+L1_TMS_T
+Text Label 3430 5930 2    39   ~ 0
+L1_DEBUG_N_T
+Text Label 3430 6020 2    39   ~ 0
+L1_TRST_N_T
+Text Label 3430 6110 2    39   ~ 0
 L1_RST_N_T
 $Comp
 L +5V #PWR056
@@ -3267,25 +3267,25 @@ F 1 "+5V" H 4120 5410 30  0000 C CNN
 	1    4120 5320
 	1    0    0    -1  
 $EndComp
-Text Label 4810 6560 0    39   ~ 0
-L1_RST_N
-Text Label 4810 6470 0    39   ~ 0
-L1_TRST_N
-Text Label 4810 6380 0    39   ~ 0
-L1_DEBUG_N
-Text Label 4810 6740 0    39   ~ 0
-L1_TMS
-Text Label 4810 6650 0    39   ~ 0
-L1_TCK
-Text Label 4810 5930 0    39   ~ 0
-DEBUG_N
-Text Label 4810 6290 0    39   ~ 0
-TMS
-Text Label 4810 6200 0    39   ~ 0
-TCK
 Text Label 4810 6110 0    39   ~ 0
-RST_N
+L1_RST_N
 Text Label 4810 6020 0    39   ~ 0
+L1_TRST_N
+Text Label 4810 5930 0    39   ~ 0
+L1_DEBUG_N
+Text Label 4810 6290 0    39   ~ 0
+L1_TMS
+Text Label 4810 6200 0    39   ~ 0
+L1_TCK
+Text Label 4810 6380 0    39   ~ 0
+DEBUG_N
+Text Label 4810 6740 0    39   ~ 0
+TMS
+Text Label 4810 6650 0    39   ~ 0
+TCK
+Text Label 4810 6560 0    39   ~ 0
+RST_N
+Text Label 4810 6470 0    39   ~ 0
 TRST_N
 $Comp
 L GND #PWR057

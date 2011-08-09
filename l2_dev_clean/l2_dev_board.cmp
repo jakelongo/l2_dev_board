@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 09/08/2011 15:24:49
+Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 09/08/2011 17:19:05
 
 BeginCmp
 TimeStamp = /4E3544FC;
@@ -60,21 +60,21 @@ BeginCmp
 TimeStamp = /4E36B777/4E354587;
 Reference = C201;
 ValeurCmp = 10uF;
-IdModule  = 0204;
+IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E35D649;
 Reference = C202;
 ValeurCmp = 33pF;
-IdModule  = 0204;
+IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B777/4E35D6A2;
 Reference = C203;
 ValeurCmp = 10uF;
-IdModule  = 0204;
+IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
@@ -235,21 +235,21 @@ BeginCmp
 TimeStamp = /4E36B760/4E354587;
 Reference = C501;
 ValeurCmp = 10uF;
-IdModule  = 0204;
+IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E35D649;
 Reference = C502;
 ValeurCmp = 33pF;
-IdModule  = 0204;
+IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B760/4E35D6A2;
 Reference = C503;
 ValeurCmp = 10uF;
-IdModule  = 0204;
+IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
@@ -410,21 +410,21 @@ BeginCmp
 TimeStamp = /4E36B740/4E354587;
 Reference = C801;
 ValeurCmp = 10uF;
-IdModule  = 0204;
+IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E35D649;
 Reference = C802;
 ValeurCmp = 33pF;
-IdModule  = 0204;
+IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E36B740/4E35D6A2;
 Reference = C803;
 ValeurCmp = 10uF;
-IdModule  = 0204;
+IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
