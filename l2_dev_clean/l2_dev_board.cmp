@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 09/08/2011 17:19:05
+Cmp-Mod V01 Genere par PcbNew le 10/08/2011 16:20:26
 
 BeginCmp
 TimeStamp = /4E3544FC;
@@ -1257,7 +1257,7 @@ BeginCmp
 TimeStamp = /4E32CDCE/4E3470E5/4E32D1C4;
 Reference = R1201;
 ValeurCmp = 2R2;
-IdModule  = SM0603_Resistor;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
