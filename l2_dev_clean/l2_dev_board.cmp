@@ -1,4 +1,4 @@
-Cmp-Mod V01 Genere par PcbNew le 10/08/2011 16:20:26
+Cmp-Mod V01 Genere par PcbNew le 17/08/2011 16:19:32
 
 BeginCmp
 TimeStamp = /4E3544FC;
@@ -851,7 +851,7 @@ BeginCmp
 TimeStamp = /4E366D48/4E368687;
 Reference = C1414;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -865,14 +865,14 @@ BeginCmp
 TimeStamp = /4E366D48/4E368689;
 Reference = C1416;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E366D48/4E36868A;
 Reference = C1417;
 ValeurCmp = 10uF;
-IdModule  = SM0603_Capa;
+IdModule  = 0204;
 EndCmp
 
 BeginCmp
@@ -1320,7 +1320,14 @@ BeginCmp
 TimeStamp = /4E366D48/4E3688F9;
 Reference = R1408;
 ValeurCmp = 4.7;
-IdModule  = SM0603_Resistor;
+IdModule  = 0204;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E366D48/4E4BD346;
+Reference = R1409;
+ValeurCmp = R;
+IdModule  = SM0603;
 EndCmp
 
 BeginCmp
@@ -1482,6 +1489,62 @@ TimeStamp = /4E3FB8C5;
 Reference = U123;
 ValeurCmp = ASE_CLK;
 IdModule  = ASEseries;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BBF3C;
+Reference = U124;
+ValeurCmp = NC7WZ07;
+IdModule  = SC70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BBF96;
+Reference = U125;
+ValeurCmp = NC7WZ07;
+IdModule  = SC70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BC3E7;
+Reference = U126;
+ValeurCmp = NC7WZ17;
+IdModule  = SC70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BC3EB;
+Reference = U127;
+ValeurCmp = NC7WZ17;
+IdModule  = SC70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BC3EA;
+Reference = U128;
+ValeurCmp = NC7WZ17;
+IdModule  = SC70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BC3E8;
+Reference = U129;
+ValeurCmp = NC7WZ17;
+IdModule  = SC70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BC3E9;
+Reference = U130;
+ValeurCmp = NC7WZ17;
+IdModule  = SC70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BD27F;
+Reference = U131;
+ValeurCmp = NC7WZ07;
+IdModule  = SC70-6;
 EndCmp
 
 BeginCmp
