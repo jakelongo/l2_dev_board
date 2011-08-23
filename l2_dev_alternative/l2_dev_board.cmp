@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 22/08/2011 09:43:15
+Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 23/08/2011 15:57:43
 
 BeginCmp
 TimeStamp = /4E3544FC;
@@ -1159,27 +1159,90 @@ BeginCmp
 TimeStamp = /4E52150C;
 Reference = R117;
 ValeurCmp = 10k;
-IdModule  = 0204;
+IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E52150A;
 Reference = R118;
 ValeurCmp = 10k;
-IdModule  = 0204;
+IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E5215A6;
 Reference = R119;
 ValeurCmp = 10k;
-IdModule  = 0204;
+IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E5215C2;
 Reference = R120;
 ValeurCmp = 10k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E53731A;
+Reference = R121;
+ValeurCmp = 33R;
+IdModule  = 0204;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E53735F;
+Reference = R122;
+ValeurCmp = 33R;
+IdModule  = 0204;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E537378;
+Reference = R123;
+ValeurCmp = 33R;
+IdModule  = 0204;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E53738B;
+Reference = R124;
+ValeurCmp = 33R;
+IdModule  = 0204;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E53738A;
+Reference = R125;
+ValeurCmp = 33R;
+IdModule  = 0204;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5373AA;
+Reference = R126;
+ValeurCmp = 33R;
+IdModule  = 0204;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5373A9;
+Reference = R127;
+ValeurCmp = 33R;
+IdModule  = 0204;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5373A7;
+Reference = R128;
+ValeurCmp = 33R;
+IdModule  = 0204;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5373A8;
+Reference = R129;
+ValeurCmp = 33R;
 IdModule  = 0204;
 EndCmp
 
@@ -1376,20 +1439,6 @@ BeginCmp
 TimeStamp = /4E32CDCE/4E32CE0C/4E32D1C4;
 Reference = R1301;
 ValeurCmp = 2R2;
-IdModule  = SM0603_Resistor;
-EndCmp
-
-BeginCmp
-TimeStamp = /4E366D48/4E366E3B;
-Reference = R1401;
-ValeurCmp = 10k;
-IdModule  = SM0603_Resistor;
-EndCmp
-
-BeginCmp
-TimeStamp = /4E366D48/4E366E3A;
-Reference = R1402;
-ValeurCmp = 10k;
 IdModule  = SM0603_Resistor;
 EndCmp
 
@@ -1667,6 +1716,20 @@ IdModule  = SOT23-8;
 EndCmp
 
 BeginCmp
+TimeStamp = /4E536F7F;
+Reference = U133;
+ValeurCmp = NB3N551;
+IdModule  = SOIC-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E536F8C;
+Reference = U134;
+ValeurCmp = NB3N551;
+IdModule  = SOIC-8;
+EndCmp
+
+BeginCmp
 TimeStamp = /4E36B777/4E35D8BD;
 Reference = U201;
 ValeurCmp = NC7WZ17;
@@ -1842,9 +1905,9 @@ IdModule  = SC70-6;
 EndCmp
 
 BeginCmp
-TimeStamp = /4E366D48/4E366E41;
+TimeStamp = /4E366D48/4E53B2A3;
 Reference = U1402;
-ValeurCmp = NC7WZ07;
+ValeurCmp = NC7WZ17;
 IdModule  = SC70-6;
 EndCmp
 

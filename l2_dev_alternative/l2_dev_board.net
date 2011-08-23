@@ -1,16 +1,16 @@
-# EESchema Netlist Version 1.1 created  22/08/2011 09:43:15
+# EESchema Netlist Version 1.1 created  23/08/2011 15:57:43
 (
  ( /4E3544FC SM0603_Capa C101 4.7uF
   ( 1 +12V )
   ( 2 GND )
  )
  ( /4E3544FD SM0603_Capa C102 470pF
-  ( 1 N-000109 )
+  ( 1 N-000129 )
   ( 2 GND )
  )
  ( /4E3544F5 0204 C103 0.47uF
-  ( 1 N-000112 )
-  ( 2 N-000111 )
+  ( 1 N-000132 )
+  ( 2 N-000131 )
  )
  ( /4E3544FB SM0603_Capa C104 47uF
   ( 1 +5V )
@@ -22,7 +22,7 @@
  )
  ( /4E35E477 SM0603_Capa C106 33pF
   ( 1 /+3V3_L2_F )
-  ( 2 N-000246 )
+  ( 2 N-000276 )
  )
  ( /4E35E476 SM0603_Capa C107 10uF
   ( 1 /+3V3_L2_F )
@@ -33,8 +33,8 @@
   ( 2 GND )
  )
  ( /4E4D4394 0204 C109 0.1uF
-  ( 1 N-000275 )
-  ( 2 N-000267 )
+  ( 1 N-000315 )
+  ( 2 N-000307 )
  )
  ( /4E36B777/4E354587 SM0603_Capa C201 10uF
   ( 1 +5V )
@@ -42,18 +42,18 @@
  )
  ( /4E36B777/4E35D649 SM0603_Capa C202 33pF
   ( 1 /L2_PAIR_Q3/+1V0_F )
-  ( 2 N-000454 )
+  ( 2 N-000475 )
  )
  ( /4E36B777/4E35D6A2 SM0603_Capa C203 10uF
   ( 1 /L2_PAIR_Q3/+1V0_F )
   ( 2 GND )
  )
  ( /4E32CDCE/4E4D40FB 0204 C204 0.1uF
-  ( 1 N-000343 )
-  ( 2 N-000340 )
+  ( 1 N-000363 )
+  ( 2 N-000362 )
  )
  ( /4E36B777/4E3470E5/4E32D1CA 0204 C301 1uF
-  ( 1 N-000836 )
+  ( 1 N-000856 )
   ( 2 GND )
  )
  ( /4E36B777/4E3470E5/4E32D7F4 0204 C302 100nF
@@ -97,7 +97,7 @@
   ( 2 GND )
  )
  ( /4E36B777/4E32CE0C/4E32D1CA 0204 C401 1uF
-  ( 1 N-000748 )
+  ( 1 N-000768 )
   ( 2 GND )
  )
  ( /4E36B777/4E32CE0C/4E32D7F4 0204 C402 100nF
@@ -146,18 +146,18 @@
  )
  ( /4E36B760/4E35D649 SM0603_Capa C502 33pF
   ( 1 /L2_PAIR_Q4/+1V0_F )
-  ( 2 N-000444 )
+  ( 2 N-000454 )
  )
  ( /4E36B760/4E35D6A2 SM0603_Capa C503 10uF
   ( 1 /L2_PAIR_Q4/+1V0_F )
   ( 2 GND )
  )
  ( /4E36B777/4E4D40FB 0204 C504 0.1uF
-  ( 1 N-000452 )
-  ( 2 N-000453 )
+  ( 1 N-000473 )
+  ( 2 N-000469 )
  )
  ( /4E36B760/4E3470E5/4E32D1CA 0204 C601 1uF
-  ( 1 N-000744 )
+  ( 1 N-000754 )
   ( 2 GND )
  )
  ( /4E36B760/4E3470E5/4E32D7F4 0204 C602 100nF
@@ -201,7 +201,7 @@
   ( 2 GND )
  )
  ( /4E36B760/4E32CE0C/4E32D1CA 0204 C701 1uF
-  ( 1 N-000695 )
+  ( 1 N-000715 )
   ( 2 GND )
  )
  ( /4E36B760/4E32CE0C/4E32D7F4 0204 C702 100nF
@@ -250,18 +250,18 @@
  )
  ( /4E36B740/4E35D649 SM0603_Capa C802 33pF
   ( 1 /L2_PAIR_Q2/+1V0_F )
-  ( 2 N-000426 )
+  ( 2 N-000446 )
  )
  ( /4E36B740/4E35D6A2 SM0603_Capa C803 10uF
   ( 1 /L2_PAIR_Q2/+1V0_F )
   ( 2 GND )
  )
  ( /4E36B760/4E4D40FB 0204 C804 0.1uF
-  ( 1 N-000432 )
-  ( 2 N-000427 )
+  ( 1 N-000451 )
+  ( 2 N-000452 )
  )
  ( /4E36B740/4E3470E5/4E32D1CA 0204 C901 1uF
-  ( 1 N-000653 )
+  ( 1 N-000627 )
   ( 2 GND )
  )
  ( /4E36B740/4E3470E5/4E32D7F4 0204 C902 100nF
@@ -305,7 +305,7 @@
   ( 2 GND )
  )
  ( /4E36B740/4E32CE0C/4E32D1CA 0204 C1001 1uF
-  ( 1 N-000601 )
+  ( 1 N-000621 )
   ( 2 GND )
  )
  ( /4E36B740/4E32CE0C/4E32D7F4 0204 C1002 100nF
@@ -354,18 +354,18 @@
  )
  ( /4E32CDCE/4E35D649 SM0603_Capa C1102 33pF
   ( 1 /L2_PAIR_Q1/+1V0_F )
-  ( 2 N-000344 )
+  ( 2 N-000361 )
  )
  ( /4E32CDCE/4E35D6A2 SM0603_Capa C1103 10uF
   ( 1 /L2_PAIR_Q1/+1V0_F )
   ( 2 GND )
  )
  ( /4E36B740/4E4D40FB 0204 C1104 0.1uF
-  ( 1 N-000424 )
-  ( 2 N-000425 )
+  ( 1 N-000443 )
+  ( 2 N-000442 )
  )
  ( /4E32CDCE/4E3470E5/4E32D1CA 0204 C1201 1uF
-  ( 1 N-000513 )
+  ( 1 N-000533 )
   ( 2 GND )
  )
  ( /4E32CDCE/4E3470E5/4E32D7F4 0204 C1202 100nF
@@ -409,7 +409,7 @@
   ( 2 GND )
  )
  ( /4E32CDCE/4E32CE0C/4E32D1CA 0204 C1301 1uF
-  ( 1 N-000512 )
+  ( 1 N-000532 )
   ( 2 GND )
  )
  ( /4E32CDCE/4E32CE0C/4E32D7F4 0204 C1302 100nF
@@ -462,11 +462,11 @@
  )
  ( /4E366D48/4E36734E SM0603_Capa C1403 33pF
   ( 1 +3.3V )
-  ( 2 N-000397 )
+  ( 2 N-000409 )
  )
  ( /4E366D48/4E367501 SM0603_Capa C1404 33pF
   ( 1 +1V0 )
-  ( 2 N-000391 )
+  ( 2 N-000407 )
  )
  ( /4E366D48/4E36734F SM0603_Capa C1405 10uF
   ( 1 +3.3V )
@@ -493,8 +493,8 @@
   ( 2 GND )
  )
  ( /4E366D48/4E368900 0204 C1411 1uF
-  ( 1 N-000388 )
-  ( 2 N-000345 )
+  ( 1 N-000404 )
+  ( 2 N-000389 )
  )
  ( /4E366D48/4E36868D 0204 C1412 10uF
   ( 1 +1V0 )
@@ -521,39 +521,39 @@
   ( 2 GND )
  )
  ( /4E3544F7 DFLS240L D101 DIODE_SCH
-  ( 1 N-000111 )
+  ( 1 N-000131 )
   ( 2 GND )
  )
  ( /4E3544F8 SM1210L L101 2.2uH
-  ( 1 N-000111 )
+  ( 1 N-000131 )
   ( 2 +5V )
  )
  ( /4E35E47A SM1210L L102 2u2H
-  ( 1 N-000107 )
+  ( 1 N-000126 )
   ( 2 /+3V3_L2_F )
  )
  ( /4E36B777/4E35D5AC SM1210L L201 2u2H
-  ( 1 N-000455 )
+  ( 1 N-000474 )
   ( 2 /L2_PAIR_Q3/+1V0_F )
  )
  ( /4E36B760/4E35D5AC SM1210L L501 2u2H
-  ( 1 N-000433 )
+  ( 1 N-000455 )
   ( 2 /L2_PAIR_Q4/+1V0_F )
  )
  ( /4E36B740/4E35D5AC SM1210L L801 2u2H
-  ( 1 N-000410 )
+  ( 1 N-000431 )
   ( 2 /L2_PAIR_Q2/+1V0_F )
  )
  ( /4E32CDCE/4E35D5AC SM1210L L1101 2u2H
-  ( 1 N-000325 )
+  ( 1 N-000347 )
   ( 2 /L2_PAIR_Q1/+1V0_F )
  )
  ( /4E366D48/4E36734B SM1210L L1401 2u2H
-  ( 1 N-000392 )
+  ( 1 N-000410 )
   ( 2 +3.3V )
  )
  ( /4E366D48/4E367504 SM1210L L1402 2u2H
-  ( 1 N-000390 )
+  ( 1 N-000364 )
   ( 2 +1V0 )
  )
  ( /4E36BA53 FFC5-xx-R-L-Tx P101 CONN_30
@@ -877,11 +877,11 @@
   ( 30 GND )
  )
  ( /4E3544FE SM0603_Resistor R101 16.2k
-  ( 1 N-000115 )
-  ( 2 N-000109 )
+  ( 1 N-000135 )
+  ( 2 N-000129 )
  )
  ( /4E3544FF SM0603_Resistor R102 11.5k
-  ( 1 N-000116 )
+  ( 1 N-000136 )
   ( 2 GND )
  )
  ( /4E3826BB SM0603_Resistor R103 10k
@@ -894,7 +894,7 @@
  )
  ( /4E35E59F SM0603_Resistor R105 10k
   ( 1 /L2_PAIR_Q3/+3V3 )
-  ( 2 /L2_PAIR_Q4/+3V3_PG )
+  ( 2 /L2_PAIR_Q3/+3V3_PG )
  )
  ( /4E3826C6 SM0603_Resistor R106 10k
   ( 1 /SWT_3 )
@@ -905,24 +905,24 @@
   ( 2 GND )
  )
  ( /4E3544FA SM0603_Resistor R108 100k
-  ( 1 N-000110 )
+  ( 1 N-000130 )
   ( 2 GND )
  )
  ( /4E3544F9 SM0603_Resistor R109 536k
   ( 1 +5V )
-  ( 2 N-000110 )
+  ( 2 N-000130 )
  )
  ( /4E35E479 SM0603_Resistor R110 453k
   ( 1 /+3V3_L2_F )
-  ( 2 N-000246 )
+  ( 2 N-000276 )
  )
  ( /4E35E478 SM0603_Resistor R111 100k
-  ( 1 N-000246 )
+  ( 1 N-000276 )
   ( 2 GND )
  )
  ( /4E3815E4 SM0603_Resistor R112 10k
   ( 1 +3.3V )
-  ( 2 /L2_PAIR_Q1/MSEL_N )
+  ( 2 /L2_PAIR_Q3/MSEL_N )
  )
  ( /4E3815E7 SM0603_Resistor R113 10k
   ( 1 +3.3V )
@@ -930,7 +930,7 @@
  )
  ( /4E4D4396 0204 R114 10R
   ( 1 /+3V3_L2_F )
-  ( 2 N-000275 )
+  ( 2 N-000315 )
  )
  ( /4E4D4393 0204 R115 0.05
   ( 1 /L2_PAIR_Q3/+3V3 )
@@ -938,35 +938,71 @@
  )
  ( /4E4D4395 0204 R116 10R
   ( 1 /L2_PAIR_Q3/+3V3 )
-  ( 2 N-000267 )
+  ( 2 N-000307 )
  )
- ( /4E52150C 0204 R117 10k
+ ( /4E52150C SM0603 R117 10k
   ( 1 +3.3V )
   ( 2 /DEBUG_N )
  )
- ( /4E52150A 0204 R118 10k
+ ( /4E52150A SM0603 R118 10k
   ( 1 +3.3V )
   ( 2 /L1_DEBUG_N )
  )
- ( /4E5215A6 0204 R119 10k
+ ( /4E5215A6 SM0603 R119 10k
   ( 1 +3.3V )
   ( 2 /L1/RST_N )
  )
- ( /4E5215C2 0204 R120 10k
+ ( /4E5215C2 SM0603 R120 10k
   ( 1 +3.3V )
   ( 2 /L1/MSEL_N )
  )
+ ( /4E53731A 0204 R121 33R
+  ( 1 ? )
+  ( 2 N-000055 )
+ )
+ ( /4E53735F 0204 R122 33R
+  ( 1 /L2_PAIR_Q4/CLK_20M_C1 )
+  ( 2 N-000306 )
+ )
+ ( /4E537378 0204 R123 33R
+  ( 1 /L2_PAIR_Q4/CLK_20M_C0 )
+  ( 2 N-000305 )
+ )
+ ( /4E53738B 0204 R124 33R
+  ( 1 /L2_PAIR_Q1/CLK_20M_C1 )
+  ( 2 N-000303 )
+ )
+ ( /4E53738A 0204 R125 33R
+  ( 1 /L2_PAIR_Q1/CLK_20M_C0 )
+  ( 2 N-000304 )
+ )
+ ( /4E5373AA 0204 R126 33R
+  ( 1 /L2_PAIR_Q3/CLK_20M_C1 )
+  ( 2 N-000299 )
+ )
+ ( /4E5373A9 0204 R127 33R
+  ( 1 /L2_PAIR_Q3/CLK_20M_C0 )
+  ( 2 N-000300 )
+ )
+ ( /4E5373A7 0204 R128 33R
+  ( 1 /L2_PAIR_Q2/CLK_20M_C1 )
+  ( 2 N-000302 )
+ )
+ ( /4E5373A8 0204 R129 33R
+  ( 1 /L2_PAIR_Q2/CLK_20M_C0 )
+  ( 2 N-000301 )
+ )
  ( /4E36B777/4E35D5C1 SM0603_Resistor R203 68k
   ( 1 /L2_PAIR_Q3/+1V0_F )
-  ( 2 N-000454 )
+  ( 2 N-000475 )
  )
  ( /4E36B777/4E35D5DA SM0603_Resistor R204 100k
-  ( 1 N-000454 )
+  ( 1 N-000475 )
   ( 2 GND )
  )
  ( /4E32CDCE/4E4D40F0 0204 R205 10R
   ( 1 /L2_PAIR_Q1/+1V0_F )
-  ( 2 N-000343 )
+  ( 2 N-000363 )
  )
  ( /4E32CDCE/4E4D4108 SM0603_Resistor R206 0.05
   ( 1 +1V0 )
@@ -974,27 +1010,27 @@
  )
  ( /4E32CDCE/4E4D40F6 0204 R207 10R
   ( 1 +1V0 )
-  ( 2 N-000340 )
+  ( 2 N-000362 )
  )
  ( /4E36B777/4E3470E5/4E32D1C4 SM0603_Resistor R301 2R2
   ( 1 +1V0 )
-  ( 2 N-000836 )
+  ( 2 N-000856 )
  )
  ( /4E36B777/4E32CE0C/4E32D1C4 SM0603_Resistor R401 2R2
   ( 1 +1V0 )
-  ( 2 N-000748 )
+  ( 2 N-000768 )
  )
  ( /4E36B760/4E35D5C1 SM0603_Resistor R503 68k
   ( 1 /L2_PAIR_Q4/+1V0_F )
-  ( 2 N-000444 )
+  ( 2 N-000454 )
  )
  ( /4E36B760/4E35D5DA SM0603_Resistor R504 100k
-  ( 1 N-000444 )
+  ( 1 N-000454 )
   ( 2 GND )
  )
  ( /4E36B777/4E4D40F0 0204 R505 10R
   ( 1 /L2_PAIR_Q3/+1V0_F )
-  ( 2 N-000452 )
+  ( 2 N-000473 )
  )
  ( /4E36B777/4E4D4108 SM0603_Resistor R506 0.05
   ( 1 +1V0 )
@@ -1002,27 +1038,27 @@
  )
  ( /4E36B777/4E4D40F6 0204 R507 10R
   ( 1 +1V0 )
-  ( 2 N-000453 )
+  ( 2 N-000469 )
  )
  ( /4E36B760/4E3470E5/4E32D1C4 SM0603_Resistor R601 2R2
   ( 1 +1V0 )
-  ( 2 N-000744 )
+  ( 2 N-000754 )
  )
  ( /4E36B760/4E32CE0C/4E32D1C4 SM0603_Resistor R701 2R2
   ( 1 +1V0 )
-  ( 2 N-000695 )
+  ( 2 N-000715 )
  )
  ( /4E36B740/4E35D5C1 SM0603_Resistor R803 68k
   ( 1 /L2_PAIR_Q2/+1V0_F )
-  ( 2 N-000426 )
+  ( 2 N-000446 )
  )
  ( /4E36B740/4E35D5DA SM0603_Resistor R804 100k
-  ( 1 N-000426 )
+  ( 1 N-000446 )
   ( 2 GND )
  )
  ( /4E36B760/4E4D40F0 0204 R805 10R
   ( 1 /L2_PAIR_Q4/+1V0_F )
-  ( 2 N-000432 )
+  ( 2 N-000451 )
  )
  ( /4E36B760/4E4D4108 SM0603_Resistor R806 0.05
   ( 1 +1V0 )
@@ -1030,27 +1066,27 @@
  )
  ( /4E36B760/4E4D40F6 0204 R807 10R
   ( 1 +1V0 )
-  ( 2 N-000427 )
+  ( 2 N-000452 )
  )
  ( /4E36B740/4E3470E5/4E32D1C4 SM0603_Resistor R901 2R2
   ( 1 +1V0 )
-  ( 2 N-000653 )
+  ( 2 N-000627 )
  )
  ( /4E36B740/4E32CE0C/4E32D1C4 SM0603_Resistor R1001 2R2
   ( 1 +1V0 )
-  ( 2 N-000601 )
+  ( 2 N-000621 )
  )
  ( /4E32CDCE/4E35D5C1 SM0603_Resistor R1103 68k
   ( 1 /L2_PAIR_Q1/+1V0_F )
-  ( 2 N-000344 )
+  ( 2 N-000361 )
  )
  ( /4E32CDCE/4E35D5DA SM0603_Resistor R1104 100k
-  ( 1 N-000344 )
+  ( 1 N-000361 )
   ( 2 GND )
  )
  ( /4E36B740/4E4D40F0 0204 R1105 10R
   ( 1 /L2_PAIR_Q2/+1V0_F )
-  ( 2 N-000424 )
+  ( 2 N-000443 )
  )
  ( /4E36B740/4E4D4108 SM0603_Resistor R1106 0.05
   ( 1 +1V0 )
@@ -1058,38 +1094,30 @@
  )
  ( /4E36B740/4E4D40F6 0204 R1107 10R
   ( 1 +1V0 )
-  ( 2 N-000425 )
+  ( 2 N-000442 )
  )
  ( /4E32CDCE/4E3470E5/4E32D1C4 SM0603_Resistor R1201 2R2
   ( 1 +1V0 )
-  ( 2 N-000513 )
+  ( 2 N-000533 )
  )
  ( /4E32CDCE/4E32CE0C/4E32D1C4 SM0603_Resistor R1301 2R2
   ( 1 +1V0 )
-  ( 2 N-000512 )
- )
- ( /4E366D48/4E366E3B SM0603_Resistor R1401 10k
-  ( 1 +3.3V )
-  ( 2 /L1/MSEL_N_BUF )
- )
- ( /4E366D48/4E366E3A SM0603_Resistor R1402 10k
-  ( 1 +3.3V )
-  ( 2 /L1/RST_N_BUF )
+  ( 2 N-000532 )
  )
  ( /4E366D48/4E36734C SM0603_Resistor R1403 453k
   ( 1 +3.3V )
-  ( 2 N-000397 )
+  ( 2 N-000409 )
  )
  ( /4E366D48/4E36734D SM0603_Resistor R1404 100k
-  ( 1 N-000397 )
+  ( 1 N-000409 )
   ( 2 GND )
  )
  ( /4E366D48/4E367503 SM0603_Resistor R1405 68k
   ( 1 +1V0 )
-  ( 2 N-000391 )
+  ( 2 N-000407 )
  )
  ( /4E366D48/4E367502 SM0603_Resistor R1406 100k
-  ( 1 N-000391 )
+  ( 1 N-000407 )
   ( 2 GND )
  )
  ( /4E366D48/4E367DC5 SM0603_Resistor R1407 10k
@@ -1098,14 +1126,14 @@
  )
  ( /4E366D48/4E3688F9 0204 R1408 4.7
   ( 1 +1V0 )
-  ( 2 N-000388 )
+  ( 2 N-000404 )
  )
  ( /4E366D48/4E4BD346 SM0603_Resistor R1409 R
   ( 1 +3.3V )
   ( 2 /L1/DEBUG_N )
  )
  ( /4E35E53B SOT23-3 U101 APX803-SR
-  ( 1 /L2_PAIR_Q4/+3V3_PG )
+  ( 1 /L2_PAIR_Q3/+3V3_PG )
   ( 2 GND )
   ( 3 /L2_PAIR_Q3/+3V3 )
  )
@@ -1113,7 +1141,7 @@
   ( 1 /SWT_3 )
   ( 2 GND )
   ( 3 /SWT_2 )
-  ( 4 N-000046 )
+  ( 4 N-000060 )
   ( 5 +3.3V )
   ( 6 /SWT_1 )
  )
@@ -1173,36 +1201,36 @@
   ( 15 /L1/RST_N )
   ( 16 /L1/MSEL_N )
   ( 17 /L1_DEBUG_N )
-  ( 18 /L2_PAIR_Q4/TMS )
-  ( 19 /L2_PAIR_Q3/TCK )
+  ( 18 /L2_PAIR_Q1/TMS )
+  ( 19 /L2_PAIR_Q2/TCK )
   ( 20 /L2_PAIR_Q4/RST_N )
-  ( 21 /L2_PAIR_Q1/MSEL_N )
+  ( 21 /L2_PAIR_Q3/MSEL_N )
   ( 22 /DEBUG_N )
-  ( 23 N-000046 )
+  ( 23 N-000060 )
   ( 24 +5V )
  )
  ( /4E354503 10DFN U109 LT3480
   ( 1 +5V )
-  ( 2 N-000112 )
-  ( 3 N-000111 )
+  ( 2 N-000132 )
+  ( 3 N-000131 )
   ( 4 +12V )
   ( 5 +12V )
   ( 6 ? )
   ( 7 ? )
-  ( 8 N-000110 )
-  ( 9 N-000115 )
-  ( 10 N-000116 )
+  ( 8 N-000130 )
+  ( 9 N-000135 )
+  ( 10 N-000136 )
   ( GND GND )
  )
  ( /4E35E540 SOT23-3 U110 APX803-SR
   ( 1 /L2_PAIR_Q4/RST_N )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q4/+3V3_PG )
+  ( 3 /L2_PAIR_Q3/+3V3_PG )
  )
  ( /4E38206A SOT25-5 U111 74AHC1GU04
-  ( 2 N-000046 )
+  ( 2 N-000060 )
   ( 3 GND )
-  ( 4 N-000005 )
+  ( 4 N-000010 )
   ( 5 +3.3V )
  )
  ( /4E390E9F SOT23-6 U112 SN74LVC1G18
@@ -1249,41 +1277,41 @@
   ( 10 /TCK_T )
   ( 11 /TMS_T )
   ( 12 GND )
-  ( 13 /L2_PAIR_Q4/TMS )
-  ( 14 /L2_PAIR_Q3/TCK )
+  ( 13 /L2_PAIR_Q1/TMS )
+  ( 14 /L2_PAIR_Q2/TCK )
   ( 15 /L2_PAIR_Q4/RST_N )
-  ( 16 /L2_PAIR_Q1/MSEL_N )
+  ( 16 /L2_PAIR_Q3/MSEL_N )
   ( 17 /DEBUG_N )
   ( 18 /L1/TMS )
   ( 19 /L1/TCK )
   ( 20 /L1/RST_N )
   ( 21 /L1/MSEL_N )
   ( 22 /L1_DEBUG_N )
-  ( 23 N-000005 )
+  ( 23 N-000010 )
   ( 24 +5V )
  )
  ( /4E35E47E SOT23-5 U117 NCP1529
   ( 1 +5V )
   ( 2 GND )
-  ( 3 N-000107 )
+  ( 3 N-000126 )
   ( 4 +5V )
-  ( 5 N-000246 )
+  ( 5 N-000276 )
  )
  ( /4E3925EF SC70-6 U118 NC7WZ17
-  ( 1 /L2_PAIR_Q4/TMS )
+  ( 1 /L2_PAIR_Q2/TCK )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q3/TCK )
-  ( 4 /TCK_BUF_R )
+  ( 3 /L2_PAIR_Q1/TMS )
+  ( 4 /TMS_BUF_R )
   ( 5 +3.3V )
-  ( 6 /TMS_BUF_R )
+  ( 6 /TCK_BUF_R )
  )
  ( /4E391861 SC70-6 U119 NC7WZ17
-  ( 1 /L2_PAIR_Q4/RST_N )
+  ( 1 /L2_PAIR_Q3/MSEL_N )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q1/MSEL_N )
-  ( 4 /TRST_N_BUF_R )
+  ( 3 /L2_PAIR_Q4/RST_N )
+  ( 4 /RST_N_BUF_R )
   ( 5 +3.3V )
-  ( 6 /RST_N_BUF_R )
+  ( 6 /TRST_N_BUF_R )
  )
  ( /4E3925BA SC70-6 U120 NC7WZ17
   ( 1 /DEBUG_N )
@@ -1294,25 +1322,25 @@
   ( 6 /DEBUG_N_BUF_R )
  )
  ( /4E3925D1 SC70-6 U121 NC7WZ17
-  ( 1 /L1/TCK )
+  ( 1 /L1/RST_N )
   ( 2 GND )
-  ( 3 /L1/RST_N )
-  ( 4 /L1_RST_N_BUF_R )
+  ( 3 /L1/TCK )
+  ( 4 /L1_TCK_BUF_R )
   ( 5 +3.3V )
-  ( 6 /L1_TCK_BUF_R )
+  ( 6 /L1_RST_N_BUF_R )
  )
  ( /4E3925D0 SC70-6 U122 NC7WZ17
-  ( 1 /L1/MSEL_N )
+  ( 1 /L1_DEBUG_N )
   ( 2 GND )
-  ( 3 /L1_DEBUG_N )
-  ( 4 /L1_DEBUG_N_BUF_R )
+  ( 3 /L1/MSEL_N )
+  ( 4 /L1_TRST_N_BUF_R )
   ( 5 +3.3V )
-  ( 6 /L1_TRST_N_BUF_R )
+  ( 6 /L1_DEBUG_N_BUF_R )
  )
  ( /4E3FB8C5 ASEseries U123 ASE_CLK
   ( 1 +3.3V )
   ( 2 GND )
-  ( 3 ? )
+  ( 3 N-000055 )
   ( 4 +3.3V )
  )
  ( /4E521676 SC70-6 U124 NC7WZ17
@@ -1327,61 +1355,61 @@
   ( 1 /DEBUG_N )
   ( 2 GND )
   ( 3 /DEBUG_N )
-  ( 4 /L2_PAIR_Q2/DEBUG_N )
+  ( 4 /L2_PAIR_Q1/DEBUG_N )
   ( 5 +3.3V )
-  ( 6 /L2_PAIR_Q1/DEBUG_N )
+  ( 6 /L2_PAIR_Q4/DEBUG_N )
  )
  ( /4E4BC3E7 SC70-6 U126 NC7WZ17
-  ( 1 /DEBUG_N )
+  ( 1 /L1/TMS )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q1/MSEL_N )
-  ( 4 /TRST_N_BUF_B )
+  ( 3 /DEBUG_N )
+  ( 4 /DEBUG_N_BUF_B )
   ( 5 +3.3V )
-  ( 6 /DEBUG_N_BUF_B )
+  ( 6 /L1_TMS_BUF_B )
  )
  ( /4E4BC3EB SC70-6 U127 NC7WZ17
-  ( 1 /L2_PAIR_Q4/RST_N )
+  ( 1 /L2_PAIR_Q3/MSEL_N )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q3/TCK )
-  ( 4 /TCK_BUF_B )
+  ( 3 /L2_PAIR_Q4/RST_N )
+  ( 4 /RST_N_BUF_B )
   ( 5 +3.3V )
-  ( 6 /RST_N_BUF_B )
+  ( 6 /TRST_N_BUF_B )
  )
  ( /4E4BC3EA SC70-6 U128 NC7WZ17
-  ( 1 /L2_PAIR_Q4/TMS )
+  ( 1 /L2_PAIR_Q2/TCK )
   ( 2 GND )
-  ( 3 /L1_DEBUG_N )
-  ( 4 /L1_DEBUG_N_BUF_B )
+  ( 3 /L2_PAIR_Q1/TMS )
+  ( 4 /TMS_BUF_B )
   ( 5 +3.3V )
-  ( 6 /TMS_BUF_B )
+  ( 6 /TCK_BUF_B )
  )
  ( /4E4BC3E8 SC70-6 U129 NC7WZ17
-  ( 1 /L1/MSEL_N )
+  ( 1 /L1_DEBUG_N )
   ( 2 GND )
-  ( 3 /L1/RST_N )
-  ( 4 /L1_RST_N_BUF_B )
+  ( 3 /L1/MSEL_N )
+  ( 4 /L1_TRST_N_BUF_B )
   ( 5 +3.3V )
-  ( 6 /L1_TRST_N_BUF_B )
+  ( 6 /L1_DEBUG_N_BUF_B )
  )
  ( /4E4BC3E9 SC70-6 U130 NC7WZ17
-  ( 1 /L1/TCK )
+  ( 1 /L1/RST_N )
   ( 2 GND )
-  ( 3 /L1/TMS )
-  ( 4 /L1_TMS_BUF_B )
+  ( 3 /L1/TCK )
+  ( 4 /L1_TCK_BUF_B )
   ( 5 +3.3V )
-  ( 6 /L1_TCK_BUF_B )
+  ( 6 /L1_RST_N_BUF_B )
  )
  ( /4E52166E SC70-6 U131 NC7WZ17
   ( 1 /DEBUG_N )
   ( 2 GND )
   ( 3 /DEBUG_N )
-  ( 4 /L2_PAIR_Q4/DEBUG_N )
+  ( 4 /L2_PAIR_Q2/DEBUG_N )
   ( 5 +3.3V )
   ( 6 /L2_PAIR_Q3/DEBUG_N )
  )
  ( /4E4D4398 SOT23-8 U132 INA219
-  ( 1 N-000275 )
-  ( 2 N-000267 )
+  ( 1 N-000315 )
+  ( 2 N-000307 )
   ( 3 GND )
   ( 4 +5V )
   ( 5 ? )
@@ -1389,32 +1417,52 @@
   ( 7 ? )
   ( 8 ? )
  )
+ ( /4E536F7F SOIC-8 U133 NB3N551
+  ( 1 /CLK_20M )
+  ( 2 N-000306 )
+  ( 3 N-000305 )
+  ( 4 N-000303 )
+  ( 5 N-000304 )
+  ( 6 GND )
+  ( 7 +3.3V )
+  ( 8 ? )
+ )
+ ( /4E536F8C SOIC-8 U134 NB3N551
+  ( 1 /CLK_20M )
+  ( 2 N-000299 )
+  ( 3 N-000300 )
+  ( 4 N-000302 )
+  ( 5 N-000301 )
+  ( 6 GND )
+  ( 7 +3.3V )
+  ( 8 ? )
+ )
  ( /4E36B777/4E35D8BD SC70-6 U201 NC7WZ17
-  ( 1 /L2_PAIR_Q3/TCK )
+  ( 1 /L2_PAIR_Q2/TCK )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q4/TMS )
-  ( 4 /L2_PAIR_Q3/L2_1/TMS )
+  ( 3 /L2_PAIR_Q1/TMS )
+  ( 4 /L2_PAIR_Q3/L2_0/TMS )
   ( 5 +3.3V )
   ( 6 /L2_PAIR_Q3/L2_0/TCK )
  )
  ( /4E32CDCE/4E5214B4 SC70-6 U202 NC7WZ17
   ( 1 /L2_PAIR_Q4/RST_N )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q1/MSEL_N )
+  ( 3 /L2_PAIR_Q3/MSEL_N )
   ( 4 /L2_PAIR_Q1/L2_0/MSEL )
   ( 5 +3.3V )
-  ( 6 /L2_PAIR_Q1/L2_0/RST_N )
+  ( 6 /L2_PAIR_Q1/L2_1/RST_N )
  )
  ( /4E36B777/4E354532 SOT23-5 U203 NCP1529
-  ( 1 /L2_PAIR_Q4/+3V3_PG )
+  ( 1 /L2_PAIR_Q3/+3V3_PG )
   ( 2 GND )
-  ( 3 N-000455 )
+  ( 3 N-000474 )
   ( 4 +5V )
-  ( 5 N-000454 )
+  ( 5 N-000475 )
  )
  ( /4E32CDCE/4E4D4027 SOT23-8 U204 INA219
-  ( 1 N-000343 )
-  ( 2 N-000340 )
+  ( 1 N-000363 )
+  ( 2 N-000362 )
   ( 3 GND )
   ( 4 +5V )
   ( 5 ? )
@@ -1460,7 +1508,7 @@
   ( A35 GND )
   ( A36 /L2_PAIR_Q3/+3V3 )
   ( A37 GND )
-  ( A38 N-000836 )
+  ( A38 N-000856 )
   ( A39 ? )
   ( A40 /L2_PAIR_Q3/BR_X1_XLA_4o )
   ( A41 /L2_PAIR_Q3/BR_X1_XLA_3o )
@@ -1496,14 +1544,14 @@
   ( B3 ? )
   ( B4 /L2_PAIR_Q3/+3V3 )
   ( B5 +1V0 )
-  ( B6 CLK_20M )
-  ( B7 CLK_20M )
-  ( B8 /L2_PAIR_Q3/L2_1/RST_N )
+  ( B6 /L2_PAIR_Q3/CLK_20M_C1 )
+  ( B7 /L2_PAIR_Q3/CLK_20M_C1 )
+  ( B8 /L2_PAIR_Q3/L2_0/RST_N )
   ( B9 /L2_PAIR_Q3/TDO_0 )
   ( B10 /L2_PAIR_Q3/L2_0/TCK )
-  ( B11 /L2_PAIR_Q3/L2_1/TMS )
+  ( B11 /L2_PAIR_Q3/L2_0/TMS )
   ( B12 /L2_PAIR_Q3/TDI_0 )
-  ( B13 /L2_PAIR_Q3/L2_1/RST_N )
+  ( B13 /L2_PAIR_Q3/L2_0/RST_N )
   ( B14 /L2_PAIR_Q3/+3V3 )
   ( B15 +1V0 )
   ( B16 ? )
@@ -1587,7 +1635,7 @@
   ( A35 GND )
   ( A36 /L2_PAIR_Q3/+3V3 )
   ( A37 GND )
-  ( A38 N-000748 )
+  ( A38 N-000768 )
   ( A39 ? )
   ( A40 /L2_PAIR_Q3/TR_X1_XLA_4o )
   ( A41 /L2_PAIR_Q3/TR_X1_XLA_3o )
@@ -1623,14 +1671,14 @@
   ( B3 ? )
   ( B4 /L2_PAIR_Q3/+3V3 )
   ( B5 +1V0 )
-  ( B6 CLK_20M )
-  ( B7 CLK_20M )
-  ( B8 /L2_PAIR_Q3/L2_1/RST_N )
+  ( B6 /L2_PAIR_Q3/CLK_20M_C0 )
+  ( B7 /L2_PAIR_Q3/CLK_20M_C0 )
+  ( B8 /L2_PAIR_Q3/L2_0/RST_N )
   ( B9 /L2_PAIR_Q3/TDI_0 )
   ( B10 /L2_PAIR_Q3/L2_0/TCK )
-  ( B11 /L2_PAIR_Q3/L2_1/TMS )
+  ( B11 /L2_PAIR_Q3/L2_0/TMS )
   ( B12 /L2_PAIR_Q3/TDI_1 )
-  ( B13 /L2_PAIR_Q3/L2_1/RST_N )
+  ( B13 /L2_PAIR_Q3/L2_0/RST_N )
   ( B14 /L2_PAIR_Q3/+3V3 )
   ( B15 +1V0 )
   ( B16 ? )
@@ -1677,31 +1725,31 @@
   ( GND GND )
  )
  ( /4E36B760/4E35D8BD SC70-6 U501 NC7WZ17
-  ( 1 /L2_PAIR_Q3/TCK )
+  ( 1 /L2_PAIR_Q2/TCK )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q4/TMS )
-  ( 4 /L2_PAIR_Q4/L2_0/TMS )
+  ( 3 /L2_PAIR_Q1/TMS )
+  ( 4 /L2_PAIR_Q4/L2_1/TMS )
   ( 5 +3.3V )
-  ( 6 /L2_PAIR_Q4/L2_0/TCK )
+  ( 6 /L2_PAIR_Q4/L2_1/TCK )
  )
  ( /4E36B777/4E5214B4 SC70-6 U502 NC7WZ17
   ( 1 /L2_PAIR_Q4/RST_N )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q1/MSEL_N )
+  ( 3 /L2_PAIR_Q3/MSEL_N )
   ( 4 /L2_PAIR_Q3/L2_0/MSEL )
   ( 5 +3.3V )
-  ( 6 /L2_PAIR_Q3/L2_1/RST_N )
+  ( 6 /L2_PAIR_Q3/L2_0/RST_N )
  )
  ( /4E36B760/4E354532 SOT23-5 U503 NCP1529
-  ( 1 /L2_PAIR_Q4/+3V3_PG )
+  ( 1 /L2_PAIR_Q3/+3V3_PG )
   ( 2 GND )
-  ( 3 N-000433 )
+  ( 3 N-000455 )
   ( 4 +5V )
-  ( 5 N-000444 )
+  ( 5 N-000454 )
  )
  ( /4E36B777/4E4D4027 SOT23-8 U504 INA219
-  ( 1 N-000452 )
-  ( 2 N-000453 )
+  ( 1 N-000473 )
+  ( 2 N-000469 )
   ( 3 GND )
   ( 4 +5V )
   ( 5 ? )
@@ -1747,7 +1795,7 @@
   ( A35 GND )
   ( A36 /L2_PAIR_Q3/+3V3 )
   ( A37 GND )
-  ( A38 N-000744 )
+  ( A38 N-000754 )
   ( A39 ? )
   ( A40 /L2_PAIR_Q3/BL_X0_XLA_4i )
   ( A41 /L2_PAIR_Q3/BL_X0_XLA_3i )
@@ -1783,14 +1831,14 @@
   ( B3 ? )
   ( B4 /L2_PAIR_Q3/+3V3 )
   ( B5 +1V0 )
-  ( B6 CLK_20M )
-  ( B7 CLK_20M )
-  ( B8 /L2_PAIR_Q4/L2_0/RST_N )
+  ( B6 /L2_PAIR_Q4/CLK_20M_C1 )
+  ( B7 /L2_PAIR_Q4/CLK_20M_C1 )
+  ( B8 /L2_PAIR_Q4/L2_1/RST_N )
   ( B9 /L2_PAIR_Q4/TDI_1 )
-  ( B10 /L2_PAIR_Q4/L2_0/TCK )
-  ( B11 /L2_PAIR_Q4/L2_0/TMS )
+  ( B10 /L2_PAIR_Q4/L2_1/TCK )
+  ( B11 /L2_PAIR_Q4/L2_1/TMS )
   ( B12 /L2_PAIR_Q4/TDI_0 )
-  ( B13 /L2_PAIR_Q4/L2_0/RST_N )
+  ( B13 /L2_PAIR_Q4/L2_1/RST_N )
   ( B14 /L2_PAIR_Q3/+3V3 )
   ( B15 +1V0 )
   ( B16 ? )
@@ -1874,7 +1922,7 @@
   ( A35 GND )
   ( A36 /L2_PAIR_Q3/+3V3 )
   ( A37 GND )
-  ( A38 N-000695 )
+  ( A38 N-000715 )
   ( A39 ? )
   ( A40 /L2_PAIR_Q3/TL_X0_XLA_4i )
   ( A41 /L2_PAIR_Q3/TL_X0_XLA_3i )
@@ -1910,14 +1958,14 @@
   ( B3 ? )
   ( B4 /L2_PAIR_Q3/+3V3 )
   ( B5 +1V0 )
-  ( B6 CLK_20M )
-  ( B7 CLK_20M )
-  ( B8 /L2_PAIR_Q4/L2_0/RST_N )
+  ( B6 /L2_PAIR_Q4/CLK_20M_C0 )
+  ( B7 /L2_PAIR_Q4/CLK_20M_C0 )
+  ( B8 /L2_PAIR_Q4/L2_1/RST_N )
   ( B9 /L2_PAIR_Q4/TDO_1 )
-  ( B10 /L2_PAIR_Q4/L2_0/TCK )
-  ( B11 /L2_PAIR_Q4/L2_0/TMS )
+  ( B10 /L2_PAIR_Q4/L2_1/TCK )
+  ( B11 /L2_PAIR_Q4/L2_1/TMS )
   ( B12 /L2_PAIR_Q4/TDI_1 )
-  ( B13 /L2_PAIR_Q4/L2_0/RST_N )
+  ( B13 /L2_PAIR_Q4/L2_1/RST_N )
   ( B14 /L2_PAIR_Q3/+3V3 )
   ( B15 +1V0 )
   ( B16 ? )
@@ -1964,31 +2012,31 @@
   ( GND GND )
  )
  ( /4E36B740/4E35D8BD SC70-6 U801 NC7WZ17
-  ( 1 /L2_PAIR_Q3/TCK )
+  ( 1 /L2_PAIR_Q2/TCK )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q4/TMS )
-  ( 4 /L2_PAIR_Q2/L2_0/TMS )
+  ( 3 /L2_PAIR_Q1/TMS )
+  ( 4 /L2_PAIR_Q2/L2_1/TMS )
   ( 5 +3.3V )
-  ( 6 /L2_PAIR_Q2/L2_0/TCK )
+  ( 6 /L2_PAIR_Q2/L2_1/TCK )
  )
  ( /4E36B760/4E5214B4 SC70-6 U802 NC7WZ17
   ( 1 /L2_PAIR_Q4/RST_N )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q1/MSEL_N )
+  ( 3 /L2_PAIR_Q3/MSEL_N )
   ( 4 /L2_PAIR_Q4/L2_1/MSEL )
   ( 5 +3.3V )
-  ( 6 /L2_PAIR_Q4/L2_0/RST_N )
+  ( 6 /L2_PAIR_Q4/L2_1/RST_N )
  )
  ( /4E36B740/4E354532 SOT23-5 U803 NCP1529
-  ( 1 /L2_PAIR_Q4/+3V3_PG )
+  ( 1 /L2_PAIR_Q3/+3V3_PG )
   ( 2 GND )
-  ( 3 N-000410 )
+  ( 3 N-000431 )
   ( 4 +5V )
-  ( 5 N-000426 )
+  ( 5 N-000446 )
  )
  ( /4E36B760/4E4D4027 SOT23-8 U804 INA219
-  ( 1 N-000432 )
-  ( 2 N-000427 )
+  ( 1 N-000451 )
+  ( 2 N-000452 )
   ( 3 GND )
   ( 4 +5V )
   ( 5 ? )
@@ -2034,7 +2082,7 @@
   ( A35 GND )
   ( A36 /L2_PAIR_Q3/+3V3 )
   ( A37 GND )
-  ( A38 N-000653 )
+  ( A38 N-000627 )
   ( A39 ? )
   ( A40 /L2_PAIR_Q2/BR_X1_XLA_4o )
   ( A41 /L2_PAIR_Q2/BR_X1_XLA_3o )
@@ -2070,12 +2118,12 @@
   ( B3 ? )
   ( B4 /L2_PAIR_Q3/+3V3 )
   ( B5 +1V0 )
-  ( B6 CLK_20M )
-  ( B7 CLK_20M )
+  ( B6 /L2_PAIR_Q2/CLK_20M_C1 )
+  ( B7 /L2_PAIR_Q2/CLK_20M_C1 )
   ( B8 /L2_PAIR_Q2/L2_1/RST_N )
   ( B9 /L2_PAIR_Q2/TDO_0 )
-  ( B10 /L2_PAIR_Q2/L2_0/TCK )
-  ( B11 /L2_PAIR_Q2/L2_0/TMS )
+  ( B10 /L2_PAIR_Q2/L2_1/TCK )
+  ( B11 /L2_PAIR_Q2/L2_1/TMS )
   ( B12 /L2_PAIR_Q2/TDI_0 )
   ( B13 /L2_PAIR_Q2/L2_1/RST_N )
   ( B14 /L2_PAIR_Q3/+3V3 )
@@ -2099,8 +2147,8 @@
   ( B32 /L2_PAIR_Q3/+3V3 )
   ( B33 /L2_PAIR_Q3/+3V3 )
   ( B34 /L2_PAIR_Q3/+3V3 )
-  ( B35 /L2_PAIR_Q2/L2_1/MSEL )
-  ( B36 /L2_PAIR_Q2/L2_1/MSEL )
+  ( B35 /L2_PAIR_Q2/L2_0/MSEL )
+  ( B36 /L2_PAIR_Q2/L2_0/MSEL )
   ( B37 /L2_PAIR_Q2/DEBUG_N )
   ( B38 ? )
   ( B39 ? )
@@ -2161,7 +2209,7 @@
   ( A35 GND )
   ( A36 /L2_PAIR_Q3/+3V3 )
   ( A37 GND )
-  ( A38 N-000601 )
+  ( A38 N-000621 )
   ( A39 ? )
   ( A40 /L2_PAIR_Q2/TR_X1_XLA_4o )
   ( A41 /L2_PAIR_Q2/TR_X1_XLA_3o )
@@ -2197,12 +2245,12 @@
   ( B3 ? )
   ( B4 /L2_PAIR_Q3/+3V3 )
   ( B5 +1V0 )
-  ( B6 CLK_20M )
-  ( B7 CLK_20M )
+  ( B6 /L2_PAIR_Q2/CLK_20M_C0 )
+  ( B7 /L2_PAIR_Q2/CLK_20M_C0 )
   ( B8 /L2_PAIR_Q2/L2_1/RST_N )
   ( B9 /L2_PAIR_Q2/TDI_0 )
-  ( B10 /L2_PAIR_Q2/L2_0/TCK )
-  ( B11 /L2_PAIR_Q2/L2_0/TMS )
+  ( B10 /L2_PAIR_Q2/L2_1/TCK )
+  ( B11 /L2_PAIR_Q2/L2_1/TMS )
   ( B12 /L2_PAIR_Q2/TDI_1 )
   ( B13 /L2_PAIR_Q2/L2_1/RST_N )
   ( B14 /L2_PAIR_Q3/+3V3 )
@@ -2226,8 +2274,8 @@
   ( B32 /L2_PAIR_Q3/+3V3 )
   ( B33 /L2_PAIR_Q3/+3V3 )
   ( B34 /L2_PAIR_Q3/+3V3 )
-  ( B35 /L2_PAIR_Q2/L2_1/MSEL )
-  ( B36 /L2_PAIR_Q2/L2_1/MSEL )
+  ( B35 /L2_PAIR_Q2/L2_0/MSEL )
+  ( B36 /L2_PAIR_Q2/L2_0/MSEL )
   ( B37 /L2_PAIR_Q2/DEBUG_N )
   ( B38 ? )
   ( B39 ? )
@@ -2251,31 +2299,31 @@
   ( GND GND )
  )
  ( /4E32CDCE/4E35D8BD SC70-6 U1101 NC7WZ17
-  ( 1 /L2_PAIR_Q3/TCK )
+  ( 1 /L2_PAIR_Q2/TCK )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q4/TMS )
-  ( 4 /L2_PAIR_Q1/L2_1/TMS )
+  ( 3 /L2_PAIR_Q1/TMS )
+  ( 4 /L2_PAIR_Q1/L2_0/TMS )
   ( 5 +3.3V )
-  ( 6 /L2_PAIR_Q1/L2_1/TCK )
+  ( 6 /L2_PAIR_Q1/L2_0/TCK )
  )
  ( /4E36B740/4E5214B4 SC70-6 U1102 NC7WZ17
   ( 1 /L2_PAIR_Q4/RST_N )
   ( 2 GND )
-  ( 3 /L2_PAIR_Q1/MSEL_N )
-  ( 4 /L2_PAIR_Q2/L2_1/MSEL )
+  ( 3 /L2_PAIR_Q3/MSEL_N )
+  ( 4 /L2_PAIR_Q2/L2_0/MSEL )
   ( 5 +3.3V )
   ( 6 /L2_PAIR_Q2/L2_1/RST_N )
  )
  ( /4E32CDCE/4E354532 SOT23-5 U1103 NCP1529
-  ( 1 /L2_PAIR_Q4/+3V3_PG )
+  ( 1 /L2_PAIR_Q3/+3V3_PG )
   ( 2 GND )
-  ( 3 N-000325 )
+  ( 3 N-000347 )
   ( 4 +5V )
-  ( 5 N-000344 )
+  ( 5 N-000361 )
  )
  ( /4E36B740/4E4D4027 SOT23-8 U1104 INA219
-  ( 1 N-000424 )
-  ( 2 N-000425 )
+  ( 1 N-000443 )
+  ( 2 N-000442 )
   ( 3 GND )
   ( 4 +5V )
   ( 5 ? )
@@ -2321,7 +2369,7 @@
   ( A35 GND )
   ( A36 /L2_PAIR_Q3/+3V3 )
   ( A37 GND )
-  ( A38 N-000513 )
+  ( A38 N-000533 )
   ( A39 ? )
   ( A40 /L2_PAIR_Q2/BL_X0_XLA_4i )
   ( A41 /L2_PAIR_Q2/BL_X0_XLA_3i )
@@ -2357,14 +2405,14 @@
   ( B3 ? )
   ( B4 /L2_PAIR_Q3/+3V3 )
   ( B5 +1V0 )
-  ( B6 CLK_20M )
-  ( B7 CLK_20M )
-  ( B8 /L2_PAIR_Q1/L2_0/RST_N )
+  ( B6 /L2_PAIR_Q1/CLK_20M_C1 )
+  ( B7 /L2_PAIR_Q1/CLK_20M_C1 )
+  ( B8 /L2_PAIR_Q1/L2_1/RST_N )
   ( B9 /L2_PAIR_Q1/TDI_1 )
-  ( B10 /L2_PAIR_Q1/L2_1/TCK )
-  ( B11 /L2_PAIR_Q1/L2_1/TMS )
+  ( B10 /L2_PAIR_Q1/L2_0/TCK )
+  ( B11 /L2_PAIR_Q1/L2_0/TMS )
   ( B12 /L2_PAIR_Q1/TDI_0 )
-  ( B13 /L2_PAIR_Q1/L2_0/RST_N )
+  ( B13 /L2_PAIR_Q1/L2_1/RST_N )
   ( B14 /L2_PAIR_Q3/+3V3 )
   ( B15 +1V0 )
   ( B16 ? )
@@ -2448,7 +2496,7 @@
   ( A35 GND )
   ( A36 /L2_PAIR_Q3/+3V3 )
   ( A37 GND )
-  ( A38 N-000512 )
+  ( A38 N-000532 )
   ( A39 ? )
   ( A40 /L2_PAIR_Q2/TL_X0_XLA_4i )
   ( A41 /L2_PAIR_Q2/TL_X0_XLA_3i )
@@ -2484,14 +2532,14 @@
   ( B3 ? )
   ( B4 /L2_PAIR_Q3/+3V3 )
   ( B5 +1V0 )
-  ( B6 CLK_20M )
-  ( B7 CLK_20M )
-  ( B8 /L2_PAIR_Q1/L2_0/RST_N )
+  ( B6 /L2_PAIR_Q1/CLK_20M_C0 )
+  ( B7 /L2_PAIR_Q1/CLK_20M_C0 )
+  ( B8 /L2_PAIR_Q1/L2_1/RST_N )
   ( B9 /L2_PAIR_Q1/TDO_1 )
-  ( B10 /L2_PAIR_Q1/L2_1/TCK )
-  ( B11 /L2_PAIR_Q1/L2_1/TMS )
+  ( B10 /L2_PAIR_Q1/L2_0/TCK )
+  ( B11 /L2_PAIR_Q1/L2_0/TMS )
   ( B12 /L2_PAIR_Q1/TDI_1 )
-  ( B13 /L2_PAIR_Q1/L2_0/RST_N )
+  ( B13 /L2_PAIR_Q1/L2_1/RST_N )
   ( B14 /L2_PAIR_Q3/+3V3 )
   ( B15 +1V0 )
   ( B16 ? )
@@ -2545,7 +2593,7 @@
   ( 5 +3.3V )
   ( 6 /L1/TCK_BUF )
  )
- ( /4E366D48/4E366E41 SC70-6 U1402 NC7WZ07
+ ( /4E366D48/4E53B2A3 SC70-6 U1402 NC7WZ17
   ( 1 /L1/RST_N )
   ( 2 GND )
   ( 3 /L1/MSEL_N )
@@ -2556,16 +2604,16 @@
  ( /4E366D48/4E367347 SOT23-5 U1403 NCP1529
   ( 1 +3.3V_PG )
   ( 2 GND )
-  ( 3 N-000392 )
+  ( 3 N-000410 )
   ( 4 +5V )
-  ( 5 N-000397 )
+  ( 5 N-000409 )
  )
  ( /4E366D48/4E36829C SOT23-5 U1404 NCP1521B
   ( 1 +5V )
   ( 2 GND )
   ( 3 +3.3V_PG )
-  ( 4 N-000391 )
-  ( 5 N-000390 )
+  ( 4 N-000407 )
+  ( 5 N-000364 )
  )
  ( /4E366D48/4E367DC9 SOT23-3 U1405 APX803-SR
   ( 1 +3.3V_PG )
@@ -2601,8 +2649,8 @@
   ( 21 /L1/RST_N_BUF )
   ( 22 +3.3V )
   ( 23 ? )
-  ( 24 CLK_20M )
-  ( 25 CLK_20M )
+  ( 24 /L1/CLK_20M )
+  ( 25 /L1/CLK_20M )
   ( 26 +3.3V )
   ( 27 /L1/XLA_0o )
   ( 28 /L1/XLA_1o )
@@ -2625,7 +2673,7 @@
   ( 45 +3.3V )
   ( 46 ? )
   ( 47 GND )
-  ( 48 N-000345 )
+  ( 48 N-000389 )
   ( 49 +1V0 )
   ( 50 +3.3V )
   ( 51 +3.3V )
@@ -3505,6 +3553,69 @@ $component R120
  R?-*
  SM1206
 $endlist
+$component R121
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R122
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R123
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R124
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R125
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R126
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R127
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R128
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R129
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
 $component R203
  R?
  SM0603
@@ -3695,20 +3806,6 @@ $component R1201
  SM1206
 $endlist
 $component R1301
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R1401
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R1402
  R?
  SM0603
  SM0805
