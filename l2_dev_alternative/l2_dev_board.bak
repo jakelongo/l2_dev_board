@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 24/08/2011 15:41:14
+EESchema Schematic File Version 2  date 24/08/2011 15:41:50
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -46,6 +46,10 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Label 4460 2510 2    39   ~ 0
+L1_CLK_20M
+Wire Wire Line
+	4460 2510 4510 2510
 Wire Wire Line
 	3150 14730 3100 14730
 Wire Wire Line
@@ -5541,6 +5545,7 @@ F21 "TMS" I R 5520 2830 60
 F22 "MSEL_N" I R 5520 2910 60 
 F23 "RST_N" I R 5520 2990 60 
 F24 "DEBUG_N" I R 5520 2510 60 
+F25 "CLK_20M" I L 4510 2510 60 
 $EndSheet
 Text Label 3190 3550 0    39   ~ 0
 RST_N
