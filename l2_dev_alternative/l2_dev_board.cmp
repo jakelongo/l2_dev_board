@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 23/08/2011 15:57:43
+Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 24/08/2011 15:42:34
 
 BeginCmp
 TimeStamp = /4E3544FC;
@@ -1244,6 +1244,13 @@ TimeStamp = /4E5373A8;
 Reference = R129;
 ValeurCmp = 33R;
 IdModule  = 0204;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E550D55;
+Reference = R130;
+ValeurCmp = 33R;
+IdModule  = SM0603;
 EndCmp
 
 BeginCmp
