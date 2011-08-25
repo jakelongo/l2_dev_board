@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 25/08/2011 15:54:37
+EESchema Schematic File Version 2  date 25/08/2011 17:52:10
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -46,6 +46,8 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Wire Wire Line
+	5710 6720 5830 6720
 Connection ~ 2400 17380
 Wire Wire Line
 	2370 17380 2400 17380
@@ -2376,6 +2378,12 @@ Wire Wire Line
 	2130 17290 1870 17290
 Wire Wire Line
 	1870 17290 1870 17380
+Wire Wire Line
+	7240 6720 7130 6720
+Text Label 5710 6720 2    39   ~ 0
+L1_TMS
+Text Label 7240 6720 0    39   ~ 0
+L1_TMS_BUF_R
 Text Label 4460 2510 2    39   ~ 0
 L1_CLK_20M
 $Comp
@@ -3314,15 +3322,15 @@ F 1 "+3.3V" H 7130 8180 30  0000 C CNN
 	1    7130 8070
 	1    0    0    -1  
 $EndComp
-Text Label 7240 5630 0    39   ~ 0
-TRST_N_BUF_R
 Text Label 7240 5830 0    39   ~ 0
-RST_N_BUF_R
+TRST_N_BUF_R
 Text Label 7240 4730 0    39   ~ 0
-TCK_BUF_R
+RST_N_BUF_R
 Text Label 7240 4930 0    39   ~ 0
-TMS_BUF_R
+TCK_BUF_R
 Text Label 7240 6520 0    39   ~ 0
+TMS_BUF_R
+Text Label 7240 5630 0    39   ~ 0
 DEBUG_N_BUF_R
 Text Label 7240 7620 0    39   ~ 0
 L1_TCK_BUF_R
@@ -3332,15 +3340,15 @@ Text Label 7240 8510 0    39   ~ 0
 L1_TRST_N_BUF_R
 Text Label 7240 7420 0    39   ~ 0
 L1_RST_N_BUF_R
-Text Label 5720 5630 2    39   ~ 0
-MSEL_N
 Text Label 5720 5830 2    39   ~ 0
-RST_N
+MSEL_N
 Text Label 5720 4730 2    39   ~ 0
-TCK
+RST_N
 Text Label 5720 4930 2    39   ~ 0
-TMS
+TCK
 Text Label 5720 6520 2    39   ~ 0
+TMS
+Text Label 5720 5630 2    39   ~ 0
 DEBUG_N
 Text Label 5720 7620 2    39   ~ 0
 L1_TCK
