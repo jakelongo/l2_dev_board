@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 24/08/2011 17:10:00
+EESchema Schematic File Version 2  date 25/08/2011 15:54:37
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -38,7 +38,7 @@ $Descr A1 33070 23400
 encoding utf-8
 Sheet 1 14
 Title ""
-Date "24 aug 2011"
+Date "25 aug 2011"
 Rev ""
 Comp ""
 Comment1 ""
@@ -5647,6 +5647,7 @@ U 1 1 4E35E47A
 P 6090 870
 F 0 "L102" V 6040 870 40  0000 C CNN
 F 1 "2u2H" V 6190 870 40  0000 C CNN
+F 3 "http://www.tdk.co.jp/tefe02/e531_nlcv32t_pfr.pdf" H 6090 870 60  0001 C CNN
 	1    6090 870 
 	0    -1   -1   0   
 $EndComp
@@ -5795,6 +5796,7 @@ U 1 1 4E3544F8
 P 3180 1930
 F 0 "L101" V 3130 1930 40  0000 C CNN
 F 1 "2.2uH" V 3280 1930 40  0000 C CNN
+F 3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0075S0103LQH55P.pdf" H 3180 1930 60  0001 C CNN
 	1    3180 1930
 	0    -1   -1   0   
 $EndComp

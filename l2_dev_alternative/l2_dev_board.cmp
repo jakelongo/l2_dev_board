@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 24/08/2011 17:08:22
+Cmp-Mod V01 Genere par PcbNew le 25/08/2011 14:22:01
 
 BeginCmp
 TimeStamp = /4E3544FC;
@@ -837,7 +837,7 @@ BeginCmp
 TimeStamp = /4E366D48/4E368691;
 Reference = C1407;
 ValeurCmp = 100nF;
-IdModule  = 0204;
+IdModule  = sm0603;
 EndCmp
 
 BeginCmp
@@ -851,14 +851,14 @@ BeginCmp
 TimeStamp = /4E366D48/4E36868F;
 Reference = C1409;
 ValeurCmp = 100nF;
-IdModule  = 0204;
+IdModule  = sm0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E366D48/4E36868E;
 Reference = C1410;
 ValeurCmp = 100nF;
-IdModule  = 0204;
+IdModule  = sm0603;
 EndCmp
 
 BeginCmp
@@ -872,21 +872,21 @@ BeginCmp
 TimeStamp = /4E366D48/4E36868D;
 Reference = C1412;
 ValeurCmp = 10uF;
-IdModule  = 0204;
+IdModule  = sm0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E366D48/4E368686;
 Reference = C1413;
 ValeurCmp = 100nF;
-IdModule  = 0204;
+IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /4E366D48/4E368687;
 Reference = C1414;
 ValeurCmp = 100nF;
-IdModule  = 0204;
+IdModule  = sm0603;
 EndCmp
 
 BeginCmp
@@ -907,7 +907,7 @@ BeginCmp
 TimeStamp = /4E366D48/4E36868A;
 Reference = C1417;
 ValeurCmp = 10uF;
-IdModule  = 0204;
+IdModule  = sm0603;
 EndCmp
 
 BeginCmp
