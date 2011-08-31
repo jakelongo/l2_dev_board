@@ -1,0 +1,3570 @@
+# EESchema Netlist Version 1.1 created  17/08/2011 15:43:34
+(
+ ( /4E3544FC SM0603_Capa C101 4.7uF
+  ( 1 +12V )
+  ( 2 GND )
+ )
+ ( /4E3544FD SM0603_Capa C102 470pF
+  ( 1 N-000105 )
+  ( 2 GND )
+ )
+ ( /4E3544F5 0204 C103 0.47uF
+  ( 1 N-000107 )
+  ( 2 N-000259 )
+ )
+ ( /4E3544FB SM0603_Capa C104 47uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4E35E47C SM0603_Capa C105 10uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4E35E477 SM0603_Capa C106 33pF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 N-000262 )
+ )
+ ( /4E35E476 SM0603_Capa C107 10uF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E3FB8CA SM0603_Capa C108 0.1uF
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E354587 SM0603_Capa C201 10uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E35D649 SM0603_Capa C202 33pF
+  ( 1 +1V0 )
+  ( 2 N-000422 )
+ )
+ ( /4E36B777/4E35D6A2 SM0603_Capa C203 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D1CA 0204 C301 1uF
+  ( 1 N-000802 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D7F4 0204 C302 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D7FC 0204 C303 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D822 0204 C304 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D828 0204 C305 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D84E SM0603_Capa C306 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D8E0 0204 C307 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D8DF 0204 C308 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D8DE 0204 C309 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D8DD 0204 C310 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D8DC SM0603_Capa C311 10uF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32D1CA 0204 C401 1uF
+  ( 1 N-000714 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32D7F4 0204 C402 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32D7FC 0204 C403 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32D822 0204 C404 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32D828 0204 C405 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32D84E SM0603_Capa C406 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32D8E0 0204 C407 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32D8DF 0204 C408 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32D8DE 0204 C409 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32D8DD 0204 C410 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32D8DC SM0603_Capa C411 10uF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E354587 SM0603_Capa C501 10uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E35D649 SM0603_Capa C502 33pF
+  ( 1 +1V0 )
+  ( 2 N-000414 )
+ )
+ ( /4E36B760/4E35D6A2 SM0603_Capa C503 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D1CA 0204 C601 1uF
+  ( 1 N-000713 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D7F4 0204 C602 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D7FC 0204 C603 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D822 0204 C604 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D828 0204 C605 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D84E SM0603_Capa C606 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D8E0 0204 C607 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D8DF 0204 C608 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D8DE 0204 C609 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D8DD 0204 C610 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D8DC SM0603_Capa C611 10uF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32D1CA 0204 C701 1uF
+  ( 1 N-000661 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32D7F4 0204 C702 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32D7FC 0204 C703 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32D822 0204 C704 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32D828 0204 C705 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32D84E SM0603_Capa C706 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32D8E0 0204 C707 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32D8DF 0204 C708 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32D8DE 0204 C709 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32D8DD 0204 C710 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32D8DC SM0603_Capa C711 10uF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E354587 SM0603_Capa C801 10uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E35D649 SM0603_Capa C802 33pF
+  ( 1 +1V0 )
+  ( 2 N-000398 )
+ )
+ ( /4E36B740/4E35D6A2 SM0603_Capa C803 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D1CA 0204 C901 1uF
+  ( 1 N-000573 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D7F4 0204 C902 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D7FC 0204 C903 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D822 0204 C904 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D828 0204 C905 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D84E SM0603_Capa C906 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D8E0 0204 C907 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D8DF 0204 C908 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D8DE 0204 C909 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D8DD 0204 C910 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D8DC SM0603_Capa C911 10uF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32D1CA 0204 C1001 1uF
+  ( 1 N-000567 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32D7F4 0204 C1002 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32D7FC 0204 C1003 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32D822 0204 C1004 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32D828 0204 C1005 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32D84E SM0603_Capa C1006 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32D8E0 0204 C1007 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32D8DF 0204 C1008 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32D8DE 0204 C1009 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32D8DD 0204 C1010 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32D8DC SM0603_Capa C1011 10uF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E354587 SM0603_Capa C1101 10uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E35D649 SM0603_Capa C1102 33pF
+  ( 1 +1V0 )
+  ( 2 N-000319 )
+ )
+ ( /4E32CDCE/4E35D6A2 SM0603_Capa C1103 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D1CA 0204 C1201 1uF
+  ( 1 N-000479 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D7F4 0204 C1202 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D7FC 0204 C1203 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D822 0204 C1204 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D828 0204 C1205 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D84E SM0603_Capa C1206 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D8E0 0204 C1207 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D8DF 0204 C1208 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D8DE 0204 C1209 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D8DD 0204 C1210 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D8DC SM0603_Capa C1211 10uF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D1CA 0204 C1301 1uF
+  ( 1 N-000478 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D7F4 0204 C1302 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D7FC 0204 C1303 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D822 0204 C1304 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D828 0204 C1305 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D84E SM0603_Capa C1306 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D8E0 0204 C1307 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D8DF 0204 C1308 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D8DE 0204 C1309 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D8DD 0204 C1310 100nF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D8DC SM0603_Capa C1311 10uF
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E367349 SM0603_Capa C1401 10uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E367506 SM0603_Capa C1402 10uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E36734E SM0603_Capa C1403 33pF
+  ( 1 +3.3V )
+  ( 2 N-000372 )
+ )
+ ( /4E366D48/4E367501 SM0603_Capa C1404 33pF
+  ( 1 +1V0 )
+  ( 2 N-000366 )
+ )
+ ( /4E366D48/4E36734F SM0603_Capa C1405 10uF
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E367500 SM0603_Capa C1406 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E368691 0204 C1407 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E368690 0204 C1408 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E36868F 0204 C1409 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E36868E 0204 C1410 100nF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E368900 0204 C1411 1uF
+  ( 1 N-000363 )
+  ( 2 N-000320 )
+ )
+ ( /4E366D48/4E36868D 0204 C1412 10uF
+  ( 1 +1V0 )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E368686 0204 C1413 100nF
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E368687 SM0603_Capa C1414 100nF
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E368688 0204 C1415 100nF
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E368689 SM0603_Capa C1416 100nF
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E36868A SM0603_Capa C1417 10uF
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4E3544F7 DFLS240L D101 DIODE_SCH
+  ( 1 N-000259 )
+  ( 2 GND )
+ )
+ ( /4E3544F8 SM1210L L101 2.2uH
+  ( 1 N-000259 )
+  ( 2 +5V )
+ )
+ ( /4E35E47A SM1210L L102 2u2H
+  ( 1 N-000104 )
+  ( 2 /L2_PAIR_Q1/+3V3 )
+ )
+ ( /4E36B777/4E35D5AC SM1210L L201 2u2H
+  ( 1 N-000423 )
+  ( 2 +1V0 )
+ )
+ ( /4E36B760/4E35D5AC SM1210L L501 2u2H
+  ( 1 N-000404 )
+  ( 2 +1V0 )
+ )
+ ( /4E36B740/4E35D5AC SM1210L L801 2u2H
+  ( 1 N-000397 )
+  ( 2 +1V0 )
+ )
+ ( /4E32CDCE/4E35D5AC SM1210L L1101 2u2H
+  ( 1 N-000303 )
+  ( 2 +1V0 )
+ )
+ ( /4E366D48/4E36734B SM1210L L1401 2u2H
+  ( 1 N-000367 )
+  ( 2 +3.3V )
+ )
+ ( /4E366D48/4E367504 SM1210L L1402 2u2H
+  ( 1 N-000365 )
+  ( 2 +1V0 )
+ )
+ ( /4E36BA53 FFC5-xx-R-L-Tx P101 CONN_30
+  ( 1 GND )
+  ( 2 /L2_PAIR_Q1/BL_X0_XLA_3o )
+  ( 3 /L2_PAIR_Q1/BL_X0_XLA_4o )
+  ( 4 GND )
+  ( 5 GND )
+  ( 6 /L2_PAIR_Q1/TL_X0_XLA_4i )
+  ( 7 /L2_PAIR_Q1/TL_X0_XLA_3i )
+  ( 8 /L2_PAIR_Q1/TL_X0_XLA_2i )
+  ( 9 /L2_PAIR_Q1/TL_X0_XLA_1i )
+  ( 10 /L2_PAIR_Q1/TL_X0_XLA_0i )
+  ( 11 GND )
+  ( 12 GND )
+  ( 13 /L2_PAIR_Q1/TL_X0_XLA_0o )
+  ( 14 /L2_PAIR_Q1/TL_X0_XLA_1o )
+  ( 15 /L2_PAIR_Q1/TL_X0_XLA_2o )
+  ( 16 /L2_PAIR_Q1/TL_X0_XLA_3o )
+  ( 17 /L2_PAIR_Q1/TL_X0_XLA_4o )
+  ( 18 GND )
+  ( 19 /TMS_L )
+  ( 20 GND )
+  ( 21 /TCK_L )
+  ( 22 GND )
+  ( 23 /RST_N_L )
+  ( 24 /TRST_N_L )
+  ( 25 /DEBUG_N_L )
+  ( 26 GND )
+  ( 27 /L2_PAIR_Q1/TDI_0 )
+  ( 28 GND )
+  ( 29 /TDO_L )
+  ( 30 GND )
+ )
+ ( /4E36BA5D FFC5-xx-R-L-Tx P102 CONN_30
+  ( 1 GND )
+  ( 2 /L1/XLC_1i )
+  ( 3 /L1/XLC_0i )
+  ( 4 GND )
+  ( 5 GND )
+  ( 6 /L1/XLC_0o )
+  ( 7 /L1/XLC_1o )
+  ( 8 GND )
+  ( 9 /L1_TMS_L )
+  ( 10 GND )
+  ( 11 /L1_TCK_L )
+  ( 12 /L1_RST_N_L )
+  ( 13 /L1_TRST_N_L )
+  ( 14 /L1_DEBUG_N_L )
+  ( 15 GND )
+  ( 16 /L1/TDI )
+  ( 17 GND )
+  ( 18 /L1_TDO_L )
+  ( 19 GND )
+  ( 20 /L2_PAIR_Q1/BL_X0_XLA_4i )
+  ( 21 /L2_PAIR_Q1/BL_X0_XLA_3i )
+  ( 22 /L2_PAIR_Q1/BL_X0_XLA_2i )
+  ( 23 /L2_PAIR_Q1/BL_X0_XLA_1i )
+  ( 24 /L2_PAIR_Q1/BL_X0_XLA_0i )
+  ( 25 GND )
+  ( 26 GND )
+  ( 27 /L2_PAIR_Q1/BL_X0_XLA_0o )
+  ( 28 /L2_PAIR_Q1/BL_X0_XLA_1o )
+  ( 29 /L2_PAIR_Q1/BL_X0_XLA_2o )
+  ( 30 GND )
+ )
+ ( /4E36BABF FFC5-xx-R-L-Tx P103 CONN_30
+  ( 1 GND )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q4/BL_X0_XLA_4i )
+  ( 4 /L2_PAIR_Q4/BL_X0_XLA_3i )
+  ( 5 /L2_PAIR_Q4/BL_X0_XLA_2i )
+  ( 6 /L2_PAIR_Q4/BL_X0_XLA_1i )
+  ( 7 /L2_PAIR_Q4/BL_X0_XLA_0i )
+  ( 8 GND )
+  ( 9 GND )
+  ( 10 /L2_PAIR_Q4/BL_X0_XLA_0o )
+  ( 11 /L2_PAIR_Q4/BL_X0_XLA_1o )
+  ( 12 /L2_PAIR_Q4/BL_X0_XLA_2o )
+  ( 13 /L2_PAIR_Q4/BL_X0_XLA_3o )
+  ( 14 /L2_PAIR_Q4/BL_X0_XLA_4o )
+  ( 15 GND )
+  ( 16 GND )
+  ( 17 /L2_PAIR_Q4/TL_X0_XLA_4i )
+  ( 18 /L2_PAIR_Q4/TL_X0_XLA_3i )
+  ( 19 /L2_PAIR_Q4/TL_X0_XLA_2i )
+  ( 20 /L2_PAIR_Q4/TL_X0_XLA_1i )
+  ( 21 /L2_PAIR_Q4/TL_X0_XLA_0i )
+  ( 22 GND )
+  ( 23 GND )
+  ( 24 /L2_PAIR_Q4/TL_X0_XLA_0o )
+  ( 25 /L2_PAIR_Q4/TL_X0_XLA_1o )
+  ( 26 /L2_PAIR_Q4/TL_X0_XLA_2o )
+  ( 27 /L2_PAIR_Q4/TL_X0_XLA_3o )
+  ( 28 /L2_PAIR_Q4/TL_X0_XLA_4o )
+  ( 29 GND )
+  ( 30 GND )
+ )
+ ( /4E36BA72 FFC5-xx-R-L-Tx P104 CONN_30
+  ( 1 GND )
+  ( 2 /TMS_T )
+  ( 3 GND )
+  ( 4 /TCK_T )
+  ( 5 GND )
+  ( 6 /RST_N_T )
+  ( 7 /TRST_N_T )
+  ( 8 /DEBUG_N_T )
+  ( 9 GND )
+  ( 10 /L1_TMS_T )
+  ( 11 GND )
+  ( 12 /L1_TCK_T )
+  ( 13 GND )
+  ( 14 /L1_RST_N_T )
+  ( 15 /L1_TRST_N_T )
+  ( 16 /L1_DEBUG_N_T )
+  ( 17 GND )
+  ( 18 /L1/XLD_1i )
+  ( 19 /L1/XLD_0i )
+  ( 20 GND )
+  ( 21 /L1/XLD_0o )
+  ( 22 /L1/XLD_1o )
+  ( 23 GND )
+  ( 24 /L2_PAIR_Q2/TDI_1 )
+  ( 25 GND )
+  ( 26 /TDO_T )
+  ( 27 GND )
+  ( 28 /L1_TDI_T )
+  ( 29 GND )
+  ( 30 /L1_TDO_T )
+ )
+ ( /4E36BB3A FFC5-xx-R-L-Tx P105 CONN_30
+  ( 1 /L1_TDI_B )
+  ( 2 GND )
+  ( 3 /L1_TDO_B )
+  ( 4 GND )
+  ( 5 /L2_PAIR_Q4/TDI_0 )
+  ( 6 GND )
+  ( 7 /TDO_B )
+  ( 8 GND )
+  ( 9 /L1/XLA_0i )
+  ( 10 /L1/XLA_1i )
+  ( 11 GND )
+  ( 12 /L1/XLA_1o )
+  ( 13 /L1/XLA_0o )
+  ( 14 GND )
+  ( 15 /L1_DEBUG_N_BUF_B )
+  ( 16 /L1_TRST_N_BUF_B )
+  ( 17 /L1_RST_N_BUF_B )
+  ( 18 GND )
+  ( 19 /L1_TCK_BUF_B )
+  ( 20 GND )
+  ( 21 /L1_TMS_BUF_B )
+  ( 22 GND )
+  ( 23 /DEBUG_N_BUF_B )
+  ( 24 /TRST_N_BUF_B )
+  ( 25 /RST_N_BUF_B )
+  ( 26 GND )
+  ( 27 /TCK_BUF_B )
+  ( 28 GND )
+  ( 29 /TMS_BUF_B )
+  ( 30 GND )
+ )
+ ( /4E36BA7A FFC5-xx-R-L-Tx P106 CONN_30
+  ( 1 GND )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q1/T_X0_XLB_4i )
+  ( 4 /L2_PAIR_Q1/T_X0_XLB_3i )
+  ( 5 /L2_PAIR_Q1/T_X0_XLB_2i )
+  ( 6 /L2_PAIR_Q1/T_X0_XLB_1i )
+  ( 7 /L2_PAIR_Q1/T_X0_XLB_0i )
+  ( 8 GND )
+  ( 9 GND )
+  ( 10 /L2_PAIR_Q1/T_X0_XLB_0o )
+  ( 11 /L2_PAIR_Q1/T_X0_XLB_1o )
+  ( 12 /L2_PAIR_Q1/T_X0_XLB_2o )
+  ( 13 /L2_PAIR_Q1/T_X0_XLB_3o )
+  ( 14 /L2_PAIR_Q1/T_X0_XLB_4o )
+  ( 15 GND )
+  ( 16 GND )
+  ( 17 /L2_PAIR_Q2/T_X0_XLB_4i )
+  ( 18 /L2_PAIR_Q2/T_X0_XLB_3i )
+  ( 19 /L2_PAIR_Q2/T_X0_XLB_2i )
+  ( 20 /L2_PAIR_Q2/T_X0_XLB_1i )
+  ( 21 /L2_PAIR_Q2/T_X0_XLB_0i )
+  ( 22 GND )
+  ( 23 GND )
+  ( 24 /L2_PAIR_Q2/T_X0_XLB_0o )
+  ( 25 /L2_PAIR_Q2/T_X0_XLB_1o )
+  ( 26 /L2_PAIR_Q2/T_X0_XLB_2o )
+  ( 27 /L2_PAIR_Q2/T_X0_XLB_3o )
+  ( 28 /L2_PAIR_Q2/T_X0_XLB_4o )
+  ( 29 GND )
+  ( 30 GND )
+ )
+ ( /4E36BB39 FFC5-xx-R-L-Tx P107 CONN_30
+  ( 1 GND )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q3/B_X1_XLB_4i )
+  ( 4 /L2_PAIR_Q3/B_X1_XLB_3i )
+  ( 5 /L2_PAIR_Q3/B_X1_XLB_2i )
+  ( 6 /L2_PAIR_Q3/B_X1_XLB_1i )
+  ( 7 /L2_PAIR_Q3/B_X1_XLB_0i )
+  ( 8 GND )
+  ( 9 GND )
+  ( 10 /L2_PAIR_Q3/B_X1_XLB_0o )
+  ( 11 /L2_PAIR_Q3/B_X1_XLB_1o )
+  ( 12 /L2_PAIR_Q3/B_X1_XLB_2o )
+  ( 13 /L2_PAIR_Q3/B_X1_XLB_3o )
+  ( 14 /L2_PAIR_Q3/B_X1_XLB_4o )
+  ( 15 GND )
+  ( 16 GND )
+  ( 17 /L2_PAIR_Q4/B_X1_XLB_4i )
+  ( 18 /L2_PAIR_Q4/B_X1_XLB_3i )
+  ( 19 /L2_PAIR_Q4/B_X1_XLB_2i )
+  ( 20 /L2_PAIR_Q4/B_X1_XLB_1i )
+  ( 21 /L2_PAIR_Q4/B_X1_XLB_0i )
+  ( 22 GND )
+  ( 23 GND )
+  ( 24 /L2_PAIR_Q4/B_X1_XLB_0o )
+  ( 25 /L2_PAIR_Q4/B_X1_XLB_1o )
+  ( 26 /L2_PAIR_Q4/B_X1_XLB_2o )
+  ( 27 /L2_PAIR_Q4/B_X1_XLB_3o )
+  ( 28 /L2_PAIR_Q4/B_X1_XLB_4o )
+  ( 29 GND )
+  ( 30 GND )
+ )
+ ( /4E36BB0C FFC5-xx-R-L-Tx P108 CONN_30
+  ( 1 GND )
+  ( 2 /L2_PAIR_Q3/TDI_1 )
+  ( 3 GND )
+  ( 4 /TDO_R )
+  ( 5 GND )
+  ( 6 /DEBUG_N_BUF_R )
+  ( 7 /TRST_N_BUF_R )
+  ( 8 /RST_N_BUF_R )
+  ( 9 GND )
+  ( 10 /TCK_BUF_R )
+  ( 11 GND )
+  ( 12 /TMS_BUF_R )
+  ( 13 GND )
+  ( 14 /L2_PAIR_Q2/TR_X1_XLA_4i )
+  ( 15 /L2_PAIR_Q2/TR_X1_XLA_3i )
+  ( 16 /L2_PAIR_Q2/TR_X1_XLA_2i )
+  ( 17 /L2_PAIR_Q2/TR_X1_XLA_1i )
+  ( 18 /L2_PAIR_Q2/TR_X1_XLA_0i )
+  ( 19 GND )
+  ( 20 GND )
+  ( 21 /L2_PAIR_Q2/TR_X1_XLA_0o )
+  ( 22 /L2_PAIR_Q2/TR_X1_XLA_1o )
+  ( 23 /L2_PAIR_Q2/TR_X1_XLA_2o )
+  ( 24 /L2_PAIR_Q2/TR_X1_XLA_3o )
+  ( 25 /L2_PAIR_Q2/TR_X1_XLA_4o )
+  ( 26 GND )
+  ( 27 GND )
+  ( 28 /L2_PAIR_Q2/BR_X1_XLA_4i )
+  ( 29 /L2_PAIR_Q2/BR_X1_XLA_3i )
+  ( 30 GND )
+ )
+ ( /4E36BB0B FFC5-xx-R-L-Tx P109 CONN_30
+  ( 1 GND )
+  ( 2 /L2_PAIR_Q2/BR_X1_XLA_2i )
+  ( 3 /L2_PAIR_Q2/BR_X1_XLA_1i )
+  ( 4 /L2_PAIR_Q2/BR_X1_XLA_0i )
+  ( 5 GND )
+  ( 6 GND )
+  ( 7 /L2_PAIR_Q2/BR_X1_XLA_0o )
+  ( 8 /L2_PAIR_Q2/BR_X1_XLA_1o )
+  ( 9 /L2_PAIR_Q2/BR_X1_XLA_2o )
+  ( 10 /L2_PAIR_Q2/BR_X1_XLA_3o )
+  ( 11 /L2_PAIR_Q2/BR_X1_XLA_4o )
+  ( 12 GND )
+  ( 13 /L1_TDI_R )
+  ( 14 GND )
+  ( 15 /L1_TDO_R )
+  ( 16 GND )
+  ( 17 /L1_DEBUG_N_BUF_R )
+  ( 18 /L1_TRST_N_BUF_R )
+  ( 19 /L1_RST_N_BUF_R )
+  ( 20 /L1_TCK_BUF_R )
+  ( 21 GND )
+  ( 22 /L1_TMS_BUF_R )
+  ( 23 GND )
+  ( 24 /L1/XLB_0i )
+  ( 25 /L1/XLB_1i )
+  ( 26 GND )
+  ( 27 GND )
+  ( 28 /L1/XLB_0o )
+  ( 29 /L1/XLB_1o )
+  ( 30 GND )
+ )
+ ( /4E36BB0A FFC5-xx-R-L-Tx P110 CONN_30
+  ( 1 GND )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q3/TR_X1_XLA_4i )
+  ( 4 /L2_PAIR_Q3/TR_X1_XLA_3i )
+  ( 5 /L2_PAIR_Q3/TR_X1_XLA_2i )
+  ( 6 /L2_PAIR_Q3/TR_X1_XLA_1i )
+  ( 7 /L2_PAIR_Q3/TR_X1_XLA_0i )
+  ( 8 GND )
+  ( 9 GND )
+  ( 10 /L2_PAIR_Q3/TR_X1_XLA_0o )
+  ( 11 /L2_PAIR_Q3/TR_X1_XLA_1o )
+  ( 12 /L2_PAIR_Q3/TR_X1_XLA_2o )
+  ( 13 /L2_PAIR_Q3/TR_X1_XLA_3o )
+  ( 14 /L2_PAIR_Q3/TR_X1_XLA_4o )
+  ( 15 GND )
+  ( 16 GND )
+  ( 17 /L2_PAIR_Q3/BR_X1_XLA_4i )
+  ( 18 /L2_PAIR_Q3/BR_X1_XLA_3i )
+  ( 19 /L2_PAIR_Q3/BR_X1_XLA_2i )
+  ( 20 /L2_PAIR_Q3/BR_X1_XLA_1i )
+  ( 21 /L2_PAIR_Q3/BR_X1_XLA_0i )
+  ( 22 GND )
+  ( 23 GND )
+  ( 24 /L2_PAIR_Q3/BR_X1_XLA_0o )
+  ( 25 /L2_PAIR_Q3/BR_X1_XLA_1o )
+  ( 26 /L2_PAIR_Q3/BR_X1_XLA_2o )
+  ( 27 /L2_PAIR_Q3/BR_X1_XLA_3o )
+  ( 28 /L2_PAIR_Q3/BR_X1_XLA_4o )
+  ( 29 GND )
+  ( 30 GND )
+ )
+ ( /4E3544FE SM0603_Resistor R101 16.2k
+  ( 1 N-000111 )
+  ( 2 N-000105 )
+ )
+ ( /4E3544FF SM0603_Resistor R102 11.5k
+  ( 1 N-000112 )
+  ( 2 GND )
+ )
+ ( /4E3826BB SM0603_Resistor R103 10k
+  ( 1 /SWT_1 )
+  ( 2 GND )
+ )
+ ( /4E3826C2 SM0603_Resistor R104 10k
+  ( 1 /SWT_2 )
+  ( 2 GND )
+ )
+ ( /4E35E59F SM0603_Resistor R105 10k
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 /L2_PAIR_Q3/+3V3_PG )
+ )
+ ( /4E3826C6 SM0603_Resistor R106 10k
+  ( 1 /SWT_3 )
+  ( 2 GND )
+ )
+ ( /4E3826CE SM0603_Resistor R107 10k
+  ( 1 /SWT_4 )
+  ( 2 GND )
+ )
+ ( /4E3544FA SM0603_Resistor R108 100k
+  ( 1 N-000106 )
+  ( 2 GND )
+ )
+ ( /4E3544F9 SM0603_Resistor R109 536k
+  ( 1 +5V )
+  ( 2 N-000106 )
+ )
+ ( /4E35E479 SM0603_Resistor R110 453k
+  ( 1 /L2_PAIR_Q1/+3V3 )
+  ( 2 N-000262 )
+ )
+ ( /4E35E478 SM0603_Resistor R111 100k
+  ( 1 N-000262 )
+  ( 2 GND )
+ )
+ ( /4E3815E4 SM0603_Resistor R112 10k
+  ( 1 +3.3V )
+  ( 2 ? )
+ )
+ ( /4E3815E7 SM0603_Resistor R113 10k
+  ( 1 +3.3V )
+  ( 2 /L2_PAIR_Q1/RST_N )
+ )
+ ( /4E36B777/4E35DB38 SM0603_Resistor R201 10k
+  ( 1 +3.3V )
+  ( 2 /L2_PAIR_Q3/L2_0/MSEL )
+ )
+ ( /4E36B777/4E35DB40 SM0603_Resistor R202 10k
+  ( 1 +3.3V )
+  ( 2 /L2_PAIR_Q3/L2_1/RST_N )
+ )
+ ( /4E36B777/4E35D5C1 SM0603_Resistor R203 68k
+  ( 1 +1V0 )
+  ( 2 N-000422 )
+ )
+ ( /4E36B777/4E35D5DA SM0603_Resistor R204 100k
+  ( 1 N-000422 )
+  ( 2 GND )
+ )
+ ( /4E36B777/4E3470E5/4E32D1C4 SM0603_Resistor R301 2R2
+  ( 1 +1V0 )
+  ( 2 N-000802 )
+ )
+ ( /4E36B777/4E32CE0C/4E32D1C4 SM0603_Resistor R401 2R2
+  ( 1 +1V0 )
+  ( 2 N-000714 )
+ )
+ ( /4E36B760/4E35DB38 SM0603_Resistor R501 10k
+  ( 1 +3.3V )
+  ( 2 /L2_PAIR_Q4/L2_0/MSEL )
+ )
+ ( /4E36B760/4E35DB40 SM0603_Resistor R502 10k
+  ( 1 +3.3V )
+  ( 2 /L2_PAIR_Q4/L2_1/RST_N )
+ )
+ ( /4E36B760/4E35D5C1 SM0603_Resistor R503 68k
+  ( 1 +1V0 )
+  ( 2 N-000414 )
+ )
+ ( /4E36B760/4E35D5DA SM0603_Resistor R504 100k
+  ( 1 N-000414 )
+  ( 2 GND )
+ )
+ ( /4E36B760/4E3470E5/4E32D1C4 SM0603_Resistor R601 2R2
+  ( 1 +1V0 )
+  ( 2 N-000713 )
+ )
+ ( /4E36B760/4E32CE0C/4E32D1C4 SM0603_Resistor R701 2R2
+  ( 1 +1V0 )
+  ( 2 N-000661 )
+ )
+ ( /4E36B740/4E35DB38 SM0603_Resistor R801 10k
+  ( 1 +3.3V )
+  ( 2 /L2_PAIR_Q2/L2_0/MSEL )
+ )
+ ( /4E36B740/4E35DB40 SM0603_Resistor R802 10k
+  ( 1 +3.3V )
+  ( 2 /L2_PAIR_Q2/L2_1/RST_N )
+ )
+ ( /4E36B740/4E35D5C1 SM0603_Resistor R803 68k
+  ( 1 +1V0 )
+  ( 2 N-000398 )
+ )
+ ( /4E36B740/4E35D5DA SM0603_Resistor R804 100k
+  ( 1 N-000398 )
+  ( 2 GND )
+ )
+ ( /4E36B740/4E3470E5/4E32D1C4 SM0603_Resistor R901 2R2
+  ( 1 +1V0 )
+  ( 2 N-000573 )
+ )
+ ( /4E36B740/4E32CE0C/4E32D1C4 SM0603_Resistor R1001 2R2
+  ( 1 +1V0 )
+  ( 2 N-000567 )
+ )
+ ( /4E32CDCE/4E35DB38 SM0603_Resistor R1101 10k
+  ( 1 +3.3V )
+  ( 2 /L2_PAIR_Q1/L2_0/MSEL )
+ )
+ ( /4E32CDCE/4E35DB40 SM0603_Resistor R1102 10k
+  ( 1 +3.3V )
+  ( 2 /L2_PAIR_Q1/L2_0/RST_N )
+ )
+ ( /4E32CDCE/4E35D5C1 SM0603_Resistor R1103 68k
+  ( 1 +1V0 )
+  ( 2 N-000319 )
+ )
+ ( /4E32CDCE/4E35D5DA SM0603_Resistor R1104 100k
+  ( 1 N-000319 )
+  ( 2 GND )
+ )
+ ( /4E32CDCE/4E3470E5/4E32D1C4 0204 R1201 2R2
+  ( 1 +1V0 )
+  ( 2 N-000479 )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32D1C4 SM0603_Resistor R1301 2R2
+  ( 1 +1V0 )
+  ( 2 N-000478 )
+ )
+ ( /4E366D48/4E366E3B SM0603_Resistor R1401 10k
+  ( 1 +3.3V )
+  ( 2 /L1/MSEL_N_BUF )
+ )
+ ( /4E366D48/4E366E3A SM0603_Resistor R1402 10k
+  ( 1 +3.3V )
+  ( 2 /L1/RST_N_BUF )
+ )
+ ( /4E366D48/4E36734C SM0603_Resistor R1403 453k
+  ( 1 +3.3V )
+  ( 2 N-000372 )
+ )
+ ( /4E366D48/4E36734D SM0603_Resistor R1404 100k
+  ( 1 N-000372 )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E367503 SM0603_Resistor R1405 68k
+  ( 1 +1V0 )
+  ( 2 N-000366 )
+ )
+ ( /4E366D48/4E367502 SM0603_Resistor R1406 100k
+  ( 1 N-000366 )
+  ( 2 GND )
+ )
+ ( /4E366D48/4E367DC5 SM0603_Resistor R1407 10k
+  ( 1 +3.3V )
+  ( 2 +3.3V_PG )
+ )
+ ( /4E366D48/4E3688F9 SM0603_Resistor R1408 4.7
+  ( 1 +1V0 )
+  ( 2 N-000363 )
+ )
+ ( /4E366D48/4E4BD346 SM0603 R1409 R
+  ( 1 +3.3V )
+  ( 2 /L1/DEBUG_N )
+ )
+ ( /4E35E53B SOT23-3 U101 APX803-SR
+  ( 1 /L2_PAIR_Q3/+3V3_PG )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q1/+3V3 )
+ )
+ ( /4E38237C SC70-6 U102 NC7SZ157
+  ( 1 /SWT_3 )
+  ( 2 GND )
+  ( 3 /SWT_2 )
+  ( 4 N-000038 )
+  ( 5 +3.3V )
+  ( 6 /SWT_1 )
+ )
+ ( /4E36E84C A6RS-SWITCH U103 A6RS-161RF
+  ( 1 /SWT_1 )
+  ( 2 /SWT_2 )
+  ( 3 /SWT_3 )
+  ( 4 /SWT_4 )
+  ( C +3.3V )
+ )
+ ( /4E37FC1A SOT23-6 U104 SN74LVC1G18
+  ( 1 /SWT_1 )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q1/TDO_1 )
+  ( 4 /L2_PAIR_Q2/TDI_1 )
+  ( 5 +5V )
+  ( 6 /TDO_T )
+ )
+ ( /4E380D2B SOT23-6 U105 SN74LVC1G18
+  ( 1 /SWT_2 )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q2/TDO_0 )
+  ( 4 /L2_PAIR_Q3/TDI_1 )
+  ( 5 +5V )
+  ( 6 /TDO_R )
+ )
+ ( /4E380E62 SOT23-6 U106 SN74LVC1G18
+  ( 1 /SWT_3 )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q3/TDO_0 )
+  ( 4 /L2_PAIR_Q4/TDI_0 )
+  ( 5 +5V )
+  ( 6 /TDO_B )
+ )
+ ( /4E380E61 SOT23-6 U107 SN74LVC1G18
+  ( 1 /SWT_4 )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q4/TDO_1 )
+  ( 4 /L2_PAIR_Q1/TDI_0 )
+  ( 5 +5V )
+  ( 6 /TDO_L )
+ )
+ ( /4E37F095 24-TSSOP U108 SN74CBTD3861
+  ( 2 /DEBUG_N_L )
+  ( 3 /TRST_N_L )
+  ( 4 /RST_N_L )
+  ( 5 /TCK_L )
+  ( 6 /TMS_L )
+  ( 7 /L1_DEBUG_N_L )
+  ( 8 /L1_TRST_N_L )
+  ( 9 /L1_RST_N_L )
+  ( 10 /L1_TCK_L )
+  ( 11 /L1_TMS_L )
+  ( 12 GND )
+  ( 13 /L1/TMS )
+  ( 14 /L1/TCK )
+  ( 15 /L1/RST_N )
+  ( 16 /L1/MSEL_N )
+  ( 17 /L1_DEBUG_N )
+  ( 18 /L2_PAIR_Q2/TMS )
+  ( 19 /L2_PAIR_Q1/TCK )
+  ( 20 /L2_PAIR_Q1/RST_N )
+  ( 21 /L2_PAIR_Q2/MSEL_N )
+  ( 22 /DEBUG_N )
+  ( 23 N-000038 )
+  ( 24 +5V )
+ )
+ ( /4E354503 10DFN U109 LT3480
+  ( 1 +5V )
+  ( 2 N-000107 )
+  ( 3 N-000259 )
+  ( 4 +12V )
+  ( 5 +12V )
+  ( 6 ? )
+  ( 7 ? )
+  ( 8 N-000106 )
+  ( 9 N-000111 )
+  ( 10 N-000112 )
+  ( GND GND )
+ )
+ ( /4E35E540 SOT23-3 U110 APX803-SR
+  ( 1 /L2_PAIR_Q1/RST_N )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q3/+3V3_PG )
+ )
+ ( /4E38206A SOT25-5 U111 74AHC1GU04
+  ( 2 N-000038 )
+  ( 3 GND )
+  ( 4 N-000039 )
+  ( 5 +3.3V )
+ )
+ ( /4E390E9F SOT23-6 U112 SN74LVC1G18
+  ( 1 /SWT_1 )
+  ( 2 GND )
+  ( 3 /L1/TDO )
+  ( 4 /L1_TDI_T )
+  ( 5 +5V )
+  ( 6 /L1_TDO_T )
+ )
+ ( /4E390E9E SOT23-6 U113 SN74LVC1G18
+  ( 1 /SWT_2 )
+  ( 2 GND )
+  ( 3 /L1_TDI_T )
+  ( 4 /L1_TDI_R )
+  ( 5 +5V )
+  ( 6 /L1_TDO_R )
+ )
+ ( /4E390E9A SOT23-6 U114 SN74LVC1G18
+  ( 1 /SWT_3 )
+  ( 2 GND )
+  ( 3 /L1_TDI_R )
+  ( 4 /L1_TDI_B )
+  ( 5 +5V )
+  ( 6 /L1_TDO_B )
+ )
+ ( /4E390E9B SOT23-6 U115 SN74LVC1G18
+  ( 1 /SWT_4 )
+  ( 2 GND )
+  ( 3 /L1_TDI_B )
+  ( 4 /L1/TDI )
+  ( 5 +5V )
+  ( 6 /L1_TDO_L )
+ )
+ ( /4E37F3C8 24-TSSOP U116 SN74CBTD3861
+  ( 2 /L1_DEBUG_N_T )
+  ( 3 /L1_TRST_N_T )
+  ( 4 /L1_RST_N_T )
+  ( 5 /L1_TCK_T )
+  ( 6 /L1_TMS_T )
+  ( 7 /DEBUG_N_T )
+  ( 8 /TRST_N_T )
+  ( 9 /RST_N_T )
+  ( 10 /TCK_T )
+  ( 11 /TMS_T )
+  ( 12 GND )
+  ( 13 /L2_PAIR_Q2/TMS )
+  ( 14 /L2_PAIR_Q1/TCK )
+  ( 15 /L2_PAIR_Q1/RST_N )
+  ( 16 /L2_PAIR_Q2/MSEL_N )
+  ( 17 /DEBUG_N )
+  ( 18 /L1/TMS )
+  ( 19 /L1/TCK )
+  ( 20 /L1/RST_N )
+  ( 21 /L1/MSEL_N )
+  ( 22 /L1_DEBUG_N )
+  ( 23 N-000039 )
+  ( 24 +5V )
+ )
+ ( /4E35E47E SOT23-5 U117 NCP1529
+  ( 1 +5V )
+  ( 2 GND )
+  ( 3 N-000104 )
+  ( 4 +5V )
+  ( 5 N-000262 )
+ )
+ ( /4E3925EF SC70-6 U118 NC7WZ17
+  ( 1 /L2_PAIR_Q2/TMS )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q1/TCK )
+  ( 4 /TCK_BUF_R )
+  ( 5 +3.3V )
+  ( 6 /TMS_BUF_R )
+ )
+ ( /4E391861 SC70-6 U119 NC7WZ17
+  ( 1 /L2_PAIR_Q1/RST_N )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q2/MSEL_N )
+  ( 4 /TRST_N_BUF_R )
+  ( 5 +3.3V )
+  ( 6 /RST_N_BUF_R )
+ )
+ ( /4E3925BA SC70-6 U120 NC7WZ17
+  ( 1 /DEBUG_N )
+  ( 2 GND )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 +3.3V )
+  ( 6 /DEBUG_N_BUF_R )
+ )
+ ( /4E3925D1 SC70-6 U121 NC7WZ17
+  ( 1 /L1/TCK )
+  ( 2 GND )
+  ( 3 /L1/RST_N )
+  ( 4 /L1_RST_N_BUF_R )
+  ( 5 +3.3V )
+  ( 6 /L1_TCK_BUF_R )
+ )
+ ( /4E3925D0 SC70-6 U122 NC7WZ17
+  ( 1 /L1/MSEL_N )
+  ( 2 GND )
+  ( 3 /L1_DEBUG_N )
+  ( 4 /L1_DEBUG_N_BUF_R )
+  ( 5 +3.3V )
+  ( 6 /L1_TRST_N_BUF_R )
+ )
+ ( /4E3FB8C5 ASEseries U123 ASE_CLK
+  ( 1 +3.3V )
+  ( 2 GND )
+  ( 3 ? )
+  ( 4 +3.3V )
+ )
+ ( /4E4BBF3C SC70-6 U124 NC7WZ07
+  ( 1 /DEBUG_N )
+  ( 2 GND )
+  ( 3 /DEBUG_N )
+  ( 4 /L2_PAIR_Q2/DEBUG_N )
+  ( 5 +3.3V )
+  ( 6 /L2_PAIR_Q1/DEBUG_N )
+ )
+ ( /4E4BBF96 SC70-6 U125 NC7WZ07
+  ( 1 /DEBUG_N )
+  ( 2 GND )
+  ( 3 /DEBUG_N )
+  ( 4 /L2_PAIR_Q4/DEBUG_N )
+  ( 5 +3.3V )
+  ( 6 /L2_PAIR_Q3/DEBUG_N )
+ )
+ ( /4E4BC3E7 SC70-6 U126 NC7WZ17
+  ( 1 /DEBUG_N )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q2/MSEL_N )
+  ( 4 /TRST_N_BUF_B )
+  ( 5 +3.3V )
+  ( 6 /DEBUG_N_BUF_B )
+ )
+ ( /4E4BC3EB SC70-6 U127 NC7WZ17
+  ( 1 /L2_PAIR_Q1/RST_N )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q1/TCK )
+  ( 4 /TCK_BUF_B )
+  ( 5 +3.3V )
+  ( 6 /RST_N_BUF_B )
+ )
+ ( /4E4BC3EA SC70-6 U128 NC7WZ17
+  ( 1 /L2_PAIR_Q2/TMS )
+  ( 2 GND )
+  ( 3 /L1_DEBUG_N )
+  ( 4 /L1_DEBUG_N_BUF_B )
+  ( 5 +3.3V )
+  ( 6 /TMS_BUF_B )
+ )
+ ( /4E4BC3E8 SC70-6 U129 NC7WZ17
+  ( 1 /L1/MSEL_N )
+  ( 2 GND )
+  ( 3 /L1/RST_N )
+  ( 4 /L1_RST_N_BUF_B )
+  ( 5 +3.3V )
+  ( 6 /L1_TRST_N_BUF_B )
+ )
+ ( /4E4BC3E9 SC70-6 U130 NC7WZ17
+  ( 1 /L1/TCK )
+  ( 2 GND )
+  ( 3 /L1/TMS )
+  ( 4 /L1_TMS_BUF_B )
+  ( 5 +3.3V )
+  ( 6 /L1_TCK_BUF_B )
+ )
+ ( /4E4BD27F SC70-6 U131 NC7WZ07
+  ( 1 /L1_DEBUG_N )
+  ( 2 GND )
+  ( 3 /L1/TMS )
+  ( 4 /L1_TMS_BUF_R )
+  ( 5 +3.3V )
+  ( 6 /L1/DEBUG_N )
+ )
+ ( /4E36B777/4E35D8BD SC70-6 U201 NC7WZ17
+  ( 1 /L2_PAIR_Q1/TCK )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q2/TMS )
+  ( 4 /L2_PAIR_Q3/L2_1/TMS )
+  ( 5 +3.3V )
+  ( 6 /L2_PAIR_Q3/L2_0/TCK )
+ )
+ ( /4E36B777/4E35D8B1 SC70-6 U202 NC7WZ07
+  ( 1 /L2_PAIR_Q1/RST_N )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q2/MSEL_N )
+  ( 4 /L2_PAIR_Q3/L2_0/MSEL )
+  ( 5 +3.3V )
+  ( 6 /L2_PAIR_Q3/L2_1/RST_N )
+ )
+ ( /4E36B777/4E354532 SOT23-5 U203 NCP1529
+  ( 1 /L2_PAIR_Q3/+3V3_PG )
+  ( 2 GND )
+  ( 3 N-000423 )
+  ( 4 +5V )
+  ( 5 N-000422 )
+ )
+ ( /4E36B777/4E3470E5/4E32CE40 L2_QFN124 U301 XS1_L2-QFN124
+  ( A1 GND )
+  ( A2 /L2_PAIR_Q1/+3V3 )
+  ( A3 ? )
+  ( A4 ? )
+  ( A5 /L2_PAIR_Q3/BL_X0_XLA_3o )
+  ( A6 /L2_PAIR_Q3/BL_X0_XLA_2o )
+  ( A7 /L2_PAIR_Q3/BL_X0_XLA_1o )
+  ( A8 /L2_PAIR_Q3/BL_X0_XLA_0o )
+  ( A9 /L2_PAIR_Q3/BL_X0_XLA_0i )
+  ( A10 /L2_PAIR_Q3/BL_X0_XLA_1i )
+  ( A11 /L2_PAIR_Q3/BL_X0_XLA_2i )
+  ( A12 /L2_PAIR_Q3/BL_X0_XLA_3i )
+  ( A13 /L2_PAIR_Q3/BL_X0_XLA_4i )
+  ( A14 ? )
+  ( A15 ? )
+  ( A16 /L2_PAIR_Q3/BL_X0_XLA_4o )
+  ( A17 /L2_PAIR_Q1/+3V3 )
+  ( A18 GND )
+  ( A19 +1V0 )
+  ( A20 ? )
+  ( A21 ? )
+  ( A22 /L2_PAIR_Q3/B_X1_XLB_4i )
+  ( A23 /L2_PAIR_Q3/B_X1_XLB_4o )
+  ( A24 /L2_PAIR_Q3/B_X1_XLB_3o )
+  ( A25 /L2_PAIR_Q3/B_X1_XLB_2o )
+  ( A26 /L2_PAIR_Q3/B_X1_XLB_1o )
+  ( A27 /L2_PAIR_Q3/B_X1_XLB_0o )
+  ( A28 ? )
+  ( A29 /L2_PAIR_Q3/B_X1_XLB_0i )
+  ( A30 /L2_PAIR_Q3/B_X1_XLB_1i )
+  ( A31 /L2_PAIR_Q3/B_X1_XLB_2i )
+  ( A32 /L2_PAIR_Q3/B_X1_XLB_3i )
+  ( A33 ? )
+  ( A34 +1V0 )
+  ( A35 GND )
+  ( A36 /L2_PAIR_Q1/+3V3 )
+  ( A37 GND )
+  ( A38 N-000802 )
+  ( A39 ? )
+  ( A40 /L2_PAIR_Q3/BR_X1_XLA_4o )
+  ( A41 /L2_PAIR_Q3/BR_X1_XLA_3o )
+  ( A42 /L2_PAIR_Q3/BR_X1_XLA_2o )
+  ( A43 /L2_PAIR_Q3/BR_X1_XLA_1o )
+  ( A44 /L2_PAIR_Q3/BR_X1_XLA_0o )
+  ( A45 /L2_PAIR_Q3/BR_X1_XLA_0i )
+  ( A46 /L2_PAIR_Q3/BR_X1_XLA_1i )
+  ( A47 /L2_PAIR_Q3/BR_X1_XLA_2i )
+  ( A48 /L2_PAIR_Q3/BR_X1_XLA_3i )
+  ( A49 /L2_PAIR_Q3/BR_X1_XLA_4i )
+  ( A50 ? )
+  ( A51 /L2_PAIR_Q1/+3V3 )
+  ( A52 GND )
+  ( A53 +1V0 )
+  ( A54 ? )
+  ( A55 ? )
+  ( A56 /L2_PAIR_Q3/L2_1/X0_XLB_4i )
+  ( A57 /L2_PAIR_Q3/L2_1/X0_XLB_4o )
+  ( A58 /L2_PAIR_Q3/L2_1/X0_XLB_3o )
+  ( A59 /L2_PAIR_Q3/L2_1/X0_XLB_2o )
+  ( A60 /L2_PAIR_Q3/L2_1/X0_XLB_1o )
+  ( A61 /L2_PAIR_Q3/L2_1/X0_XLB_0o )
+  ( A62 ? )
+  ( A63 /L2_PAIR_Q3/L2_1/X0_XLB_0i )
+  ( A64 /L2_PAIR_Q3/L2_1/X0_XLB_1i )
+  ( A65 /L2_PAIR_Q3/L2_1/X0_XLB_2i )
+  ( A66 /L2_PAIR_Q3/L2_1/X0_XLB_3i )
+  ( A67 ? )
+  ( A68 +1V0 )
+  ( B1 /L2_PAIR_Q1/+3V3 )
+  ( B2 ? )
+  ( B3 ? )
+  ( B4 /L2_PAIR_Q1/+3V3 )
+  ( B5 +1V0 )
+  ( B6 CLK_20M )
+  ( B7 CLK_20M )
+  ( B8 /L2_PAIR_Q3/L2_1/RST_N )
+  ( B9 /L2_PAIR_Q3/TDO_0 )
+  ( B10 /L2_PAIR_Q3/L2_0/TCK )
+  ( B11 /L2_PAIR_Q3/L2_1/TMS )
+  ( B12 /L2_PAIR_Q3/TDI_0 )
+  ( B13 /L2_PAIR_Q3/L2_1/RST_N )
+  ( B14 /L2_PAIR_Q1/+3V3 )
+  ( B15 +1V0 )
+  ( B16 ? )
+  ( B17 ? )
+  ( B18 ? )
+  ( B19 ? )
+  ( B20 ? )
+  ( B21 ? )
+  ( B22 ? )
+  ( B23 ? )
+  ( B24 ? )
+  ( B25 ? )
+  ( B26 ? )
+  ( B27 ? )
+  ( B28 +1V0 )
+  ( B29 /L2_PAIR_Q1/+3V3 )
+  ( B30 ? )
+  ( B31 ? )
+  ( B32 /L2_PAIR_Q1/+3V3 )
+  ( B33 /L2_PAIR_Q1/+3V3 )
+  ( B34 /L2_PAIR_Q1/+3V3 )
+  ( B35 /L2_PAIR_Q3/L2_0/MSEL )
+  ( B36 /L2_PAIR_Q3/L2_0/MSEL )
+  ( B37 /L2_PAIR_Q3/DEBUG_N )
+  ( B38 ? )
+  ( B39 ? )
+  ( B40 ? )
+  ( B41 ? )
+  ( B42 /L2_PAIR_Q1/+3V3 )
+  ( B43 +1V0 )
+  ( B44 ? )
+  ( B45 ? )
+  ( B46 ? )
+  ( B47 ? )
+  ( B48 ? )
+  ( B49 ? )
+  ( B50 ? )
+  ( B51 ? )
+  ( B52 ? )
+  ( B53 ? )
+  ( B54 ? )
+  ( B55 ? )
+  ( B56 +1V0 )
+  ( GND GND )
+ )
+ ( /4E36B777/4E32CE0C/4E32CE40 L2_QFN124 U401 XS1_L2-QFN124
+  ( A1 GND )
+  ( A2 /L2_PAIR_Q1/+3V3 )
+  ( A3 ? )
+  ( A4 ? )
+  ( A5 /L2_PAIR_Q3/TL_X0_XLA_3o )
+  ( A6 /L2_PAIR_Q3/TL_X0_XLA_2o )
+  ( A7 /L2_PAIR_Q3/TL_X0_XLA_1o )
+  ( A8 /L2_PAIR_Q3/TL_X0_XLA_0o )
+  ( A9 /L2_PAIR_Q3/TL_X0_XLA_0i )
+  ( A10 /L2_PAIR_Q3/TL_X0_XLA_1i )
+  ( A11 /L2_PAIR_Q3/TL_X0_XLA_2i )
+  ( A12 /L2_PAIR_Q3/TL_X0_XLA_3i )
+  ( A13 /L2_PAIR_Q3/TL_X0_XLA_4i )
+  ( A14 ? )
+  ( A15 ? )
+  ( A16 /L2_PAIR_Q3/TL_X0_XLA_4o )
+  ( A17 /L2_PAIR_Q1/+3V3 )
+  ( A18 GND )
+  ( A19 +1V0 )
+  ( A20 ? )
+  ( A21 ? )
+  ( A22 /L2_PAIR_Q3/L2_1/X0_XLB_4o )
+  ( A23 /L2_PAIR_Q3/L2_1/X0_XLB_4i )
+  ( A24 /L2_PAIR_Q3/L2_1/X0_XLB_3i )
+  ( A25 /L2_PAIR_Q3/L2_1/X0_XLB_2i )
+  ( A26 /L2_PAIR_Q3/L2_1/X0_XLB_1i )
+  ( A27 /L2_PAIR_Q3/L2_1/X0_XLB_0i )
+  ( A28 ? )
+  ( A29 /L2_PAIR_Q3/L2_1/X0_XLB_0o )
+  ( A30 /L2_PAIR_Q3/L2_1/X0_XLB_1o )
+  ( A31 /L2_PAIR_Q3/L2_1/X0_XLB_2o )
+  ( A32 /L2_PAIR_Q3/L2_1/X0_XLB_3o )
+  ( A33 ? )
+  ( A34 +1V0 )
+  ( A35 GND )
+  ( A36 /L2_PAIR_Q1/+3V3 )
+  ( A37 GND )
+  ( A38 N-000714 )
+  ( A39 ? )
+  ( A40 /L2_PAIR_Q3/TR_X1_XLA_4o )
+  ( A41 /L2_PAIR_Q3/TR_X1_XLA_3o )
+  ( A42 /L2_PAIR_Q3/TR_X1_XLA_2o )
+  ( A43 /L2_PAIR_Q3/TR_X1_XLA_1o )
+  ( A44 /L2_PAIR_Q3/TR_X1_XLA_0o )
+  ( A45 /L2_PAIR_Q3/TR_X1_XLA_0i )
+  ( A46 /L2_PAIR_Q3/TR_X1_XLA_1i )
+  ( A47 /L2_PAIR_Q3/TR_X1_XLA_2i )
+  ( A48 /L2_PAIR_Q3/TR_X1_XLA_3i )
+  ( A49 /L2_PAIR_Q3/TR_X1_XLA_4i )
+  ( A50 ? )
+  ( A51 /L2_PAIR_Q1/+3V3 )
+  ( A52 GND )
+  ( A53 +1V0 )
+  ( A54 ? )
+  ( A55 ? )
+  ( A56 /L2_PAIR_Q2/B_X1_XLB_4o )
+  ( A57 /L2_PAIR_Q2/B_X1_XLB_4i )
+  ( A58 /L2_PAIR_Q2/B_X1_XLB_3i )
+  ( A59 /L2_PAIR_Q2/B_X1_XLB_2i )
+  ( A60 /L2_PAIR_Q2/B_X1_XLB_1i )
+  ( A61 /L2_PAIR_Q2/B_X1_XLB_0i )
+  ( A62 ? )
+  ( A63 /L2_PAIR_Q2/B_X1_XLB_0o )
+  ( A64 /L2_PAIR_Q2/B_X1_XLB_1o )
+  ( A65 /L2_PAIR_Q2/B_X1_XLB_2o )
+  ( A66 /L2_PAIR_Q2/B_X1_XLB_3o )
+  ( A67 ? )
+  ( A68 +1V0 )
+  ( B1 /L2_PAIR_Q1/+3V3 )
+  ( B2 ? )
+  ( B3 ? )
+  ( B4 /L2_PAIR_Q1/+3V3 )
+  ( B5 +1V0 )
+  ( B6 CLK_20M )
+  ( B7 CLK_20M )
+  ( B8 /L2_PAIR_Q3/L2_1/RST_N )
+  ( B9 /L2_PAIR_Q3/TDI_0 )
+  ( B10 /L2_PAIR_Q3/L2_0/TCK )
+  ( B11 /L2_PAIR_Q3/L2_1/TMS )
+  ( B12 /L2_PAIR_Q3/TDI_1 )
+  ( B13 /L2_PAIR_Q3/L2_1/RST_N )
+  ( B14 /L2_PAIR_Q1/+3V3 )
+  ( B15 +1V0 )
+  ( B16 ? )
+  ( B17 ? )
+  ( B18 ? )
+  ( B19 ? )
+  ( B20 ? )
+  ( B21 ? )
+  ( B22 ? )
+  ( B23 ? )
+  ( B24 ? )
+  ( B25 ? )
+  ( B26 ? )
+  ( B27 ? )
+  ( B28 +1V0 )
+  ( B29 /L2_PAIR_Q1/+3V3 )
+  ( B30 ? )
+  ( B31 ? )
+  ( B32 /L2_PAIR_Q1/+3V3 )
+  ( B33 /L2_PAIR_Q1/+3V3 )
+  ( B34 /L2_PAIR_Q1/+3V3 )
+  ( B35 /L2_PAIR_Q3/L2_0/MSEL )
+  ( B36 /L2_PAIR_Q3/L2_0/MSEL )
+  ( B37 /L2_PAIR_Q3/DEBUG_N )
+  ( B38 ? )
+  ( B39 ? )
+  ( B40 ? )
+  ( B41 ? )
+  ( B42 /L2_PAIR_Q1/+3V3 )
+  ( B43 +1V0 )
+  ( B44 ? )
+  ( B45 ? )
+  ( B46 ? )
+  ( B47 ? )
+  ( B48 ? )
+  ( B49 ? )
+  ( B50 ? )
+  ( B51 ? )
+  ( B52 ? )
+  ( B53 ? )
+  ( B54 ? )
+  ( B55 ? )
+  ( B56 +1V0 )
+  ( GND GND )
+ )
+ ( /4E36B760/4E35D8BD SC70-6 U501 NC7WZ17
+  ( 1 /L2_PAIR_Q1/TCK )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q2/TMS )
+  ( 4 /L2_PAIR_Q4/L2_0/TMS )
+  ( 5 +3.3V )
+  ( 6 /L2_PAIR_Q4/L2_0/TCK )
+ )
+ ( /4E36B760/4E35D8B1 SC70-6 U502 NC7WZ07
+  ( 1 /L2_PAIR_Q1/RST_N )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q2/MSEL_N )
+  ( 4 /L2_PAIR_Q4/L2_0/MSEL )
+  ( 5 +3.3V )
+  ( 6 /L2_PAIR_Q4/L2_1/RST_N )
+ )
+ ( /4E36B760/4E354532 SOT23-5 U503 NCP1529
+  ( 1 /L2_PAIR_Q3/+3V3_PG )
+  ( 2 GND )
+  ( 3 N-000404 )
+  ( 4 +5V )
+  ( 5 N-000414 )
+ )
+ ( /4E36B760/4E3470E5/4E32CE40 L2_QFN124 U601 XS1_L2-QFN124
+  ( A1 GND )
+  ( A2 /L2_PAIR_Q1/+3V3 )
+  ( A3 ? )
+  ( A4 ? )
+  ( A5 /L2_PAIR_Q4/BL_X0_XLA_3o )
+  ( A6 /L2_PAIR_Q4/BL_X0_XLA_2o )
+  ( A7 /L2_PAIR_Q4/BL_X0_XLA_1o )
+  ( A8 /L2_PAIR_Q4/BL_X0_XLA_0o )
+  ( A9 /L2_PAIR_Q4/BL_X0_XLA_0i )
+  ( A10 /L2_PAIR_Q4/BL_X0_XLA_1i )
+  ( A11 /L2_PAIR_Q4/BL_X0_XLA_2i )
+  ( A12 /L2_PAIR_Q4/BL_X0_XLA_3i )
+  ( A13 /L2_PAIR_Q4/BL_X0_XLA_4i )
+  ( A14 ? )
+  ( A15 ? )
+  ( A16 /L2_PAIR_Q4/BL_X0_XLA_4o )
+  ( A17 /L2_PAIR_Q1/+3V3 )
+  ( A18 GND )
+  ( A19 +1V0 )
+  ( A20 ? )
+  ( A21 ? )
+  ( A22 /L2_PAIR_Q4/B_X1_XLB_4i )
+  ( A23 /L2_PAIR_Q4/B_X1_XLB_4o )
+  ( A24 /L2_PAIR_Q4/B_X1_XLB_3o )
+  ( A25 /L2_PAIR_Q4/B_X1_XLB_2o )
+  ( A26 /L2_PAIR_Q4/B_X1_XLB_1o )
+  ( A27 /L2_PAIR_Q4/B_X1_XLB_0o )
+  ( A28 ? )
+  ( A29 /L2_PAIR_Q4/B_X1_XLB_0i )
+  ( A30 /L2_PAIR_Q4/B_X1_XLB_1i )
+  ( A31 /L2_PAIR_Q4/B_X1_XLB_2i )
+  ( A32 /L2_PAIR_Q4/B_X1_XLB_3i )
+  ( A33 ? )
+  ( A34 +1V0 )
+  ( A35 GND )
+  ( A36 /L2_PAIR_Q1/+3V3 )
+  ( A37 GND )
+  ( A38 N-000713 )
+  ( A39 ? )
+  ( A40 /L2_PAIR_Q3/BL_X0_XLA_4i )
+  ( A41 /L2_PAIR_Q3/BL_X0_XLA_3i )
+  ( A42 /L2_PAIR_Q3/BL_X0_XLA_2i )
+  ( A43 /L2_PAIR_Q3/BL_X0_XLA_1i )
+  ( A44 /L2_PAIR_Q3/BL_X0_XLA_0i )
+  ( A45 /L2_PAIR_Q3/BL_X0_XLA_0o )
+  ( A46 /L2_PAIR_Q3/BL_X0_XLA_1o )
+  ( A47 /L2_PAIR_Q3/BL_X0_XLA_2o )
+  ( A48 /L2_PAIR_Q3/BL_X0_XLA_3o )
+  ( A49 /L2_PAIR_Q3/BL_X0_XLA_4o )
+  ( A50 ? )
+  ( A51 /L2_PAIR_Q1/+3V3 )
+  ( A52 GND )
+  ( A53 +1V0 )
+  ( A54 ? )
+  ( A55 ? )
+  ( A56 /L2_PAIR_Q4/L2_1/X0_XLB_4i )
+  ( A57 /L2_PAIR_Q4/L2_1/X0_XLB_4o )
+  ( A58 /L2_PAIR_Q4/L2_1/X0_XLB_3o )
+  ( A59 /L2_PAIR_Q4/L2_1/X0_XLB_2o )
+  ( A60 /L2_PAIR_Q4/L2_1/X0_XLB_1o )
+  ( A61 /L2_PAIR_Q4/L2_1/X0_XLB_0o )
+  ( A62 ? )
+  ( A63 /L2_PAIR_Q4/L2_1/X0_XLB_0i )
+  ( A64 /L2_PAIR_Q4/L2_1/X0_XLB_1i )
+  ( A65 /L2_PAIR_Q4/L2_1/X0_XLB_2i )
+  ( A66 /L2_PAIR_Q4/L2_1/X0_XLB_3i )
+  ( A67 ? )
+  ( A68 +1V0 )
+  ( B1 /L2_PAIR_Q1/+3V3 )
+  ( B2 ? )
+  ( B3 ? )
+  ( B4 /L2_PAIR_Q1/+3V3 )
+  ( B5 +1V0 )
+  ( B6 CLK_20M )
+  ( B7 CLK_20M )
+  ( B8 /L2_PAIR_Q4/L2_1/RST_N )
+  ( B9 /L2_PAIR_Q4/TDI_1 )
+  ( B10 /L2_PAIR_Q4/L2_0/TCK )
+  ( B11 /L2_PAIR_Q4/L2_0/TMS )
+  ( B12 /L2_PAIR_Q4/TDI_0 )
+  ( B13 /L2_PAIR_Q4/L2_1/RST_N )
+  ( B14 /L2_PAIR_Q1/+3V3 )
+  ( B15 +1V0 )
+  ( B16 ? )
+  ( B17 ? )
+  ( B18 ? )
+  ( B19 ? )
+  ( B20 ? )
+  ( B21 ? )
+  ( B22 ? )
+  ( B23 ? )
+  ( B24 ? )
+  ( B25 ? )
+  ( B26 ? )
+  ( B27 ? )
+  ( B28 +1V0 )
+  ( B29 /L2_PAIR_Q1/+3V3 )
+  ( B30 ? )
+  ( B31 ? )
+  ( B32 /L2_PAIR_Q1/+3V3 )
+  ( B33 /L2_PAIR_Q1/+3V3 )
+  ( B34 /L2_PAIR_Q1/+3V3 )
+  ( B35 /L2_PAIR_Q4/L2_0/MSEL )
+  ( B36 /L2_PAIR_Q4/L2_0/MSEL )
+  ( B37 /L2_PAIR_Q4/DEBUG_N )
+  ( B38 ? )
+  ( B39 ? )
+  ( B40 ? )
+  ( B41 ? )
+  ( B42 /L2_PAIR_Q1/+3V3 )
+  ( B43 +1V0 )
+  ( B44 ? )
+  ( B45 ? )
+  ( B46 ? )
+  ( B47 ? )
+  ( B48 ? )
+  ( B49 ? )
+  ( B50 ? )
+  ( B51 ? )
+  ( B52 ? )
+  ( B53 ? )
+  ( B54 ? )
+  ( B55 ? )
+  ( B56 +1V0 )
+  ( GND GND )
+ )
+ ( /4E36B760/4E32CE0C/4E32CE40 L2_QFN124 U701 XS1_L2-QFN124
+  ( A1 GND )
+  ( A2 /L2_PAIR_Q1/+3V3 )
+  ( A3 ? )
+  ( A4 ? )
+  ( A5 /L2_PAIR_Q4/TL_X0_XLA_3o )
+  ( A6 /L2_PAIR_Q4/TL_X0_XLA_2o )
+  ( A7 /L2_PAIR_Q4/TL_X0_XLA_1o )
+  ( A8 /L2_PAIR_Q4/TL_X0_XLA_0o )
+  ( A9 /L2_PAIR_Q4/TL_X0_XLA_0i )
+  ( A10 /L2_PAIR_Q4/TL_X0_XLA_1i )
+  ( A11 /L2_PAIR_Q4/TL_X0_XLA_2i )
+  ( A12 /L2_PAIR_Q4/TL_X0_XLA_3i )
+  ( A13 /L2_PAIR_Q4/TL_X0_XLA_4i )
+  ( A14 ? )
+  ( A15 ? )
+  ( A16 /L2_PAIR_Q4/TL_X0_XLA_4o )
+  ( A17 /L2_PAIR_Q1/+3V3 )
+  ( A18 GND )
+  ( A19 +1V0 )
+  ( A20 ? )
+  ( A21 ? )
+  ( A22 /L2_PAIR_Q4/L2_1/X0_XLB_4o )
+  ( A23 /L2_PAIR_Q4/L2_1/X0_XLB_4i )
+  ( A24 /L2_PAIR_Q4/L2_1/X0_XLB_3i )
+  ( A25 /L2_PAIR_Q4/L2_1/X0_XLB_2i )
+  ( A26 /L2_PAIR_Q4/L2_1/X0_XLB_1i )
+  ( A27 /L2_PAIR_Q4/L2_1/X0_XLB_0i )
+  ( A28 ? )
+  ( A29 /L2_PAIR_Q4/L2_1/X0_XLB_0o )
+  ( A30 /L2_PAIR_Q4/L2_1/X0_XLB_1o )
+  ( A31 /L2_PAIR_Q4/L2_1/X0_XLB_2o )
+  ( A32 /L2_PAIR_Q4/L2_1/X0_XLB_3o )
+  ( A33 ? )
+  ( A34 +1V0 )
+  ( A35 GND )
+  ( A36 /L2_PAIR_Q1/+3V3 )
+  ( A37 GND )
+  ( A38 N-000661 )
+  ( A39 ? )
+  ( A40 /L2_PAIR_Q3/TL_X0_XLA_4i )
+  ( A41 /L2_PAIR_Q3/TL_X0_XLA_3i )
+  ( A42 /L2_PAIR_Q3/TL_X0_XLA_2i )
+  ( A43 /L2_PAIR_Q3/TL_X0_XLA_1i )
+  ( A44 /L2_PAIR_Q3/TL_X0_XLA_0i )
+  ( A45 /L2_PAIR_Q3/TL_X0_XLA_0o )
+  ( A46 /L2_PAIR_Q3/TL_X0_XLA_1o )
+  ( A47 /L2_PAIR_Q3/TL_X0_XLA_2o )
+  ( A48 /L2_PAIR_Q3/TL_X0_XLA_3o )
+  ( A49 /L2_PAIR_Q3/TL_X0_XLA_4o )
+  ( A50 ? )
+  ( A51 /L2_PAIR_Q1/+3V3 )
+  ( A52 GND )
+  ( A53 +1V0 )
+  ( A54 ? )
+  ( A55 ? )
+  ( A56 /L2_PAIR_Q1/B_X1_XLB_4o )
+  ( A57 /L2_PAIR_Q1/B_X1_XLB_4i )
+  ( A58 /L2_PAIR_Q1/B_X1_XLB_3i )
+  ( A59 /L2_PAIR_Q1/B_X1_XLB_2i )
+  ( A60 /L2_PAIR_Q1/B_X1_XLB_1i )
+  ( A61 /L2_PAIR_Q1/B_X1_XLB_0i )
+  ( A62 ? )
+  ( A63 /L2_PAIR_Q1/B_X1_XLB_0o )
+  ( A64 /L2_PAIR_Q1/B_X1_XLB_1o )
+  ( A65 /L2_PAIR_Q1/B_X1_XLB_2o )
+  ( A66 /L2_PAIR_Q1/B_X1_XLB_3o )
+  ( A67 ? )
+  ( A68 +1V0 )
+  ( B1 /L2_PAIR_Q1/+3V3 )
+  ( B2 ? )
+  ( B3 ? )
+  ( B4 /L2_PAIR_Q1/+3V3 )
+  ( B5 +1V0 )
+  ( B6 CLK_20M )
+  ( B7 CLK_20M )
+  ( B8 /L2_PAIR_Q4/L2_1/RST_N )
+  ( B9 /L2_PAIR_Q4/TDO_1 )
+  ( B10 /L2_PAIR_Q4/L2_0/TCK )
+  ( B11 /L2_PAIR_Q4/L2_0/TMS )
+  ( B12 /L2_PAIR_Q4/TDI_1 )
+  ( B13 /L2_PAIR_Q4/L2_1/RST_N )
+  ( B14 /L2_PAIR_Q1/+3V3 )
+  ( B15 +1V0 )
+  ( B16 ? )
+  ( B17 ? )
+  ( B18 ? )
+  ( B19 ? )
+  ( B20 ? )
+  ( B21 ? )
+  ( B22 ? )
+  ( B23 ? )
+  ( B24 ? )
+  ( B25 ? )
+  ( B26 ? )
+  ( B27 ? )
+  ( B28 +1V0 )
+  ( B29 /L2_PAIR_Q1/+3V3 )
+  ( B30 ? )
+  ( B31 ? )
+  ( B32 /L2_PAIR_Q1/+3V3 )
+  ( B33 /L2_PAIR_Q1/+3V3 )
+  ( B34 /L2_PAIR_Q1/+3V3 )
+  ( B35 /L2_PAIR_Q4/L2_0/MSEL )
+  ( B36 /L2_PAIR_Q4/L2_0/MSEL )
+  ( B37 /L2_PAIR_Q4/DEBUG_N )
+  ( B38 ? )
+  ( B39 ? )
+  ( B40 ? )
+  ( B41 ? )
+  ( B42 /L2_PAIR_Q1/+3V3 )
+  ( B43 +1V0 )
+  ( B44 ? )
+  ( B45 ? )
+  ( B46 ? )
+  ( B47 ? )
+  ( B48 ? )
+  ( B49 ? )
+  ( B50 ? )
+  ( B51 ? )
+  ( B52 ? )
+  ( B53 ? )
+  ( B54 ? )
+  ( B55 ? )
+  ( B56 +1V0 )
+  ( GND GND )
+ )
+ ( /4E36B740/4E35D8BD SC70-6 U801 NC7WZ17
+  ( 1 /L2_PAIR_Q1/TCK )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q2/TMS )
+  ( 4 /L2_PAIR_Q2/L2_0/TMS )
+  ( 5 +3.3V )
+  ( 6 /L2_PAIR_Q2/L2_1/TCK )
+ )
+ ( /4E36B740/4E35D8B1 SC70-6 U802 NC7WZ07
+  ( 1 /L2_PAIR_Q1/RST_N )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q2/MSEL_N )
+  ( 4 /L2_PAIR_Q2/L2_0/MSEL )
+  ( 5 +3.3V )
+  ( 6 /L2_PAIR_Q2/L2_1/RST_N )
+ )
+ ( /4E36B740/4E354532 SOT23-5 U803 NCP1529
+  ( 1 /L2_PAIR_Q3/+3V3_PG )
+  ( 2 GND )
+  ( 3 N-000397 )
+  ( 4 +5V )
+  ( 5 N-000398 )
+ )
+ ( /4E36B740/4E3470E5/4E32CE40 L2_QFN124 U901 XS1_L2-QFN124
+  ( A1 GND )
+  ( A2 /L2_PAIR_Q1/+3V3 )
+  ( A3 ? )
+  ( A4 ? )
+  ( A5 /L2_PAIR_Q2/BL_X0_XLA_3o )
+  ( A6 /L2_PAIR_Q2/BL_X0_XLA_2o )
+  ( A7 /L2_PAIR_Q2/BL_X0_XLA_1o )
+  ( A8 /L2_PAIR_Q2/BL_X0_XLA_0o )
+  ( A9 /L2_PAIR_Q2/BL_X0_XLA_0i )
+  ( A10 /L2_PAIR_Q2/BL_X0_XLA_1i )
+  ( A11 /L2_PAIR_Q2/BL_X0_XLA_2i )
+  ( A12 /L2_PAIR_Q2/BL_X0_XLA_3i )
+  ( A13 /L2_PAIR_Q2/BL_X0_XLA_4i )
+  ( A14 ? )
+  ( A15 ? )
+  ( A16 /L2_PAIR_Q2/BL_X0_XLA_4o )
+  ( A17 /L2_PAIR_Q1/+3V3 )
+  ( A18 GND )
+  ( A19 +1V0 )
+  ( A20 ? )
+  ( A21 ? )
+  ( A22 /L2_PAIR_Q2/B_X1_XLB_4i )
+  ( A23 /L2_PAIR_Q2/B_X1_XLB_4o )
+  ( A24 /L2_PAIR_Q2/B_X1_XLB_3o )
+  ( A25 /L2_PAIR_Q2/B_X1_XLB_2o )
+  ( A26 /L2_PAIR_Q2/B_X1_XLB_1o )
+  ( A27 /L2_PAIR_Q2/B_X1_XLB_0o )
+  ( A28 ? )
+  ( A29 /L2_PAIR_Q2/B_X1_XLB_0i )
+  ( A30 /L2_PAIR_Q2/B_X1_XLB_1i )
+  ( A31 /L2_PAIR_Q2/B_X1_XLB_2i )
+  ( A32 /L2_PAIR_Q2/B_X1_XLB_3i )
+  ( A33 ? )
+  ( A34 +1V0 )
+  ( A35 GND )
+  ( A36 /L2_PAIR_Q1/+3V3 )
+  ( A37 GND )
+  ( A38 N-000573 )
+  ( A39 ? )
+  ( A40 /L2_PAIR_Q2/BR_X1_XLA_4o )
+  ( A41 /L2_PAIR_Q2/BR_X1_XLA_3o )
+  ( A42 /L2_PAIR_Q2/BR_X1_XLA_2o )
+  ( A43 /L2_PAIR_Q2/BR_X1_XLA_1o )
+  ( A44 /L2_PAIR_Q2/BR_X1_XLA_0o )
+  ( A45 /L2_PAIR_Q2/BR_X1_XLA_0i )
+  ( A46 /L2_PAIR_Q2/BR_X1_XLA_1i )
+  ( A47 /L2_PAIR_Q2/BR_X1_XLA_2i )
+  ( A48 /L2_PAIR_Q2/BR_X1_XLA_3i )
+  ( A49 /L2_PAIR_Q2/BR_X1_XLA_4i )
+  ( A50 ? )
+  ( A51 /L2_PAIR_Q1/+3V3 )
+  ( A52 GND )
+  ( A53 +1V0 )
+  ( A54 ? )
+  ( A55 ? )
+  ( A56 /L2_PAIR_Q2/L2_1/X0_XLB_4i )
+  ( A57 /L2_PAIR_Q2/L2_1/X0_XLB_4o )
+  ( A58 /L2_PAIR_Q2/L2_1/X0_XLB_3o )
+  ( A59 /L2_PAIR_Q2/L2_1/X0_XLB_2o )
+  ( A60 /L2_PAIR_Q2/L2_1/X0_XLB_1o )
+  ( A61 /L2_PAIR_Q2/L2_1/X0_XLB_0o )
+  ( A62 ? )
+  ( A63 /L2_PAIR_Q2/L2_1/X0_XLB_0i )
+  ( A64 /L2_PAIR_Q2/L2_1/X0_XLB_1i )
+  ( A65 /L2_PAIR_Q2/L2_1/X0_XLB_2i )
+  ( A66 /L2_PAIR_Q2/L2_1/X0_XLB_3i )
+  ( A67 ? )
+  ( A68 +1V0 )
+  ( B1 /L2_PAIR_Q1/+3V3 )
+  ( B2 ? )
+  ( B3 ? )
+  ( B4 /L2_PAIR_Q1/+3V3 )
+  ( B5 +1V0 )
+  ( B6 CLK_20M )
+  ( B7 CLK_20M )
+  ( B8 /L2_PAIR_Q2/L2_1/RST_N )
+  ( B9 /L2_PAIR_Q2/TDO_0 )
+  ( B10 /L2_PAIR_Q2/L2_1/TCK )
+  ( B11 /L2_PAIR_Q2/L2_0/TMS )
+  ( B12 /L2_PAIR_Q2/TDI_0 )
+  ( B13 /L2_PAIR_Q2/L2_1/RST_N )
+  ( B14 /L2_PAIR_Q1/+3V3 )
+  ( B15 +1V0 )
+  ( B16 ? )
+  ( B17 ? )
+  ( B18 ? )
+  ( B19 ? )
+  ( B20 ? )
+  ( B21 ? )
+  ( B22 ? )
+  ( B23 ? )
+  ( B24 ? )
+  ( B25 ? )
+  ( B26 ? )
+  ( B27 ? )
+  ( B28 +1V0 )
+  ( B29 /L2_PAIR_Q1/+3V3 )
+  ( B30 ? )
+  ( B31 ? )
+  ( B32 /L2_PAIR_Q1/+3V3 )
+  ( B33 /L2_PAIR_Q1/+3V3 )
+  ( B34 /L2_PAIR_Q1/+3V3 )
+  ( B35 /L2_PAIR_Q2/L2_0/MSEL )
+  ( B36 /L2_PAIR_Q2/L2_0/MSEL )
+  ( B37 /L2_PAIR_Q2/DEBUG_N )
+  ( B38 ? )
+  ( B39 ? )
+  ( B40 ? )
+  ( B41 ? )
+  ( B42 /L2_PAIR_Q1/+3V3 )
+  ( B43 +1V0 )
+  ( B44 ? )
+  ( B45 ? )
+  ( B46 ? )
+  ( B47 ? )
+  ( B48 ? )
+  ( B49 ? )
+  ( B50 ? )
+  ( B51 ? )
+  ( B52 ? )
+  ( B53 ? )
+  ( B54 ? )
+  ( B55 ? )
+  ( B56 +1V0 )
+  ( GND GND )
+ )
+ ( /4E36B740/4E32CE0C/4E32CE40 L2_QFN124 U1001 XS1_L2-QFN124
+  ( A1 GND )
+  ( A2 /L2_PAIR_Q1/+3V3 )
+  ( A3 ? )
+  ( A4 ? )
+  ( A5 /L2_PAIR_Q2/TL_X0_XLA_3o )
+  ( A6 /L2_PAIR_Q2/TL_X0_XLA_2o )
+  ( A7 /L2_PAIR_Q2/TL_X0_XLA_1o )
+  ( A8 /L2_PAIR_Q2/TL_X0_XLA_0o )
+  ( A9 /L2_PAIR_Q2/TL_X0_XLA_0i )
+  ( A10 /L2_PAIR_Q2/TL_X0_XLA_1i )
+  ( A11 /L2_PAIR_Q2/TL_X0_XLA_2i )
+  ( A12 /L2_PAIR_Q2/TL_X0_XLA_3i )
+  ( A13 /L2_PAIR_Q2/TL_X0_XLA_4i )
+  ( A14 ? )
+  ( A15 ? )
+  ( A16 /L2_PAIR_Q2/TL_X0_XLA_4o )
+  ( A17 /L2_PAIR_Q1/+3V3 )
+  ( A18 GND )
+  ( A19 +1V0 )
+  ( A20 ? )
+  ( A21 ? )
+  ( A22 /L2_PAIR_Q2/L2_1/X0_XLB_4o )
+  ( A23 /L2_PAIR_Q2/L2_1/X0_XLB_4i )
+  ( A24 /L2_PAIR_Q2/L2_1/X0_XLB_3i )
+  ( A25 /L2_PAIR_Q2/L2_1/X0_XLB_2i )
+  ( A26 /L2_PAIR_Q2/L2_1/X0_XLB_1i )
+  ( A27 /L2_PAIR_Q2/L2_1/X0_XLB_0i )
+  ( A28 ? )
+  ( A29 /L2_PAIR_Q2/L2_1/X0_XLB_0o )
+  ( A30 /L2_PAIR_Q2/L2_1/X0_XLB_1o )
+  ( A31 /L2_PAIR_Q2/L2_1/X0_XLB_2o )
+  ( A32 /L2_PAIR_Q2/L2_1/X0_XLB_3o )
+  ( A33 ? )
+  ( A34 +1V0 )
+  ( A35 GND )
+  ( A36 /L2_PAIR_Q1/+3V3 )
+  ( A37 GND )
+  ( A38 N-000567 )
+  ( A39 ? )
+  ( A40 /L2_PAIR_Q2/TR_X1_XLA_4o )
+  ( A41 /L2_PAIR_Q2/TR_X1_XLA_3o )
+  ( A42 /L2_PAIR_Q2/TR_X1_XLA_2o )
+  ( A43 /L2_PAIR_Q2/TR_X1_XLA_1o )
+  ( A44 /L2_PAIR_Q2/TR_X1_XLA_0o )
+  ( A45 /L2_PAIR_Q2/TR_X1_XLA_0i )
+  ( A46 /L2_PAIR_Q2/TR_X1_XLA_1i )
+  ( A47 /L2_PAIR_Q2/TR_X1_XLA_2i )
+  ( A48 /L2_PAIR_Q2/TR_X1_XLA_3i )
+  ( A49 /L2_PAIR_Q2/TR_X1_XLA_4i )
+  ( A50 ? )
+  ( A51 /L2_PAIR_Q1/+3V3 )
+  ( A52 GND )
+  ( A53 +1V0 )
+  ( A54 ? )
+  ( A55 ? )
+  ( A56 /L2_PAIR_Q2/T_X0_XLB_4i )
+  ( A57 /L2_PAIR_Q2/T_X0_XLB_4o )
+  ( A58 /L2_PAIR_Q2/T_X0_XLB_3o )
+  ( A59 /L2_PAIR_Q2/T_X0_XLB_2o )
+  ( A60 /L2_PAIR_Q2/T_X0_XLB_1o )
+  ( A61 /L2_PAIR_Q2/T_X0_XLB_0o )
+  ( A62 ? )
+  ( A63 /L2_PAIR_Q2/T_X0_XLB_0i )
+  ( A64 /L2_PAIR_Q2/T_X0_XLB_1i )
+  ( A65 /L2_PAIR_Q2/T_X0_XLB_2i )
+  ( A66 /L2_PAIR_Q2/T_X0_XLB_3i )
+  ( A67 ? )
+  ( A68 +1V0 )
+  ( B1 /L2_PAIR_Q1/+3V3 )
+  ( B2 ? )
+  ( B3 ? )
+  ( B4 /L2_PAIR_Q1/+3V3 )
+  ( B5 +1V0 )
+  ( B6 CLK_20M )
+  ( B7 CLK_20M )
+  ( B8 /L2_PAIR_Q2/L2_1/RST_N )
+  ( B9 /L2_PAIR_Q2/TDI_0 )
+  ( B10 /L2_PAIR_Q2/L2_1/TCK )
+  ( B11 /L2_PAIR_Q2/L2_0/TMS )
+  ( B12 /L2_PAIR_Q2/TDI_1 )
+  ( B13 /L2_PAIR_Q2/L2_1/RST_N )
+  ( B14 /L2_PAIR_Q1/+3V3 )
+  ( B15 +1V0 )
+  ( B16 ? )
+  ( B17 ? )
+  ( B18 ? )
+  ( B19 ? )
+  ( B20 ? )
+  ( B21 ? )
+  ( B22 ? )
+  ( B23 ? )
+  ( B24 ? )
+  ( B25 ? )
+  ( B26 ? )
+  ( B27 ? )
+  ( B28 +1V0 )
+  ( B29 /L2_PAIR_Q1/+3V3 )
+  ( B30 ? )
+  ( B31 ? )
+  ( B32 /L2_PAIR_Q1/+3V3 )
+  ( B33 /L2_PAIR_Q1/+3V3 )
+  ( B34 /L2_PAIR_Q1/+3V3 )
+  ( B35 /L2_PAIR_Q2/L2_0/MSEL )
+  ( B36 /L2_PAIR_Q2/L2_0/MSEL )
+  ( B37 /L2_PAIR_Q2/DEBUG_N )
+  ( B38 ? )
+  ( B39 ? )
+  ( B40 ? )
+  ( B41 ? )
+  ( B42 /L2_PAIR_Q1/+3V3 )
+  ( B43 +1V0 )
+  ( B44 ? )
+  ( B45 ? )
+  ( B46 ? )
+  ( B47 ? )
+  ( B48 ? )
+  ( B49 ? )
+  ( B50 ? )
+  ( B51 ? )
+  ( B52 ? )
+  ( B53 ? )
+  ( B54 ? )
+  ( B55 ? )
+  ( B56 +1V0 )
+  ( GND GND )
+ )
+ ( /4E32CDCE/4E35D8BD SC70-6 U1101 NC7WZ17
+  ( 1 /L2_PAIR_Q1/TCK )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q2/TMS )
+  ( 4 /L2_PAIR_Q1/L2_0/TMS )
+  ( 5 +3.3V )
+  ( 6 /L2_PAIR_Q1/L2_1/TCK )
+ )
+ ( /4E32CDCE/4E35D8B1 SC70-6 U1102 NC7WZ07
+  ( 1 /L2_PAIR_Q1/RST_N )
+  ( 2 GND )
+  ( 3 /L2_PAIR_Q2/MSEL_N )
+  ( 4 /L2_PAIR_Q1/L2_0/MSEL )
+  ( 5 +3.3V )
+  ( 6 /L2_PAIR_Q1/L2_0/RST_N )
+ )
+ ( /4E32CDCE/4E354532 SOT23-5 U1103 NCP1529
+  ( 1 /L2_PAIR_Q3/+3V3_PG )
+  ( 2 GND )
+  ( 3 N-000303 )
+  ( 4 +5V )
+  ( 5 N-000319 )
+ )
+ ( /4E32CDCE/4E3470E5/4E32CE40 L2_QFN124 U1201 XS1_L2-QFN124
+  ( A1 GND )
+  ( A2 /L2_PAIR_Q1/+3V3 )
+  ( A3 ? )
+  ( A4 ? )
+  ( A5 /L2_PAIR_Q1/BL_X0_XLA_3o )
+  ( A6 /L2_PAIR_Q1/BL_X0_XLA_2o )
+  ( A7 /L2_PAIR_Q1/BL_X0_XLA_1o )
+  ( A8 /L2_PAIR_Q1/BL_X0_XLA_0o )
+  ( A9 /L2_PAIR_Q1/BL_X0_XLA_0i )
+  ( A10 /L2_PAIR_Q1/BL_X0_XLA_1i )
+  ( A11 /L2_PAIR_Q1/BL_X0_XLA_2i )
+  ( A12 /L2_PAIR_Q1/BL_X0_XLA_3i )
+  ( A13 /L2_PAIR_Q1/BL_X0_XLA_4i )
+  ( A14 ? )
+  ( A15 ? )
+  ( A16 /L2_PAIR_Q1/BL_X0_XLA_4o )
+  ( A17 /L2_PAIR_Q1/+3V3 )
+  ( A18 GND )
+  ( A19 +1V0 )
+  ( A20 ? )
+  ( A21 ? )
+  ( A22 /L2_PAIR_Q1/B_X1_XLB_4i )
+  ( A23 /L2_PAIR_Q1/B_X1_XLB_4o )
+  ( A24 /L2_PAIR_Q1/B_X1_XLB_3o )
+  ( A25 /L2_PAIR_Q1/B_X1_XLB_2o )
+  ( A26 /L2_PAIR_Q1/B_X1_XLB_1o )
+  ( A27 /L2_PAIR_Q1/B_X1_XLB_0o )
+  ( A28 ? )
+  ( A29 /L2_PAIR_Q1/B_X1_XLB_0i )
+  ( A30 /L2_PAIR_Q1/B_X1_XLB_1i )
+  ( A31 /L2_PAIR_Q1/B_X1_XLB_2i )
+  ( A32 /L2_PAIR_Q1/B_X1_XLB_3i )
+  ( A33 ? )
+  ( A34 +1V0 )
+  ( A35 GND )
+  ( A36 /L2_PAIR_Q1/+3V3 )
+  ( A37 GND )
+  ( A38 N-000479 )
+  ( A39 ? )
+  ( A40 /L2_PAIR_Q2/BL_X0_XLA_4i )
+  ( A41 /L2_PAIR_Q2/BL_X0_XLA_3i )
+  ( A42 /L2_PAIR_Q2/BL_X0_XLA_2i )
+  ( A43 /L2_PAIR_Q2/BL_X0_XLA_1i )
+  ( A44 /L2_PAIR_Q2/BL_X0_XLA_0i )
+  ( A45 /L2_PAIR_Q2/BL_X0_XLA_0o )
+  ( A46 /L2_PAIR_Q2/BL_X0_XLA_1o )
+  ( A47 /L2_PAIR_Q2/BL_X0_XLA_2o )
+  ( A48 /L2_PAIR_Q2/BL_X0_XLA_3o )
+  ( A49 /L2_PAIR_Q2/BL_X0_XLA_4o )
+  ( A50 ? )
+  ( A51 /L2_PAIR_Q1/+3V3 )
+  ( A52 GND )
+  ( A53 +1V0 )
+  ( A54 ? )
+  ( A55 ? )
+  ( A56 /L2_PAIR_Q1/L2_1/X0_XLB_4i )
+  ( A57 /L2_PAIR_Q1/L2_1/X0_XLB_4o )
+  ( A58 /L2_PAIR_Q1/L2_1/X0_XLB_3o )
+  ( A59 /L2_PAIR_Q1/L2_1/X0_XLB_2o )
+  ( A60 /L2_PAIR_Q1/L2_1/X0_XLB_1o )
+  ( A61 /L2_PAIR_Q1/L2_1/X0_XLB_0o )
+  ( A62 ? )
+  ( A63 /L2_PAIR_Q1/L2_1/X0_XLB_0i )
+  ( A64 /L2_PAIR_Q1/L2_1/X0_XLB_1i )
+  ( A65 /L2_PAIR_Q1/L2_1/X0_XLB_2i )
+  ( A66 /L2_PAIR_Q1/L2_1/X0_XLB_3i )
+  ( A67 ? )
+  ( A68 +1V0 )
+  ( B1 /L2_PAIR_Q1/+3V3 )
+  ( B2 ? )
+  ( B3 ? )
+  ( B4 /L2_PAIR_Q1/+3V3 )
+  ( B5 +1V0 )
+  ( B6 CLK_20M )
+  ( B7 CLK_20M )
+  ( B8 /L2_PAIR_Q1/L2_0/RST_N )
+  ( B9 /L2_PAIR_Q1/TDI_1 )
+  ( B10 /L2_PAIR_Q1/L2_1/TCK )
+  ( B11 /L2_PAIR_Q1/L2_0/TMS )
+  ( B12 /L2_PAIR_Q1/TDI_0 )
+  ( B13 /L2_PAIR_Q1/L2_0/RST_N )
+  ( B14 /L2_PAIR_Q1/+3V3 )
+  ( B15 +1V0 )
+  ( B16 ? )
+  ( B17 ? )
+  ( B18 ? )
+  ( B19 ? )
+  ( B20 ? )
+  ( B21 ? )
+  ( B22 ? )
+  ( B23 ? )
+  ( B24 ? )
+  ( B25 ? )
+  ( B26 ? )
+  ( B27 ? )
+  ( B28 +1V0 )
+  ( B29 /L2_PAIR_Q1/+3V3 )
+  ( B30 ? )
+  ( B31 ? )
+  ( B32 /L2_PAIR_Q1/+3V3 )
+  ( B33 /L2_PAIR_Q1/+3V3 )
+  ( B34 /L2_PAIR_Q1/+3V3 )
+  ( B35 /L2_PAIR_Q1/L2_0/MSEL )
+  ( B36 /L2_PAIR_Q1/L2_0/MSEL )
+  ( B37 /L2_PAIR_Q1/DEBUG_N )
+  ( B38 ? )
+  ( B39 ? )
+  ( B40 ? )
+  ( B41 ? )
+  ( B42 /L2_PAIR_Q1/+3V3 )
+  ( B43 +1V0 )
+  ( B44 ? )
+  ( B45 ? )
+  ( B46 ? )
+  ( B47 ? )
+  ( B48 ? )
+  ( B49 ? )
+  ( B50 ? )
+  ( B51 ? )
+  ( B52 ? )
+  ( B53 ? )
+  ( B54 ? )
+  ( B55 ? )
+  ( B56 +1V0 )
+  ( GND GND )
+ )
+ ( /4E32CDCE/4E32CE0C/4E32CE40 L2_QFN124 U1301 XS1_L2-QFN124
+  ( A1 GND )
+  ( A2 /L2_PAIR_Q1/+3V3 )
+  ( A3 ? )
+  ( A4 ? )
+  ( A5 /L2_PAIR_Q1/TL_X0_XLA_3o )
+  ( A6 /L2_PAIR_Q1/TL_X0_XLA_2o )
+  ( A7 /L2_PAIR_Q1/TL_X0_XLA_1o )
+  ( A8 /L2_PAIR_Q1/TL_X0_XLA_0o )
+  ( A9 /L2_PAIR_Q1/TL_X0_XLA_0i )
+  ( A10 /L2_PAIR_Q1/TL_X0_XLA_1i )
+  ( A11 /L2_PAIR_Q1/TL_X0_XLA_2i )
+  ( A12 /L2_PAIR_Q1/TL_X0_XLA_3i )
+  ( A13 /L2_PAIR_Q1/TL_X0_XLA_4i )
+  ( A14 ? )
+  ( A15 ? )
+  ( A16 /L2_PAIR_Q1/TL_X0_XLA_4o )
+  ( A17 /L2_PAIR_Q1/+3V3 )
+  ( A18 GND )
+  ( A19 +1V0 )
+  ( A20 ? )
+  ( A21 ? )
+  ( A22 /L2_PAIR_Q1/L2_1/X0_XLB_4o )
+  ( A23 /L2_PAIR_Q1/L2_1/X0_XLB_4i )
+  ( A24 /L2_PAIR_Q1/L2_1/X0_XLB_3i )
+  ( A25 /L2_PAIR_Q1/L2_1/X0_XLB_2i )
+  ( A26 /L2_PAIR_Q1/L2_1/X0_XLB_1i )
+  ( A27 /L2_PAIR_Q1/L2_1/X0_XLB_0i )
+  ( A28 ? )
+  ( A29 /L2_PAIR_Q1/L2_1/X0_XLB_0o )
+  ( A30 /L2_PAIR_Q1/L2_1/X0_XLB_1o )
+  ( A31 /L2_PAIR_Q1/L2_1/X0_XLB_2o )
+  ( A32 /L2_PAIR_Q1/L2_1/X0_XLB_3o )
+  ( A33 ? )
+  ( A34 +1V0 )
+  ( A35 GND )
+  ( A36 /L2_PAIR_Q1/+3V3 )
+  ( A37 GND )
+  ( A38 N-000478 )
+  ( A39 ? )
+  ( A40 /L2_PAIR_Q2/TL_X0_XLA_4i )
+  ( A41 /L2_PAIR_Q2/TL_X0_XLA_3i )
+  ( A42 /L2_PAIR_Q2/TL_X0_XLA_2i )
+  ( A43 /L2_PAIR_Q2/TL_X0_XLA_1i )
+  ( A44 /L2_PAIR_Q2/TL_X0_XLA_0i )
+  ( A45 /L2_PAIR_Q2/TL_X0_XLA_0o )
+  ( A46 /L2_PAIR_Q2/TL_X0_XLA_1o )
+  ( A47 /L2_PAIR_Q2/TL_X0_XLA_2o )
+  ( A48 /L2_PAIR_Q2/TL_X0_XLA_3o )
+  ( A49 /L2_PAIR_Q2/TL_X0_XLA_4o )
+  ( A50 ? )
+  ( A51 /L2_PAIR_Q1/+3V3 )
+  ( A52 GND )
+  ( A53 +1V0 )
+  ( A54 ? )
+  ( A55 ? )
+  ( A56 /L2_PAIR_Q1/T_X0_XLB_4i )
+  ( A57 /L2_PAIR_Q1/T_X0_XLB_4o )
+  ( A58 /L2_PAIR_Q1/T_X0_XLB_3o )
+  ( A59 /L2_PAIR_Q1/T_X0_XLB_2o )
+  ( A60 /L2_PAIR_Q1/T_X0_XLB_1o )
+  ( A61 /L2_PAIR_Q1/T_X0_XLB_0o )
+  ( A62 ? )
+  ( A63 /L2_PAIR_Q1/T_X0_XLB_0i )
+  ( A64 /L2_PAIR_Q1/T_X0_XLB_1i )
+  ( A65 /L2_PAIR_Q1/T_X0_XLB_2i )
+  ( A66 /L2_PAIR_Q1/T_X0_XLB_3i )
+  ( A67 ? )
+  ( A68 +1V0 )
+  ( B1 /L2_PAIR_Q1/+3V3 )
+  ( B2 ? )
+  ( B3 ? )
+  ( B4 /L2_PAIR_Q1/+3V3 )
+  ( B5 +1V0 )
+  ( B6 CLK_20M )
+  ( B7 CLK_20M )
+  ( B8 /L2_PAIR_Q1/L2_0/RST_N )
+  ( B9 /L2_PAIR_Q1/TDO_1 )
+  ( B10 /L2_PAIR_Q1/L2_1/TCK )
+  ( B11 /L2_PAIR_Q1/L2_0/TMS )
+  ( B12 /L2_PAIR_Q1/TDI_1 )
+  ( B13 /L2_PAIR_Q1/L2_0/RST_N )
+  ( B14 /L2_PAIR_Q1/+3V3 )
+  ( B15 +1V0 )
+  ( B16 ? )
+  ( B17 ? )
+  ( B18 ? )
+  ( B19 ? )
+  ( B20 ? )
+  ( B21 ? )
+  ( B22 ? )
+  ( B23 ? )
+  ( B24 ? )
+  ( B25 ? )
+  ( B26 ? )
+  ( B27 ? )
+  ( B28 +1V0 )
+  ( B29 /L2_PAIR_Q1/+3V3 )
+  ( B30 ? )
+  ( B31 ? )
+  ( B32 /L2_PAIR_Q1/+3V3 )
+  ( B33 /L2_PAIR_Q1/+3V3 )
+  ( B34 /L2_PAIR_Q1/+3V3 )
+  ( B35 /L2_PAIR_Q1/L2_0/MSEL )
+  ( B36 /L2_PAIR_Q1/L2_0/MSEL )
+  ( B37 /L2_PAIR_Q1/DEBUG_N )
+  ( B38 ? )
+  ( B39 ? )
+  ( B40 ? )
+  ( B41 ? )
+  ( B42 /L2_PAIR_Q1/+3V3 )
+  ( B43 +1V0 )
+  ( B44 ? )
+  ( B45 ? )
+  ( B46 ? )
+  ( B47 ? )
+  ( B48 ? )
+  ( B49 ? )
+  ( B50 ? )
+  ( B51 ? )
+  ( B52 ? )
+  ( B53 ? )
+  ( B54 ? )
+  ( B55 ? )
+  ( B56 +1V0 )
+  ( GND GND )
+ )
+ ( /4E366D48/4E366E40 SC70-6 U1401 NC7WZ17
+  ( 1 /L1/TCK )
+  ( 2 GND )
+  ( 3 /L1/TMS )
+  ( 4 /L1/TMS_BUF )
+  ( 5 +3.3V )
+  ( 6 /L1/TCK_BUF )
+ )
+ ( /4E366D48/4E366E41 SC70-6 U1402 NC7WZ07
+  ( 1 /L1/RST_N )
+  ( 2 GND )
+  ( 3 /L1/MSEL_N )
+  ( 4 /L1/MSEL_N_BUF )
+  ( 5 +3.3V )
+  ( 6 /L1/RST_N_BUF )
+ )
+ ( /4E366D48/4E367347 SOT23-5 U1403 NCP1529
+  ( 1 +3.3V_PG )
+  ( 2 GND )
+  ( 3 N-000367 )
+  ( 4 +5V )
+  ( 5 N-000372 )
+ )
+ ( /4E366D48/4E36829C SOT23-5 U1404 NCP1521B
+  ( 1 +5V )
+  ( 2 GND )
+  ( 3 +3.3V_PG )
+  ( 4 N-000366 )
+  ( 5 N-000365 )
+ )
+ ( /4E366D48/4E367DC9 SOT23-3 U1405 APX803-SR
+  ( 1 +3.3V_PG )
+  ( 2 GND )
+  ( 3 +3.3V )
+ )
+ ( /4E366D48/4E367DC8 SOT23-3 U1406 APX803-SR
+  ( 1 /L1/RST_N )
+  ( 2 GND )
+  ( 3 +3.3V_PG )
+ )
+ ( /4E366D48/4E366D6A L1_128TQFP U1407 XS1-L1-128
+  ( 1 +3.3V )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 ? )
+  ( 7 ? )
+  ( 8 ? )
+  ( 9 /L1/XLC_1o )
+  ( 10 ? )
+  ( 11 /L1/XLC_0o )
+  ( 12 +1V0 )
+  ( 13 /L1/XLC_0i )
+  ( 14 /L1/XLA_1i )
+  ( 15 +3.3V )
+  ( 16 /L1/XLA_0i )
+  ( 17 GND )
+  ( 18 ? )
+  ( 19 +1V0 )
+  ( 20 ? )
+  ( 21 /L1/RST_N_BUF )
+  ( 22 +3.3V )
+  ( 23 ? )
+  ( 24 CLK_20M )
+  ( 25 CLK_20M )
+  ( 26 +3.3V )
+  ( 27 /L1/XLA_0o )
+  ( 28 /L1/XLA_1o )
+  ( 29 +1V0 )
+  ( 30 ? )
+  ( 31 /L1/XLC_1i )
+  ( 32 +3.3V )
+  ( 33 ? )
+  ( 34 +3.3V )
+  ( 35 ? )
+  ( 36 ? )
+  ( 37 ? )
+  ( 38 ? )
+  ( 39 GND )
+  ( 40 GND )
+  ( 41 GND )
+  ( 42 /L1/DEBUG_N )
+  ( 43 GND )
+  ( 44 +3.3V )
+  ( 45 +3.3V )
+  ( 46 ? )
+  ( 47 GND )
+  ( 48 N-000320 )
+  ( 49 +1V0 )
+  ( 50 +3.3V )
+  ( 51 +3.3V )
+  ( 52 +3.3V )
+  ( 53 /L1/MSEL_N_BUF )
+  ( 54 GND )
+  ( 55 /L1/MSEL_N_BUF )
+  ( 56 /L1/RST_N_BUF )
+  ( 57 GND )
+  ( 58 /L1/TMS_BUF )
+  ( 59 +1V0 )
+  ( 60 GND )
+  ( 61 /L1/TCK_BUF )
+  ( 62 /L1/TDI )
+  ( 63 /L1/TDO )
+  ( 64 +3.3V )
+  ( 65 GND )
+  ( 66 GND )
+  ( 67 ? )
+  ( 68 +1V0 )
+  ( 69 ? )
+  ( 70 ? )
+  ( 71 GND )
+  ( 72 ? )
+  ( 73 +3.3V )
+  ( 74 +1V0 )
+  ( 75 ? )
+  ( 76 ? )
+  ( 77 +1V0 )
+  ( 78 GND )
+  ( 79 +3.3V )
+  ( 80 GND )
+  ( 81 ? )
+  ( 82 ? )
+  ( 83 +1V0 )
+  ( 84 ? )
+  ( 85 ? )
+  ( 86 ? )
+  ( 87 ? )
+  ( 88 GND )
+  ( 89 ? )
+  ( 90 ? )
+  ( 91 GND )
+  ( 92 GND )
+  ( 93 +3.3V )
+  ( 94 ? )
+  ( 95 ? )
+  ( 96 ? )
+  ( 97 ? )
+  ( 98 ? )
+  ( 99 GND )
+  ( 100 ? )
+  ( 101 +1V0 )
+  ( 102 ? )
+  ( 103 +3.3V )
+  ( 104 ? )
+  ( 105 ? )
+  ( 106 /L1/XLB_1i )
+  ( 107 /L1/XLB_0i )
+  ( 108 +1V0 )
+  ( 109 ? )
+  ( 110 /L1/XLB_0o )
+  ( 111 +3.3V )
+  ( 112 ? )
+  ( 113 /L1/XLB_1o )
+  ( 114 ? )
+  ( 115 ? )
+  ( 116 GND )
+  ( 117 ? )
+  ( 118 ? )
+  ( 119 /L1/XLD_1i )
+  ( 120 +3.3V )
+  ( 121 /L1/XLD_0i )
+  ( 122 /L1/XLD_0o )
+  ( 123 +1V0 )
+  ( 124 /L1/XLD_1o )
+  ( 125 ? )
+  ( 126 ? )
+  ( 127 ? )
+  ( 128 ? )
+  ( 129 GND )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C101
+ SM*
+ C?
+ C1-1
+$endlist
+$component C102
+ SM*
+ C?
+ C1-1
+$endlist
+$component C103
+ SM*
+ C?
+ C1-1
+$endlist
+$component C104
+ SM*
+ C?
+ C1-1
+$endlist
+$component C105
+ SM*
+ C?
+ C1-1
+$endlist
+$component C106
+ SM*
+ C?
+ C1-1
+$endlist
+$component C107
+ SM*
+ C?
+ C1-1
+$endlist
+$component C108
+ SM*
+ C?
+ C1-1
+$endlist
+$component C201
+ SM*
+ C?
+ C1-1
+$endlist
+$component C202
+ SM*
+ C?
+ C1-1
+$endlist
+$component C203
+ SM*
+ C?
+ C1-1
+$endlist
+$component C301
+ SM*
+ C?
+ C1-1
+$endlist
+$component C302
+ SM*
+ C?
+ C1-1
+$endlist
+$component C303
+ SM*
+ C?
+ C1-1
+$endlist
+$component C304
+ SM*
+ C?
+ C1-1
+$endlist
+$component C305
+ SM*
+ C?
+ C1-1
+$endlist
+$component C306
+ SM*
+ C?
+ C1-1
+$endlist
+$component C307
+ SM*
+ C?
+ C1-1
+$endlist
+$component C308
+ SM*
+ C?
+ C1-1
+$endlist
+$component C309
+ SM*
+ C?
+ C1-1
+$endlist
+$component C310
+ SM*
+ C?
+ C1-1
+$endlist
+$component C311
+ SM*
+ C?
+ C1-1
+$endlist
+$component C401
+ SM*
+ C?
+ C1-1
+$endlist
+$component C402
+ SM*
+ C?
+ C1-1
+$endlist
+$component C403
+ SM*
+ C?
+ C1-1
+$endlist
+$component C404
+ SM*
+ C?
+ C1-1
+$endlist
+$component C405
+ SM*
+ C?
+ C1-1
+$endlist
+$component C406
+ SM*
+ C?
+ C1-1
+$endlist
+$component C407
+ SM*
+ C?
+ C1-1
+$endlist
+$component C408
+ SM*
+ C?
+ C1-1
+$endlist
+$component C409
+ SM*
+ C?
+ C1-1
+$endlist
+$component C410
+ SM*
+ C?
+ C1-1
+$endlist
+$component C411
+ SM*
+ C?
+ C1-1
+$endlist
+$component C501
+ SM*
+ C?
+ C1-1
+$endlist
+$component C502
+ SM*
+ C?
+ C1-1
+$endlist
+$component C503
+ SM*
+ C?
+ C1-1
+$endlist
+$component C601
+ SM*
+ C?
+ C1-1
+$endlist
+$component C602
+ SM*
+ C?
+ C1-1
+$endlist
+$component C603
+ SM*
+ C?
+ C1-1
+$endlist
+$component C604
+ SM*
+ C?
+ C1-1
+$endlist
+$component C605
+ SM*
+ C?
+ C1-1
+$endlist
+$component C606
+ SM*
+ C?
+ C1-1
+$endlist
+$component C607
+ SM*
+ C?
+ C1-1
+$endlist
+$component C608
+ SM*
+ C?
+ C1-1
+$endlist
+$component C609
+ SM*
+ C?
+ C1-1
+$endlist
+$component C610
+ SM*
+ C?
+ C1-1
+$endlist
+$component C611
+ SM*
+ C?
+ C1-1
+$endlist
+$component C701
+ SM*
+ C?
+ C1-1
+$endlist
+$component C702
+ SM*
+ C?
+ C1-1
+$endlist
+$component C703
+ SM*
+ C?
+ C1-1
+$endlist
+$component C704
+ SM*
+ C?
+ C1-1
+$endlist
+$component C705
+ SM*
+ C?
+ C1-1
+$endlist
+$component C706
+ SM*
+ C?
+ C1-1
+$endlist
+$component C707
+ SM*
+ C?
+ C1-1
+$endlist
+$component C708
+ SM*
+ C?
+ C1-1
+$endlist
+$component C709
+ SM*
+ C?
+ C1-1
+$endlist
+$component C710
+ SM*
+ C?
+ C1-1
+$endlist
+$component C711
+ SM*
+ C?
+ C1-1
+$endlist
+$component C801
+ SM*
+ C?
+ C1-1
+$endlist
+$component C802
+ SM*
+ C?
+ C1-1
+$endlist
+$component C803
+ SM*
+ C?
+ C1-1
+$endlist
+$component C901
+ SM*
+ C?
+ C1-1
+$endlist
+$component C902
+ SM*
+ C?
+ C1-1
+$endlist
+$component C903
+ SM*
+ C?
+ C1-1
+$endlist
+$component C904
+ SM*
+ C?
+ C1-1
+$endlist
+$component C905
+ SM*
+ C?
+ C1-1
+$endlist
+$component C906
+ SM*
+ C?
+ C1-1
+$endlist
+$component C907
+ SM*
+ C?
+ C1-1
+$endlist
+$component C908
+ SM*
+ C?
+ C1-1
+$endlist
+$component C909
+ SM*
+ C?
+ C1-1
+$endlist
+$component C910
+ SM*
+ C?
+ C1-1
+$endlist
+$component C911
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1001
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1002
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1003
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1004
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1005
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1006
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1007
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1008
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1009
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1010
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1011
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1101
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1102
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1103
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1201
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1202
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1203
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1204
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1205
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1206
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1207
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1208
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1209
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1210
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1211
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1301
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1302
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1303
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1304
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1305
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1306
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1307
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1308
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1309
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1310
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1311
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1401
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1402
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1403
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1404
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1405
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1406
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1407
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1408
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1409
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1410
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1411
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1412
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1413
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1414
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1415
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1416
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1417
+ SM*
+ C?
+ C1-1
+$endlist
+$component D101
+ D?
+ S*
+$endlist
+$component R101
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R102
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R103
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R104
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R105
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R106
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R107
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R108
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R109
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R110
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R111
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R112
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R113
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R201
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R202
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R203
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R204
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R301
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R401
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R501
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R502
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R503
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R504
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R601
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R701
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R801
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R802
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R803
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R804
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R901
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1001
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1101
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1102
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1103
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1104
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1201
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1301
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1401
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1402
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1403
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1404
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1405
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1406
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1407
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1408
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1409
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component U101
+ SOT23R
+$endlist
+$component U109
+ 10DFN
+$endlist
+$component U110
+ SOT23R
+$endlist
+$component U1405
+ SOT23R
+$endlist
+$component U1406
+ SOT23R
+$endlist
+$component U1407
+ XMOS*
+$endlist
+$endfootprintlist
+}
