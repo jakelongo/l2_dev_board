@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 01/09/2011 16:24:27
+EESchema Schematic File Version 2  date 01/09/2011 16:28:35
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -46,6 +46,8 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Label 2750 6250 2    39   ~ 0
+SWT_4
 Wire Wire Line
 	18460 12250 18580 12250
 Text Label 18580 12250 0    30   ~ 0
@@ -548,14 +550,8 @@ Wire Wire Line
 	4740 2100 4740 2140
 Wire Wire Line
 	4740 1080 4740 1120
-Wire Wire Line
-	1650 6470 1650 6520
-Wire Wire Line
-	1650 6010 1650 6040
 Wire Notes Line
 	5970 8740 1280 8740
-Wire Wire Line
-	2200 5700 2200 5640
 Wire Wire Line
 	3720 6180 3720 6140
 Wire Notes Line
@@ -1802,10 +1798,6 @@ Wire Notes Line
 Wire Wire Line
 	2750 6250 3190 6250
 Connection ~ 3190 6250
-Wire Wire Line
-	1590 6160 1650 6160
-Wire Wire Line
-	1590 6340 1650 6340
 Wire Wire Line
 	6190 10860 6050 10860
 Wire Wire Line
@@ -3552,39 +3544,6 @@ Text Label 4740 2100 2    39   ~ 0
 SWT_2
 Text Label 4740 1080 2    39   ~ 0
 SWT_1
-Text Label 1590 6340 2    39   ~ 0
-SWT_3
-Text Label 1590 6160 2    39   ~ 0
-SWT_2
-$Comp
-L GND #PWR0101
-U 1 1 4E38244E
-P 1650 6520
-F 0 "#PWR0101" H 1650 6520 30  0001 C CNN
-F 1 "GND" H 1650 6450 30  0001 C CNN
-	1    1650 6520
-	1    0    0    -1  
-$EndComp
-Text Label 2200 5640 2    39   ~ 0
-SWT_1
-$Comp
-L +3.3V #PWR0102
-U 1 1 4E382389
-P 1650 6010
-F 0 "#PWR0102" H 1650 5970 30  0001 C CNN
-F 1 "+3.3V" H 1650 6120 30  0000 C CNN
-	1    1650 6010
-	1    0    0    -1  
-$EndComp
-$Comp
-L NC7SZ157 U102
-U 1 1 4E38237C
-P 2200 6250
-F 0 "U102" H 2000 6540 60  0000 C CNN
-F 1 "NC7SZ157" H 2180 5950 60  0000 C CNN
-	1    2200 6250
-	1    0    0    -1  
-$EndComp
 $Comp
 L GND #PWR0103
 U 1 1 4E38209A
