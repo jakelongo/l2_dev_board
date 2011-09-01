@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 01/09/2011 14:48:10
+EESchema Schematic File Version 2  date 01/09/2011 16:24:27
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -2404,9 +2404,9 @@ F 1 "GND" H 12170 1240 30  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 14470 14550 1    39   ~ 0
-TDI_T
+TDI_B
 Text Label 14270 14550 1    39   ~ 0
-TDO_T
+TDO_B
 $Comp
 L GND #PWR022
 U 1 1 4E5E265B
@@ -3479,7 +3479,7 @@ Text Label 16400 3340 2    39   ~ 0
 Text Label 12700 3340 2    39   ~ 0
 +3V3_PG
 Text Notes 6150 11570 0    30   ~ 0
-TL- POS = 1\nML- POS = 8\nBL- POS = 5\nMI- POS = C\nRI- POS = 7
+TL- POS = 1\nML- POS = 8\nBL- POS = C\nMI- POS = 5\nRI- POS = 7
 Text Notes 6590 10480 0    60   ~ 0
 JTAG SWITCH BOARD CONFIG
 $Comp

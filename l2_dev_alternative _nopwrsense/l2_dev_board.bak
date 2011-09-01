@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 01/09/2011 14:48:05
+EESchema Schematic File Version 2  date 01/09/2011 15:28:14
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -2404,9 +2404,9 @@ F 1 "GND" H 12170 1240 30  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 14470 14550 1    39   ~ 0
-TDI_T
+TDI_B
 Text Label 14270 14550 1    39   ~ 0
-TDO_T
+TDO_B
 $Comp
 L GND #PWR022
 U 1 1 4E5E265B
