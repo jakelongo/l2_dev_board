@@ -1,80 +1,100 @@
-# EESchema Netlist Version 1.1 created  06/09/2011 18:50:42
+# EESchema Netlist Version 1.1 created  07/09/2011 22:39:16
 (
+ ( /4E672AD0 $noname  U137 YC124 {Lib=YC124}
+  (    1 N-000233 )
+  (    2 N-000295 )
+  (    3 N-000232 )
+  (    4 N-000296 )
+  (    5 /L2_PAIR_Q3/B_X1_XLB_1o )
+  (    6 /L2_PAIR_Q3/B_X1_XLB_2o )
+  (    7 /L2_PAIR_Q3/B_X1_XLB_3o )
+  (    8 /L2_PAIR_Q3/B_X1_XLB_4o )
+ )
+ ( /4E672949 $noname  U136 YC124 {Lib=YC124}
+  (    1 N-000297 )
+  (    2 N-000207 )
+  (    3 N-000298 )
+  (    4 N-000206 )
+  (    5 /L2_PAIR_Q4/B_X1_XLB_1o )
+  (    6 /L2_PAIR_Q4/B_X1_XLB_2o )
+  (    7 /L2_PAIR_Q4/B_X1_XLB_3o )
+  (    8 /L2_PAIR_Q4/B_X1_XLB_4o )
+ )
  ( /4E665458 $noname  U134 YC124 {Lib=YC124}
   (    1 /L2_PAIR_Q3/BR_X0_XLB_1o )
   (    2 /L2_PAIR_Q3/BR_X0_XLB_2o )
   (    3 /L2_PAIR_Q3/BR_X0_XLB_3o )
   (    4 /L2_PAIR_Q3/BR_X0_XLB_4o )
-  (    5 N-000214 )
-  (    6 N-000293 )
-  (    7 N-000212 )
-  (    8 N-000294 )
+  (    5 N-000217 )
+  (    6 N-000289 )
+  (    7 N-000215 )
+  (    8 N-000290 )
  )
  ( /4E665428 $noname  U135 YC124 {Lib=YC124}
   (    1 /L2_PAIR_Q3/TR_X1_XLA_1o )
   (    2 /L2_PAIR_Q3/TR_X1_XLA_2o )
   (    3 /L2_PAIR_Q3/TR_X1_XLA_3o )
   (    4 /L2_PAIR_Q3/TR_X1_XLA_4o )
-  (    5 N-000295 )
-  (    6 N-000210 )
-  (    7 N-000296 )
-  (    8 N-000216 )
+  (    5 N-000291 )
+  (    6 N-000213 )
+  (    7 N-000292 )
+  (    8 N-000219 )
  )
  ( /4E6624B7 $noname  U133 YC124 {Lib=YC124}
   (    1 /L2_PAIR_Q2/BR_X0_XLB_1o )
   (    2 /L2_PAIR_Q2/BR_X0_XLB_2o )
   (    3 /L2_PAIR_Q2/BR_X0_XLB_3o )
   (    4 /L2_PAIR_Q2/BR_X0_XLB_4o )
-  (    5 N-000234 )
-  (    6 N-000283 )
-  (    7 N-000233 )
-  (    8 N-000284 )
+  (    5 N-000237 )
+  (    6 N-000309 )
+  (    7 N-000236 )
+  (    8 N-000310 )
  )
  ( /4E662251 $noname  U132 YC124 {Lib=YC124}
   (    1 /L2_PAIR_Q2/TR_X1_XLA_1o )
   (    2 /L2_PAIR_Q2/TR_X1_XLA_2o )
   (    3 /L2_PAIR_Q2/TR_X1_XLA_3o )
   (    4 /L2_PAIR_Q2/TR_X1_XLA_4o )
-  (    5 N-000287 )
-  (    6 N-000237 )
-  (    7 N-000288 )
-  (    8 N-000235 )
+  (    5 N-000313 )
+  (    6 N-000240 )
+  (    7 N-000314 )
+  (    8 N-000238 )
  )
  ( /4E661835 $noname  U130 YC124 {Lib=YC124}
   (    1 /L2_PAIR_Q1/BL_X0_XLA_0o )
   (    2 /L2_PAIR_Q1/BL_X0_XLA_1o )
   (    3 /L2_PAIR_Q1/BL_X0_XLA_2o )
   (    4 /L2_PAIR_Q1/BL_X0_XLA_3o )
-  (    5 N-000305 )
-  (    6 N-000137 )
-  (    7 N-000306 )
-  (    8 N-000136 )
+  (    5 N-000317 )
+  (    6 N-000138 )
+  (    7 N-000318 )
+  (    8 N-000137 )
  )
  ( /4E6617CF $noname  U129 YC124 {Lib=YC124}
   (    1 /L2_PAIR_Q4/BL_X0_XLA_0o )
   (    2 /L2_PAIR_Q4/BL_X0_XLA_1o )
   (    3 /L2_PAIR_Q4/BL_X0_XLA_2o )
   (    4 /L2_PAIR_Q4/BL_X0_XLA_3o )
-  (    5 N-000309 )
-  (    6 N-000222 )
-  (    7 N-000310 )
-  (    8 N-000221 )
+  (    5 N-000304 )
+  (    6 N-000225 )
+  (    7 N-000305 )
+  (    8 N-000224 )
  )
  ( /4E6617B4 $noname  U124 YC124 {Lib=YC124}
   (    1 /L2_PAIR_Q4/TL_X0_XLA_0o )
   (    2 /L2_PAIR_Q4/TL_X0_XLA_1o )
   (    3 /L2_PAIR_Q4/TL_X0_XLA_2o )
   (    4 /L2_PAIR_Q4/TL_X0_XLA_3o )
-  (    5 N-000225 )
-  (    6 N-000311 )
-  (    7 N-000224 )
-  (    8 N-000312 )
+  (    5 N-000228 )
+  (    6 N-000306 )
+  (    7 N-000227 )
+  (    8 N-000307 )
  )
  ( /4E661024 $noname  U122 YC124 {Lib=YC124}
-  (    1 N-000095 )
-  (    2 N-000094 )
-  (    3 N-000297 )
-  (    4 N-000093 )
+  (    1 N-000094 )
+  (    2 N-000093 )
+  (    3 N-000308 )
+  (    4 N-000092 )
   (    5 /L2_PAIR_Q1/TL_X0_XLA_0o )
   (    6 /L2_PAIR_Q1/TL_X0_XLA_1o )
   (    7 /L2_PAIR_Q1/TL_X0_XLA_2o )
@@ -85,16 +105,16 @@
   (    2 /L2_PAIR_Q2/T_X1_XLA_1o )
   (    3 /L2_PAIR_Q2/T_X1_XLA_2o )
   (    4 /L2_PAIR_Q2/T_X1_XLA_3o )
-  (    5 N-000134 )
-  (    6 N-000300 )
-  (    7 N-000133 )
-  (    8 N-000301 )
+  (    5 N-000135 )
+  (    6 N-000341 )
+  (    7 N-000134 )
+  (    8 N-000342 )
  )
  ( /4E65FA41 $noname  U102 YC124 {Lib=YC124}
-  (    1 N-000130 )
-  (    2 N-000302 )
-  (    3 N-000129 )
-  (    4 N-000303 )
+  (    1 N-000131 )
+  (    2 N-000343 )
+  (    3 N-000130 )
+  (    4 N-000344 )
   (    5 /L2_PAIR_Q1/T_X1_XLA_0o )
   (    6 /L2_PAIR_Q1/T_X1_XLA_1o )
   (    7 /L2_PAIR_Q1/T_X1_XLA_2o )
@@ -106,179 +126,147 @@
  )
  ( /4E60C5E9 $noname  R115 33R {Lib=R}
   (    1 /TCK_BUF_R )
-  (    2 N-000325 )
+  (    2 N-000324 )
  )
  ( /4E60C560 $noname  R112 33R {Lib=R}
-  (    1 N-000326 )
+  (    1 N-000325 )
   (    2 /TCK_L )
  )
  ( /4E60C54E $noname  R114 33R {Lib=R}
-  (    1 N-000328 )
+  (    1 N-000327 )
   (    2 /TCK_T )
  )
  ( /4E60B46A $noname  R146 33R {Lib=R}
-  (    1 /L2_PAIR_Q4/B_X1_XLB_4o )
-  (    2 N-000330 )
- )
- ( /4E60B469 $noname  R147 33R {Lib=R}
-  (    1 /L2_PAIR_Q4/B_X1_XLB_3o )
-  (    2 N-000204 )
- )
- ( /4E60B468 $noname  R148 33R {Lib=R}
-  (    1 /L2_PAIR_Q4/B_X1_XLB_2o )
-  (    2 N-000318 )
- )
- ( /4E60B467 $noname  R149 33R {Lib=R}
-  (    1 /L2_PAIR_Q4/B_X1_XLB_1o )
-  (    2 N-000203 )
- )
- ( /4E60B466 $noname  R150 33R {Lib=R}
   (    1 /L2_PAIR_Q4/B_X1_XLB_0o )
-  (    2 N-000320 )
- )
- ( /4E60B463 $noname  R156 33R {Lib=R}
-  (    1 /L2_PAIR_Q3/B_X1_XLB_4o )
-  (    2 N-000230 )
- )
- ( /4E60B462 $noname  R157 33R {Lib=R}
-  (    1 /L2_PAIR_Q3/B_X1_XLB_3o )
-  (    2 N-000322 )
- )
- ( /4E60B461 $noname  R158 33R {Lib=R}
-  (    1 /L2_PAIR_Q3/B_X1_XLB_2o )
-  (    2 N-000229 )
- )
- ( /4E60B460 $noname  R159 33R {Lib=R}
-  (    1 /L2_PAIR_Q3/B_X1_XLB_1o )
-  (    2 N-000324 )
+  (    2 N-000329 )
  )
  ( /4E60B45F $noname  R160 33R {Lib=R}
   (    1 /L2_PAIR_Q3/B_X1_XLB_0o )
-  (    2 N-000228 )
+  (    2 N-000231 )
  )
  ( /4E60B448 $noname  R151 33R {Lib=R}
-  (    1 N-000132 )
+  (    1 N-000133 )
   (    2 /L2_PAIR_Q1/T_X1_XLA_4o )
  )
  ( /4E60B436 $noname  R165 33R {Lib=R}
-  (    1 N-000335 )
+  (    1 N-000333 )
   (    2 /L2_PAIR_Q2/T_X1_XLA_4o )
  )
  ( /4E60B412 $noname  R171 33R {Lib=R}
-  (    1 N-000336 )
+  (    1 N-000334 )
   (    2 /L2_PAIR_Q2/TR_X1_XLA_0o )
  )
  ( /4E60B40D $noname  R166 33R {Lib=R}
-  (    1 N-000232 )
+  (    1 N-000235 )
   (    2 /L2_PAIR_Q2/BR_X0_XLB_0o )
  )
  ( /4E60B401 $noname  R181 33R {Lib=R}
-  (    1 N-000338 )
+  (    1 N-000336 )
   (    2 /L2_PAIR_Q3/TR_X1_XLA_0o )
  )
  ( /4E60B3F2 $noname  R176 33R {Lib=R}
-  (    1 N-000211 )
+  (    1 N-000214 )
   (    2 /L2_PAIR_Q3/BR_X0_XLB_0o )
  )
  ( /4E60B3C7 $noname  R136 33R {Lib=R}
   (    1 /L2_PAIR_Q4/BL_X0_XLA_4o )
-  (    2 N-000223 )
+  (    2 N-000226 )
  )
  ( /4E60B38E $noname  R117 33R {Lib=R}
   (    1 /L2_PAIR_Q4/TL_X0_XLA_4o )
-  (    2 N-000339 )
+  (    2 N-000337 )
  )
  ( /4E60B2E9 $noname  R141 33R {Lib=R}
   (    1 /L2_PAIR_Q1/BL_X0_XLA_4o )
-  (    2 N-000254 )
+  (    2 N-000258 )
  )
  ( /4E60B1E1 $noname  R131 33R {Lib=R}
   (    1 /L2_PAIR_Q1/TL_X0_XLA_4o )
-  (    2 N-000096 )
+  (    2 N-000095 )
  )
  ( /4E60B0A7 $noname  U127 NC7WZ07 {Lib=NC7WZ07}
-  (    1 ? )
+  (    1 /L2_PAIR_Q3/MSEL_N )
   (    2 GND )
-  (    3 /L2_PAIR_Q2/RST_N )
+  (    3 /L2_PAIR_Q1/RST_N )
   (    4 /RST_N_BUF_B )
   (    5 +3.3V )
-  (    6 ? )
+  (    6 /TRST_N_BUF_B )
  )
  ( /4E60B06E $noname  U118 NC7WZ07 {Lib=NC7WZ07}
-  (    1 /L2_PAIR_Q2/RST_N )
+  (    1 /DEBUG_N )
   (    2 GND )
-  (    3 ? )
-  (    4 ? )
+  (    3 /L2_PAIR_Q3/MSEL_N )
+  (    4 /TRST_N_BUF_R )
   (    5 +3.3V )
-  (    6 /RST_N_BUF_R )
+  (    6 /DEBUG_N_BUF_R )
  )
  ( /4E5E31B3 $noname  U115 NC7WZ17 {Lib=NC7WZ17}
   (    1 /CLK_20M )
   (    2 GND )
   (    3 /CLK_20M )
-  (    4 N-000054 )
+  (    4 N-000055 )
   (    5 +3.3V )
-  (    6 N-000055 )
+  (    6 N-000056 )
  )
  ( /4E5E317D $noname  U114 NC7WZ17 {Lib=NC7WZ17}
   (    1 /CLK_20M )
   (    2 GND )
   (    3 /CLK_20M )
-  (    4 N-000050 )
+  (    4 N-000051 )
   (    5 +3.3V )
-  (    6 N-000051 )
+  (    6 N-000052 )
  )
  ( /4E5E3146 $noname  U113 NC7WZ17 {Lib=NC7WZ17}
   (    1 /CLK_20M )
   (    2 GND )
   (    3 /CLK_20M )
-  (    4 N-000052 )
+  (    4 N-000053 )
   (    5 +3.3V )
-  (    6 N-000053 )
+  (    6 N-000054 )
  )
  ( /4E5E30F6 $noname  U112 NC7WZ17 {Lib=NC7WZ17}
   (    1 /CLK_20M )
   (    2 GND )
   (    3 /CLK_20M )
-  (    4 N-000071 )
+  (    4 N-000072 )
   (    5 +3.3V )
-  (    6 N-000072 )
+  (    6 N-000073 )
  )
  ( /4E5373AA $noname  R126 33R {Lib=R}
+  (    1 /L2_PAIR_Q3/CLK_20M_C0 )
+  (    2 N-000052 )
+ )
+ ( /4E5373A9 $noname  R127 33R {Lib=R}
   (    1 /L2_PAIR_Q3/CLK_20M_C1 )
   (    2 N-000051 )
  )
- ( /4E5373A9 $noname  R127 33R {Lib=R}
-  (    1 /L2_PAIR_Q3/CLK_20M_C0 )
-  (    2 N-000050 )
- )
  ( /4E5373A8 $noname  R129 33R {Lib=R}
-  (    1 ? )
-  (    2 N-000054 )
+  (    1 /L2_PAIR_Q4/CLK_20M_C1 )
+  (    2 N-000055 )
  )
  ( /4E5373A7 $noname  R128 33R {Lib=R}
-  (    1 ? )
-  (    2 N-000055 )
+  (    1 /L2_PAIR_Q4/CLK_20M_C0 )
+  (    2 N-000056 )
  )
  ( /4E53738B $noname  R124 33R {Lib=R}
   (    1 /L2_PAIR_Q2/CLK_20M_C0 )
-  (    2 N-000053 )
+  (    2 N-000054 )
  )
  ( /4E53738A $noname  R125 33R {Lib=R}
   (    1 /L2_PAIR_Q2/CLK_20M_C1 )
-  (    2 N-000052 )
+  (    2 N-000053 )
  )
  ( /4E537378 $noname  R123 33R {Lib=R}
-  (    1 /L2_PAIR_Q4/CLK_20M_C0 )
-  (    2 N-000071 )
+  (    1 /L2_PAIR_Q1/CLK_20M_C1 )
+  (    2 N-000072 )
  )
  ( /4E53735F $noname  R122 33R {Lib=R}
   (    1 /L2_PAIR_Q1/CLK_20M_C0 )
-  (    2 N-000072 )
+  (    2 N-000073 )
  )
  ( /4E53731A $noname  R121 33R {Lib=R}
   (    1 /CLK_20M )
-  (    2 N-000073 )
+  (    2 N-000074 )
  )
  ( /4E52166E $noname  U131 NC7WZ17 {Lib=NC7WZ17}
   (    1 /DEBUG_N )
@@ -299,18 +287,18 @@
  ( /4E4BC3EA $noname  U128 NC7WZ17 {Lib=NC7WZ17}
   (    1 /L2_PAIR_Q4/TCK )
   (    2 GND )
-  (    3 /L2_PAIR_Q4/TMS )
+  (    3 /L2_PAIR_Q2/TMS )
   (    4 /TMS_BUF_B )
   (    5 +3.3V )
   (    6 N-000070 )
  )
  ( /4E4BC3E7 $noname  U126 NC7WZ17 {Lib=NC7WZ17}
-  (    1 /DEBUG_N )
+  (    1 ? )
   (    2 GND )
-  (    3 /L2_PAIR_Q4/MSEL_N )
-  (    4 /TRST_N_BUF_B )
+  (    3 /DEBUG_N )
+  (    4 /DEBUG_N_BUF_B )
   (    5 +3.3V )
-  (    6 /DEBUG_N_BUF_B )
+  (    6 ? )
  )
  ( /4E3FB8CA $noname  C108 0.1uF {Lib=C}
   (    1 +3.3V )
@@ -319,24 +307,24 @@
  ( /4E3FB8C5 $noname  U123 ASE_CLK {Lib=ASE_CLK}
   (    1 +3.3V )
   (    2 GND )
-  (    3 N-000073 )
+  (    3 N-000074 )
   (    4 +3.3V )
  )
  ( /4E3925BA $noname  U120 NC7WZ17 {Lib=NC7WZ17}
-  (    1 /L2_PAIR_Q4/MSEL_N )
+  (    1 /L2_PAIR_Q2/TMS )
   (    2 GND )
-  (    3 /L2_PAIR_Q4/TMS )
-  (    4 /TMS_BUF_R )
+  (    3 ? )
+  (    4 ? )
   (    5 +3.3V )
-  (    6 /TRST_N_BUF_R )
+  (    6 /TMS_BUF_R )
  )
  ( /4E391861 $noname  U119 NC7WZ17 {Lib=NC7WZ17}
-  (    1 /L2_PAIR_Q4/TCK )
+  (    1 /L2_PAIR_Q1/RST_N )
   (    2 GND )
-  (    3 /DEBUG_N )
-  (    4 /DEBUG_N_BUF_R )
+  (    3 /L2_PAIR_Q4/TCK )
+  (    4 N-000324 )
   (    5 +3.3V )
-  (    6 N-000325 )
+  (    6 /RST_N_BUF_R )
  )
  ( /4E3826CE $noname  R107 10k {Lib=R}
   (    1 /SWT_4 )
@@ -361,7 +349,7 @@
   (    5 +3.3V )
  )
  ( /4E3815E7 $noname  R113 10k {Lib=R}
-  (    1 /L2_PAIR_Q2/RST_N )
+  (    1 /L2_PAIR_Q1/RST_N )
   (    2 +3.3V )
  )
  ( /4E380E62 $noname  U106 SN74LVC1G18 {Lib=SN74LVC1G18}
@@ -405,13 +393,13 @@
   (    7 /DEBUG_N_T )
   (    8 /TRST_N_T )
   (    9 /RST_N_T )
-  (   10 N-000328 )
+  (   10 N-000327 )
   (   11 /TMS_T )
   (   12 GND )
-  (   13 /L2_PAIR_Q4/TMS )
+  (   13 /L2_PAIR_Q2/TMS )
   (   14 /L2_PAIR_Q4/TCK )
-  (   15 /L2_PAIR_Q2/RST_N )
-  (   16 /L2_PAIR_Q4/MSEL_N )
+  (   15 /L2_PAIR_Q1/RST_N )
+  (   16 /L2_PAIR_Q3/MSEL_N )
   (   17 /DEBUG_N )
   (   18 ? )
   (   19 ? )
@@ -425,7 +413,7 @@
   (    2 /DEBUG_N_L )
   (    3 /TRST_N_L )
   (    4 /RST_N_L )
-  (    5 N-000326 )
+  (    5 N-000325 )
   (    6 /TMS_L )
   (    7 ? )
   (    8 ? )
@@ -438,10 +426,10 @@
   (   15 ? )
   (   16 ? )
   (   17 ? )
-  (   18 /L2_PAIR_Q4/TMS )
+  (   18 /L2_PAIR_Q2/TMS )
   (   19 /L2_PAIR_Q4/TCK )
-  (   20 /L2_PAIR_Q2/RST_N )
-  (   21 /L2_PAIR_Q4/MSEL_N )
+  (   20 /L2_PAIR_Q1/RST_N )
+  (   21 /L2_PAIR_Q3/MSEL_N )
   (   22 /DEBUG_N )
   (   23 /SWT_4 )
   (   24 +3.3V )
@@ -463,11 +451,11 @@
   (    7 /L2_PAIR_Q4/B_X1_XLB_0i )
   (    8 GND )
   (    9 GND )
-  (   10 N-000320 )
-  (   11 N-000203 )
-  (   12 N-000318 )
-  (   13 N-000204 )
-  (   14 N-000330 )
+  (   10 N-000329 )
+  (   11 N-000206 )
+  (   12 N-000298 )
+  (   13 N-000207 )
+  (   14 N-000297 )
   (   15 GND )
   (   16 GND )
   (   17 GND )
@@ -494,11 +482,11 @@
   (    6 /L2_PAIR_Q3/B_X1_XLB_0i )
   (    7 GND )
   (    8 GND )
-  (    9 N-000228 )
-  (   10 N-000324 )
-  (   11 N-000229 )
-  (   12 N-000322 )
-  (   13 N-000230 )
+  (    9 N-000231 )
+  (   10 N-000296 )
+  (   11 N-000232 )
+  (   12 N-000295 )
+  (   13 N-000233 )
   (   14 GND )
   (   15 GND )
   (   16 GND )
@@ -539,11 +527,11 @@
   (   19 /L2_PAIR_Q2/TR_X1_XLA_0i )
   (   20 GND )
   (   21 GND )
-  (   22 N-000336 )
-  (   23 N-000235 )
-  (   24 N-000288 )
-  (   25 N-000237 )
-  (   26 N-000287 )
+  (   22 N-000334 )
+  (   23 N-000238 )
+  (   24 N-000314 )
+  (   25 N-000240 )
+  (   26 N-000313 )
   (   27 GND )
   (   28 /L2_PAIR_Q2/BR_X0_XLB_4i )
   (   29 /L2_PAIR_Q2/BR_X0_XLB_3i )
@@ -556,11 +544,11 @@
   (    4 /L2_PAIR_Q2/BR_X0_XLB_0i )
   (    5 GND )
   (    6 GND )
-  (    7 N-000232 )
-  (    8 N-000284 )
-  (    9 N-000233 )
-  (   10 N-000283 )
-  (   11 N-000234 )
+  (    7 N-000235 )
+  (    8 N-000310 )
+  (    9 N-000236 )
+  (   10 N-000309 )
+  (   11 N-000237 )
   (   12 GND )
   (   13 GND )
   (   14 GND )
@@ -591,11 +579,11 @@
   (    7 /L2_PAIR_Q3/TR_X1_XLA_0i )
   (    8 GND )
   (    9 GND )
-  (   10 N-000338 )
-  (   11 N-000216 )
-  (   12 N-000296 )
-  (   13 N-000210 )
-  (   14 N-000295 )
+  (   10 N-000336 )
+  (   11 N-000219 )
+  (   12 N-000292 )
+  (   13 N-000213 )
+  (   14 N-000291 )
   (   15 GND )
   (   16 GND )
   (   17 /L2_PAIR_Q3/BR_X0_XLB_4i )
@@ -605,11 +593,11 @@
   (   21 /L2_PAIR_Q3/BR_X0_XLB_0i )
   (   22 GND )
   (   23 GND )
-  (   24 N-000211 )
-  (   25 N-000294 )
-  (   26 N-000212 )
-  (   27 N-000293 )
-  (   28 N-000214 )
+  (   24 N-000214 )
+  (   25 N-000290 )
+  (   26 N-000215 )
+  (   27 N-000289 )
+  (   28 N-000217 )
   (   29 GND )
   (   30 GND )
  )
@@ -623,11 +611,11 @@
   (    7 /L2_PAIR_Q4/BL_X0_XLA_0i )
   (    8 GND )
   (    9 GND )
-  (   10 N-000221 )
-  (   11 N-000310 )
-  (   12 N-000222 )
-  (   13 N-000309 )
-  (   14 N-000223 )
+  (   10 N-000224 )
+  (   11 N-000305 )
+  (   12 N-000225 )
+  (   13 N-000304 )
+  (   14 N-000226 )
   (   15 GND )
   (   16 GND )
   (   17 /L2_PAIR_Q4/TL_X0_XLA_4i )
@@ -637,11 +625,11 @@
   (   21 /L2_PAIR_Q4/TL_X0_XLA_0i )
   (   22 GND )
   (   23 GND )
-  (   24 N-000312 )
-  (   25 N-000224 )
-  (   26 N-000311 )
-  (   27 N-000225 )
-  (   28 N-000339 )
+  (   24 N-000307 )
+  (   25 N-000227 )
+  (   26 N-000306 )
+  (   27 N-000228 )
+  (   28 N-000337 )
   (   29 GND )
   (   30 GND )
  )
@@ -670,11 +658,11 @@
   (   22 /L2_PAIR_Q2/T_X1_XLA_0i )
   (   23 GND )
   (   24 GND )
-  (   25 N-000301 )
-  (   26 N-000133 )
-  (   27 N-000300 )
-  (   28 N-000134 )
-  (   29 N-000335 )
+  (   25 N-000342 )
+  (   26 N-000134 )
+  (   27 N-000341 )
+  (   28 N-000135 )
+  (   29 N-000333 )
   (   30 GND )
  )
  ( /4E36BA72 $noname  P104 CONN_30 {Lib=CONN_30}
@@ -701,11 +689,11 @@
   (   21 /L2_PAIR_Q1/T_X1_XLA_0i )
   (   22 GND )
   (   23 GND )
-  (   24 N-000303 )
-  (   25 N-000129 )
-  (   26 N-000302 )
-  (   27 N-000130 )
-  (   28 N-000132 )
+  (   24 N-000344 )
+  (   25 N-000130 )
+  (   26 N-000343 )
+  (   27 N-000131 )
+  (   28 N-000133 )
   (   29 GND )
   (   30 GND )
  )
@@ -736,15 +724,15 @@
   (   24 /L2_PAIR_Q1/BL_X0_XLA_0i )
   (   25 GND )
   (   26 GND )
-  (   27 N-000136 )
-  (   28 N-000306 )
-  (   29 N-000137 )
+  (   27 N-000137 )
+  (   28 N-000318 )
+  (   29 N-000138 )
   (   30 GND )
  )
  ( /4E36BA53 $noname  P101 CONN_30 {Lib=CONN_30}
   (    1 GND )
-  (    2 N-000305 )
-  (    3 N-000254 )
+  (    2 N-000317 )
+  (    3 N-000258 )
   (    4 GND )
   (    5 /L2_PAIR_Q1/TL_X0_XLA_4i )
   (    6 /L2_PAIR_Q1/TL_X0_XLA_3i )
@@ -753,11 +741,11 @@
   (    9 /L2_PAIR_Q1/TL_X0_XLA_0i )
   (   10 GND )
   (   11 GND )
-  (   12 N-000093 )
-  (   13 N-000297 )
-  (   14 N-000094 )
-  (   15 N-000095 )
-  (   16 N-000096 )
+  (   12 N-000092 )
+  (   13 N-000308 )
+  (   14 N-000093 )
+  (   15 N-000094 )
+  (   16 N-000095 )
   (   17 GND )
   (   18 GND )
   (   19 /TMS_L )
@@ -775,44 +763,44 @@
  )
  ( /4E35E59F $noname  R105 10k {Lib=R}
   (    1 +3.3V )
-  (    2 /L2_PAIR_Q3/+3V3_PG )
+  (    2 /L2_PAIR_Q4/+3V3_PG )
  )
  ( /4E35E540 $noname  U110 APX803-SR {Lib=APX803-SR}
-  (    1 /L2_PAIR_Q2/RST_N )
+  (    1 /L2_PAIR_Q1/RST_N )
   (    2 GND )
-  (    3 /L2_PAIR_Q3/+3V3_PG )
+  (    3 /L2_PAIR_Q4/+3V3_PG )
  )
  ( /4E35E53B $noname  U101 APX803-SR {Lib=APX803-SR}
-  (    1 /L2_PAIR_Q3/+3V3_PG )
+  (    1 /L2_PAIR_Q4/+3V3_PG )
   (    2 GND )
   (    3 +3.3V )
  )
  ( /4E35E47E $noname  U117 NCP1529 {Lib=NCP1529}
   (    1 +5V )
   (    2 GND )
-  (    3 N-000144 )
+  (    3 N-000145 )
   (    4 +5V )
-  (    5 N-000253 )
+  (    5 N-000257 )
  )
  ( /4E35E47C $noname  C105 10uF {Lib=C}
   (    1 +5V )
   (    2 GND )
  )
  ( /4E35E47A $noname  L102 2u2H {Lib=INDUCTOR}
-  (    1 N-000144 )
+  (    1 N-000145 )
   (    2 +3.3V )
  )
  ( /4E35E479 $noname  R110 453k {Lib=R}
   (    1 +3.3V )
-  (    2 N-000253 )
+  (    2 N-000257 )
  )
  ( /4E35E478 $noname  R111 100k {Lib=R}
-  (    1 N-000253 )
+  (    1 N-000257 )
   (    2 GND )
  )
  ( /4E35E477 $noname  C106 33pF {Lib=C}
   (    1 +3.3V )
-  (    2 N-000253 )
+  (    2 N-000257 )
  )
  ( /4E35E476 $noname  C107 10uF {Lib=C}
   (    1 +3.3V )
@@ -820,27 +808,27 @@
  )
  ( /4E354503 $noname  U109 LT3480 {Lib=LT3480}
   (    1 +5V )
-  (    2 N-000150 )
-  (    3 N-000251 )
+  (    2 N-000151 )
+  (    3 N-000255 )
   (    4 +12V )
   (    5 +12V )
   (    6 ? )
   (    7 ? )
-  (    8 N-000149 )
-  (    9 N-000153 )
-  (   10 N-000154 )
+  (    8 N-000150 )
+  (    9 N-000154 )
+  (   10 N-000155 )
   (  GND GND )
  )
  ( /4E3544FF $noname  R102 11.5k {Lib=R}
-  (    1 N-000154 )
+  (    1 N-000155 )
   (    2 GND )
  )
  ( /4E3544FE $noname  R101 16.2k {Lib=R}
-  (    1 N-000153 )
-  (    2 N-000148 )
+  (    1 N-000154 )
+  (    2 N-000149 )
  )
  ( /4E3544FD $noname  C102 470pF {Lib=C}
-  (    1 N-000148 )
+  (    1 N-000149 )
   (    2 GND )
  )
  ( /4E3544FC $noname  C101 4.7uF {Lib=C}
@@ -852,29 +840,29 @@
   (    2 GND )
  )
  ( /4E3544FA $noname  R108 100k {Lib=R}
-  (    1 N-000149 )
+  (    1 N-000150 )
   (    2 GND )
  )
  ( /4E3544F9 $noname  R109 536k {Lib=R}
   (    1 +5V )
-  (    2 N-000149 )
+  (    2 N-000150 )
  )
  ( /4E3544F8 $noname  L101 2.2uH {Lib=INDUCTOR}
-  (    1 N-000251 )
+  (    1 N-000255 )
   (    2 +5V )
  )
  ( /4E3544F7 $noname  D101 DIODE_SCH {Lib=DIODE_SCH}
   (    1 GND )
-  (    2 N-000251 )
+  (    2 N-000255 )
  )
  ( /4E3544F5 $noname  C103 0.22uF {Lib=C}
-  (    1 N-000150 )
-  (    2 N-000251 )
+  (    1 N-000151 )
+  (    2 N-000255 )
  )
  ( /4E36B777/4E5214B4 $noname  U502 NC7WZ17 {Lib=NC7WZ17}
-  (    1 /L2_PAIR_Q2/RST_N )
+  (    1 /L2_PAIR_Q1/RST_N )
   (    2 GND )
-  (    3 /L2_PAIR_Q4/MSEL_N )
+  (    3 /L2_PAIR_Q3/MSEL_N )
   (    4 /L2_PAIR_Q3/L2_1/MSEL )
   (    5 +3.3V )
   (    6 /L2_PAIR_Q3/L2_1/RST_N )
@@ -882,10 +870,10 @@
  ( /4E36B777/4E35D8BD $noname  U201 NC7WZ17 {Lib=NC7WZ17}
   (    1 /L2_PAIR_Q4/TCK )
   (    2 GND )
-  (    3 /L2_PAIR_Q4/TMS )
-  (    4 /L2_PAIR_Q3/L2_0/TMS )
+  (    3 /L2_PAIR_Q2/TMS )
+  (    4 /L2_PAIR_Q3/L2_1/TMS )
   (    5 +3.3V )
-  (    6 /L2_PAIR_Q3/L2_1/TCK )
+  (    6 /L2_PAIR_Q3/L2_0/TCK )
  )
  ( /4E36B777/4E35D6A2 $noname  C203 10uF {Lib=C}
   (    1 /L2_PAIR_Q3/+1V0 )
@@ -912,7 +900,7 @@
   (    2 GND )
  )
  ( /4E36B777/4E354532 $noname  U203 NCP1529 {Lib=NCP1529}
-  (    1 /L2_PAIR_Q3/+3V3_PG )
+  (    1 /L2_PAIR_Q4/+3V3_PG )
   (    2 GND )
   (    3 N-000405 )
   (    4 +5V )
@@ -1028,8 +1016,8 @@
   (   B7 /L2_PAIR_Q3/CLK_20M_C1 )
   (   B8 /L2_PAIR_Q3/L2_1/RST_N )
   (   B9 /L2_PAIR_Q3/TDO_0 )
-  (  B10 /L2_PAIR_Q3/L2_1/TCK )
-  (  B11 /L2_PAIR_Q3/L2_0/TMS )
+  (  B10 /L2_PAIR_Q3/L2_0/TCK )
+  (  B11 /L2_PAIR_Q3/L2_1/TMS )
   (  B12 /L2_PAIR_Q3/TDI_0 )
   (  B13 /L2_PAIR_Q3/L2_1/RST_N )
   (  B14 +3.3V )
@@ -1235,8 +1223,8 @@
   (   B7 /L2_PAIR_Q3/CLK_20M_C0 )
   (   B8 /L2_PAIR_Q3/L2_1/RST_N )
   (   B9 /L2_PAIR_Q3/TDI_0 )
-  (  B10 /L2_PAIR_Q3/L2_1/TCK )
-  (  B11 /L2_PAIR_Q3/L2_0/TMS )
+  (  B10 /L2_PAIR_Q3/L2_0/TCK )
+  (  B11 /L2_PAIR_Q3/L2_1/TMS )
   (  B12 /L2_PAIR_Q3/TDI_1 )
   (  B13 /L2_PAIR_Q3/L2_1/RST_N )
   (  B14 +3.3V )
@@ -1333,17 +1321,17 @@
   (    2 N-000769 )
  )
  ( /4E32CDCE/4E5214B4 $noname  U202 NC7WZ17 {Lib=NC7WZ17}
-  (    1 /L2_PAIR_Q2/RST_N )
+  (    1 /L2_PAIR_Q1/RST_N )
   (    2 GND )
-  (    3 /L2_PAIR_Q4/MSEL_N )
+  (    3 /L2_PAIR_Q3/MSEL_N )
   (    4 /L2_PAIR_Q1/L2_0/MSEL )
   (    5 +3.3V )
-  (    6 /L2_PAIR_Q1/L2_1/RST_N )
+  (    6 /L2_PAIR_Q1/L2_0/RST_N )
  )
  ( /4E32CDCE/4E35D8BD $noname  U1101 NC7WZ17 {Lib=NC7WZ17}
   (    1 /L2_PAIR_Q4/TCK )
   (    2 GND )
-  (    3 /L2_PAIR_Q4/TMS )
+  (    3 /L2_PAIR_Q2/TMS )
   (    4 /L2_PAIR_Q1/L2_1/TMS )
   (    5 +3.3V )
   (    6 /L2_PAIR_Q1/L2_1/TCK )
@@ -1373,7 +1361,7 @@
   (    2 GND )
  )
  ( /4E32CDCE/4E354532 $noname  U1103 NCP1529 {Lib=NCP1529}
-  (    1 /L2_PAIR_Q3/+3V3_PG )
+  (    1 /L2_PAIR_Q4/+3V3_PG )
   (    2 GND )
   (    3 N-000371 )
   (    4 +5V )
@@ -1485,14 +1473,14 @@
   (   B3 ? )
   (   B4 +3.3V )
   (   B5 /L2_PAIR_Q2/+1V0 )
-  (   B6 /L2_PAIR_Q4/CLK_20M_C0 )
-  (   B7 /L2_PAIR_Q4/CLK_20M_C0 )
-  (   B8 /L2_PAIR_Q1/L2_1/RST_N )
+  (   B6 /L2_PAIR_Q1/CLK_20M_C1 )
+  (   B7 /L2_PAIR_Q1/CLK_20M_C1 )
+  (   B8 /L2_PAIR_Q1/L2_0/RST_N )
   (   B9 /L2_PAIR_Q1/TDI_1 )
   (  B10 /L2_PAIR_Q1/L2_1/TCK )
   (  B11 /L2_PAIR_Q1/L2_1/TMS )
   (  B12 /L2_PAIR_Q1/TDI_0 )
-  (  B13 /L2_PAIR_Q1/L2_1/RST_N )
+  (  B13 /L2_PAIR_Q1/L2_0/RST_N )
   (  B14 +3.3V )
   (  B15 /L2_PAIR_Q2/+1V0 )
   (  B16 ? )
@@ -1694,12 +1682,12 @@
   (   B5 /L2_PAIR_Q1/+1V0 )
   (   B6 /L2_PAIR_Q1/CLK_20M_C0 )
   (   B7 /L2_PAIR_Q1/CLK_20M_C0 )
-  (   B8 /L2_PAIR_Q1/L2_1/RST_N )
+  (   B8 /L2_PAIR_Q1/L2_0/RST_N )
   (   B9 /L2_PAIR_Q1/TDO_1 )
   (  B10 /L2_PAIR_Q1/L2_1/TCK )
   (  B11 /L2_PAIR_Q1/L2_1/TMS )
   (  B12 /L2_PAIR_Q1/TDI_1 )
-  (  B13 /L2_PAIR_Q1/L2_1/RST_N )
+  (  B13 /L2_PAIR_Q1/L2_0/RST_N )
   (  B14 +3.3V )
   (  B15 /L2_PAIR_Q1/+1V0 )
   (  B16 ? )
@@ -1794,20 +1782,20 @@
   (    2 N-000448 )
  )
  ( /4E36B760/4E5214B4 $noname  U802 NC7WZ17 {Lib=NC7WZ17}
-  (    1 /L2_PAIR_Q2/RST_N )
+  (    1 /L2_PAIR_Q1/RST_N )
   (    2 GND )
-  (    3 /L2_PAIR_Q4/MSEL_N )
-  (    4 /L2_PAIR_Q4/L2_0/MSEL )
+  (    3 /L2_PAIR_Q3/MSEL_N )
+  (    4 /L2_PAIR_Q4/L2_1/MSEL )
   (    5 +3.3V )
-  (    6 /L2_PAIR_Q4/L2_0/RST_N )
+  (    6 /L2_PAIR_Q4/L2_1/RST_N )
  )
  ( /4E36B760/4E35D8BD $noname  U501 NC7WZ17 {Lib=NC7WZ17}
   (    1 /L2_PAIR_Q4/TCK )
   (    2 GND )
-  (    3 /L2_PAIR_Q4/TMS )
-  (    4 /L2_PAIR_Q4/L2_0/TMS )
+  (    3 /L2_PAIR_Q2/TMS )
+  (    4 /L2_PAIR_Q4/L2_1/TMS )
   (    5 +3.3V )
-  (    6 /L2_PAIR_Q4/L2_0/TCK )
+  (    6 /L2_PAIR_Q4/L2_1/TCK )
  )
  ( /4E36B760/4E35D6A2 $noname  C503 10uF {Lib=C}
   (    1 /L2_PAIR_Q4/+1V0 )
@@ -1834,7 +1822,7 @@
   (    2 GND )
  )
  ( /4E36B760/4E354532 $noname  U503 NCP1529 {Lib=NCP1529}
-  (    1 /L2_PAIR_Q3/+3V3_PG )
+  (    1 /L2_PAIR_Q4/+3V3_PG )
   (    2 GND )
   (    3 N-000389 )
   (    4 +5V )
@@ -1946,14 +1934,14 @@
   (   B3 ? )
   (   B4 +3.3V )
   (   B5 /L2_PAIR_Q3/+1V0 )
-  (   B6 /L2_PAIR_Q1/CLK_20M_C0 )
-  (   B7 /L2_PAIR_Q1/CLK_20M_C0 )
-  (   B8 /L2_PAIR_Q4/L2_0/RST_N )
+  (   B6 /L2_PAIR_Q4/CLK_20M_C1 )
+  (   B7 /L2_PAIR_Q4/CLK_20M_C1 )
+  (   B8 /L2_PAIR_Q4/L2_1/RST_N )
   (   B9 /L2_PAIR_Q4/TDI_1 )
-  (  B10 /L2_PAIR_Q4/L2_0/TCK )
-  (  B11 /L2_PAIR_Q4/L2_0/TMS )
+  (  B10 /L2_PAIR_Q4/L2_1/TCK )
+  (  B11 /L2_PAIR_Q4/L2_1/TMS )
   (  B12 /L2_PAIR_Q4/TDI_0 )
-  (  B13 /L2_PAIR_Q4/L2_0/RST_N )
+  (  B13 /L2_PAIR_Q4/L2_1/RST_N )
   (  B14 +3.3V )
   (  B15 /L2_PAIR_Q3/+1V0 )
   (  B16 ? )
@@ -1975,8 +1963,8 @@
   (  B32 +3.3V )
   (  B33 +3.3V )
   (  B34 +3.3V )
-  (  B35 /L2_PAIR_Q4/L2_0/MSEL )
-  (  B36 /L2_PAIR_Q4/L2_0/MSEL )
+  (  B35 /L2_PAIR_Q4/L2_1/MSEL )
+  (  B36 /L2_PAIR_Q4/L2_1/MSEL )
   (  B37 /L2_PAIR_Q4/DEBUG_N )
   (  B38 ? )
   (  B39 ? )
@@ -2155,12 +2143,12 @@
   (   B5 /L2_PAIR_Q4/+1V0 )
   (   B6 /L2_PAIR_Q4/CLK_20M_C0 )
   (   B7 /L2_PAIR_Q4/CLK_20M_C0 )
-  (   B8 /L2_PAIR_Q4/L2_0/RST_N )
+  (   B8 /L2_PAIR_Q4/L2_1/RST_N )
   (   B9 /L2_PAIR_Q4/TDO_1 )
-  (  B10 /L2_PAIR_Q4/L2_0/TCK )
-  (  B11 /L2_PAIR_Q4/L2_0/TMS )
+  (  B10 /L2_PAIR_Q4/L2_1/TCK )
+  (  B11 /L2_PAIR_Q4/L2_1/TMS )
   (  B12 /L2_PAIR_Q4/TDI_1 )
-  (  B13 /L2_PAIR_Q4/L2_0/RST_N )
+  (  B13 /L2_PAIR_Q4/L2_1/RST_N )
   (  B14 +3.3V )
   (  B15 /L2_PAIR_Q4/+1V0 )
   (  B16 ? )
@@ -2182,8 +2170,8 @@
   (  B32 +3.3V )
   (  B33 +3.3V )
   (  B34 +3.3V )
-  (  B35 /L2_PAIR_Q4/L2_0/MSEL )
-  (  B36 /L2_PAIR_Q4/L2_0/MSEL )
+  (  B35 /L2_PAIR_Q4/L2_1/MSEL )
+  (  B36 /L2_PAIR_Q4/L2_1/MSEL )
   (  B37 /L2_PAIR_Q4/DEBUG_N )
   (  B38 ? )
   (  B39 ? )
@@ -2255,18 +2243,18 @@
   (    2 N-000669 )
  )
  ( /4E36B740/4E5214B4 $noname  U1102 NC7WZ17 {Lib=NC7WZ17}
-  (    1 /L2_PAIR_Q2/RST_N )
+  (    1 /L2_PAIR_Q1/RST_N )
   (    2 GND )
-  (    3 /L2_PAIR_Q4/MSEL_N )
-  (    4 /L2_PAIR_Q2/L2_0/MSEL )
+  (    3 /L2_PAIR_Q3/MSEL_N )
+  (    4 /L2_PAIR_Q2/L2_1/MSEL )
   (    5 +3.3V )
   (    6 /L2_PAIR_Q2/L2_1/RST_N )
  )
  ( /4E36B740/4E35D8BD $noname  U801 NC7WZ17 {Lib=NC7WZ17}
   (    1 /L2_PAIR_Q4/TCK )
   (    2 GND )
-  (    3 /L2_PAIR_Q4/TMS )
-  (    4 /L2_PAIR_Q2/L2_1/TMS )
+  (    3 /L2_PAIR_Q2/TMS )
+  (    4 /L2_PAIR_Q2/L2_0/TMS )
   (    5 +3.3V )
   (    6 /L2_PAIR_Q2/L2_0/TCK )
  )
@@ -2295,7 +2283,7 @@
   (    2 GND )
  )
  ( /4E36B740/4E354532 $noname  U803 NCP1529 {Lib=NCP1529}
-  (    1 /L2_PAIR_Q3/+3V3_PG )
+  (    1 /L2_PAIR_Q4/+3V3_PG )
   (    2 GND )
   (    3 N-000387 )
   (    4 +5V )
@@ -2412,7 +2400,7 @@
   (   B8 /L2_PAIR_Q2/L2_1/RST_N )
   (   B9 /L2_PAIR_Q2/TDO_0 )
   (  B10 /L2_PAIR_Q2/L2_0/TCK )
-  (  B11 /L2_PAIR_Q2/L2_1/TMS )
+  (  B11 /L2_PAIR_Q2/L2_0/TMS )
   (  B12 /L2_PAIR_Q2/TDI_0 )
   (  B13 /L2_PAIR_Q2/L2_1/RST_N )
   (  B14 +3.3V )
@@ -2436,8 +2424,8 @@
   (  B32 +3.3V )
   (  B33 +3.3V )
   (  B34 +3.3V )
-  (  B35 /L2_PAIR_Q2/L2_0/MSEL )
-  (  B36 /L2_PAIR_Q2/L2_0/MSEL )
+  (  B35 /L2_PAIR_Q2/L2_1/MSEL )
+  (  B36 /L2_PAIR_Q2/L2_1/MSEL )
   (  B37 /L2_PAIR_Q2/DEBUG_N )
   (  B38 ? )
   (  B39 ? )
@@ -2619,7 +2607,7 @@
   (   B8 /L2_PAIR_Q2/L2_1/RST_N )
   (   B9 /L2_PAIR_Q2/TDI_0 )
   (  B10 /L2_PAIR_Q2/L2_0/TCK )
-  (  B11 /L2_PAIR_Q2/L2_1/TMS )
+  (  B11 /L2_PAIR_Q2/L2_0/TMS )
   (  B12 /L2_PAIR_Q2/TDI_1 )
   (  B13 /L2_PAIR_Q2/L2_1/RST_N )
   (  B14 +3.3V )
@@ -2643,8 +2631,8 @@
   (  B32 +3.3V )
   (  B33 +3.3V )
   (  B34 +3.3V )
-  (  B35 /L2_PAIR_Q2/L2_0/MSEL )
-  (  B36 /L2_PAIR_Q2/L2_0/MSEL )
+  (  B35 /L2_PAIR_Q2/L2_1/MSEL )
+  (  B36 /L2_PAIR_Q2/L2_1/MSEL )
   (  B37 /L2_PAIR_Q2/DEBUG_N )
   (  B38 ? )
   (  B39 ? )
@@ -2747,62 +2735,6 @@ $component R114
  SM1206
 $endlist
 $component R146
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R147
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R148
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R149
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R150
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R156
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R157
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R158
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R159
  R?
  SM0603
  SM0805
@@ -4214,51 +4146,242 @@ $endfootprintlist
 }
 { Pin List by Nets
 Net 1 "/L2_PAIR_Q3/TDI_1" "TDI_1"
- U105 4
  P108 2
+ U105 4
  U401 B12
 Net 2 "/L2_PAIR_Q3/TDO_0" "TDO_0"
- U301 B9
  U106 3
+ U301 B9
 Net 3 "GND" "GND"
- P103 2
- P109 17
- P109 27
- P109 18
- P109 28
- P103 1
- P110 29
- C1011 2
- C1010 2
- P110 16
- P110 15
- P110 23
+ P105 21
+ P105 30
+ P105 20
+ C1206 2
+ C1304 2
+ U1201 A37
+ U1201 A18
+ U601 A1
+ C1303 2
+ R504 2
+ D701 2
+ D702 2
+ C601 2
+ U202 2
+ C501 2
+ C1310 2
+ P107 1
+ P105 19
+ P105 28
+ P105 18
+ U503 2
+ P105 17
+ P105 26
+ P105 16
+ P105 15
+ P105 22
+ P105 9
+ P105 8
+ P105 2
+ P105 1
+ P102 11
+ P102 30
+ P102 10
+ P102 9
+ P102 8
+ P102 7
+ P102 6
+ P102 5
+ P102 4
+ P102 3
+ P102 2
+ P102 1
+ P104 29
+ U1001 A37
+ P101 10
+ D402 2
+ P101 4
+ U1201 A35
+ C702 2
+ R111 2
+ C703 2
+ C704 2
+ C705 2
+ C706 2
+ C105 2
+ U1001 A52
+ U117 2
+ P102 14
+ P102 13
+ U1201 A1
+ P102 12
+ U701 A18
+ P106 17
+ D401 2
+ P106 16
+ U701 A37
+ P106 15
+ P106 24
+ P106 14
+ P106 23
+ D404 2
+ U1301 A1
+ P104 16
+ P104 15
+ P104 14
+ P104 23
+ P104 13
+ P101 1
+ P102 19
+ U701 A1
+ P102 18
+ P102 17
+ P102 26
+ P102 16
+ P102 25
+ P102 15
+ U701 A35
+ U1001 A18
+ C602 2
+ P104 5
+ C603 2
+ P104 3
+ C604 2
+ P104 1
+ C605 2
+ U701 GND
+ D603 2
+ D602 2
+ D703 2
+ D704 2
+ C701 2
+ U1201 GND
+ D604 2
+ C102 2
+ C711 2
+ R102 2
+ U1301 A35
+ U101 2
+ C710 2
+ U110 2
+ C709 2
+ C1001 2
+ C708 2
+ U802 2
+ C707 2
+ D601 2
+ U109 GND
+ C1006 2
+ C107 2
+ D101 1
+ R108 2
+ C104 2
+ C101 2
+ C411 2
+ C410 2
+ C405 2
+ C406 2
+ U501 2
+ D1003 2
+ D1002 2
+ U401 A35
+ C409 2
+ C408 2
+ C407 2
+ C503 2
+ D1004 2
+ D903 2
+ D902 2
+ C1204 2
+ C1203 2
+ U601 A35
+ D904 2
+ C1003 2
+ C1004 2
+ C1202 2
+ D901 2
+ C1301 2
+ C1002 2
+ P106 13
+ P106 12
+ P106 11
+ P106 30
+ P106 10
+ P106 9
+ P106 8
  P106 7
  P106 6
  P106 4
  P106 2
  P106 1
  P103 29
+ U1201 A52
+ P107 16
+ C1311 2
+ P103 16
+ P103 15
+ P103 23
+ P103 22
+ P103 30
+ P103 9
+ P103 8
+ P110 16
+ P110 15
+ P110 23
+ P110 22
  P110 30
  P110 9
  P110 8
- C1005 2
- C1006 2
  P110 2
  P110 1
  P109 29
  P109 19
- P110 22
- U202 2
- C1009 2
+ P109 28
+ P109 18
+ P109 27
+ P109 17
+ P103 2
+ P103 1
+ P110 29
+ U401 A52
+ P108 27
+ U401 A1
+ P108 14
+ C401 2
+ P108 13
+ P108 21
+ P108 11
+ P109 26
+ P109 16
+ P109 25
+ P109 15
  P109 24
  P109 14
  P109 23
+ U401 GND
+ D1001 2
+ U401 A18
+ U401 A37
+ P109 1
+ P107 20
+ P107 8
+ P107 7
+ P108 30
+ P108 20
+ C1306 2
+ P108 9
+ C1305 2
+ P108 5
+ P108 3
+ P108 1
+ P107 29
+ P107 19
+ P107 18
+ P107 27
+ P107 17
  P109 13
  P109 22
  P109 12
  P109 21
- C902 2
  P109 30
  P109 20
  P109 6
@@ -4268,341 +4391,150 @@ Net 3 "GND" "GND"
  P107 24
  P107 14
  P107 23
- P107 22
- P107 21
- C907 2
- C401 2
- P109 1
- C906 2
- P108 27
- C905 2
  C402 2
+ P107 22
  C403 2
+ P107 21
  C404 2
- P108 14
- C904 2
- P108 13
- C903 2
- P108 21
- P108 11
- P109 26
- P109 16
- P109 25
- P109 15
- P103 16
- P103 15
- P103 23
- C910 2
- P103 22
- P103 30
- P103 9
- P103 8
- C911 2
- P106 13
- P106 12
- P106 11
- P106 30
- P106 10
- P106 9
- P106 8
  P107 30
- P107 20
- C908 2
- P107 8
- P107 7
- P108 30
- P108 20
- P108 9
- P108 5
- P108 3
- P108 1
- P107 29
- P107 19
- P107 18
- P107 27
- P107 17
- C909 2
- P107 16
- D604 2
- D603 2
- C1103 2
- R1104 2
- D602 2
- D601 2
- C1101 2
- U1103 2
- D701 2
- D702 2
- C1002 2
- C1003 2
- C1004 2
- D703 2
- D704 2
- U1101 2
- R102 2
- U101 2
- U110 2
- R111 2
- C105 2
- U117 2
- P102 14
- U109 GND
- C107 2
- D101 1
- R108 2
- C104 2
- C101 2
- C102 2
- P105 8
- U1001 A35
- P105 2
- P105 1
- P107 1
- P105 19
- P105 28
- P105 18
- U1001 GND
- P105 17
- P105 26
- P105 16
- P105 15
- U1001 A18
- C1008 2
- C1007 2
- P105 9
- U1001 A52
- U1001 A1
- C1001 2
- U1001 A37
- P105 22
- P105 21
- P105 30
- P105 20
- C711 2
- C710 2
- C709 2
- C708 2
- C707 2
- C702 2
- C703 2
- C704 2
- C705 2
- C607 2
- C706 2
- C608 2
- C609 2
- C610 2
- C611 2
- C701 2
- U901 A35
- U901 A1
- U901 GND
- U901 A18
- U901 A37
- C601 2
- U601 A1
- U601 A52
- U901 A52
- U601 A37
+ U1301 GND
+ U301 GND
+ U108 12
+ U1301 A18
  U601 A18
- U701 A1
- C606 2
- C605 2
- C604 2
- C603 2
- C602 2
- U118 2
- U701 A35
- U701 GND
- U701 A18
- U701 A37
- U701 A52
- U127 2
- D1003 2
- D1002 2
- D1001 2
- D1004 2
- C405 2
- C406 2
- C411 2
- C410 2
- C409 2
- C408 2
- C407 2
- D1201 2
- U401 GND
- U401 A18
- U401 A37
- U401 A52
- U401 A1
- U401 A35
- U601 A35
- D904 2
- D903 2
- D902 2
+ U1301 A37
+ R804 2
+ C1307 2
+ U301 A37
+ U301 A18
+ C1208 2
+ U301 A35
+ U801 2
+ C1007 2
+ U116 12
+ C1008 2
+ C1210 2
+ U601 A37
+ U1001 A35
+ C1209 2
+ C803 2
+ U104 2
+ C1205 2
  U601 GND
- D1204 2
+ U201 2
+ C1005 2
+ D1201 2
+ U301 A52
+ U114 2
  D1203 2
  D1202 2
- C901 2
- D901 2
- C304 2
- C303 2
- C302 2
- U1201 A18
- U1201 A37
- U802 2
- U1201 A52
- C1301 2
  C1201 2
- C301 2
- C1311 2
- U301 A1
- C1310 2
- D304 2
- U126 2
- U128 2
- C203 2
- U803 2
- U125 2
- U301 A35
- C801 2
- R204 2
- D302 2
- D303 2
- U1201 A1
- U1201 A35
- C108 2
- U1201 GND
- U108 12
- U801 2
- C803 2
- R804 2
- R107 2
- U1301 A1
- U1301 A35
- U301 A37
- R106 2
- R504 2
- U1301 A18
- U1301 GND
  U1301 A52
- C1306 2
- U119 2
+ C904 2
+ U123 2
+ U120 2
+ C903 2
  C308 2
- R104 2
- U301 A18
- C1302 2
- C1303 2
- U301 GND
- C1304 2
- C1305 2
- C503 2
- C1307 2
- U115 2
- U501 2
- C1309 2
- C1308 2
- U113 2
- U301 A52
- U503 2
- U114 2
- C501 2
- U1301 A37
- U112 2
- P106 15
- P106 24
- P106 14
- P106 23
- P104 16
- U111 3
- P104 5
- D1302 2
- P104 3
- D1303 2
- P104 1
- P106 17
- D1304 2
- P106 16
+ C902 2
+ C309 2
+ C909 2
+ C1011 2
+ U107 2
+ U803 2
+ C801 2
+ C906 2
+ C905 2
+ C1009 2
+ C306 2
+ R103 2
+ C305 2
+ U601 A52
+ C907 2
+ C908 2
+ C1010 2
+ U106 2
+ C310 2
+ U105 2
+ C311 2
  D301 2
  C1211 2
- C1210 2
- C1209 2
- C1208 2
- P104 15
- P104 14
- P104 23
- P104 13
- P104 22
- P104 12
- P104 11
- P104 30
- P104 10
- D403 2
- P104 9
- P102 7
- P102 6
- P102 5
- P102 4
- P102 3
- P102 2
- P102 1
- U502 2
- P104 29
- P101 10
- C305 2
- P102 13
- P102 12
- P102 11
- P102 30
- P102 10
- P102 9
- P102 8
- P102 18
- D1301 2
- P102 17
- P102 26
- P102 16
- P102 25
- P102 15
- R103 2
- C306 2
- P101 4
- P101 1
- P102 19
- D402 2
- C309 2
- U116 12
- C201 2
- D404 2
- U107 2
- D401 2
- U1102 2
- U120 2
- U123 2
- U201 2
- U131 2
+ U111 3
  U203 2
- U104 2
- C1207 2
- C311 2
- C1206 2
- U105 2
- C1205 2
- C1204 2
- C1203 2
- C1202 2
+ C201 2
+ U119 2
+ R104 2
  C307 2
- C310 2
+ R106 2
+ R107 2
+ U1102 2
+ D1301 2
+ C607 2
+ C901 2
+ C911 2
+ D302 2
+ U901 A52
+ U118 2
+ U1001 A1
+ C609 2
+ C608 2
+ U131 2
+ U127 2
+ C606 2
+ D1304 2
+ C1207 2
+ U126 2
+ U128 2
+ C910 2
+ D1302 2
+ U125 2
+ D1303 2
+ C1302 2
  P101 22
+ C1103 2
  P101 11
  P101 30
  P101 20
- U106 2
+ U901 A35
+ R1104 2
+ U502 2
+ U1101 2
  P101 28
  P101 18
  P101 17
  P101 26
+ D304 2
+ U901 A37
+ U1103 2
+ C611 2
+ D303 2
+ C610 2
+ U901 A1
+ C1101 2
+ U901 GND
+ U901 A18
+ P104 30
+ C301 2
+ U301 A1
+ C1308 2
+ D1204 2
+ U112 2
+ P104 10
+ P104 9
+ U115 2
+ U1001 GND
+ R204 2
+ P104 12
+ U113 2
+ P104 22
+ D403 2
+ C108 2
+ C303 2
+ C302 2
+ C304 2
+ U701 A52
+ P104 11
+ C203 2
+ C1309 2
 Net 4 "" ""
  U116 23
  U111 4
@@ -4610,130 +4542,63 @@ Net 5 "/TDO_L" "TDO_L"
  U107 6
  P101 29
 Net 6 "/TDO_R" "TDO_R"
- U105 6
  P108 4
+ U105 6
 Net 7 "/TDO_B" "TDO_B"
- P107 28
  U106 6
+ P107 28
 Net 8 "/L2_PAIR_Q1/TDI_0" "TDI_0"
- P101 27
- U1201 B12
  U107 4
+ U1201 B12
+ P101 27
 Net 9 "+5V" "+5V"
- U109 1
- L101 2
- R109 1
- C104 1
  U106 5
  U107 5
- C201 1
- U203 4
+ U1103 4
+ C501 1
  U104 5
  U105 5
- U1103 4
- U803 4
- C801 1
- C1101 1
  U503 4
- C501 1
- C105 1
  U117 1
+ U803 4
  U117 4
-Net 10 "/TCK_BUF_R" "TCK_BUF_R"
- P108 10
- R115 1
-Net 11 "+12V" "+12V"
+ C105 1
+ C1101 1
+ C801 1
+ U203 4
+ U109 1
+ C201 1
+ L101 2
+ C104 1
+ R109 1
+Net 10 "/TRST_N_BUF_R" "TRST_N_BUF_R"
+ U118 4
+ P108 7
+Net 12 "+12V" "+12V"
  U109 5
  U109 4
  C101 1
-Net 12 "/SWT_3" "SWT_3"
- R106 1
- U103 3
+Net 13 "/SWT_3" "SWT_3"
  U106 1
-Net 13 "/SWT_1" "SWT_1"
+ U103 3
+ R106 1
+Net 14 "/SWT_1" "SWT_1"
+ U104 1
  U103 1
  R103 1
- U104 1
-Net 14 "/TMS_BUF_R" "TMS_BUF_R"
- U120 4
+Net 16 "/TMS_BUF_R" "TMS_BUF_R"
  P108 12
-Net 15 "/TRST_N_BUF_R" "TRST_N_BUF_R"
  U120 6
- P108 7
-Net 16 "/DEBUG_N" "DEBUG_N"
- U119 3
- U108 22
- U116 17
- U125 1
- U125 3
- U126 1
- U131 1
- U131 3
-Net 17 "/DEBUG_N_BUF_R" "DEBUG_N_BUF_R"
- U119 4
- P108 6
+Net 17 "/RST_N_BUF_R" "RST_N_BUF_R"
+ P108 8
+ U119 6
 Net 18 "+3.3V" "+3.3V"
- U901 B1
- U901 B34
- U901 A2
- U502 5
- U901 B29
- U701 B42
- U701 B32
- U701 A51
- U701 B4
- U701 A2
- C707 1
- C708 1
- C709 1
- C710 1
- C711 1
- U701 B29
- U701 A17
- U701 A36
- U701 B14
- U901 B33
- U701 B1
- U127 5
- U118 5
- U701 B34
- U701 B33
- C1007 1
- U1001 B34
- U1001 B33
- U1102 5
- U1001 B29
- U1001 A17
- U1201 B42
- U1201 B14
- U1201 A36
- U1201 A17
- U802 5
- U1201 B29
- U1201 B33
- U1201 B34
- U1201 B1
- U1201 A2
+ C1309 1
+ C1308 1
+ C1307 1
  C1011 1
- U801 5
- C1008 1
- C1009 1
- C1010 1
- U202 5
- U1001 A36
- U1001 B14
- U1001 B42
- U1001 B32
- U1001 A51
- U1001 B4
- U1001 A2
- U1001 B1
- C1207 1
- C1208 1
- U1101 5
- C1211 1
- C1210 1
- C1209 1
+ C1311 1
+ C1310 1
  U901 A17
  U901 A36
  U901 B14
@@ -4741,111 +4606,166 @@ Net 18 "+3.3V" "+3.3V"
  U901 B32
  U901 A51
  U901 B4
- U201 5
- U1301 B29
- U1301 A17
- C1307 1
- U501 5
- C1308 1
- U1201 B32
- U1201 A51
- U1201 B4
  C911 1
  C910 1
- C1311 1
- C909 1
- C1310 1
- C908 1
- C1309 1
  C907 1
- U1301 B33
- U1301 B34
- U1301 A36
- U1301 B14
- U1301 B42
- U1301 B32
- U1301 A51
- U1301 B4
- U1301 A2
- U1301 B1
- U601 B4
- U601 A2
- U601 B1
- U108 24
- U301 B34
+ C908 1
+ C909 1
+ U1201 B14
+ U1201 A36
+ U1201 A17
+ U1201 B4
+ U1201 A51
+ U1201 B32
+ U1201 B42
+ U1201 B1
+ U701 B4
+ U701 A2
+ U701 B1
+ U701 B34
+ U701 B33
+ U701 B29
+ U701 A17
+ U701 A36
+ U701 B14
+ U1201 A2
+ U1102 5
+ U127 5
+ U118 5
+ U901 B33
+ U901 B34
+ U901 B1
+ U901 A2
+ U901 B29
+ U1201 B29
+ U1201 B33
+ C711 1
+ C710 1
+ C709 1
+ C708 1
+ C707 1
+ U1201 B34
+ U701 B42
+ U701 B32
+ U701 A51
  U101 3
- R105 1
- U125 5
- U301 B29
- U301 B33
- U601 B34
- U601 B33
- U128 5
- U126 5
- U601 B29
- U601 A17
- U601 A36
- U601 B14
- U601 B42
- U601 B32
- U601 A51
- C607 1
- U103 C
- C307 1
- C308 1
- U119 5
- U120 5
- C309 1
- U116 24
- C107 1
- C611 1
- C610 1
- C609 1
- C608 1
- C106 1
- R110 1
+ U301 B32
+ U301 B42
+ U301 B14
+ U301 A36
+ U301 A17
  L102 2
- U301 B1
- U301 A2
- U112 5
- U301 B4
- U115 5
- U301 A51
+ R110 1
+ C106 1
+ C107 1
+ R105 1
+ C1209 1
+ U301 B29
  U401 B1
  U401 A2
  U401 B4
- C108 1
- U123 1
- C407 1
- C408 1
- C409 1
- C410 1
- C411 1
- U131 5
  U401 A51
  U401 B32
  U401 B42
  U401 B14
  U401 A36
  U401 A17
- U401 B29
- U301 B32
+ U108 24
+ C1207 1
+ U125 5
+ U128 5
+ U131 5
+ U126 5
+ U123 1
+ C108 1
+ U301 B4
+ U301 A51
  U113 5
- U401 B33
- U301 B42
- U401 B34
  U114 5
- U301 B14
- U301 A36
- U301 A17
- R113 2
- U111 5
+ C1208 1
+ U201 5
+ U1101 5
+ U301 B1
+ U301 A2
+ U112 5
+ U115 5
+ U502 5
+ C308 1
+ U120 5
+ U1001 B29
+ U1301 B42
+ U1301 B32
+ U1301 A51
+ C1211 1
+ U301 B33
+ C307 1
+ U119 5
+ U601 B29
+ U301 B34
+ U601 A17
+ U601 A36
+ U601 B34
+ U1301 A17
+ C607 1
+ U1301 B29
+ C309 1
  U123 4
- C311 1
+ U1301 A36
+ U1301 B14
+ U1001 B34
+ U601 B33
+ U802 5
+ U1001 B33
+ U601 B4
+ U1301 A2
+ U601 A2
+ U1301 B1
+ U116 24
+ U601 B1
+ C1210 1
+ U1301 B33
+ U1301 B34
+ U1001 B32
+ U202 5
+ U1001 B42
+ U1001 A17
+ U1001 A36
+ U1001 B14
+ U601 B14
+ U1001 B1
+ U601 B42
+ C608 1
+ C609 1
+ C610 1
+ C611 1
+ U1301 B4
+ U1001 A2
+ U1001 B4
+ U1001 A51
+ U601 B32
+ U103 C
+ U601 A51
+ C408 1
+ C409 1
+ C410 1
+ C411 1
+ U111 5
+ R113 2
+ C1009 1
+ U401 B29
+ U401 B33
+ U401 B34
+ U501 5
+ C1010 1
+ C407 1
+ C1008 1
  C310 1
+ U801 5
+ C1007 1
+ C311 1
 Net 24 "/TRST_N_T" "TRST_N_T"
- P104 7
  U116 8
+ P104 7
 Net 25 "/RST_N_T" "RST_N_T"
  U116 9
  P104 6
@@ -4859,1124 +4779,1140 @@ Net 43 "/TMS_T" "TMS_T"
  U116 11
  P104 2
 Net 44 "/DEBUG_N_T" "DEBUG_N_T"
- P104 8
  U116 7
+ P104 8
 Net 45 "/DEBUG_N_L" "DEBUG_N_L"
  P101 25
  U108 2
 Net 46 "/TMS_L" "TMS_L"
- P101 19
  U108 6
+ P101 19
 Net 47 "/RST_N_L" "RST_N_L"
- P101 23
  U108 4
+ P101 23
 Net 48 "/TRST_N_L" "TRST_N_L"
- U108 3
  P101 24
+ U108 3
 Net 49 "/L2_PAIR_Q3/CLK_20M_C1" "CLK_20M_C1"
- R126 1
  U301 B6
  U301 B7
-Net 50 "" ""
- U114 4
- R127 2
+ R127 1
+Net 50 "/CLK_20M" "CLK_20M"
+ R121 1
+ U114 3
+ U113 3
+ U113 1
+ U112 1
+ U115 1
+ U112 3
+ U114 1
+ U115 3
 Net 51 "" ""
- R126 2
- U114 6
+ R127 2
+ U114 4
 Net 52 "" ""
+ U114 6
+ R126 2
+Net 53 "" ""
  U113 4
  R125 2
-Net 53 "" ""
+Net 54 "" ""
  U113 6
  R124 2
-Net 54 "" ""
- R129 2
- U115 4
 Net 55 "" ""
- R128 2
+ U115 4
+ R129 2
+Net 56 "" ""
  U115 6
-Net 56 "/L2_PAIR_Q1/TL_X0_XLA_3o" "TL_X0_XLA_3o"
+ R128 2
+Net 57 "/L2_PAIR_Q1/TL_X0_XLA_3o" "TL_X0_XLA_3o"
  U122 8
  U1301 A5
-Net 57 "/L2_PAIR_Q1/B_X1_XLB_3o" "B_X1_XLB_3o"
- U1201 A24
- U701 A48
 Net 58 "/L2_PAIR_Q1/B_X1_XLB_1o" "B_X1_XLB_1o"
- U701 A46
  U1201 A26
+ U701 A46
 Net 59 "/L2_PAIR_Q1/B_X1_XLB_0o" "B_X1_XLB_0o"
- U1201 A27
  U701 A45
+ U1201 A27
 Net 60 "/L2_PAIR_Q1/B_X1_XLB_0i" "B_X1_XLB_0i"
- U701 A44
  U1201 A29
+ U701 A44
 Net 61 "/L2_PAIR_Q1/B_X1_XLB_1i" "B_X1_XLB_1i"
  U701 A43
  U1201 A30
 Net 62 "/L2_PAIR_Q1/BL_X0_XLA_1i" "BL_X0_XLA_1i"
- U1201 A10
  P102 23
+ U1201 A10
 Net 63 "/L2_PAIR_Q1/BL_X0_XLA_0i" "BL_X0_XLA_0i"
- U1201 A9
  P102 24
+ U1201 A9
 Net 64 "/L2_PAIR_Q1/BL_X0_XLA_1o" "BL_X0_XLA_1o"
- U130 2
  U1201 A7
+ U130 2
 Net 65 "/L2_PAIR_Q1/T_X1_XLA_4i" "T_X1_XLA_4i"
  P104 17
  U1301 A49
-Net 66 "/L2_PAIR_Q4/CLK_20M_C0" "CLK_20M_C0"
- U701 B7
+Net 66 "/L2_PAIR_Q1/TDI_1" "TDI_1"
+ U1201 B9
+ U1301 B12
+Net 67 "/L2_PAIR_Q1/CLK_20M_C1" "CLK_20M_C1"
  U1201 B6
- U1201 B7
  R123 1
- U701 B6
-Net 67 "/L2_PAIR_Q1/CLK_20M_C0" "CLK_20M_C0"
- U1301 B6
+ U1201 B7
+Net 68 "/L2_PAIR_Q1/CLK_20M_C0" "CLK_20M_C0"
  U1301 B7
+ U1301 B6
  R122 1
- U601 B6
- U601 B7
-Net 68 "/L2_PAIR_Q1/+1V0" "+1V0"
- C1005 1
- U1301 B28
- U1001 B56
- C1006 1
- U1301 A68
- U1301 A19
- R1001 1
- C1004 1
- C1003 1
- C1002 1
- U1301 B5
- U1001 B43
- U1001 A19
- L1101 2
- R1103 1
- C1102 1
- C1103 1
- U1301 B43
- U1301 A53
- U1001 B5
- C1302 1
- C1303 1
- U1001 A53
- C1304 1
- C1305 1
- C1306 1
- U1001 B15
- U1001 A34
- R1301 1
- U1001 A68
- U1301 B56
- U1001 B28
- U1301 B15
- U1301 A34
 Net 69 "/L2_PAIR_Q2/+1V0" "+1V0"
- U1201 B15
- U1201 A34
- U1201 A19
- C1206 1
- U901 B56
- U1201 B43
- U1201 A53
- C906 1
- R901 1
- U1201 B5
- C1203 1
- C1202 1
- U901 B43
- U901 B5
- U901 A53
- U901 A34
- R1201 1
- U901 B15
- C1205 1
- C803 1
- U1201 B56
- C802 1
- C902 1
- U901 A19
- U901 A68
- U901 B28
- C1204 1
+ L801 2
  R803 1
+ C1205 1
+ C1206 1
  C905 1
  C904 1
  C903 1
- U1201 B28
+ C902 1
+ C802 1
+ C803 1
+ R901 1
+ U901 B5
+ U901 B43
+ U901 A53
+ U901 A34
+ U901 B15
+ U901 B56
+ U901 B28
+ U901 A68
+ U901 A19
+ C1202 1
+ C1203 1
+ C1204 1
+ R1201 1
+ C906 1
+ U1201 A19
  U1201 A68
- L801 2
+ U1201 B28
+ U1201 B56
+ U1201 B15
+ U1201 B5
+ U1201 B43
+ U1201 A53
+ U1201 A34
 Net 70 "" ""
  R116 2
  U128 6
-Net 71 "" ""
+Net 72 "" ""
  U112 4
  R123 2
-Net 72 "" ""
+Net 73 "" ""
  U112 6
  R122 2
-Net 73 "" ""
+Net 74 "" ""
  R121 2
  U123 3
-Net 76 "/L2_PAIR_Q3/DEBUG_N" "DEBUG_N"
+Net 75 "/L2_PAIR_Q3/DEBUG_N" "DEBUG_N"
+ U401 B37
  U301 B37
  U131 6
- U401 B37
-Net 77 "/L2_PAIR_Q1/DEBUG_N" "DEBUG_N"
- U125 4
+Net 76 "/L2_PAIR_Q1/DEBUG_N" "DEBUG_N"
  U1201 B37
  U1301 B37
+ U125 4
 Net 78 "/L2_PAIR_Q4/DEBUG_N" "DEBUG_N"
  U601 B37
- U701 B37
  U125 6
-Net 79 "/L2_PAIR_Q4/B_X1_XLB_4o" "B_X1_XLB_4o"
- R146 1
- U601 A23
-Net 80 "/L2_PAIR_Q4/B_X1_XLB_2o" "B_X1_XLB_2o"
+ U701 B37
+Net 79 "/L2_PAIR_Q4/B_X1_XLB_2o" "B_X1_XLB_2o"
+ U136 6
  U601 A25
- R148 1
-Net 81 "/L2_PAIR_Q4/B_X1_XLB_0o" "B_X1_XLB_0o"
- R150 1
+Net 80 "/L2_PAIR_Q4/B_X1_XLB_0o" "B_X1_XLB_0o"
+ R146 1
  U601 A27
-Net 82 "/L2_PAIR_Q4/B_X1_XLB_0i" "B_X1_XLB_0i"
- P105 7
+Net 81 "/L2_PAIR_Q4/B_X1_XLB_0i" "B_X1_XLB_0i"
  U601 A29
-Net 83 "/L2_PAIR_Q4/B_X1_XLB_2i" "B_X1_XLB_2i"
- P105 5
+ P105 7
+Net 82 "/L2_PAIR_Q4/B_X1_XLB_2i" "B_X1_XLB_2i"
  U601 A31
-Net 84 "/L2_PAIR_Q4/B_X1_XLB_1i" "B_X1_XLB_1i"
+ P105 5
+Net 83 "/L2_PAIR_Q4/B_X1_XLB_1i" "B_X1_XLB_1i"
  U601 A30
  P105 6
-Net 85 "/L2_PAIR_Q4/B_X1_XLB_3i" "B_X1_XLB_3i"
+Net 84 "/L2_PAIR_Q4/B_X1_XLB_3i" "B_X1_XLB_3i"
  P105 4
  U601 A32
-Net 86 "/L2_PAIR_Q4/B_X1_XLB_4i" "B_X1_XLB_4i"
+Net 85 "/L2_PAIR_Q4/B_X1_XLB_4i" "B_X1_XLB_4i"
  P105 3
  U601 A22
-Net 87 "/L2_PAIR_Q4/BL_X0_XLA_4i" "BL_X0_XLA_4i"
+Net 86 "/L2_PAIR_Q4/BL_X0_XLA_4i" "BL_X0_XLA_4i"
  P103 3
  U601 A13
-Net 88 "/L2_PAIR_Q4/BL_X0_XLA_3i" "BL_X0_XLA_3i"
- P103 4
+Net 87 "/L2_PAIR_Q4/BL_X0_XLA_3i" "BL_X0_XLA_3i"
  U601 A12
-Net 89 "/L2_PAIR_Q4/BL_X0_XLA_1i" "BL_X0_XLA_1i"
+ P103 4
+Net 88 "/L2_PAIR_Q4/BL_X0_XLA_1i" "BL_X0_XLA_1i"
  P103 6
  U601 A10
-Net 90 "/L2_PAIR_Q4/BL_X0_XLA_2i" "BL_X0_XLA_2i"
- U601 A11
+Net 89 "/L2_PAIR_Q4/BL_X0_XLA_2i" "BL_X0_XLA_2i"
  P103 5
-Net 91 "/L2_PAIR_Q4/BL_X0_XLA_0i" "BL_X0_XLA_0i"
+ U601 A11
+Net 90 "/L2_PAIR_Q4/BL_X0_XLA_0i" "BL_X0_XLA_0i"
  P103 7
  U601 A9
-Net 92 "/L2_PAIR_Q4/BL_X0_XLA_2o" "BL_X0_XLA_2o"
+Net 91 "/L2_PAIR_Q4/BL_X0_XLA_2o" "BL_X0_XLA_2o"
  U601 A6
  U129 3
-Net 93 "" ""
- U122 4
+Net 92 "" ""
  P101 12
-Net 94 "" ""
- U122 2
+ U122 4
+Net 93 "" ""
  P101 14
-Net 95 "" ""
- U122 1
+ U122 2
+Net 94 "" ""
  P101 15
-Net 96 "" ""
- R131 2
+ U122 1
+Net 95 "" ""
  P101 16
-Net 97 "/L2_PAIR_Q2/RST_N" "RST_N"
- U502 1
- R113 1
- U1102 1
- U202 1
+ R131 2
+Net 96 "/L2_PAIR_Q1/RST_N" "RST_N"
+ U119 1
+ U116 15
  U108 20
  U127 3
- U802 1
- U116 15
- U118 1
+ U1102 1
  U110 1
-Net 98 "/L2_PAIR_Q4/MSEL_N" "MSEL_N"
- U502 3
- U126 3
+ U202 1
+ U802 1
+ U502 1
+ R113 1
+Net 97 "/L2_PAIR_Q3/MSEL_N" "MSEL_N"
+ U118 3
  U116 16
- U802 3
- U1102 3
  U108 21
+ U127 1
+ U802 3
+ U502 3
+ U1102 3
  U202 3
- U120 1
-Net 99 "/L2_PAIR_Q4/TMS" "TMS"
- U501 3
- U116 13
- U201 3
- U108 18
- U120 3
- U128 3
+Net 98 "/L2_PAIR_Q2/TMS" "TMS"
  U1101 3
+ U120 1
  U801 3
-Net 100 "/L2_PAIR_Q4/TCK" "TCK"
+ U128 3
+ U201 3
+ U501 3
+ U108 18
+ U116 13
+Net 99 "/L2_PAIR_Q4/TCK" "TCK"
+ U501 1
+ U201 1
+ U801 1
+ U1101 1
+ U119 3
+ U108 19
  U116 14
  U128 1
- U201 1
- U108 19
- U501 1
- U801 1
- U119 1
- U1101 1
-Net 101 "/L2_PAIR_Q3/+3V3_PG" "+3V3_PG"
+Net 100 "/L2_PAIR_Q4/+3V3_PG" "+3V3_PG"
+ U101 1
  U110 3
  R105 2
- U101 1
- U203 1
- U803 1
  U503 1
+ U803 1
+ U203 1
  U1103 1
-Net 102 "/L2_PAIR_Q4/TDO_1" "TDO_1"
- U701 B9
+Net 101 "/L2_PAIR_Q4/TDO_1" "TDO_1"
  U107 3
-Net 103 "/L2_PAIR_Q4/TDI_0" "TDI_0"
- U106 4
- U601 B12
+ U701 B9
+Net 102 "/L2_PAIR_Q4/TDI_0" "TDI_0"
  P107 26
-Net 104 "/L2_PAIR_Q4/TDI_1" "TDI_1"
- U601 B9
+ U601 B12
+ U106 4
+Net 103 "/L2_PAIR_Q4/TDI_1" "TDI_1"
  U701 B12
-Net 105 "/L2_PAIR_Q3/BL_X0_XLA_4o" "BL_X0_XLA_4o"
+ U601 B9
+Net 104 "/L2_PAIR_Q4/CLK_20M_C1" "CLK_20M_C1"
+ U601 B6
+ U601 B7
+ R129 1
+Net 105 "/L2_PAIR_Q4/CLK_20M_C0" "CLK_20M_C0"
+ R128 1
+ U701 B7
+ U701 B6
+Net 106 "/L2_PAIR_Q3/BL_X0_XLA_4o" "BL_X0_XLA_4o"
  U601 A56
  U301 A16
-Net 106 "/L2_PAIR_Q3/BL_X0_XLA_3o" "BL_X0_XLA_3o"
- U301 A5
+Net 107 "/L2_PAIR_Q3/BL_X0_XLA_3o" "BL_X0_XLA_3o"
  U601 A66
-Net 107 "/L2_PAIR_Q3/BL_X0_XLA_1o" "BL_X0_XLA_1o"
- U601 A64
+ U301 A5
+Net 108 "/L2_PAIR_Q3/BL_X0_XLA_1o" "BL_X0_XLA_1o"
  U301 A7
-Net 108 "/L2_PAIR_Q3/BL_X0_XLA_2o" "BL_X0_XLA_2o"
- U601 A65
+ U601 A64
+Net 109 "/L2_PAIR_Q3/BL_X0_XLA_2o" "BL_X0_XLA_2o"
  U301 A6
-Net 109 "/L2_PAIR_Q3/BL_X0_XLA_0o" "BL_X0_XLA_0o"
- U601 A63
+ U601 A65
+Net 110 "/L2_PAIR_Q3/BL_X0_XLA_0o" "BL_X0_XLA_0o"
  U301 A8
-Net 110 "/L2_PAIR_Q3/BL_X0_XLA_0i" "BL_X0_XLA_0i"
+ U601 A63
+Net 111 "/L2_PAIR_Q3/BL_X0_XLA_0i" "BL_X0_XLA_0i"
  U601 A61
  U301 A9
-Net 111 "/L2_PAIR_Q4/BL_X0_XLA_4o" "BL_X0_XLA_4o"
+Net 112 "/L2_PAIR_Q4/BL_X0_XLA_4o" "BL_X0_XLA_4o"
  U601 A16
  R136 1
-Net 112 "/L2_PAIR_Q3/TL_X0_XLA_4i" "TL_X0_XLA_4i"
- U701 A57
+Net 113 "/L2_PAIR_Q3/TL_X0_XLA_4i" "TL_X0_XLA_4i"
  U401 A13
-Net 113 "/L2_PAIR_Q3/TL_X0_XLA_3i" "TL_X0_XLA_3i"
+ U701 A57
+Net 114 "/L2_PAIR_Q3/TL_X0_XLA_3i" "TL_X0_XLA_3i"
  U401 A12
  U701 A58
-Net 114 "/L2_PAIR_Q3/TL_X0_XLA_1i" "TL_X0_XLA_1i"
- U401 A10
+Net 115 "/L2_PAIR_Q3/TL_X0_XLA_1i" "TL_X0_XLA_1i"
  U701 A60
-Net 115 "/L2_PAIR_Q3/TL_X0_XLA_2i" "TL_X0_XLA_2i"
+ U401 A10
+Net 116 "/L2_PAIR_Q3/TL_X0_XLA_2i" "TL_X0_XLA_2i"
  U701 A59
  U401 A11
-Net 116 "/L2_PAIR_Q3/TL_X0_XLA_0i" "TL_X0_XLA_0i"
- U701 A61
+Net 117 "/L2_PAIR_Q3/TL_X0_XLA_0i" "TL_X0_XLA_0i"
  U401 A9
-Net 117 "/L2_PAIR_Q3/TL_X0_XLA_0o" "TL_X0_XLA_0o"
- U401 A8
+ U701 A61
+Net 118 "/L2_PAIR_Q3/TL_X0_XLA_0o" "TL_X0_XLA_0o"
  U701 A63
-Net 118 "/L2_PAIR_Q3/TL_X0_XLA_2o" "TL_X0_XLA_2o"
- U701 A65
+ U401 A8
+Net 119 "/L2_PAIR_Q3/TL_X0_XLA_2o" "TL_X0_XLA_2o"
  U401 A6
-Net 119 "/L2_PAIR_Q3/TL_X0_XLA_1o" "TL_X0_XLA_1o"
- U701 A64
+ U701 A65
+Net 120 "/L2_PAIR_Q3/TL_X0_XLA_1o" "TL_X0_XLA_1o"
  U401 A7
-Net 120 "/L2_PAIR_Q3/TL_X0_XLA_3o" "TL_X0_XLA_3o"
+ U701 A64
+Net 121 "/L2_PAIR_Q3/TL_X0_XLA_3o" "TL_X0_XLA_3o"
  U401 A5
  U701 A66
-Net 121 "/L2_PAIR_Q3/TL_X0_XLA_4o" "TL_X0_XLA_4o"
- U701 A56
+Net 122 "/L2_PAIR_Q3/TL_X0_XLA_4o" "TL_X0_XLA_4o"
  U401 A16
-Net 122 "/L2_PAIR_Q4/TL_X0_XLA_4o" "TL_X0_XLA_4o"
- R117 1
+ U701 A56
+Net 123 "/L2_PAIR_Q4/TL_X0_XLA_4o" "TL_X0_XLA_4o"
  U701 A16
-Net 123 "/L2_PAIR_Q4/TL_X0_XLA_3o" "TL_X0_XLA_3o"
+ R117 1
+Net 124 "/L2_PAIR_Q4/TL_X0_XLA_3o" "TL_X0_XLA_3o"
  U701 A5
  U124 4
-Net 124 "/L2_PAIR_Q4/TL_X0_XLA_1o" "TL_X0_XLA_1o"
+Net 125 "/L2_PAIR_Q4/TL_X0_XLA_1o" "TL_X0_XLA_1o"
  U124 2
  U701 A7
-Net 125 "/L2_PAIR_Q4/TL_X0_XLA_2o" "TL_X0_XLA_2o"
- U124 3
+Net 126 "/L2_PAIR_Q4/TL_X0_XLA_2o" "TL_X0_XLA_2o"
  U701 A6
-Net 126 "/L2_PAIR_Q4/TL_X0_XLA_0o" "TL_X0_XLA_0o"
+ U124 3
+Net 127 "/L2_PAIR_Q4/TL_X0_XLA_0o" "TL_X0_XLA_0o"
  U701 A8
  U124 1
-Net 127 "/L2_PAIR_Q4/TL_X0_XLA_4i" "TL_X0_XLA_4i"
- U701 A13
+Net 128 "/L2_PAIR_Q4/TL_X0_XLA_4i" "TL_X0_XLA_4i"
  P103 17
-Net 128 "/L2_PAIR_Q1/T_X1_XLA_1i" "T_X1_XLA_1i"
- U1301 A46
+ U701 A13
+Net 129 "/L2_PAIR_Q1/T_X1_XLA_1i" "T_X1_XLA_1i"
  P104 20
-Net 129 "" ""
- U102 3
- P104 25
+ U1301 A46
 Net 130 "" ""
+ P104 25
+ U102 3
+Net 131 "" ""
  P104 27
  U102 1
-Net 131 "/L2_PAIR_Q1/T_X1_XLA_3i" "T_X1_XLA_3i"
+Net 132 "/L2_PAIR_Q1/T_X1_XLA_3i" "T_X1_XLA_3i"
  P104 18
  U1301 A48
-Net 132 "" ""
- P104 28
- R151 1
 Net 133 "" ""
- P106 26
- U121 7
+ R151 1
+ P104 28
 Net 134 "" ""
+ U121 7
+ P106 26
+Net 135 "" ""
  U121 5
  P106 28
-Net 135 "/L2_PAIR_Q2/T_X1_XLA_3i" "T_X1_XLA_3i"
- U1001 A48
+Net 136 "/L2_PAIR_Q2/T_X1_XLA_3i" "T_X1_XLA_3i"
  P106 19
-Net 136 "" ""
- P102 27
- U130 8
+ U1001 A48
 Net 137 "" ""
+ U130 8
+ P102 27
+Net 138 "" ""
  P102 29
  U130 6
-Net 138 "/L2_PAIR_Q1/TL_X0_XLA_4i" "TL_X0_XLA_4i"
+Net 139 "/L2_PAIR_Q1/TL_X0_XLA_4i" "TL_X0_XLA_4i"
  P101 5
  U1301 A13
-Net 139 "/L2_PAIR_Q1/TL_X0_XLA_3i" "TL_X0_XLA_3i"
- P101 6
+Net 140 "/L2_PAIR_Q1/TL_X0_XLA_3i" "TL_X0_XLA_3i"
  U1301 A12
-Net 140 "/L2_PAIR_Q1/TL_X0_XLA_2i" "TL_X0_XLA_2i"
- U1301 A11
+ P101 6
+Net 141 "/L2_PAIR_Q1/TL_X0_XLA_2i" "TL_X0_XLA_2i"
  P101 7
-Net 141 "/L2_PAIR_Q1/TL_X0_XLA_1i" "TL_X0_XLA_1i"
- U1301 A10
+ U1301 A11
+Net 142 "/L2_PAIR_Q1/TL_X0_XLA_1i" "TL_X0_XLA_1i"
  P101 8
-Net 142 "/L2_PAIR_Q1/TL_X0_XLA_0i" "TL_X0_XLA_0i"
+ U1301 A10
+Net 143 "/L2_PAIR_Q1/TL_X0_XLA_0i" "TL_X0_XLA_0i"
  U1301 A9
  P101 9
-Net 143 "/L2_PAIR_Q1/BL_X0_XLA_3i" "BL_X0_XLA_3i"
- P102 21
+Net 144 "/L2_PAIR_Q1/BL_X0_XLA_3i" "BL_X0_XLA_3i"
  U1201 A12
-Net 144 "" ""
- L102 1
+ P102 21
+Net 145 "" ""
  U117 3
-Net 146 "/L2_PAIR_Q2/T_X1_XLA_1o" "T_X1_XLA_1o"
- U121 2
+ L102 1
+Net 147 "/L2_PAIR_Q2/T_X1_XLA_1o" "T_X1_XLA_1o"
  U1001 A43
-Net 147 "/L2_PAIR_Q2/T_X1_XLA_3o" "T_X1_XLA_3o"
+ U121 2
+Net 148 "/L2_PAIR_Q2/T_X1_XLA_3o" "T_X1_XLA_3o"
  U121 4
  U1001 A41
-Net 148 "" ""
+Net 149 "" ""
  C102 1
  R101 2
-Net 149 "" ""
+Net 150 "" ""
+ U109 8
  R108 1
  R109 2
- U109 8
-Net 150 "" ""
+Net 151 "" ""
  C103 1
  U109 2
-Net 153 "" ""
- U109 9
- R101 1
 Net 154 "" ""
+ R101 1
+ U109 9
+Net 155 "" ""
  U109 10
  R102 1
-Net 155 "/L2_PAIR_Q2/B_X1_XLB_0i" "B_X1_XLB_0i"
- U401 A44
- U901 A29
 Net 156 "/L2_PAIR_Q2/B_X1_XLB_2i" "B_X1_XLB_2i"
- U401 A42
  U901 A31
-Net 157 "/L2_PAIR_Q2/B_X1_XLB_3i" "B_X1_XLB_3i"
- U401 A41
+ U401 A42
+Net 157 "/L2_PAIR_Q2/B_X1_XLB_1i" "B_X1_XLB_1i"
+ U401 A43
+ U901 A30
+Net 158 "/L2_PAIR_Q2/B_X1_XLB_3i" "B_X1_XLB_3i"
  U901 A32
-Net 158 "/L2_PAIR_Q2/B_X1_XLB_4i" "B_X1_XLB_4i"
- U901 A22
+ U401 A41
+Net 159 "/L2_PAIR_Q2/B_X1_XLB_4i" "B_X1_XLB_4i"
  U401 A40
-Net 159 "/L2_PAIR_Q2/BL_X0_XLA_4i" "BL_X0_XLA_4i"
+ U901 A22
+Net 160 "/L2_PAIR_Q2/BL_X0_XLA_4i" "BL_X0_XLA_4i"
  U1201 A57
  U901 A13
-Net 160 "/L2_PAIR_Q2/BL_X0_XLA_3i" "BL_X0_XLA_3i"
+Net 161 "/L2_PAIR_Q2/BL_X0_XLA_3i" "BL_X0_XLA_3i"
  U1201 A58
  U901 A12
-Net 161 "/L2_PAIR_Q2/BL_X0_XLA_1i" "BL_X0_XLA_1i"
- U901 A10
+Net 162 "/L2_PAIR_Q2/BL_X0_XLA_1i" "BL_X0_XLA_1i"
  U1201 A60
-Net 162 "/L2_PAIR_Q2/BL_X0_XLA_2i" "BL_X0_XLA_2i"
- U1201 A59
+ U901 A10
+Net 163 "/L2_PAIR_Q2/BL_X0_XLA_2i" "BL_X0_XLA_2i"
  U901 A11
-Net 163 "/L2_PAIR_Q2/BL_X0_XLA_0i" "BL_X0_XLA_0i"
+ U1201 A59
+Net 164 "/L2_PAIR_Q2/BL_X0_XLA_0i" "BL_X0_XLA_0i"
  U1201 A61
  U901 A9
-Net 164 "/L2_PAIR_Q2/BL_X0_XLA_0o" "BL_X0_XLA_0o"
- U901 A8
+Net 165 "/L2_PAIR_Q2/BL_X0_XLA_0o" "BL_X0_XLA_0o"
  U1201 A63
-Net 165 "/L2_PAIR_Q2/BL_X0_XLA_2o" "BL_X0_XLA_2o"
- U1201 A65
+ U901 A8
+Net 166 "/L2_PAIR_Q2/BL_X0_XLA_2o" "BL_X0_XLA_2o"
  U901 A6
-Net 166 "/L2_PAIR_Q2/BL_X0_XLA_1o" "BL_X0_XLA_1o"
+ U1201 A65
+Net 167 "/L2_PAIR_Q2/BL_X0_XLA_1o" "BL_X0_XLA_1o"
  U1201 A64
  U901 A7
-Net 167 "/L2_PAIR_Q2/BL_X0_XLA_3o" "BL_X0_XLA_3o"
- U901 A5
+Net 168 "/L2_PAIR_Q2/BL_X0_XLA_3o" "BL_X0_XLA_3o"
  U1201 A66
-Net 168 "/L2_PAIR_Q2/BL_X0_XLA_4o" "BL_X0_XLA_4o"
+ U901 A5
+Net 169 "/L2_PAIR_Q2/BL_X0_XLA_4o" "BL_X0_XLA_4o"
  U1201 A56
  U901 A16
-Net 169 "/L2_PAIR_Q3/BL_X0_XLA_2i" "BL_X0_XLA_2i"
+Net 170 "/L2_PAIR_Q3/BL_X0_XLA_2i" "BL_X0_XLA_2i"
  U301 A11
  U601 A59
-Net 170 "/L2_PAIR_Q3/BL_X0_XLA_1i" "BL_X0_XLA_1i"
- U601 A60
+Net 171 "/L2_PAIR_Q3/BL_X0_XLA_1i" "BL_X0_XLA_1i"
  U301 A10
-Net 171 "/L2_PAIR_Q3/BL_X0_XLA_3i" "BL_X0_XLA_3i"
- U301 A12
+ U601 A60
+Net 172 "/L2_PAIR_Q3/BL_X0_XLA_3i" "BL_X0_XLA_3i"
  U601 A58
-Net 172 "/L2_PAIR_Q3/BL_X0_XLA_4i" "BL_X0_XLA_4i"
+ U301 A12
+Net 173 "/L2_PAIR_Q3/BL_X0_XLA_4i" "BL_X0_XLA_4i"
  U601 A57
  U301 A13
-Net 173 "/L2_PAIR_Q1/B_X1_XLB_4o" "B_X1_XLB_4o"
- U701 A49
+Net 174 "/L2_PAIR_Q1/B_X1_XLB_4o" "B_X1_XLB_4o"
  U1201 A23
-Net 174 "/L2_PAIR_Q1/B_X1_XLB_2o" "B_X1_XLB_2o"
+ U701 A49
+Net 175 "/L2_PAIR_Q1/B_X1_XLB_3o" "B_X1_XLB_3o"
+ U1201 A24
+ U701 A48
+Net 176 "/L2_PAIR_Q1/B_X1_XLB_2o" "B_X1_XLB_2o"
  U701 A47
  U1201 A25
-Net 175 "/L2_PAIR_Q1/B_X1_XLB_2i" "B_X1_XLB_2i"
- U701 A42
+Net 177 "/L2_PAIR_Q1/B_X1_XLB_2i" "B_X1_XLB_2i"
  U1201 A31
-Net 176 "/L2_PAIR_Q1/B_X1_XLB_3i" "B_X1_XLB_3i"
- U701 A41
+ U701 A42
+Net 178 "/L2_PAIR_Q1/B_X1_XLB_3i" "B_X1_XLB_3i"
  U1201 A32
-Net 177 "/L2_PAIR_Q1/B_X1_XLB_4i" "B_X1_XLB_4i"
+ U701 A41
+Net 179 "/L2_PAIR_Q1/B_X1_XLB_4i" "B_X1_XLB_4i"
  U1201 A22
  U701 A40
-Net 178 "/L2_PAIR_Q2/DEBUG_N" "DEBUG_N"
- U901 B37
+Net 180 "/L2_PAIR_Q2/DEBUG_N" "DEBUG_N"
  U1001 B37
+ U901 B37
  U131 4
-Net 179 "/L2_PAIR_Q2/B_X1_XLB_4o" "B_X1_XLB_4o"
- U901 A23
+Net 181 "/L2_PAIR_Q2/B_X1_XLB_4o" "B_X1_XLB_4o"
  U401 A49
-Net 180 "/L2_PAIR_Q2/B_X1_XLB_3o" "B_X1_XLB_3o"
- U401 A48
+ U901 A23
+Net 182 "/L2_PAIR_Q2/B_X1_XLB_3o" "B_X1_XLB_3o"
  U901 A24
-Net 181 "/L2_PAIR_Q2/B_X1_XLB_1o" "B_X1_XLB_1o"
- U901 A26
+ U401 A48
+Net 183 "/L2_PAIR_Q2/B_X1_XLB_1o" "B_X1_XLB_1o"
  U401 A46
-Net 182 "/L2_PAIR_Q2/B_X1_XLB_2o" "B_X1_XLB_2o"
+ U901 A26
+Net 184 "/L2_PAIR_Q2/B_X1_XLB_2o" "B_X1_XLB_2o"
  U401 A47
  U901 A25
-Net 183 "/L2_PAIR_Q2/B_X1_XLB_0o" "B_X1_XLB_0o"
+Net 185 "/L2_PAIR_Q2/B_X1_XLB_0o" "B_X1_XLB_0o"
  U401 A45
  U901 A27
-Net 184 "/L2_PAIR_Q2/TDI_0" "TDI_0"
- U1001 B9
+Net 186 "/L2_PAIR_Q2/TDI_0" "TDI_0"
  U901 B12
-Net 185 "/L2_PAIR_Q2/TDO_0" "TDO_0"
- U901 B9
+ U1001 B9
+Net 187 "/L2_PAIR_Q2/TDO_0" "TDO_0"
  U105 3
-Net 186 "/L2_PAIR_Q2/TDI_1" "TDI_1"
- U1001 B12
+ U901 B9
+Net 188 "/L2_PAIR_Q2/TDI_1" "TDI_1"
  P106 3
+ U1001 B12
  U104 4
-Net 187 "/L2_PAIR_Q2/CLK_20M_C1" "CLK_20M_C1"
+Net 189 "/L2_PAIR_Q2/CLK_20M_C1" "CLK_20M_C1"
  U901 B7
  U901 B6
  R125 1
-Net 188 "/L2_PAIR_Q2/CLK_20M_C0" "CLK_20M_C0"
- R124 1
- U1001 B7
+Net 190 "/L2_PAIR_Q2/CLK_20M_C0" "CLK_20M_C0"
  U1001 B6
-Net 189 "/L2_PAIR_Q2/BR_X0_XLB_1o" "BR_X0_XLB_1o"
- U133 1
+ U1001 B7
+ R124 1
+Net 191 "/L2_PAIR_Q1/+1V0" "+1V0"
+ U1301 B43
+ U1301 A53
+ U1301 A34
+ U1301 B15
+ U1301 B5
+ C1302 1
+ U1301 B56
+ C1005 1
+ C1006 1
+ U1301 A19
+ U1301 A68
+ U1301 B28
+ L1101 2
+ R1301 1
+ C1306 1
+ C1305 1
+ C1304 1
+ C1303 1
+ U1001 B56
+ U1001 B15
+ U1001 A34
+ U1001 A53
+ U1001 B43
+ U1001 B5
+ R1001 1
+ C1002 1
+ R1103 1
+ C1102 1
+ C1004 1
+ C1103 1
+ U1001 A19
+ C1003 1
+ U1001 A68
+ U1001 B28
+Net 192 "/L2_PAIR_Q2/BR_X0_XLB_1o" "BR_X0_XLB_1o"
  U901 A60
-Net 190 "/L2_PAIR_Q2/BR_X0_XLB_3o" "BR_X0_XLB_3o"
- U901 A58
+ U133 1
+Net 193 "/L2_PAIR_Q2/BR_X0_XLB_3o" "BR_X0_XLB_3o"
  U133 3
-Net 191 "/L2_PAIR_Q2/TR_X1_XLA_1i" "TR_X1_XLA_1i"
- P108 18
+ U901 A58
+Net 194 "/L2_PAIR_Q2/TR_X1_XLA_1i" "TR_X1_XLA_1i"
  U1001 A64
-Net 192 "/L2_PAIR_Q2/TR_X1_XLA_3i" "TR_X1_XLA_3i"
+ P108 18
+Net 195 "/L2_PAIR_Q2/TR_X1_XLA_3i" "TR_X1_XLA_3i"
  U1001 A66
  P108 16
-Net 193 "/L2_PAIR_Q2/TL_X0_XLA_4o" "TL_X0_XLA_4o"
- U1301 A56
+Net 196 "/L2_PAIR_Q2/TL_X0_XLA_4o" "TL_X0_XLA_4o"
  U1001 A16
-Net 194 "/L2_PAIR_Q2/TL_X0_XLA_3o" "TL_X0_XLA_3o"
+ U1301 A56
+Net 197 "/L2_PAIR_Q2/TL_X0_XLA_3o" "TL_X0_XLA_3o"
  U1301 A66
  U1001 A5
-Net 195 "/L2_PAIR_Q2/TL_X0_XLA_1o" "TL_X0_XLA_1o"
- U1301 A64
+Net 198 "/L2_PAIR_Q2/TL_X0_XLA_1o" "TL_X0_XLA_1o"
  U1001 A7
-Net 196 "/L2_PAIR_Q2/TL_X0_XLA_2o" "TL_X0_XLA_2o"
- U1301 A65
+ U1301 A64
+Net 199 "/L2_PAIR_Q2/TL_X0_XLA_2o" "TL_X0_XLA_2o"
  U1001 A6
-Net 197 "/L2_PAIR_Q2/TL_X0_XLA_0o" "TL_X0_XLA_0o"
+ U1301 A65
+Net 200 "/L2_PAIR_Q2/TL_X0_XLA_0o" "TL_X0_XLA_0o"
  U1301 A63
  U1001 A8
-Net 198 "/L2_PAIR_Q2/TL_X0_XLA_0i" "TL_X0_XLA_0i"
+Net 201 "/L2_PAIR_Q2/TL_X0_XLA_0i" "TL_X0_XLA_0i"
  U1001 A9
  U1301 A61
-Net 199 "/L2_PAIR_Q2/TL_X0_XLA_2i" "TL_X0_XLA_2i"
- U1301 A59
+Net 202 "/L2_PAIR_Q2/TL_X0_XLA_2i" "TL_X0_XLA_2i"
  U1001 A11
-Net 200 "/L2_PAIR_Q2/TL_X0_XLA_1i" "TL_X0_XLA_1i"
+ U1301 A59
+Net 203 "/L2_PAIR_Q2/TL_X0_XLA_1i" "TL_X0_XLA_1i"
  U1001 A10
  U1301 A60
-Net 201 "/L2_PAIR_Q2/TL_X0_XLA_3i" "TL_X0_XLA_3i"
+Net 204 "/L2_PAIR_Q2/TL_X0_XLA_3i" "TL_X0_XLA_3i"
  U1301 A58
  U1001 A12
-Net 202 "/L2_PAIR_Q2/TL_X0_XLA_4i" "TL_X0_XLA_4i"
- U1001 A13
+Net 205 "/L2_PAIR_Q2/TL_X0_XLA_4i" "TL_X0_XLA_4i"
  U1301 A57
-Net 203 "" ""
- R149 2
+ U1001 A13
+Net 206 "" ""
+ U136 4
  P105 11
-Net 204 "" ""
+Net 207 "" ""
  P105 13
- R147 2
-Net 205 "/DEBUG_N_BUF_B" "DEBUG_N_BUF_B"
- P105 23
- U126 6
-Net 206 "/TRST_N_BUF_B" "TRST_N_BUF_B"
- P105 24
+ U136 2
+Net 208 "/DEBUG_N_BUF_B" "DEBUG_N_BUF_B"
  U126 4
-Net 207 "/RST_N_BUF_B" "RST_N_BUF_B"
- P105 25
+ P105 23
+Net 209 "/TRST_N_BUF_B" "TRST_N_BUF_B"
+ P105 24
+ U127 6
+Net 210 "/RST_N_BUF_B" "RST_N_BUF_B"
  U127 4
-Net 208 "/TCK_BUF_B" "TCK_BUF_B"
- R116 1
+ P105 25
+Net 211 "/TCK_BUF_B" "TCK_BUF_B"
  P105 27
-Net 209 "/TMS_BUF_B" "TMS_BUF_B"
+ R116 1
+Net 212 "/TMS_BUF_B" "TMS_BUF_B"
  P105 29
  U128 4
-Net 210 "" ""
- P110 13
+Net 213 "" ""
  U135 6
-Net 211 "" ""
+ P110 13
+Net 214 "" ""
  R176 1
  P110 24
-Net 212 "" ""
+Net 215 "" ""
  P110 26
  U134 7
-Net 213 "/L2_PAIR_Q3/BR_X0_XLB_3i" "BR_X0_XLB_3i"
+Net 216 "/L2_PAIR_Q3/BR_X0_XLB_3i" "BR_X0_XLB_3i"
  U301 A66
  P110 18
-Net 214 "" ""
- U134 5
+Net 217 "" ""
  P110 28
-Net 215 "/L2_PAIR_Q3/BR_X0_XLB_1i" "BR_X0_XLB_1i"
+ U134 5
+Net 218 "/L2_PAIR_Q3/BR_X0_XLB_1i" "BR_X0_XLB_1i"
  U301 A64
  P110 20
-Net 216 "" ""
- P110 11
+Net 219 "" ""
  U135 8
-Net 217 "/L2_PAIR_Q4/TL_X0_XLA_2i" "TL_X0_XLA_2i"
+ P110 11
+Net 220 "/L2_PAIR_Q4/TL_X0_XLA_2i" "TL_X0_XLA_2i"
  U701 A11
  P103 19
-Net 218 "/L2_PAIR_Q2/T_X1_XLA_2i" "T_X1_XLA_2i"
+Net 221 "/L2_PAIR_Q2/T_X1_XLA_2i" "T_X1_XLA_2i"
  U1001 A47
  P106 20
-Net 219 "/L2_PAIR_Q2/T_X1_XLA_1i" "T_X1_XLA_1i"
- U1001 A46
+Net 222 "/L2_PAIR_Q2/T_X1_XLA_1i" "T_X1_XLA_1i"
  P106 21
-Net 220 "/L2_PAIR_Q2/T_X1_XLA_0i" "T_X1_XLA_0i"
+ U1001 A46
+Net 223 "/L2_PAIR_Q2/T_X1_XLA_0i" "T_X1_XLA_0i"
  P106 22
  U1001 A45
-Net 221 "" ""
- P103 10
+Net 224 "" ""
  U129 8
-Net 222 "" ""
- P103 12
+ P103 10
+Net 225 "" ""
  U129 6
-Net 223 "" ""
+ P103 12
+Net 226 "" ""
  R136 2
  P103 14
-Net 224 "" ""
- U124 7
+Net 227 "" ""
  P103 25
-Net 225 "" ""
+ U124 7
+Net 228 "" ""
  P103 27
  U124 5
-Net 226 "/L2_PAIR_Q3/B_X1_XLB_3i" "B_X1_XLB_3i"
+Net 229 "/L2_PAIR_Q3/B_X1_XLB_3i" "B_X1_XLB_3i"
  U301 A32
  P107 3
-Net 227 "/L2_PAIR_Q3/B_X1_XLB_1i" "B_X1_XLB_1i"
+Net 230 "/L2_PAIR_Q3/B_X1_XLB_1i" "B_X1_XLB_1i"
  P107 5
  U301 A30
-Net 228 "" ""
- R160 2
+Net 231 "" ""
  P107 9
-Net 229 "" ""
- R158 2
+ R160 2
+Net 232 "" ""
+ U137 3
  P107 11
-Net 230 "" ""
- R156 2
+Net 233 "" ""
  P107 13
-Net 231 "/L2_PAIR_Q2/BR_X0_XLB_0i" "BR_X0_XLB_0i"
+ U137 1
+Net 234 "/L2_PAIR_Q2/BR_X0_XLB_0i" "BR_X0_XLB_0i"
  U901 A63
  P109 4
-Net 232 "" ""
+Net 235 "" ""
  P109 7
  R166 1
-Net 233 "" ""
+Net 236 "" ""
  U133 7
  P109 9
-Net 234 "" ""
- P109 11
- U133 5
-Net 235 "" ""
- U132 8
- P108 23
-Net 236 "/L2_PAIR_Q2/TR_X1_XLA_4i" "TR_X1_XLA_4i"
- P108 15
- U1001 A56
 Net 237 "" ""
- U132 6
+ U133 5
+ P109 11
+Net 238 "" ""
+ P108 23
+ U132 8
+Net 239 "/L2_PAIR_Q2/TR_X1_XLA_4i" "TR_X1_XLA_4i"
+ U1001 A56
+ P108 15
+Net 240 "" ""
  P108 25
-Net 238 "/L2_PAIR_Q2/TR_X1_XLA_2i" "TR_X1_XLA_2i"
+ U132 6
+Net 241 "/L2_PAIR_Q2/TR_X1_XLA_2i" "TR_X1_XLA_2i"
  P108 17
  U1001 A65
-Net 239 "/L2_PAIR_Q2/BR_X0_XLB_4i" "BR_X0_XLB_4i"
+Net 242 "/L2_PAIR_Q2/BR_X0_XLB_4i" "BR_X0_XLB_4i"
  U901 A56
  P108 28
-Net 240 "/L2_PAIR_Q2/TR_X1_XLA_0i" "TR_X1_XLA_0i"
- P108 19
+Net 243 "/L2_PAIR_Q2/TR_X1_XLA_0i" "TR_X1_XLA_0i"
  U1001 A63
-Net 241 "/L2_PAIR_Q2/BR_X0_XLB_2i" "BR_X0_XLB_2i"
- U901 A65
+ P108 19
+Net 244 "/L2_PAIR_Q2/BR_X0_XLB_2i" "BR_X0_XLB_2i"
  P109 2
-Net 242 "/L2_PAIR_Q2/BR_X0_XLB_1i" "BR_X0_XLB_1i"
+ U901 A65
+Net 245 "/L2_PAIR_Q2/BR_X0_XLB_1i" "BR_X0_XLB_1i"
  P109 3
  U901 A64
-Net 243 "/L2_PAIR_Q3/TR_X1_XLA_3i" "TR_X1_XLA_3i"
- U401 A66
+Net 246 "/L2_PAIR_Q3/TR_X1_XLA_3i" "TR_X1_XLA_3i"
  P110 4
-Net 244 "/L2_PAIR_Q3/TR_X1_XLA_1i" "TR_X1_XLA_1i"
+ U401 A66
+Net 247 "/L2_PAIR_Q3/TR_X1_XLA_1i" "TR_X1_XLA_1i"
  U401 A64
  P110 6
-Net 245 "/L2_PAIR_Q3/BR_X0_XLB_0o" "BR_X0_XLB_0o"
- U301 A61
- R176 2
-Net 246 "/L2_PAIR_Q3/TR_X1_XLA_0o" "TR_X1_XLA_0o"
- R181 2
+Net 248 "/L2_PAIR_Q3/TR_X1_XLA_0o" "TR_X1_XLA_0o"
  U401 A61
-Net 247 "/L2_PAIR_Q4/TL_X0_XLA_1i" "TL_X0_XLA_1i"
- U701 A10
+ R181 2
+Net 249 "/L2_PAIR_Q3/BR_X0_XLB_0o" "BR_X0_XLB_0o"
+ R176 2
+ U301 A61
+Net 250 "/L2_PAIR_Q4/TL_X0_XLA_1i" "TL_X0_XLA_1i"
  P103 20
-Net 248 "/L2_PAIR_Q4/TL_X0_XLA_3i" "TL_X0_XLA_3i"
+ U701 A10
+Net 251 "/L2_PAIR_Q4/TL_X0_XLA_3i" "TL_X0_XLA_3i"
  P103 18
  U701 A12
-Net 249 "/L2_PAIR_Q3/TR_X1_XLA_2o" "TR_X1_XLA_2o"
+Net 252 "/L2_PAIR_Q1/T_X1_XLA_0o" "T_X1_XLA_0o"
+ U1301 A44
+ U102 5
+Net 253 "/L2_PAIR_Q3/TR_X1_XLA_2o" "TR_X1_XLA_2o"
  U401 A59
  U135 2
-Net 250 "/L2_PAIR_Q3/TR_X1_XLA_4o" "TR_X1_XLA_4o"
+Net 254 "/L2_PAIR_Q3/TR_X1_XLA_4o" "TR_X1_XLA_4o"
  U401 A57
  U135 4
-Net 251 "" ""
- U109 3
- C103 2
- D101 2
+Net 255 "" ""
  L101 1
-Net 252 "/L2_PAIR_Q2/B_X1_XLB_1i" "B_X1_XLB_1i"
- U401 A43
- U901 A30
-Net 253 "" ""
- C106 2
- R111 1
+ D101 2
+ C103 2
+ U109 3
+Net 256 "/L2_PAIR_Q2/B_X1_XLB_0i" "B_X1_XLB_0i"
+ U401 A44
+ U901 A29
+Net 257 "" ""
  R110 2
  U117 5
-Net 254 "" ""
+ R111 1
+ C106 2
+Net 258 "" ""
  P101 3
  R141 2
-Net 255 "/L2_PAIR_Q1/T_X1_XLA_2o" "T_X1_XLA_2o"
- U1301 A42
- U102 7
-Net 256 "/L2_PAIR_Q1/T_X1_XLA_3o" "T_X1_XLA_3o"
- U1301 A41
- U102 8
-Net 257 "/L2_PAIR_Q1/T_X1_XLA_1o" "T_X1_XLA_1o"
- U102 6
- U1301 A43
-Net 258 "/L2_PAIR_Q1/T_X1_XLA_0i" "T_X1_XLA_0i"
- U1301 A45
- P104 21
-Net 259 "/L2_PAIR_Q1/T_X1_XLA_2i" "T_X1_XLA_2i"
- P104 19
- U1301 A47
+Net 259 "/TCK_BUF_R" "TCK_BUF_R"
+ R115 1
+ P108 10
 Net 260 "/L2_PAIR_Q1/TL_X0_XLA_0o" "TL_X0_XLA_0o"
  U122 5
  U1301 A8
 Net 261 "/L2_PAIR_Q1/TL_X0_XLA_2o" "TL_X0_XLA_2o"
- U122 7
  U1301 A6
-Net 262 "/L2_PAIR_Q3/BR_X0_XLB_4o" "BR_X0_XLB_4o"
- U301 A57
- U134 4
-Net 263 "/L2_PAIR_Q3/BR_X0_XLB_2o" "BR_X0_XLB_2o"
- U301 A59
- U134 2
-Net 264 "/L2_PAIR_Q2/BR_X0_XLB_4o" "BR_X0_XLB_4o"
- U133 4
- U901 A57
-Net 265 "/L2_PAIR_Q2/BR_X0_XLB_2o" "BR_X0_XLB_2o"
- U133 2
- U901 A59
-Net 266 "/L2_PAIR_Q2/TR_X1_XLA_4o" "TR_X1_XLA_4o"
- U132 4
- U1001 A57
-Net 267 "/L2_PAIR_Q2/TR_X1_XLA_2o" "TR_X1_XLA_2o"
- U132 2
- U1001 A59
-Net 268 "/L2_PAIR_Q2/T_X1_XLA_4o" "T_X1_XLA_4o"
- U1001 A40
- R165 2
-Net 269 "/L2_PAIR_Q1/BL_X0_XLA_3o" "BL_X0_XLA_3o"
- U130 4
- U1201 A5
-Net 270 "/L2_PAIR_Q4/BL_X0_XLA_0o" "BL_X0_XLA_0o"
- U129 1
- U601 A8
-Net 271 "/L2_PAIR_Q2/T_X1_XLA_2o" "T_X1_XLA_2o"
+ U122 7
+Net 262 "/L2_PAIR_Q2/T_X1_XLA_2o" "T_X1_XLA_2o"
  U1001 A42
  U121 3
-Net 272 "/L2_PAIR_Q1/T_X1_XLA_4o" "T_X1_XLA_4o"
- U1301 A40
+Net 263 "/L2_PAIR_Q1/T_X1_XLA_4o" "T_X1_XLA_4o"
  R151 2
-Net 273 "/L2_PAIR_Q3/B_X1_XLB_4o" "B_X1_XLB_4o"
- R156 1
- U301 A23
-Net 274 "/L2_PAIR_Q3/B_X1_XLB_2o" "B_X1_XLB_2o"
- U301 A25
- R158 1
-Net 275 "/L2_PAIR_Q3/B_X1_XLB_0o" "B_X1_XLB_0o"
- R160 1
+ U1301 A40
+Net 264 "/L2_PAIR_Q1/T_X1_XLA_2o" "T_X1_XLA_2o"
+ U102 7
+ U1301 A42
+Net 265 "/L2_PAIR_Q1/T_X1_XLA_3o" "T_X1_XLA_3o"
+ U1301 A41
+ U102 8
+Net 266 "/L2_PAIR_Q3/B_X1_XLB_1o" "B_X1_XLB_1o"
+ U137 5
+ U301 A26
+Net 267 "/L2_PAIR_Q3/B_X1_XLB_3o" "B_X1_XLB_3o"
+ U301 A24
+ U137 7
+Net 268 "/L2_PAIR_Q3/BR_X0_XLB_4o" "BR_X0_XLB_4o"
+ U301 A57
+ U134 4
+Net 269 "/L2_PAIR_Q3/BR_X0_XLB_2o" "BR_X0_XLB_2o"
+ U134 2
+ U301 A59
+Net 270 "/L2_PAIR_Q2/BR_X0_XLB_4o" "BR_X0_XLB_4o"
+ U133 4
+ U901 A57
+Net 271 "/L2_PAIR_Q2/BR_X0_XLB_2o" "BR_X0_XLB_2o"
+ U133 2
+ U901 A59
+Net 272 "/L2_PAIR_Q2/TR_X1_XLA_4o" "TR_X1_XLA_4o"
+ U1001 A57
+ U132 4
+Net 273 "/L2_PAIR_Q2/TR_X1_XLA_2o" "TR_X1_XLA_2o"
+ U132 2
+ U1001 A59
+Net 274 "/L2_PAIR_Q2/T_X1_XLA_4o" "T_X1_XLA_4o"
+ R165 2
+ U1001 A40
+Net 275 "/L2_PAIR_Q1/BL_X0_XLA_3o" "BL_X0_XLA_3o"
+ U1201 A5
+ U130 4
+Net 276 "/L2_PAIR_Q4/BL_X0_XLA_0o" "BL_X0_XLA_0o"
+ U129 1
+ U601 A8
+Net 277 "/L2_PAIR_Q3/B_X1_XLB_0o" "B_X1_XLB_0o"
  U301 A27
-Net 276 "/L2_PAIR_Q2/BR_X0_XLB_3i" "BR_X0_XLB_3i"
- U901 A66
+ R160 1
+Net 278 "/L2_PAIR_Q1/T_X1_XLA_1o" "T_X1_XLA_1o"
+ U1301 A43
+ U102 6
+Net 279 "/L2_PAIR_Q1/T_X1_XLA_0i" "T_X1_XLA_0i"
+ U1301 A45
+ P104 21
+Net 280 "/L2_PAIR_Q1/T_X1_XLA_2i" "T_X1_XLA_2i"
+ U1301 A47
+ P104 19
+Net 281 "/L2_PAIR_Q2/BR_X0_XLB_3i" "BR_X0_XLB_3i"
  P108 29
-Net 277 "/SWT_4" "SWT_4"
- U103 4
- U108 23
- U111 2
- U107 1
+ U901 A66
+Net 282 "/SWT_4" "SWT_4"
  R107 1
-Net 278 "/SWT_2" "SWT_2"
+ U107 1
+ U108 23
+ U103 4
+ U111 2
+Net 283 "/SWT_2" "SWT_2"
  U105 1
  R104 1
  U103 2
-Net 279 "/L2_PAIR_Q1/BL_X0_XLA_4i" "BL_X0_XLA_4i"
- U1201 A13
+Net 284 "/L2_PAIR_Q1/BL_X0_XLA_4i" "BL_X0_XLA_4i"
  P102 20
-Net 280 "/L2_PAIR_Q1/BL_X0_XLA_2i" "BL_X0_XLA_2i"
+ U1201 A13
+Net 285 "/L2_PAIR_Q1/BL_X0_XLA_2i" "BL_X0_XLA_2i"
  P102 22
  U1201 A11
-Net 281 "/L2_PAIR_Q3/+1V0" "+1V0"
- C202 1
- C302 1
- C303 1
- C304 1
- C203 1
+Net 286 "/L2_PAIR_Q3/+1V0" "+1V0"
+ R301 1
+ U301 B28
+ U301 B43
+ U301 B56
+ U301 A53
+ U301 A34
+ U301 B15
+ R601 1
+ L201 2
  U301 A19
  U301 A68
- U301 B28
- U301 B56
- U301 B15
- U301 A34
- L201 2
- U301 A53
- U301 B43
- R203 1
+ U601 B5
  U301 B5
- R301 1
- C606 1
+ R203 1
+ U601 A34
+ C304 1
  C305 1
+ U601 A53
  C306 1
- U601 A68
+ C606 1
+ C605 1
+ C604 1
  U601 A19
+ C603 1
+ U601 A68
+ C602 1
  U601 B28
  U601 B56
  U601 B15
- U601 A34
- U601 A53
+ C302 1
+ C202 1
+ C203 1
  U601 B43
- U601 B5
- R601 1
- C602 1
- C603 1
- C604 1
- C605 1
-Net 282 "/L2_PAIR_Q4/+1V0" "+1V0"
+ C303 1
+Net 287 "/L2_PAIR_Q4/+1V0" "+1V0"
  R503 1
- R401 1
- C404 1
- L501 2
- U401 B5
- U401 A19
- U401 B43
- U401 A53
- C402 1
  C403 1
- C405 1
+ U401 B5
  U401 B28
- C406 1
- U401 A68
- C503 1
- C502 1
+ R401 1
+ U401 A19
+ L501 2
+ C402 1
+ U401 A53
  U401 A34
+ C502 1
+ C503 1
  U401 B15
  U401 B56
- C705 1
- C704 1
- C703 1
+ U401 B43
+ U401 A68
  C702 1
- R701 1
+ C703 1
+ C704 1
+ C705 1
+ C706 1
+ U701 B5
+ U701 A19
+ U701 A68
  U701 B28
  U701 B56
+ C405 1
+ R701 1
+ C406 1
+ C404 1
+ U701 B43
  U701 B15
  U701 A34
  U701 A53
- U701 B43
- U701 A68
- U701 A19
- U701 B5
- C706 1
-Net 283 "" ""
- P109 10
- U133 6
-Net 284 "" ""
- U133 8
- P109 8
-Net 285 "/L2_PAIR_Q2/TR_X1_XLA_1o" "TR_X1_XLA_1o"
- U132 1
- U1001 A60
-Net 286 "/L2_PAIR_Q2/TR_X1_XLA_3o" "TR_X1_XLA_3o"
- U132 3
- U1001 A58
-Net 287 "" ""
- P108 26
- U132 5
-Net 288 "" ""
- P108 24
- U132 7
-Net 289 "/L2_PAIR_Q1/BL_X0_XLA_0o" "BL_X0_XLA_0o"
- U130 1
- U1201 A8
-Net 290 "/L2_PAIR_Q1/BL_X0_XLA_2o" "BL_X0_XLA_2o"
- U130 3
- U1201 A6
-Net 291 "/L2_PAIR_Q3/BR_X0_XLB_1o" "BR_X0_XLB_1o"
- U301 A60
- U134 1
-Net 292 "/L2_PAIR_Q3/BR_X0_XLB_3o" "BR_X0_XLB_3o"
+Net 288 "/L2_PAIR_Q3/BR_X0_XLB_3o" "BR_X0_XLB_3o"
  U301 A58
  U134 3
-Net 293 "" ""
+Net 289 "" ""
  U134 6
  P110 27
-Net 294 "" ""
- P110 25
+Net 290 "" ""
  U134 8
-Net 295 "" ""
+ P110 25
+Net 291 "" ""
  U135 5
  P110 14
-Net 296 "" ""
- U135 7
+Net 292 "" ""
  P110 12
+ U135 7
+Net 293 "/L2_PAIR_Q3/B_X1_XLB_4o" "B_X1_XLB_4o"
+ U301 A23
+ U137 8
+Net 294 "/L2_PAIR_Q3/B_X1_XLB_2o" "B_X1_XLB_2o"
+ U137 6
+ U301 A25
+Net 295 "" ""
+ U137 2
+ P107 12
+Net 296 "" ""
+ P107 10
+ U137 4
 Net 297 "" ""
- P101 13
- U122 3
-Net 298 "/L2_PAIR_Q1/TL_X0_XLA_1o" "TL_X0_XLA_1o"
- U122 6
- U1301 A7
-Net 300 "" ""
- U121 6
- P106 27
-Net 301 "" ""
- P106 25
- U121 8
-Net 302 "" ""
- U102 2
- P104 26
-Net 303 "" ""
- P104 24
- U102 4
-Net 304 "/L2_PAIR_Q1/T_X1_XLA_0o" "T_X1_XLA_0o"
- U102 5
- U1301 A44
-Net 305 "" ""
- U130 5
- P101 2
-Net 306 "" ""
- U130 7
- P102 28
-Net 307 "/L2_PAIR_Q4/BL_X0_XLA_1o" "BL_X0_XLA_1o"
- U601 A7
+ P105 14
+ U136 1
+Net 298 "" ""
+ U136 3
+ P105 12
+Net 299 "/L2_PAIR_Q4/B_X1_XLB_1o" "B_X1_XLB_1o"
+ U136 5
+ U601 A26
+Net 300 "/L2_PAIR_Q4/B_X1_XLB_3o" "B_X1_XLB_3o"
+ U136 7
+ U601 A24
+Net 301 "/L2_PAIR_Q4/B_X1_XLB_4o" "B_X1_XLB_4o"
+ U601 A23
+ U136 8
+Net 302 "/L2_PAIR_Q4/BL_X0_XLA_1o" "BL_X0_XLA_1o"
  U129 2
-Net 308 "/L2_PAIR_Q4/BL_X0_XLA_3o" "BL_X0_XLA_3o"
+ U601 A7
+Net 303 "/L2_PAIR_Q4/BL_X0_XLA_3o" "BL_X0_XLA_3o"
  U601 A5
  U129 4
-Net 309 "" ""
- U129 5
+Net 304 "" ""
  P103 13
-Net 310 "" ""
- P103 11
+ U129 5
+Net 305 "" ""
  U129 7
-Net 311 "" ""
- P103 26
+ P103 11
+Net 306 "" ""
  U124 6
-Net 312 "" ""
- U124 8
+ P103 26
+Net 307 "" ""
  P103 24
-Net 313 "/L2_PAIR_Q3/B_X1_XLB_4i" "B_X1_XLB_4i"
- P107 2
- U301 A22
-Net 314 "/L2_PAIR_Q3/B_X1_XLB_2i" "B_X1_XLB_2i"
- U301 A31
- P107 4
-Net 315 "/L2_PAIR_Q3/B_X1_XLB_0i" "B_X1_XLB_0i"
- P107 6
- U301 A29
-Net 316 "/L2_PAIR_Q2/TR_X1_XLA_0o" "TR_X1_XLA_0o"
- R171 2
- U1001 A61
-Net 317 "/L2_PAIR_Q4/B_X1_XLB_3o" "B_X1_XLB_3o"
- R147 1
- U601 A24
+ U124 8
+Net 308 "" ""
+ P101 13
+ U122 3
+Net 309 "" ""
+ P109 10
+ U133 6
+Net 310 "" ""
+ P109 8
+ U133 8
+Net 311 "/L2_PAIR_Q2/TR_X1_XLA_1o" "TR_X1_XLA_1o"
+ U132 1
+ U1001 A60
+Net 312 "/L2_PAIR_Q2/TR_X1_XLA_3o" "TR_X1_XLA_3o"
+ U1001 A58
+ U132 3
+Net 313 "" ""
+ U132 5
+ P108 26
+Net 314 "" ""
+ P108 24
+ U132 7
+Net 315 "/L2_PAIR_Q1/BL_X0_XLA_0o" "BL_X0_XLA_0o"
+ U1201 A8
+ U130 1
+Net 316 "/L2_PAIR_Q1/BL_X0_XLA_2o" "BL_X0_XLA_2o"
+ U130 3
+ U1201 A6
+Net 317 "" ""
+ P101 2
+ U130 5
 Net 318 "" ""
- P105 12
- R148 2
-Net 319 "/L2_PAIR_Q4/B_X1_XLB_1o" "B_X1_XLB_1o"
- U601 A26
- R149 1
-Net 320 "" ""
- P105 10
- R150 2
-Net 321 "/L2_PAIR_Q3/B_X1_XLB_3o" "B_X1_XLB_3o"
- U301 A24
- R157 1
-Net 322 "" ""
- R157 2
- P107 12
-Net 323 "/L2_PAIR_Q3/B_X1_XLB_1o" "B_X1_XLB_1o"
- R159 1
- U301 A26
+ P102 28
+ U130 7
+Net 319 "/L2_PAIR_Q1/TL_X0_XLA_1o" "TL_X0_XLA_1o"
+ U122 6
+ U1301 A7
+Net 320 "/L2_PAIR_Q3/B_X1_XLB_4i" "B_X1_XLB_4i"
+ U301 A22
+ P107 2
+Net 321 "/L2_PAIR_Q3/B_X1_XLB_2i" "B_X1_XLB_2i"
+ P107 4
+ U301 A31
+Net 322 "/L2_PAIR_Q3/B_X1_XLB_0i" "B_X1_XLB_0i"
+ U301 A29
+ P107 6
+Net 323 "/L2_PAIR_Q2/TR_X1_XLA_0o" "TR_X1_XLA_0o"
+ U1001 A61
+ R171 2
 Net 324 "" ""
- P107 10
- R159 2
-Net 325 "" ""
  R115 2
- U119 6
-Net 326 "" ""
- R112 1
+ U119 4
+Net 325 "" ""
  U108 5
-Net 327 "/TCK_L" "TCK_L"
+ R112 1
+Net 326 "/TCK_L" "TCK_L"
  P101 21
  R112 2
-Net 328 "" ""
- U116 10
+Net 327 "" ""
  R114 1
-Net 329 "/TCK_T" "TCK_T"
- P104 4
+ U116 10
+Net 328 "/TCK_T" "TCK_T"
  R114 2
-Net 330 "" ""
- P105 14
+ P104 4
+Net 329 "" ""
+ P105 10
  R146 2
-Net 334 "/RST_N_BUF_R" "RST_N_BUF_R"
- P108 8
+Net 330 "/L2_PAIR_Q3/BR_X0_XLB_1o" "BR_X0_XLB_1o"
+ U301 A60
+ U134 1
+Net 331 "/DEBUG_N" "DEBUG_N"
+ U126 3
+ U116 17
+ U125 3
+ U125 1
+ U118 1
+ U131 1
+ U131 3
+ U108 22
+Net 332 "/DEBUG_N_BUF_R" "DEBUG_N_BUF_R"
+ P108 6
  U118 6
-Net 335 "" ""
+Net 333 "" ""
  R165 1
  P106 29
-Net 336 "" ""
+Net 334 "" ""
  P108 22
  R171 1
-Net 337 "/L2_PAIR_Q2/BR_X0_XLB_0o" "BR_X0_XLB_0o"
- U901 A61
+Net 335 "/L2_PAIR_Q2/BR_X0_XLB_0o" "BR_X0_XLB_0o"
  R166 2
-Net 338 "" ""
- R181 1
+ U901 A61
+Net 336 "" ""
  P110 10
-Net 339 "" ""
+ R181 1
+Net 337 "" ""
  R117 2
  P103 28
-Net 340 "/L2_PAIR_Q1/BL_X0_XLA_4o" "BL_X0_XLA_4o"
+Net 338 "/L2_PAIR_Q1/BL_X0_XLA_4o" "BL_X0_XLA_4o"
  R141 1
  U1201 A16
-Net 341 "/L2_PAIR_Q1/TL_X0_XLA_4o" "TL_X0_XLA_4o"
- R131 1
+Net 339 "/L2_PAIR_Q1/TL_X0_XLA_4o" "TL_X0_XLA_4o"
  U1301 A16
-Net 343 "/L2_PAIR_Q3/TR_X1_XLA_3o" "TR_X1_XLA_3o"
- U135 3
- U401 A58
-Net 344 "/L2_PAIR_Q3/TR_X1_XLA_1o" "TR_X1_XLA_1o"
- U401 A60
- U135 1
-Net 345 "/L2_PAIR_Q3/TR_X1_XLA_0i" "TR_X1_XLA_0i"
- U401 A63
- P110 7
-Net 346 "/L2_PAIR_Q3/TR_X1_XLA_2i" "TR_X1_XLA_2i"
- U401 A65
- P110 5
-Net 347 "/L2_PAIR_Q3/TR_X1_XLA_4i" "TR_X1_XLA_4i"
- U401 A56
- P110 3
+ R131 1
+Net 341 "" ""
+ P106 27
+ U121 6
+Net 342 "" ""
+ P106 25
+ U121 8
+Net 343 "" ""
+ P104 26
+ U102 2
+Net 344 "" ""
+ P104 24
+ U102 4
+Net 345 "/L2_PAIR_Q3/TDI_0" "TDI_0"
+ U301 B12
+ U401 B9
+Net 346 "/L2_PAIR_Q3/CLK_20M_C0" "CLK_20M_C0"
+ R126 1
+ U401 B6
+ U401 B7
+Net 347 "/L2_PAIR_Q3/BR_X0_XLB_4i" "BR_X0_XLB_4i"
+ P110 17
+ U301 A56
 Net 348 "/L2_PAIR_Q3/BR_X0_XLB_2i" "BR_X0_XLB_2i"
- P110 19
  U301 A65
+ P110 19
 Net 349 "/L2_PAIR_Q3/BR_X0_XLB_0i" "BR_X0_XLB_0i"
  U301 A63
  P110 21
-Net 350 "/L2_PAIR_Q3/TDI_0" "TDI_0"
- U301 B12
- U401 B9
-Net 351 "/L2_PAIR_Q3/CLK_20M_C0" "CLK_20M_C0"
- R127 1
- U401 B7
- U401 B6
-Net 352 "/L2_PAIR_Q3/BR_X0_XLB_4i" "BR_X0_XLB_4i"
- U301 A56
- P110 17
-Net 353 "/L2_PAIR_Q2/T_X1_XLA_4i" "T_X1_XLA_4i"
- U1001 A49
+Net 350 "/L2_PAIR_Q3/TR_X1_XLA_3o" "TR_X1_XLA_3o"
+ U401 A58
+ U135 3
+Net 351 "/L2_PAIR_Q3/TR_X1_XLA_1o" "TR_X1_XLA_1o"
+ U135 1
+ U401 A60
+Net 352 "/L2_PAIR_Q3/TR_X1_XLA_0i" "TR_X1_XLA_0i"
+ U401 A63
+ P110 7
+Net 353 "/L2_PAIR_Q3/TR_X1_XLA_2i" "TR_X1_XLA_2i"
+ U401 A65
+ P110 5
+Net 354 "/L2_PAIR_Q3/TR_X1_XLA_4i" "TR_X1_XLA_4i"
+ P110 3
+ U401 A56
+Net 355 "/L2_PAIR_Q2/T_X1_XLA_4i" "T_X1_XLA_4i"
  P106 18
-Net 354 "/L2_PAIR_Q4/TL_X0_XLA_0i" "TL_X0_XLA_0i"
+ U1001 A49
+Net 356 "/L2_PAIR_Q4/TL_X0_XLA_0i" "TL_X0_XLA_0i"
  U701 A9
  P103 21
-Net 355 "/L2_PAIR_Q1/TDI_1" "TDI_1"
- U1301 B12
- U1201 B9
-Net 356 "/CLK_20M" "CLK_20M"
- R121 1
- U112 1
- U113 1
- U115 1
- U115 3
- U114 3
- U112 3
- U114 1
- U113 3
 Net 357 "/L2_PAIR_Q1/L2_0/MSEL" "MSEL"
- U1301 B36
  U202 4
- U1201 B36
  U1201 B35
+ U1201 B36
  U1301 B35
-Net 358 "/L2_PAIR_Q1/L2_1/RST_N" "RST_N"
+ U1301 B36
+Net 358 "/L2_PAIR_Q1/L2_0/RST_N" "RST_N"
  U1301 B8
  U1301 B13
- U1201 B13
- U1201 B8
  U202 6
+ U1201 B8
+ U1201 B13
 Net 359 "/L2_PAIR_Q1/L2_1/TMS" "TMS"
  U1101 4
- U1201 B11
  U1301 B11
+ U1201 B11
 Net 360 "/L2_PAIR_Q1/L2_1/TCK" "TCK"
- U1101 6
  U1301 B10
+ U1101 6
  U1201 B10
 Net 361 "/L2_PAIR_Q1/L2_1/X1_XLA_4o" "X1_XLA_4o"
  U1201 A40
@@ -5988,8 +5924,8 @@ Net 363 "/L2_PAIR_Q1/L2_1/X1_XLA_2o" "X1_XLA_2o"
  U1201 A42
  U1301 A31
 Net 364 "/L2_PAIR_Q1/L2_1/X1_XLA_1o" "X1_XLA_1o"
- U1301 A30
  U1201 A43
+ U1301 A30
 Net 365 "/L2_PAIR_Q1/L2_1/X1_XLA_0o" "X1_XLA_0o"
  U1301 A29
  U1201 A44
@@ -5997,8 +5933,8 @@ Net 366 "/L2_PAIR_Q1/L2_1/X1_XLA_0i" "X1_XLA_0i"
  U1201 A45
  U1301 A27
 Net 367 "/L2_PAIR_Q1/L2_1/X1_XLA_1i" "X1_XLA_1i"
- U1201 A46
  U1301 A26
+ U1201 A46
 Net 368 "/L2_PAIR_Q1/L2_1/X1_XLA_2i" "X1_XLA_2i"
  U1201 A47
  U1301 A25
@@ -6006,88 +5942,88 @@ Net 369 "/L2_PAIR_Q1/L2_1/X1_XLA_3i" "X1_XLA_3i"
  U1201 A48
  U1301 A24
 Net 370 "/L2_PAIR_Q1/L2_1/X1_XLA_4i" "X1_XLA_4i"
- U1201 A49
  U1301 A23
+ U1201 A49
 Net 371 "" ""
- U1103 3
  L1101 1
+ U1103 3
 Net 372 "" ""
- C1102 2
- R1104 1
  R1103 2
+ R1104 1
+ C1102 2
  U1103 5
 Net 373 "/L2_PAIR_Q2/L2_1/X1_XLA_3i" "X1_XLA_3i"
- U1001 A24
  U901 A48
+ U1001 A24
 Net 374 "/L2_PAIR_Q2/L2_1/X1_XLA_1i" "X1_XLA_1i"
  U1001 A26
  U901 A46
 Net 375 "/L2_PAIR_Q2/L2_1/X1_XLA_0o" "X1_XLA_0o"
- U901 A44
  U1001 A29
+ U901 A44
 Net 376 "/L2_PAIR_Q2/L2_1/X1_XLA_2o" "X1_XLA_2o"
- U901 A42
  U1001 A31
+ U901 A42
 Net 377 "/L2_PAIR_Q2/L2_1/X1_XLA_4o" "X1_XLA_4o"
- U1001 A22
  U901 A40
+ U1001 A22
 Net 378 "" ""
- C802 2
  R804 1
- R803 2
  U803 5
+ R803 2
+ C802 2
 Net 379 "/L2_PAIR_Q2/L2_0/TCK" "TCK"
+ U901 B10
  U1001 B10
  U801 6
- U901 B10
-Net 380 "/L2_PAIR_Q2/L2_1/TMS" "TMS"
- U901 B11
- U801 4
+Net 380 "/L2_PAIR_Q2/L2_0/TMS" "TMS"
  U1001 B11
-Net 381 "/L2_PAIR_Q2/L2_0/MSEL" "MSEL"
- U901 B36
- U901 B35
- U1001 B36
+ U801 4
+ U901 B11
+Net 381 "/L2_PAIR_Q2/L2_1/MSEL" "MSEL"
  U1001 B35
  U1102 4
+ U901 B35
+ U901 B36
+ U1001 B36
 Net 382 "/L2_PAIR_Q2/L2_1/RST_N" "RST_N"
+ U901 B13
  U901 B8
  U1001 B13
- U1102 6
  U1001 B8
- U901 B13
+ U1102 6
 Net 383 "/L2_PAIR_Q2/L2_1/X1_XLA_2i" "X1_XLA_2i"
- U901 A47
  U1001 A25
+ U901 A47
 Net 384 "/L2_PAIR_Q2/L2_1/X1_XLA_0i" "X1_XLA_0i"
  U1001 A27
  U901 A45
 Net 385 "/L2_PAIR_Q2/L2_1/X1_XLA_1o" "X1_XLA_1o"
- U901 A43
  U1001 A30
+ U901 A43
 Net 386 "/L2_PAIR_Q2/L2_1/X1_XLA_3o" "X1_XLA_3o"
- U901 A41
  U1001 A32
+ U901 A41
 Net 387 "" ""
- U803 3
  L801 1
+ U803 3
 Net 388 "/L2_PAIR_Q2/L2_1/X1_XLA_4i" "X1_XLA_4i"
- U901 A49
  U1001 A23
+ U901 A49
 Net 389 "" ""
  U503 3
  L501 1
 Net 390 "" ""
- R503 2
- U503 5
  R504 1
  C502 2
+ U503 5
+ R503 2
 Net 391 "/L2_PAIR_Q4/L2_1/X1_XLA_4i" "X1_XLA_4i"
- U701 A23
  U601 A49
+ U701 A23
 Net 392 "/L2_PAIR_Q4/L2_1/X1_XLA_2i" "X1_XLA_2i"
- U701 A25
  U601 A47
+ U701 A25
 Net 393 "/L2_PAIR_Q4/L2_1/X1_XLA_0i" "X1_XLA_0i"
  U701 A27
  U601 A45
@@ -6097,58 +6033,58 @@ Net 394 "/L2_PAIR_Q4/L2_1/X1_XLA_1o" "X1_XLA_1o"
 Net 395 "/L2_PAIR_Q4/L2_1/X1_XLA_3o" "X1_XLA_3o"
  U701 A32
  U601 A41
-Net 396 "/L2_PAIR_Q4/L2_0/RST_N" "RST_N"
+Net 396 "/L2_PAIR_Q4/L2_1/RST_N" "RST_N"
  U601 B8
- U601 B13
  U701 B8
- U802 6
  U701 B13
-Net 397 "/L2_PAIR_Q4/L2_0/MSEL" "MSEL"
+ U802 6
+ U601 B13
+Net 397 "/L2_PAIR_Q4/L2_1/MSEL" "MSEL"
+ U802 4
+ U601 B36
+ U601 B35
  U701 B36
  U701 B35
- U601 B35
- U601 B36
- U802 4
-Net 398 "/L2_PAIR_Q4/L2_0/TCK" "TCK"
- U601 B10
- U501 6
+Net 398 "/L2_PAIR_Q4/L2_1/TCK" "TCK"
  U701 B10
-Net 399 "/L2_PAIR_Q4/L2_0/TMS" "TMS"
- U601 B11
- U701 B11
+ U501 6
+ U601 B10
+Net 399 "/L2_PAIR_Q4/L2_1/TMS" "TMS"
  U501 4
+ U701 B11
+ U601 B11
 Net 400 "/L2_PAIR_Q4/L2_1/X1_XLA_4o" "X1_XLA_4o"
  U601 A40
  U701 A22
 Net 401 "/L2_PAIR_Q4/L2_1/X1_XLA_2o" "X1_XLA_2o"
- U601 A42
  U701 A31
+ U601 A42
 Net 402 "/L2_PAIR_Q4/L2_1/X1_XLA_0o" "X1_XLA_0o"
  U601 A44
  U701 A29
 Net 403 "/L2_PAIR_Q4/L2_1/X1_XLA_1i" "X1_XLA_1i"
- U701 A26
  U601 A46
+ U701 A26
 Net 404 "/L2_PAIR_Q4/L2_1/X1_XLA_3i" "X1_XLA_3i"
  U601 A48
  U701 A24
 Net 405 "" ""
- U203 3
  L201 1
-Net 406 "/L2_PAIR_Q3/L2_1/TCK" "TCK"
+ U203 3
+Net 406 "/L2_PAIR_Q3/L2_0/TCK" "TCK"
+ U401 B10
  U301 B10
  U201 6
- U401 B10
-Net 407 "/L2_PAIR_Q3/L2_0/TMS" "TMS"
- U201 4
+Net 407 "/L2_PAIR_Q3/L2_1/TMS" "TMS"
  U301 B11
+ U201 4
  U401 B11
 Net 408 "/L2_PAIR_Q3/L2_1/X1_XLA_4o" "X1_XLA_4o"
  U401 A22
  U301 A40
 Net 409 "/L2_PAIR_Q3/L2_1/X1_XLA_3o" "X1_XLA_3o"
- U301 A41
  U401 A32
+ U301 A41
 Net 410 "/L2_PAIR_Q3/L2_1/X1_XLA_2o" "X1_XLA_2o"
  U301 A42
  U401 A31
@@ -6159,11 +6095,11 @@ Net 412 "/L2_PAIR_Q3/L2_1/X1_XLA_0o" "X1_XLA_0o"
  U301 A44
  U401 A29
 Net 413 "/L2_PAIR_Q3/L2_1/X1_XLA_0i" "X1_XLA_0i"
- U301 A45
  U401 A27
+ U301 A45
 Net 414 "/L2_PAIR_Q3/L2_1/X1_XLA_1i" "X1_XLA_1i"
- U301 A46
  U401 A26
+ U301 A46
 Net 415 "/L2_PAIR_Q3/L2_1/X1_XLA_2i" "X1_XLA_2i"
  U301 A47
  U401 A25
@@ -6171,31 +6107,31 @@ Net 416 "/L2_PAIR_Q3/L2_1/X1_XLA_3i" "X1_XLA_3i"
  U401 A24
  U301 A48
 Net 417 "/L2_PAIR_Q3/L2_1/X1_XLA_4i" "X1_XLA_4i"
- U301 A49
  U401 A23
+ U301 A49
 Net 418 "" ""
  C202 2
+ R203 2
  U203 5
  R204 1
- R203 2
 Net 419 "/L2_PAIR_Q3/L2_1/MSEL" "MSEL"
- U502 4
- U301 B35
- U301 B36
  U401 B35
  U401 B36
+ U502 4
+ U301 B36
+ U301 B35
 Net 420 "/L2_PAIR_Q3/L2_1/RST_N" "RST_N"
  U401 B8
- U401 B13
- U502 6
  U301 B13
+ U401 B13
  U301 B8
+ U502 6
 Net 421 "" ""
- D403 1
  R404 2
+ D403 1
 Net 422 "" ""
- D404 1
  R405 2
+ D404 1
 Net 423 "/L2_PAIR_Q1/L2_0/LED_0" "LED_0"
  U1301 B18
  R405 1
@@ -6203,28 +6139,28 @@ Net 424 "/L2_PAIR_Q1/L2_0/LED_1" "LED_1"
  R404 1
  U1301 B19
 Net 425 "/L2_PAIR_Q1/L2_0/LED_3" "LED_3"
- U1301 B21
  R402 1
+ U1301 B21
 Net 426 "/L2_PAIR_Q1/L2_0/LED_2" "LED_2"
  U1301 B20
  R403 1
 Net 427 "" ""
- D401 1
  R402 2
+ D401 1
 Net 428 "" ""
  R403 2
  D402 1
 Net 448 "" ""
+ U1301 A38
  R1301 2
  C1301 1
- U1301 A38
 Net 488 "" ""
- U1201 A38
- R1201 2
  C1201 1
+ R1201 2
+ U1201 A38
 Net 491 "/L2_PAIR_Q1/L2_1/LED_0" "LED_0"
- U1201 B18
  R305 1
+ U1201 B18
 Net 492 "" ""
  R305 2
  D304 1
@@ -6235,8 +6171,8 @@ Net 494 "" ""
  R303 2
  D302 1
 Net 495 "" ""
- D301 1
  R302 2
+ D301 1
 Net 496 "/L2_PAIR_Q1/L2_1/LED_2" "LED_2"
  U1201 B20
  R303 1
@@ -6247,58 +6183,58 @@ Net 498 "/L2_PAIR_Q1/L2_1/LED_3" "LED_3"
  U1201 B21
  R302 1
 Net 523 "" ""
- R1304 2
  D1303 1
+ R1304 2
 Net 524 "" ""
- D1301 1
  R1302 2
+ D1301 1
 Net 525 "/L2_PAIR_Q2/L2_0/LED_0" "LED_0"
- R1305 1
  U1001 B18
+ R1305 1
 Net 526 "" ""
- R1305 2
  D1304 1
+ R1305 2
 Net 544 "/L2_PAIR_Q2/L2_0/LED_2" "LED_2"
- U1001 B20
  R1303 1
+ U1001 B20
 Net 545 "" ""
  R1303 2
  D1302 1
 Net 546 "/L2_PAIR_Q2/L2_0/LED_3" "LED_3"
- U1001 B21
  R1302 1
+ U1001 B21
 Net 547 "/L2_PAIR_Q2/L2_0/LED_1" "LED_1"
  R1304 1
  U1001 B19
 Net 550 "" ""
+ R1001 2
  C1001 1
  U1001 A38
- R1001 2
 Net 596 "/L2_PAIR_Q2/L2_1/LED_0" "LED_0"
  U901 B18
  R1205 1
 Net 597 "/L2_PAIR_Q2/L2_1/LED_1" "LED_1"
- R1204 1
  U901 B19
+ R1204 1
 Net 598 "/L2_PAIR_Q2/L2_1/LED_3" "LED_3"
- U901 B21
  R1202 1
+ U901 B21
 Net 599 "/L2_PAIR_Q2/L2_1/LED_2" "LED_2"
  R1203 1
  U901 B20
 Net 600 "" ""
- R1202 2
  D1201 1
+ R1202 2
 Net 619 "" ""
- D1202 1
  R1203 2
+ D1202 1
 Net 620 "" ""
- R1205 2
  D1204 1
+ R1205 2
 Net 621 "" ""
- U901 A38
- R901 2
  C901 1
+ R901 2
+ U901 A38
 Net 622 "" ""
  R1204 2
  D1203 1
@@ -6306,11 +6242,11 @@ Net 663 "" ""
  R1002 2
  D1001 1
 Net 664 "/L2_PAIR_Q4/L2_0/LED_3" "LED_3"
- R1002 1
  U701 B21
+ R1002 1
 Net 669 "" ""
- U701 A38
  R701 2
+ U701 A38
  C701 1
 Net 670 "/L2_PAIR_Q4/L2_0/LED_2" "LED_2"
  U701 B20
@@ -6319,61 +6255,61 @@ Net 671 "" ""
  D1002 1
  R1003 2
 Net 672 "/L2_PAIR_Q4/L2_0/LED_1" "LED_1"
- R1004 1
  U701 B19
+ R1004 1
 Net 673 "" ""
- D1004 1
  R1005 2
+ D1004 1
 Net 674 "/L2_PAIR_Q4/L2_0/LED_0" "LED_0"
  R1005 1
  U701 B18
 Net 675 "" ""
- D1003 1
  R1004 2
+ D1003 1
 Net 676 "" ""
  C601 1
  R601 2
  U601 A38
 Net 709 "" ""
- R905 2
  D904 1
+ R905 2
 Net 710 "/L2_PAIR_Q4/L2_1/LED_1" "LED_1"
  U601 B19
  R904 1
 Net 711 "" ""
- D902 1
  R903 2
+ D902 1
 Net 712 "/L2_PAIR_Q4/L2_1/LED_3" "LED_3"
- U601 B21
  R902 1
+ U601 B21
 Net 723 "" ""
- R904 2
  D903 1
+ R904 2
 Net 724 "" ""
- R902 2
  D901 1
+ R902 2
 Net 725 "/L2_PAIR_Q4/L2_1/LED_2" "LED_2"
- U601 B20
  R903 1
+ U601 B20
 Net 726 "/L2_PAIR_Q4/L2_1/LED_0" "LED_0"
- R905 1
  U601 B18
+ R905 1
 Net 769 "" ""
+ U401 A38
  C401 1
  R401 2
- U401 A38
 Net 770 "" ""
- D702 1
  R703 2
+ D702 1
 Net 771 "" ""
- D704 1
  R705 2
+ D704 1
 Net 772 "/L2_PAIR_Q3/L2_0/LED_0" "LED_0"
  R705 1
  U401 B18
 Net 773 "/L2_PAIR_Q3/L2_0/LED_1" "LED_1"
- U401 B19
  R704 1
+ U401 B19
 Net 774 "/L2_PAIR_Q3/L2_0/LED_3" "LED_3"
  U401 B21
  R702 1
@@ -6384,17 +6320,17 @@ Net 776 "" ""
  R702 2
  D701 1
 Net 777 "" ""
- R704 2
  D703 1
+ R704 2
 Net 778 "" ""
  R604 2
  D603 1
 Net 779 "" ""
- R602 2
  D601 1
+ R602 2
 Net 780 "/L2_PAIR_Q3/L2_1/LED_0" "LED_0"
- U301 B18
  R605 1
+ U301 B18
 Net 781 "" ""
  R605 2
  D604 1
@@ -6402,17 +6338,17 @@ Net 799 "/L2_PAIR_Q3/L2_1/LED_2" "LED_2"
  R603 1
  U301 B20
 Net 800 "" ""
- R603 2
  D602 1
+ R603 2
 Net 801 "/L2_PAIR_Q3/L2_1/LED_3" "LED_3"
- R602 1
  U301 B21
+ R602 1
 Net 802 "/L2_PAIR_Q3/L2_1/LED_1" "LED_1"
- R604 1
  U301 B19
+ R604 1
 Net 805 "" ""
+ C301 1
  U301 A38
  R301 2
- C301 1
 }
 #End

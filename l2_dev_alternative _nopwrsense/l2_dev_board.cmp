@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 06/09/2011 18:12:57
+Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 07/09/2011 09:27:30
 
 BeginCmp
 TimeStamp = /4E3544FC;
@@ -1310,64 +1310,8 @@ IdModule  = SM0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /4E60B469;
-Reference = R147;
-ValeurCmp = 33R;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /4E60B468;
-Reference = R148;
-ValeurCmp = 33R;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /4E60B467;
-Reference = R149;
-ValeurCmp = 33R;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /4E60B466;
-Reference = R150;
-ValeurCmp = 33R;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
 TimeStamp = /4E60B448;
 Reference = R151;
-ValeurCmp = 33R;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /4E60B463;
-Reference = R156;
-ValeurCmp = 33R;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /4E60B462;
-Reference = R157;
-ValeurCmp = 33R;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /4E60B461;
-Reference = R158;
-ValeurCmp = 33R;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /4E60B460;
-Reference = R159;
 ValeurCmp = 33R;
 IdModule  = SM0603;
 EndCmp
@@ -1991,6 +1935,20 @@ EndCmp
 BeginCmp
 TimeStamp = /4E665428;
 Reference = U135;
+ValeurCmp = YC124;
+IdModule  = YC124-JR;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E672949;
+Reference = U136;
+ValeurCmp = YC124;
+IdModule  = YC124-JR;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E672AD0;
+Reference = U137;
 ValeurCmp = YC124;
 IdModule  = YC124-JR;
 EndCmp

@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 06/09/2011 20:02:52
+EESchema Schematic File Version 2  date 07/09/2011 22:41:45
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -38,7 +38,7 @@ $Descr A2 23400 16535
 encoding utf-8
 Sheet 1 13
 Title ""
-Date "6 sep 2011"
+Date "7 sep 2011"
 Rev ""
 Comp ""
 Comment1 ""
@@ -46,6 +46,20 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Label 7970 4840 0    39   ~ 0
+TRST_N_BUF_B
+Wire Wire Line
+	7970 2120 7860 2120
+Wire Wire Line
+	7980 1420 7860 1420
+Wire Wire Line
+	18580 13630 18580 13150
+Wire Wire Line
+	18380 13630 18380 13250
+Wire Wire Line
+	14070 14030 14070 13750
+Wire Wire Line
+	13870 13970 13870 13870
 Wire Wire Line
 	21360 12750 20160 12750
 Wire Wire Line
@@ -105,11 +119,9 @@ Wire Wire Line
 Wire Wire Line
 	21160 5410 21160 5530
 Wire Wire Line
-	11390 13980 13670 13980
+	13870 13870 11490 13870
 Wire Wire Line
-	11490 13870 13870 13870
-Wire Wire Line
-	11610 13750 14070 13750
+	14070 13750 11610 13750
 Wire Wire Line
 	11730 13630 14470 13630
 Wire Wire Line
@@ -172,8 +184,6 @@ Wire Wire Line
 	11490 11890 11490 13870
 Wire Wire Line
 	12970 11730 11390 11730
-Wire Wire Line
-	11390 11730 11390 13980
 Wire Wire Line
 	12970 12370 11850 12370
 Wire Wire Line
@@ -303,9 +313,7 @@ Wire Wire Line
 Wire Wire Line
 	8520 5570 8520 5730
 Wire Wire Line
-	8500 1930 8500 2120
-Wire Wire Line
-	8500 2120 8470 2120
+	8470 2320 8500 2320
 Wire Notes Line
 	5970 5540 1240 5540
 Wire Wire Line
@@ -335,10 +343,6 @@ Wire Wire Line
 Wire Wire Line
 	21510 10950 21280 10950
 Wire Wire Line
-	18280 13690 18280 13300
-Wire Wire Line
-	18480 13690 18480 13200
-Wire Wire Line
 	18680 13690 18680 13100
 Wire Wire Line
 	18280 14720 18280 14190
@@ -346,12 +350,6 @@ Wire Wire Line
 	18480 14720 18480 14190
 Wire Wire Line
 	18680 14720 18680 14190
-Wire Wire Line
-	13670 13980 13670 14030
-Wire Wire Line
-	13870 13870 13870 14030
-Wire Wire Line
-	14070 13750 14070 14030
 Wire Wire Line
 	13770 14720 13770 14530
 Wire Wire Line
@@ -625,21 +623,21 @@ Wire Wire Line
 Wire Wire Line
 	7860 4380 7860 4340
 Wire Wire Line
-	7860 3940 7970 3940
+	7860 4140 7970 4140
 Wire Wire Line
 	7860 5040 7970 5040
 Wire Wire Line
-	7860 4140 7970 4140
+	7860 4840 7970 4840
 Wire Wire Line
 	7860 5930 7970 5930
 Wire Wire Line
 	7860 5730 7970 5730
 Wire Wire Line
-	6560 4140 6450 4140
+	6560 4840 6450 4840
 Wire Wire Line
 	6560 5040 6450 5040
 Wire Wire Line
-	6560 3940 6450 3940
+	6560 4140 6450 4140
 Wire Wire Line
 	6560 5930 6450 5930
 Wire Wire Line
@@ -657,7 +655,7 @@ Wire Wire Line
 Wire Wire Line
 	7950 6890 7860 6890
 Wire Wire Line
-	6560 6690 6460 6690
+	6460 6690 6560 6690
 Wire Wire Line
 	7860 6420 7860 6490
 Wire Wire Line
@@ -716,7 +714,7 @@ Wire Wire Line
 Connection ~ 7730 11820
 Connection ~ 7810 11820
 Wire Wire Line
-	8050 11820 7570 11820
+	7570 11820 8050 11820
 Connection ~ 7890 11820
 Connection ~ 8050 11260
 Wire Wire Line
@@ -725,13 +723,13 @@ Connection ~ 7730 10860
 Wire Wire Line
 	7730 11320 7730 10860
 Wire Wire Line
-	7490 11060 8180 11060
+	8180 11060 7490 11060
 Wire Wire Line
-	7490 11260 8180 11260
+	8180 11260 7490 11260
 Wire Wire Line
-	7490 10860 8180 10860
+	8180 10860 7490 10860
 Wire Wire Line
-	7490 10660 8180 10660
+	8180 10660 7490 10660
 Wire Wire Line
 	4740 4320 4740 4360
 Wire Wire Line
@@ -1186,15 +1184,15 @@ Wire Wire Line
 Connection ~ 7620 9680
 Connection ~ 7620 9170
 Wire Wire Line
-	7620 9700 7620 9670
+	7620 9670 7620 9700
 Wire Wire Line
 	6930 9170 6880 9170
 Wire Wire Line
-	6130 10170 6130 10230
+	6130 10230 6130 10170
 Wire Wire Line
 	5080 9170 5380 9170
 Wire Wire Line
-	5080 9000 5080 9200
+	5080 9200 5080 9000
 Connection ~ 5080 9170
 Wire Wire Line
 	5080 10200 5080 9600
@@ -1250,7 +1248,7 @@ Wire Wire Line
 Wire Wire Line
 	1840 1050 650  1050
 Wire Wire Line
-	2040 3030 2040 3130
+	2040 3130 2040 3030
 Wire Wire Line
 	1190 3070 1190 2890
 Connection ~ 2040 3070
@@ -1269,15 +1267,15 @@ Wire Wire Line
 	2880 3070 2880 3030
 Connection ~ 2880 3070
 Wire Wire Line
-	2790 2530 2930 2530
+	2930 2530 2790 2530
 Connection ~ 2880 2530
 Wire Wire Line
-	2850 2130 2790 2130
+	2790 2130 2850 2130
 Connection ~ 2820 2130
 Wire Wire Line
 	2840 1780 2790 1780
 Wire Wire Line
-	2160 3750 1950 3750
+	1950 3750 2160 3750
 Wire Wire Line
 	2680 3420 2630 3420
 Wire Wire Line
@@ -1736,8 +1734,6 @@ Wire Wire Line
 Wire Wire Line
 	7860 2320 7970 2320
 Wire Wire Line
-	7860 2120 7970 2120
-Wire Wire Line
 	7860 3010 7970 3010
 Wire Wire Line
 	7860 3210 7970 3210
@@ -1809,7 +1805,7 @@ Wire Wire Line
 Wire Wire Line
 	7860 7340 7860 7410
 Wire Wire Line
-	6560 7610 6460 7610
+	6460 7610 6560 7610
 Wire Wire Line
 	7950 6690 7860 6690
 Wire Wire Line
@@ -1829,9 +1825,9 @@ Wire Wire Line
 Wire Wire Line
 	18680 13100 15610 13100
 Wire Wire Line
-	18480 13200 15490 13200
+	15490 13200 18480 13200
 Wire Wire Line
-	18280 13300 15380 13300
+	15380 13300 18280 13300
 Wire Wire Line
 	2100 10070 2100 10020
 Wire Wire Line
@@ -1911,7 +1907,7 @@ Wire Wire Line
 	3840 10180 3810 10180
 Connection ~ 2370 10180
 Wire Wire Line
-	2510 10180 2340 10180
+	2340 10180 2510 10180
 Wire Wire Line
 	2370 11300 2510 11300
 Connection ~ 2370 11300
@@ -1953,17 +1949,9 @@ Wire Wire Line
 Wire Wire Line
 	13670 14530 13670 14720
 Wire Wire Line
-	13970 14030 13970 13810
-Wire Wire Line
-	13770 14030 13770 13930
-Wire Wire Line
 	18580 14190 18580 14720
 Wire Wire Line
 	18380 14190 18380 14720
-Wire Wire Line
-	18580 13150 18580 13690
-Wire Wire Line
-	18380 13250 18380 13690
 Wire Wire Line
 	20640 11100 20640 11950
 Wire Wire Line
@@ -2248,6 +2236,40 @@ Wire Wire Line
 	20400 12450 21360 12450
 Wire Wire Line
 	20240 12650 21360 12650
+Wire Wire Line
+	13770 13930 13770 13970
+Wire Wire Line
+	13970 13810 13970 13970
+Wire Wire Line
+	13670 13970 11390 13970
+Wire Wire Line
+	11390 13970 11390 11730
+Wire Wire Line
+	18280 13300 18280 13630
+Wire Wire Line
+	18480 13200 18480 13630
+Wire Wire Line
+	6440 1420 6560 1420
+Wire Wire Line
+	8500 2320 8500 2470
+$Comp
+L YC124 U137
+U 1 1 4E672AD0
+P 18430 13910
+F 0 "U137" H 18460 13720 60  0000 C CNN
+F 1 "YC124" H 18470 14090 60  0000 C CNN
+	1    18430 13910
+	1    0    0    -1  
+$EndComp
+$Comp
+L YC124 U136
+U 1 1 4E672949
+P 13820 14250
+F 0 "U136" H 13850 14060 60  0000 C CNN
+F 1 "YC124" H 13860 14430 60  0000 C CNN
+	1    13820 14250
+	1    0    0    -1  
+$EndComp
 $Comp
 L YC124 U134
 U 1 1 4E665458
@@ -2473,10 +2495,10 @@ $EndComp
 $Comp
 L R R115
 U 1 1 4E60C5E9
-P 8220 2120
-F 0 "R115" V 8180 2320 50  0000 C CNN
-F 1 "33R" V 8220 2120 50  0000 C CNN
-	1    8220 2120
+P 8220 2320
+F 0 "R115" V 8180 2520 50  0000 C CNN
+F 1 "33R" V 8220 2320 50  0000 C CNN
+	1    8220 2320
 	0    1    1    0   
 $EndComp
 $Comp
@@ -2518,82 +2540,10 @@ $EndComp
 $Comp
 L R R146
 U 1 1 4E60B46A
-P 13670 14280
-F 0 "R146" V 13640 14480 50  0000 C CNN
-F 1 "33R" V 13670 14280 50  0000 C CNN
-	1    13670 14280
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R147
-U 1 1 4E60B469
-P 13770 14280
-F 0 "R147" V 13740 14480 50  0000 C CNN
-F 1 "33R" V 13770 14280 50  0000 C CNN
-	1    13770 14280
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R148
-U 1 1 4E60B468
-P 13870 14280
-F 0 "R148" V 13840 14480 50  0000 C CNN
-F 1 "33R" V 13870 14280 50  0000 C CNN
-	1    13870 14280
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R149
-U 1 1 4E60B467
-P 13970 14280
-F 0 "R149" V 13940 14480 50  0000 C CNN
-F 1 "33R" V 13970 14280 50  0000 C CNN
-	1    13970 14280
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R150
-U 1 1 4E60B466
 P 14070 14280
-F 0 "R150" V 14040 14480 50  0000 C CNN
+F 0 "R146" V 14040 14480 50  0000 C CNN
 F 1 "33R" V 14070 14280 50  0000 C CNN
 	1    14070 14280
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R156
-U 1 1 4E60B463
-P 18280 13940
-F 0 "R156" V 18250 14140 50  0000 C CNN
-F 1 "33R" V 18280 13940 50  0000 C CNN
-	1    18280 13940
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R157
-U 1 1 4E60B462
-P 18380 13940
-F 0 "R157" V 18350 14140 50  0000 C CNN
-F 1 "33R" V 18380 13940 50  0000 C CNN
-	1    18380 13940
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R158
-U 1 1 4E60B461
-P 18480 13940
-F 0 "R158" V 18450 14140 50  0000 C CNN
-F 1 "33R" V 18480 13940 50  0000 C CNN
-	1    18480 13940
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R159
-U 1 1 4E60B460
-P 18580 13940
-F 0 "R159" V 18550 14140 50  0000 C CNN
-F 1 "33R" V 18580 13940 50  0000 C CNN
-	1    18580 13940
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -3312,18 +3262,18 @@ $EndComp
 Text Label 16560 3590 2    30   ~ 0
 CLK_20M_BUF_3
 Text Label 12890 8820 2    30   ~ 0
-CLK_20M_BUF_2
+CLK_20M_BUF_7
 Text Label 12880 3600 2    30   ~ 0
 CLK_20M_BUF_1
 Text Label 16560 3500 2    30   ~ 0
 CLK_20M_BUF_4
 Text Label 12890 8740 2    30   ~ 0
-CLK_20M_BUF_1
+CLK_20M_BUF_8
 Text Label 12880 3520 2    30   ~ 0
 CLK_20M_BUF_2
-Text Label 16560 8790 2    30   ~ 0
-CLK_20M_BUF_6
 Text Label 16560 8700 2    30   ~ 0
+CLK_20M_BUF_6
+Text Label 16560 8790 2    30   ~ 0
 CLK_20M_BUF_5
 Text Label 2370 9870 2    30   ~ 0
 CLK_20M
@@ -3465,7 +3415,7 @@ F 1 "NC7WZ17" H 7060 6390 60  0000 C CNN
 	1    7210 6790
 	1    0    0    -1  
 $EndComp
-Text Notes 8070 2400 0    60   ~ 0
+Text Notes 8070 2600 0    60   ~ 0
 \n
 $Comp
 L NC7WZ17 U128
@@ -3485,7 +3435,7 @@ F 1 "NC7WZ17" H 7060 3640 60  0000 C CNN
 	1    7210 4040
 	1    0    0    -1  
 $EndComp
-Text Label 6450 3940 2    39   ~ 0
+Text Label 6450 4140 2    39   ~ 0
 DEBUG_N
 Text Label 6450 5930 2    39   ~ 0
 TMS
@@ -3493,9 +3443,9 @@ Text Label 6450 5730 2    39   ~ 0
 TCK
 Text Label 6450 5040 2    39   ~ 0
 RST_N
-Text Label 6450 4140 2    39   ~ 0
+Text Label 6450 4840 2    39   ~ 0
 MSEL_N
-Text Label 7970 3940 0    39   ~ 0
+Text Label 7970 4140 0    39   ~ 0
 DEBUG_N_BUF_B
 Text Label 7970 5930 0    39   ~ 0
 TMS_BUF_B
@@ -3503,8 +3453,6 @@ Text Label 8520 5570 2    39   ~ 0
 TCK_BUF_B
 Text Label 7970 5040 0    39   ~ 0
 RST_N_BUF_B
-Text Label 7970 4140 0    39   ~ 0
-TRST_N_BUF_B
 $Comp
 L +3.3V #PWR067
 U 1 1 4E4BC3E5
@@ -3874,25 +3822,25 @@ F 1 "+3.3V" H 7860 1090 30  0000 C CNN
 	1    7860 980 
 	1    0    0    -1  
 $EndComp
-Text Label 7970 3010 0    39   ~ 0
+Text Label 7980 1420 0    39   ~ 0
 TRST_N_BUF_R
-Text Label 7970 1220 0    39   ~ 0
+Text Label 7970 2120 0    39   ~ 0
 RST_N_BUF_R
-Text Label 8500 1930 2    39   ~ 0
+Text Label 8500 2470 2    39   ~ 0
 TCK_BUF_R
-Text Label 7970 3210 0    39   ~ 0
+Text Label 7970 3010 0    39   ~ 0
 TMS_BUF_R
-Text Label 7970 2320 0    39   ~ 0
+Text Label 7970 1220 0    39   ~ 0
 DEBUG_N_BUF_R
-Text Label 6450 3010 2    39   ~ 0
+Text Label 6440 1420 2    39   ~ 0
 MSEL_N
-Text Label 6450 1220 2    39   ~ 0
-RST_N
 Text Label 6450 2120 2    39   ~ 0
-TCK
-Text Label 6450 3210 2    39   ~ 0
-TMS
+RST_N
 Text Label 6450 2320 2    39   ~ 0
+TCK
+Text Label 6450 3010 2    39   ~ 0
+TMS
+Text Label 6450 1220 2    39   ~ 0
 DEBUG_N
 $Comp
 L NC7WZ17 U120
