@@ -1,0 +1,31 @@
+Drill report for C:\Users\Jake\l2_dev_board\l2_dev_alternative _nopwrsense\l2_dev_board.brd
+Created on 12/09/2011 16:32:33
+Selected Drill Unit: Metric (mm)
+
+Drill report for through holes :
+T1  0.30mm  0.012"  (925 holes)
+T2  0.45mm  0.018"  (75 holes)
+T3  0.75mm  0.030"  (39 holes)
+T4  0.81mm  0.032"  (7 holes)
+T5  0.85mm  0.034"  (15 holes)
+
+total holes count 1061
+
+
+Drill report for buried and blind vias :
+
+Drill report for holes from layer Back to layer PWR
+
+total holes count 0
+
+
+Drill report for holes from layer PWR to layer GND
+
+total holes count 0
+
+
+Drill report for holes from layer GND to layer Front
+
+total holes count 0
+
+

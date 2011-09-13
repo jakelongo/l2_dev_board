@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Network xmlns="http://www.xmos.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xmos.com http://www.xmos.com">
+	<Declarations>
+		<Declaration>
+			core stdcore[64]
+		</Declaration>
+	</Declarations>
+	<Package Oscillator="20Mhz" Package ID="0" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="0" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[0]"/>
+			</Node>
+			<Node Id="1" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[1]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="1" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="2" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[2]"/>
+			</Node>
+			<Node Id="3" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[3]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="2" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="4" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[4]"/>
+			</Node>
+			<Node Id="5" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[5]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="3" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="6" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[6]"/>
+			</Node>
+			<Node Id="7" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[7]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="4" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="8" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[8]"/>
+			</Node>
+			<Node Id="9" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[9]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="5" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="10" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[10]"/>
+			</Node>
+			<Node Id="11" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[11]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="6" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="12" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[12]"/>
+			</Node>
+			<Node Id="13" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[13]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="7" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="14" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[14]"/>
+			</Node>
+			<Node Id="15" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[15]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="8" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="16" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[16]"/>
+			</Node>
+			<Node Id="17" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[17]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="9" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="18" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[18]"/>
+			</Node>
+			<Node Id="19" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[19]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="10" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="20" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[20]"/>
+			</Node>
+			<Node Id="21" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[21]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="11" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="22" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[22]"/>
+			</Node>
+			<Node Id="23" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[23]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="12" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="24" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[24]"/>
+			</Node>
+			<Node Id="25" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[25]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="13" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="26" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[26]"/>
+			</Node>
+			<Node Id="27" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[27]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="14" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="28" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[28]"/>
+			</Node>
+			<Node Id="29" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[29]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="15" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="30" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[30]"/>
+			</Node>
+			<Node Id="31" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[31]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="16" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="32" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[32]"/>
+			</Node>
+			<Node Id="33" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[33]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="17" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="34" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[34]"/>
+			</Node>
+			<Node Id="35" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[35]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="18" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="36" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[36]"/>
+			</Node>
+			<Node Id="37" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[37]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="19" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="38" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[38]"/>
+			</Node>
+			<Node Id="39" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[39]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="20" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="40" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[40]"/>
+			</Node>
+			<Node Id="41" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[41]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="21" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="42" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[42]"/>
+			</Node>
+			<Node Id="43" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[43]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="22" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="44" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[44]"/>
+			</Node>
+			<Node Id="45" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[45]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="23" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="46" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[46]"/>
+			</Node>
+			<Node Id="47" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[47]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="24" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="48" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[48]"/>
+			</Node>
+			<Node Id="49" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[49]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="25" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="50" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[50]"/>
+			</Node>
+			<Node Id="51" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[51]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="26" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="52" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[52]"/>
+			</Node>
+			<Node Id="53" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[53]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="27" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="54" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[54]"/>
+			</Node>
+			<Node Id="55" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[55]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="28" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="56" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[56]"/>
+			</Node>
+			<Node Id="57" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[57]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="29" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="58" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[58]"/>
+			</Node>
+			<Node Id="59" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[59]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="30" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="60" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[60]"/>
+			</Node>
+			<Node Id="61" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[61]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Package Oscillator="20Mhz" Package ID="31" Type="XS1-L2A-QF124">
+		<Nodes>
+			<Node Id="62" InPackageId="0" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[62]"/>
+			</Node>
+			<Node Id="63" InPackageId="1" Type="XS1-L1A">
+				<Core Number="0" Reference="stdcore[63]">
+					<Port Location="XS1_PORT_4F" Name="PORT_LED"/>
+				</Core>
+			</Node>
+		</Nodes>
+	</Package>
+	<Links>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="0"/>
+			<LinkEndpoint Link="XLF" NodeId="1"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="0"/>
+			<LinkEndpoint Link="XLE" NodeId="1"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="0"/>
+			<LinkEndpoint Link="XLH" NodeId="1"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="0"/>
+			<LinkEndpoint Link="XLG" NodeId="1"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="2"/>
+			<LinkEndpoint Link="XLF" NodeId="3"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="2"/>
+			<LinkEndpoint Link="XLE" NodeId="3"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="2"/>
+			<LinkEndpoint Link="XLH" NodeId="3"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="2"/>
+			<LinkEndpoint Link="XLG" NodeId="3"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="4"/>
+			<LinkEndpoint Link="XLF" NodeId="5"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="4"/>
+			<LinkEndpoint Link="XLE" NodeId="5"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="4"/>
+			<LinkEndpoint Link="XLH" NodeId="5"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="4"/>
+			<LinkEndpoint Link="XLG" NodeId="5"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="6"/>
+			<LinkEndpoint Link="XLF" NodeId="7"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="6"/>
+			<LinkEndpoint Link="XLE" NodeId="7"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="6"/>
+			<LinkEndpoint Link="XLH" NodeId="7"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="6"/>
+			<LinkEndpoint Link="XLG" NodeId="7"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="8"/>
+			<LinkEndpoint Link="XLF" NodeId="9"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="8"/>
+			<LinkEndpoint Link="XLE" NodeId="9"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="8"/>
+			<LinkEndpoint Link="XLH" NodeId="9"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="8"/>
+			<LinkEndpoint Link="XLG" NodeId="9"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="10"/>
+			<LinkEndpoint Link="XLF" NodeId="11"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="10"/>
+			<LinkEndpoint Link="XLE" NodeId="11"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="10"/>
+			<LinkEndpoint Link="XLH" NodeId="11"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="10"/>
+			<LinkEndpoint Link="XLG" NodeId="11"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="12"/>
+			<LinkEndpoint Link="XLF" NodeId="13"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="12"/>
+			<LinkEndpoint Link="XLE" NodeId="13"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="12"/>
+			<LinkEndpoint Link="XLH" NodeId="13"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="12"/>
+			<LinkEndpoint Link="XLG" NodeId="13"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="14"/>
+			<LinkEndpoint Link="XLF" NodeId="15"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="14"/>
+			<LinkEndpoint Link="XLE" NodeId="15"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="14"/>
+			<LinkEndpoint Link="XLH" NodeId="15"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="14"/>
+			<LinkEndpoint Link="XLG" NodeId="15"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="16"/>
+			<LinkEndpoint Link="XLF" NodeId="17"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="16"/>
+			<LinkEndpoint Link="XLE" NodeId="17"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="16"/>
+			<LinkEndpoint Link="XLH" NodeId="17"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="16"/>
+			<LinkEndpoint Link="XLG" NodeId="17"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="18"/>
+			<LinkEndpoint Link="XLF" NodeId="19"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="18"/>
+			<LinkEndpoint Link="XLE" NodeId="19"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="18"/>
+			<LinkEndpoint Link="XLH" NodeId="19"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="18"/>
+			<LinkEndpoint Link="XLG" NodeId="19"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="20"/>
+			<LinkEndpoint Link="XLF" NodeId="21"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="20"/>
+			<LinkEndpoint Link="XLE" NodeId="21"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="20"/>
+			<LinkEndpoint Link="XLH" NodeId="21"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="20"/>
+			<LinkEndpoint Link="XLG" NodeId="21"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="22"/>
+			<LinkEndpoint Link="XLF" NodeId="23"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="22"/>
+			<LinkEndpoint Link="XLE" NodeId="23"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="22"/>
+			<LinkEndpoint Link="XLH" NodeId="23"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="22"/>
+			<LinkEndpoint Link="XLG" NodeId="23"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="24"/>
+			<LinkEndpoint Link="XLF" NodeId="25"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="24"/>
+			<LinkEndpoint Link="XLE" NodeId="25"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="24"/>
+			<LinkEndpoint Link="XLH" NodeId="25"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="24"/>
+			<LinkEndpoint Link="XLG" NodeId="25"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="26"/>
+			<LinkEndpoint Link="XLF" NodeId="27"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="26"/>
+			<LinkEndpoint Link="XLE" NodeId="27"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="26"/>
+			<LinkEndpoint Link="XLH" NodeId="27"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="26"/>
+			<LinkEndpoint Link="XLG" NodeId="27"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="28"/>
+			<LinkEndpoint Link="XLF" NodeId="29"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="28"/>
+			<LinkEndpoint Link="XLE" NodeId="29"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="28"/>
+			<LinkEndpoint Link="XLH" NodeId="29"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="28"/>
+			<LinkEndpoint Link="XLG" NodeId="29"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="30"/>
+			<LinkEndpoint Link="XLF" NodeId="31"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="30"/>
+			<LinkEndpoint Link="XLE" NodeId="31"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="30"/>
+			<LinkEndpoint Link="XLH" NodeId="31"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="30"/>
+			<LinkEndpoint Link="XLG" NodeId="31"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="32"/>
+			<LinkEndpoint Link="XLF" NodeId="33"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="32"/>
+			<LinkEndpoint Link="XLE" NodeId="33"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="32"/>
+			<LinkEndpoint Link="XLH" NodeId="33"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="32"/>
+			<LinkEndpoint Link="XLG" NodeId="33"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="34"/>
+			<LinkEndpoint Link="XLF" NodeId="35"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="34"/>
+			<LinkEndpoint Link="XLE" NodeId="35"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="34"/>
+			<LinkEndpoint Link="XLH" NodeId="35"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="34"/>
+			<LinkEndpoint Link="XLG" NodeId="35"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="36"/>
+			<LinkEndpoint Link="XLF" NodeId="37"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="36"/>
+			<LinkEndpoint Link="XLE" NodeId="37"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="36"/>
+			<LinkEndpoint Link="XLH" NodeId="37"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="36"/>
+			<LinkEndpoint Link="XLG" NodeId="37"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="38"/>
+			<LinkEndpoint Link="XLF" NodeId="39"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="38"/>
+			<LinkEndpoint Link="XLE" NodeId="39"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="38"/>
+			<LinkEndpoint Link="XLH" NodeId="39"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="38"/>
+			<LinkEndpoint Link="XLG" NodeId="39"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="40"/>
+			<LinkEndpoint Link="XLF" NodeId="41"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="40"/>
+			<LinkEndpoint Link="XLE" NodeId="41"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="40"/>
+			<LinkEndpoint Link="XLH" NodeId="41"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="40"/>
+			<LinkEndpoint Link="XLG" NodeId="41"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="42"/>
+			<LinkEndpoint Link="XLF" NodeId="43"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="42"/>
+			<LinkEndpoint Link="XLE" NodeId="43"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="42"/>
+			<LinkEndpoint Link="XLH" NodeId="43"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="42"/>
+			<LinkEndpoint Link="XLG" NodeId="43"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="44"/>
+			<LinkEndpoint Link="XLF" NodeId="45"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="44"/>
+			<LinkEndpoint Link="XLE" NodeId="45"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="44"/>
+			<LinkEndpoint Link="XLH" NodeId="45"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="44"/>
+			<LinkEndpoint Link="XLG" NodeId="45"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="46"/>
+			<LinkEndpoint Link="XLF" NodeId="47"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="46"/>
+			<LinkEndpoint Link="XLE" NodeId="47"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="46"/>
+			<LinkEndpoint Link="XLH" NodeId="47"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="46"/>
+			<LinkEndpoint Link="XLG" NodeId="47"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="48"/>
+			<LinkEndpoint Link="XLF" NodeId="49"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="48"/>
+			<LinkEndpoint Link="XLE" NodeId="49"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="48"/>
+			<LinkEndpoint Link="XLH" NodeId="49"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="48"/>
+			<LinkEndpoint Link="XLG" NodeId="49"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="50"/>
+			<LinkEndpoint Link="XLF" NodeId="51"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="50"/>
+			<LinkEndpoint Link="XLE" NodeId="51"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="50"/>
+			<LinkEndpoint Link="XLH" NodeId="51"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="50"/>
+			<LinkEndpoint Link="XLG" NodeId="51"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="52"/>
+			<LinkEndpoint Link="XLF" NodeId="53"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="52"/>
+			<LinkEndpoint Link="XLE" NodeId="53"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="52"/>
+			<LinkEndpoint Link="XLH" NodeId="53"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="52"/>
+			<LinkEndpoint Link="XLG" NodeId="53"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="54"/>
+			<LinkEndpoint Link="XLF" NodeId="55"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="54"/>
+			<LinkEndpoint Link="XLE" NodeId="55"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="54"/>
+			<LinkEndpoint Link="XLH" NodeId="55"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="54"/>
+			<LinkEndpoint Link="XLG" NodeId="55"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="56"/>
+			<LinkEndpoint Link="XLF" NodeId="57"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="56"/>
+			<LinkEndpoint Link="XLE" NodeId="57"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="56"/>
+			<LinkEndpoint Link="XLH" NodeId="57"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="56"/>
+			<LinkEndpoint Link="XLG" NodeId="57"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="58"/>
+			<LinkEndpoint Link="XLF" NodeId="59"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="58"/>
+			<LinkEndpoint Link="XLE" NodeId="59"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="58"/>
+			<LinkEndpoint Link="XLH" NodeId="59"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="58"/>
+			<LinkEndpoint Link="XLG" NodeId="59"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="60"/>
+			<LinkEndpoint Link="XLF" NodeId="61"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="60"/>
+			<LinkEndpoint Link="XLE" NodeId="61"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="60"/>
+			<LinkEndpoint Link="XLH" NodeId="61"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="60"/>
+			<LinkEndpoint Link="XLG" NodeId="61"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLG" NodeId="62"/>
+			<LinkEndpoint Link="XLF" NodeId="63"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLH" NodeId="62"/>
+			<LinkEndpoint Link="XLE" NodeId="63"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLE" NodeId="62"/>
+			<LinkEndpoint Link="XLH" NodeId="63"/>
+		</Link>
+		<Link Delays="0,1" Encoding="5wire">
+			<LinkEndpoint Link="XLF" NodeId="62"/>
+			<LinkEndpoint Link="XLG" NodeId="63"/>
+		</Link>
+	</Links>
+</Network>
