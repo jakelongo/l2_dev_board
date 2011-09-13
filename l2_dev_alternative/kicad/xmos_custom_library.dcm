@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 23/08/2011 10:10:54
+EESchema-DOCLIB  Version 2.0  Date: 09/09/2011 10:39:00
 #
 $CMP +1V0
 D +1V0
@@ -112,6 +112,12 @@ K NCP303
 F C:/Users/Jake/Downloads/xmos/NCP302-D.PDF
 $ENDCMP
 #
+$CMP PJ-044BH
+D PJ-044BH 16V 5A 2.5mm x 6.5mm VERT
+K POWER CONNECTOR
+F C:/Users/Jake/Downloads/xmos/CUI_PJ-044BH_Datasheet.pdf
+$ENDCMP
+#
 $CMP SN74CBTD3861
 D 10-BIT FET BUS SWITCH WITH LEVEL SHIFTING
 K SN74CBTD3861
@@ -128,6 +134,12 @@ $CMP XS1_L2-QFN124
 D XS1_L2-QFN124
 K XS1_L2
 F C:/Users/Jake/Downloads/xmos/XS1-L2-124QFN-Datasheet(X1466H).pdf
+$ENDCMP
+#
+$CMP YC124
+D 33R RESISTOR ARRAY
+K YC124-JR
+F C:/Users/Jake/Downloads/xmos/YC124-JR-33R.pdf
 $ENDCMP
 #
 #End Doc Library

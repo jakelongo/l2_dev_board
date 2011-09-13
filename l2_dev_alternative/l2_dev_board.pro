@@ -1,13 +1,18 @@
-update=26/08/2011 12:00:41
+update=09/09/2011 12:05:30
 version=1
 last_client=eeschema
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [pcbnew]
 version=1
 PadDrlX=0
-PadDimH=748
-PadDimV=630
+PadDimH=177
+PadDimV=138
 BoardThickness=630
 TxtPcbV=800
 TxtPcbH=600
@@ -18,9 +23,10 @@ VEgarde=100
 DrawLar=150
 EdgeLar=150
 TxtLar=120
-MSegLar=59
+MSegLar=20
 LastNetListRead=l2_dev_board.net
 [pcbnew/libraries]
+LibDir=C:/Users/Jake/l2_dev_board/l2_dev_clean/kicad/footprints
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -31,13 +37,7 @@ LibName7=display
 LibName8=valves
 LibName9=led
 LibName10=dip_sockets
-LibName11=xmos_custom_footprints
-LibDir=C:/Users/Jake/l2_dev_board/l2_dev_clean/kicad/footprints
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+LibName11=kicad/footprints/xmos_custom_footprints
 [eeschema]
 version=1
 LibDir=
