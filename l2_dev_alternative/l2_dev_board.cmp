@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 14/09/2011 15:12:15
+Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 15/09/2011 11:20:32
 
 BeginCmp
 TimeStamp = /4E3544FC;
@@ -1289,6 +1289,13 @@ IdModule  = SIL-7;
 EndCmp
 
 BeginCmp
+TimeStamp = /4E6F0425/4E71D131;
+Reference = P201;
+ValeurCmp = CONN_7;
+IdModule  = SIL-7;
+EndCmp
+
+BeginCmp
 TimeStamp = /4E3544FE;
 Reference = R101;
 ValeurCmp = 16.2k;
@@ -1781,6 +1788,20 @@ EndCmp
 BeginCmp
 TimeStamp = /4E6F0425/4E6F598D;
 Reference = R224;
+ValeurCmp = 33R;
+IdModule  = X-SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6F0425/4E71C942;
+Reference = R225;
+ValeurCmp = 33R;
+IdModule  = X-SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6F0425/4E71C8D2;
+Reference = R226;
 ValeurCmp = 33R;
 IdModule  = X-SM0603;
 EndCmp

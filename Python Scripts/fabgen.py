@@ -242,9 +242,8 @@ def writereadme(boardname, revision):
         
 
 if __name__ == '__main__':
-#    boardname = raw_input('Enter the name of the board\n')
-    boardname = 'XMP16'
-    revision = '01'
+    boardname = raw_input('Enter the name of the board\n')
+    revision = raw_input('Enter the revision of the board\n')
     setupdir(boardname)
     setupreadme(boardname, revision)
     setupgerber(boardname, revision)
