@@ -4,8 +4,6 @@ README.txt
 Additional information relating to the build of XMP16-01
 
 Contact: Jake Longo
-Tel(UK) : 07510709598
-Email   : longo.90@gmail.com
 Address : XMOS Limited
 Venturers House
 King Street
