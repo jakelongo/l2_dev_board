@@ -22,8 +22,8 @@ def setupreadme(boardname, revision):
     file.write('Additional information relating to the build of '+filename+'\n\n')
 
     file.write("Contact: Jake Longo\n")
-    file.write("Tel(UK) : 07510709598\n")
-    file.write("Email   : longo.90@gmail.com\n")
+    file.write("Tel(UK) : --\n")
+    file.write("Email   : --\n")
     file.write("Address : XMOS Limited\n")
     file.write("Venturers House\n")
     file.write("King Street\n")
